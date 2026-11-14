@@ -1,0 +1,23 @@
+{
+  "n": 22,
+  "statuses": {
+    "answered": 6,
+    "abstain": 16,
+    "error": 0
+  },
+  "avg_searches": 3.09,
+  "median_ms": 4707.35,
+  "p95_ms": 5473.59,
+  "total_seconds": 95.3,
+  "agent_llm_tokens": 70729,
+  "agent_cost_usd": 0.03256,
+  "retrieval_extra_cost_usd": 2.7e-05,
+  "total_estimated_cost_usd": 0.032586,
+  "split": "dev",
+  "mode": "baseline",
+  "model": "gpt-4.1-mini",
+  "embed_tokens": 1325,
+  "embed_cost_usd": 2.7e-05,
+  "rerank_tokens": 0,
+  "rerank_cost_usd": 0.0
+}

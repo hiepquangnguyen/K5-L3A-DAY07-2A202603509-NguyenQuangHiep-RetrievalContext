@@ -1,0 +1,15 @@
+{
+  "page": 55,
+  "page_title": "KẾ HOẠCH NĂM 2026",
+  "content_types": [
+    "text",
+    "table",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày kế hoạch năm 2026 của FPT với các mục tiêu chủ yếu về doanh thu và lợi nhuận trước thuế, kèm theo biểu đồ cột so sánh giữa năm 2025 và 2026 cho hai khối: Khối Công nghệ và Khối Giáo dục, Đầu tư và Khác. Bên dưới là bảng kế hoạch đầu tư dự kiến với các khối, ngân sách đầu tư và chú thích chi tiết. Biểu đồ doanh thu và lợi nhuận có màu xanh đậm cho năm 2026 và màu xanh nhạt cho năm 2025, có mũi tên tăng giảm phần trăm màu xanh lá và cam thể hiện sự thay đổi so với cùng kỳ. Bảng đầu tư có 3 dòng: Khối Công nghệ, Khối Giáo dục, Đầu tư và Khác, Tổng cộng.",
+  "charts_and_tables": "{'charts': [{'type': 'bar', 'title': 'Doanh thu', 'unit': 'Tỷ VNĐ', 'data': {'Khối Công nghệ': {'2025': 44475, '2026': 52650, 'change_percent': 18.4}, 'Khối Giáo dục, Đầu tư và Khác': {'2025': 6132, '2026': 5930, 'change_percent': -3.3}}, 'total_2026': 58580, 'total_change_percent': 15.8}, {'type': 'bar', 'title': 'Lợi nhuận trước thuế', 'unit': 'Tỷ VNĐ', 'data': {'Khối Công nghệ': {'2025': 5907, '2026': 7350, 'change_percent': 24.4}, 'Khối Giáo dục, Đầu tư và Khác': {'2025': 4206, '2026': 4279, 'change_percent': 1.7}}, 'total_2026': 11629, 'total_change_percent': 15.0}], 'tables': [{'title': 'Kế hoạch đầu tư dự kiến', 'unit': 'Tỷ VNĐ', 'columns': ['Khối', 'Ngân sách đầu tư', 'Chú thích'], 'rows': [{'Khối': 'Khối Công nghệ', 'Ngân sách đầu tư': 4200, 'Chú thích': 'Đầu tư mở rộng các khu tổ hợp văn phòng tại các thành phố lớn như: Hà Nội, Tp.Hồ Chí Minh, Bình Định.'}, {'Khối': 'Khối Giáo dục, Đầu tư và Khác', 'Ngân sách đầu tư': 3000, 'Chú thích': 'Đầu tư mở rộng các khuôn viên Đại học tại Hà Nội, Tp.Hồ Chí Minh và Đà Nẵng, đồng thời mở rộng thêm cơ sở đào tạo mới tại các tỉnh, thành trên toàn quốc.'}, {'Khối': 'Tổng cộng', 'Ngân sách đầu tư': 7200, 'Chú thích': ''}]}]}",
+  "prompt_tokens": 4331,
+  "completion_tokens": 778,
+  "cost_usd": 0.002977,
+  "error": null
+}

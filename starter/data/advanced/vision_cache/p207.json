@@ -1,0 +1,14 @@
+{
+  "page": 207,
+  "page_title": "24. Tình hình tăng giảm nguồn vốn chủ sở hữu (Tiếp theo)",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày phần thuyết minh báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025. Trang có logo FPT và mục lục bên trái. Nội dung chính gồm tiêu đề phần 24, bảng số liệu về vốn góp và các khoản liên quan của cổ đông không kiểm soát tại các công ty con, cùng bảng biến động lợi ích cổ đông không kiểm soát năm 2025 và 2024. Phần văn bản giải thích chi tiết các nghị quyết đại hội đồng cổ đông và hội đồng quản trị liên quan đến phát hành cổ phiếu, tăng vốn, chia cổ tức, trích quỹ khen thưởng, phúc lợi. Không có biểu đồ hay hình ảnh minh họa khác.",
+  "charts_and_tables": "Bảng 1: Cơ cấu vốn cổ đông không kiểm soát (Đơn vị: VNĐ)\n| Khoản mục                         | Vốn góp           | Thặng dư vốn cổ phần | Vốn khác của chủ sở hữu | Chênh lệch tỷ giá hối đoái | Quỹ đầu tư phát triển | Quỹ khác thuộc vốn chủ sở hữu | LNST chưa phân phối | Tổng cộng          |\n|----------------------------------|-------------------|---------------------|-------------------------|----------------------------|-----------------------|------------------------------|---------------------|--------------------|\n| Tại ngày 31/12/2024              | 2.792.973.085.293 | 122.415.334.866     | 30.113.842.695          | 6.066.292.299              | 1.153.220.275.158     | -                            | 1.828.520.790.693   | 5.933.309.621.004  |\n| Tại ngày 31/12/2025              | 5.248.044.273.002 | 122.415.334.866     | 30.113.833.045          | (71.701.140.381)           | 315.538.546.255       | 8.320.427.997                | 1.612.365.527.983   | 7.265.096.802.767  |\n\nBảng 2: Biến động về lợi ích cổ đông không kiểm soát trong năm tài chính (Đơn vị: VNĐ)\n| Khoản mục                  | 2025              | 2024              |\n|---------------------------|-------------------|-------------------|\n| Số dư đầu năm             | 5.933.309.621.004 | 4.958.854.855.687 |\n| Tăng vốn trong năm (iv)   | 1.119.017.757.220 | 57.131.819.874    |\n| Lợi nhuận thuần trong năm | 1.856.211.821.233 | 1.570.654.718.266 |\n| Trích lập quỹ khen thưởng, phúc lợi | (194.482.425.402) | (156.081.719.685) |\n| Chia cổ tức bằng tiền     | (1.392.147.355.000)| (553.843.649.346) |\n| Khác                      | (56.812.616.288)  | 56.593.596.208    |\n| Số dư cuối năm            | 7.265.096.802.767 | 5.933.309.621.004 |\n\nVăn bản giải thích chi tiết các nghị quyết đại hội đồng cổ đông và hội đồng quản trị về phát hành cổ phiếu cho cán bộ nhân viên và cán bộ lãnh đạo cấp cao, tăng vốn từ nguồn vốn chủ sở hữu cho cổ đông hiện hữu, chia cổ tức bằng tiền, trích quỹ khen thưởng, phúc lợi, và các hoạt động tăng vốn khác trong năm 2025.",
+  "prompt_tokens": 4317,
+  "completion_tokens": 887,
+  "cost_usd": 0.003146,
+  "error": null
+}

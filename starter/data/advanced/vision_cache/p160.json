@@ -1,0 +1,13 @@
+{
+  "page": 160,
+  "page_title": "BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang có bố cục chia làm 2 phần chính: bên trái là thanh menu dọc với logo FPT và các mục nội dung chính của báo cáo thường niên 2025, đánh số từ 01 đến 08, mục 08 được tô màu xanh nhạt và đánh dấu màu cam. Bên phải là tiêu đề lớn màu xanh dương 'BÁO CÁO TÀI CHÍNH HỢP NHẤT' và phụ đề đen 'CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025'. Dưới đó là bảng mục lục nhỏ gồm 2 cột: 'Nội dung' và 'Trang', liệt kê các phần của báo cáo tài chính hợp nhất với số trang tương ứng. Trang được đánh số 159 ở góc dưới bên trái, có mũi tên điều hướng sang trang trước và sau.",
+  "charts_and_tables": "Nội dung bảng mục lục:\n| Nội dung                                                        | Trang |\n|----------------------------------------------------------------|-------|\n| Thông tin về doanh nghiệp                                       | 160   |\n| Báo cáo của Ban Tổng Giám đốc                                   | 161   |\n| Báo cáo kiểm toán độc lập                                       | 162   |\n| Bảng cân đối kế toán hợp nhất (Mẫu số B 01 – DN/HN)             | 164   |\n| Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 – DN/HN) | 168   |\n| Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 – DN/HN)      | 170   |\n| Thuyết minh báo cáo tài chính hợp nhất (Mẫu số B 09 – DN/HN)   | 172   |",
+  "prompt_tokens": 4376,
+  "completion_tokens": 471,
+  "cost_usd": 0.002504,
+  "error": null
+}

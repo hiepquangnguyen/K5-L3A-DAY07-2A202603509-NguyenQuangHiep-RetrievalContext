@@ -1,0 +1,14 @@
+{
+  "page": 58,
+  "page_title": "Kết quả kinh doanh (Tiếp theo)",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' ở góc trên bên trái. Bên trái là mục lục phần 05 'PHÂN TÍCH HOẠT ĐỘNG KINH DOANH' với các mục con. Phần chính trang là đoạn văn bản chi tiết về kết quả kinh doanh lĩnh vực dịch vụ CNTT cho thị trường nước ngoài, nhấn mạnh tăng trưởng và các yếu tố thúc đẩy như chuyển đổi số, AI, hợp đồng quy mô lớn. Bên phải là bảng số liệu với tiêu đề 'Một số chỉ tiêu hoạt động kinh doanh chính trong năm 2025', đơn vị tỷ VNĐ, gồm các chỉ tiêu tài chính chính năm 2024, 2025 và tỷ lệ tăng/giảm. Bảng có 9 dòng chỉ tiêu tài chính. Không có biểu đồ hay hình ảnh minh họa khác.",
+  "charts_and_tables": "Loại bảng: Bảng số liệu tài chính\nTiêu đề bảng: Một số chỉ tiêu hoạt động kinh doanh chính trong năm 2025\nĐơn vị: Tỷ VNĐ\n\n| Chỉ tiêu                             | 2024    | 2025    | Tăng/Giảm |\n|------------------------------------|---------|---------|-----------|\n| Tổng tài sản                       | 72.000  | 88.142  | 22,4%     |\n| Doanh thu                         | 62.849  | 70.113  | 11,6%     |\n| Lợi nhuận từ hoạt động kinh doanh | 11.025  | 12.952  | 17,5%     |\n| LNTT, lãi vay và khấu hao (EBITDA) | 13.605  | 15.958  | 17,3%     |\n| LNTT                              | 11.070  | 13.044  | 17,8%     |\n| LNST                              | 9.427   | 11.232  | 19,1%     |\n| Lãi cơ bản trên cổ phiếu (*)       | 4.292   | 5.216   | 21,5%     |\n| Cổ tức tiền mặt trả trong năm     | 2.741   | 3.185   | 16,2%     |\n| Tỷ lệ lợi nhuận trả cổ tức         | 34,9%   | 34,0%   | -90 bps   |\n\n(*) Riêng Lãi cơ bản trên cổ phiếu đơn vị là: VNĐ",
+  "prompt_tokens": 4300,
+  "completion_tokens": 622,
+  "cost_usd": 0.002715,
+  "error": null
+}

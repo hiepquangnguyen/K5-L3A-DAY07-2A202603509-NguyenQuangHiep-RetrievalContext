@@ -1,0 +1,14 @@
+{
+  "page": 106,
+  "page_title": "Báo cáo của Hội đồng Quản trị (HĐQT) năm 2025",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm 2 phần chính: bên trái là mục lục phần 06 QUẢN TRỊ CÔNG TY với các mục nhỏ liên quan đến quản trị công ty năm 2025, báo cáo HĐQT và báo cáo Ban Kiểm soát. Bên phải là bảng tóm tắt các phiên họp HĐQT với 3 cột: Phiên họp, Số thành viên tham dự, Nội dung họp. Dưới bảng là ảnh minh họa bóng người họp trong phòng họp hiện đại với cửa kính lớn nhìn ra thành phố về đêm. Mục lục bên trái có logo FPT và dòng chữ LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC BÁO CÁO THƯỜNG NIÊN 2025.",
+  "charts_and_tables": "Bảng tóm tắt các phiên họp HĐQT:\n\n| Phiên họp | Số thành viên tham dự | Nội dung họp |\n|-----------|------------------------|--------------|\n| Phiên 04 24/07/2025 | 03/03 | - Xem xét và thảo luận về số liệu tài chính quý II năm 2025 và báo cáo dự kiến 6 tháng cuối năm 2025 do Ban Điều hành gửi phục vụ nội dung cuộc họp HĐQT ngày 29/07/2025;\n- Xem xét Báo cáo Kết quả kinh doanh 06 tháng đầu năm 2025 của Tập đoàn;\n- Xem xét phương án tạm ứng cổ tức 2025 đợt 01 bằng tiền mặt theo Nghị quyết ĐHĐCĐ thường niên 2025 đã thông qua;\n- Xem xét đánh giá một số tác động của thị trường tài chính, bối cảnh kinh tế thế giới và trong khu vực làm ảnh hưởng tới hoạt động công ty năm 2025. |\n| Phiên 05 11/11/2025 | 03/03 | - Xem xét số liệu tài chính quý III năm 2025 do Ban Điều hành gửi phục vụ nội dung họp HĐQT ngày 13/11/2025;\n- Xem xét Báo cáo Kết quả kinh doanh 09 tháng đầu năm 2025, đánh giá mức độ hoàn thành kế hoạch cả năm 2025 của Tập đoàn và công ty thành viên;\n- Kiểm tra báo cáo kết quả chia cổ tức đợt 01 năm 2025 (bằng tiền mặt 10%);\n- Lên kế hoạch kiểm soát định kỳ công nợ quá hạn và hàng tồn kho quá hạn trong năm.",
+  "prompt_tokens": 4323,
+  "completion_tokens": 615,
+  "cost_usd": 0.002713,
+  "error": null
+}

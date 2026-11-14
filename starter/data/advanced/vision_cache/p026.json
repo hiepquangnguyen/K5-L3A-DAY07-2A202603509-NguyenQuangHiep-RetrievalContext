@@ -1,0 +1,14 @@
+{
+  "page": 26,
+  "page_title": "Viễn thông và Giáo dục",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang gồm hai phần nội dung chính: bên trái là phần Viễn thông với hình ảnh một hành lang trung tâm dữ liệu có các tủ máy chủ màu đen và hệ thống ống dẫn màu cam trên trần, có một người mặc đồng phục đi bộ trong hành lang. Bên phải là phần Giáo dục với hình ảnh hai sinh viên mặc áo đồng phục màu cam, cầm sách và cười, đứng ngoài trời gần tòa nhà có cây xanh và hoa. Bố cục trang chia làm hai cột, phần Viễn thông bên trái, phần Giáo dục bên phải.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4299,
+  "completion_tokens": 164,
+  "cost_usd": 0.001982,
+  "error": null
+}

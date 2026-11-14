@@ -1,0 +1,13 @@
+{
+  "page": 229,
+  "page_title": "Địa chỉ và thông tin liên hệ các văn phòng FPT tại các quốc gia",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày danh sách các văn phòng và trung tâm giao hàng toàn cầu của FPT tại nhiều quốc gia, bao gồm Malaysia, Trung Quốc, Các Tiểu Vương quốc Ả Rập Thống nhất, Hồng Kông, Hàn Quốc, Philippines, Singapore, Thái Lan, Đài Loan, Ấn Độ, Indonesia, và Ả Rập Saudi. Mỗi mục gồm tên quốc gia, tên văn phòng hoặc trung tâm, địa chỉ chi tiết, số điện thoại và email liên hệ. Bố cục trang chia làm ba cột, chữ màu xanh đậm dùng cho tên quốc gia và tên văn phòng, chữ đen cho địa chỉ và thông tin liên hệ. Trang có logo FPT và mục lục bên trái với các phần của báo cáo thường niên.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4405,
+  "completion_tokens": 215,
+  "cost_usd": 0.002106,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 11,
+  "page_title": "Đảm bảo tăng trưởng ổn định (Tiếp theo)",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày các biểu đồ thanh và biểu đồ đường thể hiện các chỉ số tài chính chính của FPT từ năm 2021 đến 2025. Có 3 phần chính: Cổ tức bằng tiền mặt, Đóng góp Ngân sách Nhà nước, và Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) cùng Tỷ suất sinh lời trên tổng tài sản (ROA). Mỗi phần có biểu đồ thanh hoặc biểu đồ đường với các giá trị theo từng năm, kèm theo số liệu cụ thể và tỷ lệ tăng trưởng so với cùng kỳ được biểu thị bằng mũi tên màu xanh lá. Bên trái trang có mục lục các phần của báo cáo thường niên với phần đang xem là mục 02 DẤU ẤN 2025.",
+  "charts_and_tables": "1. Cổ tức bằng tiền mặt (Đơn vị: Tỷ VNĐ)\nNăm: 2021, 2022, 2023, 2024, 2025\nGiá trị: 1.697, 2.011, 2.374, 2.741, 3.185\nTăng trưởng so với cùng kỳ: 16,2%\n\n2. Đóng góp Ngân sách Nhà nước (Đơn vị: Tỷ VNĐ)\nNăm: 2021, 2022, 2023, 2024, 2025\nGiá trị: 5.750, 7.112, 8.167, 10.117, 11.078\nTăng trưởng so với cùng kỳ: 9,5%\n\n3. Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) và trên tổng tài sản (ROA) (%)\nNăm: 2021, 2022, 2023, 2024, 2025\nROE (%): 26,7, 27,7, 27,9, 28,5, 28,1\nROA (%): 11,4, 11,9, 13,6, 14,4, 14,1",
+  "prompt_tokens": 4429,
+  "completion_tokens": 493,
+  "cost_usd": 0.00256,
+  "error": null
+}

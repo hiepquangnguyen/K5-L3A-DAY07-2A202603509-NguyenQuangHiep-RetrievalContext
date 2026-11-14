@@ -1,0 +1,14 @@
+{
+  "page": 73,
+  "page_title": "Lĩnh vực Giáo dục",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm hai phần chính: bên trái là các số liệu và thông tin chính về lĩnh vực giáo dục của FPT năm 2025, bên phải là ảnh chân dung ông Lê Trường Tùng - Tổng Giám đốc FPT Education cùng đoạn trích dẫn lời phát biểu. Các biểu tượng minh họa gồm: mũ tốt nghiệp, bản đồ thế giới, biểu tượng tòa nhà, biểu tượng sách. Có ảnh chụp hai sinh viên mặc áo cam đang tương tác với laptop. Màu sắc chủ đạo là xanh dương và cam, phù hợp với bộ nhận diện thương hiệu FPT.",
+  "charts_and_tables": "Hệ thống giáo dục có tầm ảnh hưởng khu vực châu Á-Thái Bình Dương\n180 Đối tác quốc tế từ 40 Quốc gia\n3.700 Sinh viên chuyên ngành đào tạo AI, Thiết kế vi mạch bán dẫn\n19/34 Tỉnh thành có cơ sở đào tạo\n100% Học sinh từ lớp 1 đến lớp 12 được tiếp cận AI",
+  "prompt_tokens": 4405,
+  "completion_tokens": 257,
+  "cost_usd": 0.002173,
+  "error": null
+}

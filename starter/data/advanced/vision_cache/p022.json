@@ -1,0 +1,14 @@
+{
+  "page": 22,
+  "page_title": "TỔNG QUAN VỀ FPT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có nền xanh đậm với hình ảnh quả địa cầu màu cam và trắng ở bên phải, trên quả địa cầu có logo FPT. Bên trái là thanh menu dọc với logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC BÁO CÁO THƯỜNG NIÊN 2025'. Thanh menu liệt kê các mục chính của báo cáo thường niên gồm: 01 THÔNG ĐIỆP BAN LÃNH ĐẠO, 02 DẤU ẤN 2025, 03 TỔNG QUAN VỀ FPT (được tô sáng màu xanh nhạt), 04 CHIẾN LƯỢC PHÁT TRIỂN, 05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH, 06 QUẢN TRỊ CÔNG TY, 07 BÁO CÁO ESG, 08 BÁO CÁO TÀI CHÍNH HỢP NHẤT. Ở giữa trang là tiêu đề lớn 'TỔNG QUAN VỀ FPT' và danh sách các mục con của phần tổng quan gồm: 01 Thông tin chung, 02 Sứ mệnh, giá trị cốt lõi, 03 Ngành nghề kinh doanh, 04 Vị thế và quy mô, 05 Hành trình khẳng định năng lực và vị thế, 06 Cơ cấu quản trị và bộ máy quản lý, 07 Ban Lãnh đạo.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4376,
+  "completion_tokens": 373,
+  "cost_usd": 0.002347,
+  "error": null
+}

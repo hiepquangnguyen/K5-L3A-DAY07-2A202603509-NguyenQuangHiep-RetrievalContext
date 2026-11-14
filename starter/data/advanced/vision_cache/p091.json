@@ -1,0 +1,14 @@
+{
+  "page": 91,
+  "page_title": "Công bố thông tin và minh bạch",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có phần nội dung văn bản bên trái với tiêu đề chính màu xanh dương 'Công bố thông tin và minh bạch' và tiêu đề phụ màu cam 'Nguyên tắc 08: Tăng cường hoạt động công bố thông tin'. Bên phải là ảnh chụp sự kiện lễ công bố Top 50 Công ty đại chúng uy tín và hiệu quả năm 2025 với ba người đàn ông đứng trên sân khấu, người giữa cầm giấy chứng nhận và đeo vòng hoa. Phía trên ảnh có logo FPT và dòng chữ 'CÔNG TY CỔ PHẦN FPT'. Phía dưới ảnh có dòng chú thích màu cam: 'FPT lần đầu vượt qua các ngân hàng lớn, đứng vị trí số 1 trong danh sách VIX50.'",
+  "charts_and_tables": "",
+  "prompt_tokens": 4297,
+  "completion_tokens": 209,
+  "cost_usd": 0.002053,
+  "error": null
+}

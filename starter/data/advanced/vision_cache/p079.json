@@ -1,0 +1,14 @@
+{
+  "page": 79,
+  "page_title": "Quản trị công ty",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày có nền xanh đậm với họa tiết mạch điện tử màu xanh nhạt ở phía dưới. Bên trái là thanh menu dọc màu trắng với logo FPT và dòng chữ 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC BÁO CÁO THƯỜNG NIÊN 2025' ở trên cùng. Thanh menu liệt kê các mục chính của báo cáo thường niên gồm: 01 THÔNG ĐIỆP BAN LÃNH ĐẠO, 02 DẤU ẤN 2025, 03 TỔNG QUAN VỀ FPT, 04 CHIẾN LƯỢC PHÁT TRIỂN, 05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH, 06 QUẢN TRỊ CÔNG TY (được tô sáng màu xanh nhạt với chấm tròn màu cam), 07 BÁO CÁO ESG, 08 BÁO CÁO TÀI CHÍNH HỢP NHẤT. Ở giữa trang là tiêu đề lớn 'QUẢN TRỊ CÔNG TY' với biểu tượng gồm hình người màu xanh lá và các bánh răng màu cam và xanh dương. Bên phải tiêu đề là danh sách 4 mục nhỏ: 01 Mô hình quản trị và vai trò của các bên liên quan, 02 Quản trị công ty năm 2025, 03 Báo cáo của HĐQT, 04 Báo cáo của Ban Kiểm soát.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4409,
+  "completion_tokens": 377,
+  "cost_usd": 0.002367,
+  "error": null
+}

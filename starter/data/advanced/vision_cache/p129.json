@@ -1,0 +1,14 @@
+{
+  "page": 129,
+  "page_title": "Quản trị dữ liệu và an toàn thông tin",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột, cột trái chứa nội dung văn bản chi tiết về phương pháp quản trị và nguyên tắc chung trong quản trị dữ liệu và an toàn thông tin của FPT. Cột phải là hình ảnh minh họa một ổ khóa điện tử màu xanh dương trên nền bảng mạch điện tử, biểu tượng cho bảo mật và an toàn thông tin.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4298,
+  "completion_tokens": 124,
+  "cost_usd": 0.001918,
+  "error": null
+}

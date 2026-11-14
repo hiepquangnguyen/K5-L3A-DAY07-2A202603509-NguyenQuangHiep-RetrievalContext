@@ -1,0 +1,14 @@
+{
+  "page": 135,
+  "page_title": "Phòng chống xung đột lợi ích và gian lận, tham nhũng",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và mục lục bên trái, tiêu đề chính màu xanh dương ở giữa trang. Bên dưới tiêu đề có 3 phần nội dung chính với các tiêu đề màu cam: Quy tắc tránh xung đột lợi ích, Chính sách chống tham nhũng và gian lận, Tuân thủ các quy định về thuế. Phần Quy tắc tránh xung đột lợi ích liệt kê 4 điểm chính dưới dạng bullet. Phần Chính sách chống tham nhũng và gian lận trình bày chính sách của FPT về chống hối lộ, tặng quà, và xử lý nhà cung cấp vi phạm. Phần Tuân thủ các quy định về thuế mô tả việc FPT tuân thủ luật thuế tại Việt Nam và quốc tế, xây dựng hệ thống quản trị minh bạch và áp dụng hệ thống quản lý thuế thu nhập doanh nghiệp toàn cầu. Ở góc dưới bên phải có hình ảnh minh họa một người chạm vào biểu tượng chữ TAX trên màn hình kỹ thuật số với các biểu tượng tài chính xung quanh.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4299,
+  "completion_tokens": 281,
+  "cost_usd": 0.002169,
+  "error": null
+}

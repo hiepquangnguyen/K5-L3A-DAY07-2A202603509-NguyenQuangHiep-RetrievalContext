@@ -1,0 +1,1919 @@
+[
+  {
+    "query_id": "q21",
+    "split": "test",
+    "question": "Theo Quy chế đào tạo trình độ đại học, liên kết đào tạo chỉ được thực hiện đối với hình thức học nào và bị cấm đối với nhóm ngành nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "liên kết đào tạo hình thức học nhóm ngành cấm",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p18:c005",
+            "text": "b) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 21. Xây dựng và thực hiện quy chế của cơ sở đào tạo",
+              "chunk_index": 5,
+              "char_len": 337,
+              "start_char": 1586,
+              "end_char": 1923
+            },
+            "score": 0.546053,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p13:c001",
+            "text": "2. Hội đồng chuyên môn của cơ sở đ ào tạo xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ:\n\na) Công nhận, chuyển đổi theo từng học phần;\n\nb) Công nhận, chuyển đổi theo từng nhóm học phần;\n\nc) Công nhận, chuyển đổi theo cả chương trình đào tạo.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 13. Công nhận kết quả học tập và chuyển đổi tín chỉ",
+              "chunk_index": 1,
+              "char_len": 403,
+              "start_char": 356,
+              "end_char": 761
+            },
+            "score": 0.535243,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p04:c001",
+            "text": "Điều 5. Liên kết đào tạo\n\n1. Liên kết đào tạo chỉ thực hiện đối với hình thức vừa làm vừa học theo quy định tại khoản 22 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và theo quy định tại khoản 2, khoản 3 Điều này. Không thực hiện việc liên kết đào tạo đối với các ngành thuộc lĩnh vực sức khoẻ có cấp chứng chỉ hành nghề.\n\n2. Các yêu cầu tối thiểu đối với cơ sở chủ trì đào tạo:\n\na) Đã được công nhận đạt tiêu chuẩn chất lượng cơ sở giáo dục đại học bởi tổ chức kiểm định chất lượng giáo dục hợp pháp và còn hiệu lực theo quy định;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 4,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 5. Liên kết đào tạo",
+              "chunk_index": 1,
+              "char_len": 553,
+              "start_char": 568,
+              "end_char": 1123
+            },
+            "score": 0.524265,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p18:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 18]\nb) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+        "context_ids": [
+          "para:tt08-2021:p18:c005"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "liên kết đào tạo hình thức học nhóm ngành cấm",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p18:c005",
+            "text": "b) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 21. Xây dựng và thực hiện quy chế của cơ sở đào tạo",
+              "chunk_index": 5,
+              "char_len": 337,
+              "start_char": 1586,
+              "end_char": 1923
+            },
+            "score": 0.546053,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p13:c001",
+            "text": "2. Hội đồng chuyên môn của cơ sở đ ào tạo xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ:\n\na) Công nhận, chuyển đổi theo từng học phần;\n\nb) Công nhận, chuyển đổi theo từng nhóm học phần;\n\nc) Công nhận, chuyển đổi theo cả chương trình đào tạo.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 13. Công nhận kết quả học tập và chuyển đổi tín chỉ",
+              "chunk_index": 1,
+              "char_len": 403,
+              "start_char": 356,
+              "end_char": 761
+            },
+            "score": 0.535243,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p04:c001",
+            "text": "Điều 5. Liên kết đào tạo\n\n1. Liên kết đào tạo chỉ thực hiện đối với hình thức vừa làm vừa học theo quy định tại khoản 22 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và theo quy định tại khoản 2, khoản 3 Điều này. Không thực hiện việc liên kết đào tạo đối với các ngành thuộc lĩnh vực sức khoẻ có cấp chứng chỉ hành nghề.\n\n2. Các yêu cầu tối thiểu đối với cơ sở chủ trì đào tạo:\n\na) Đã được công nhận đạt tiêu chuẩn chất lượng cơ sở giáo dục đại học bởi tổ chức kiểm định chất lượng giáo dục hợp pháp và còn hiệu lực theo quy định;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 4,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 5. Liên kết đào tạo",
+              "chunk_index": 1,
+              "char_len": 553,
+              "start_char": 568,
+              "end_char": 1123
+            },
+            "score": 0.524265,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p18:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 18]\nb) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+        "context_ids": [
+          "para:tt08-2021:p18:c005"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "liên kết đào tạo hình thức học nhóm ngành cấm",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p18:c005",
+            "text": "b) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 21. Xây dựng và thực hiện quy chế của cơ sở đào tạo",
+              "chunk_index": 5,
+              "char_len": 337,
+              "start_char": 1586,
+              "end_char": 1923
+            },
+            "score": 0.546053,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p13:c001",
+            "text": "2. Hội đồng chuyên môn của cơ sở đ ào tạo xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ:\n\na) Công nhận, chuyển đổi theo từng học phần;\n\nb) Công nhận, chuyển đổi theo từng nhóm học phần;\n\nc) Công nhận, chuyển đổi theo cả chương trình đào tạo.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 13. Công nhận kết quả học tập và chuyển đổi tín chỉ",
+              "chunk_index": 1,
+              "char_len": 403,
+              "start_char": 356,
+              "end_char": 761
+            },
+            "score": 0.535243,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p04:c001",
+            "text": "Điều 5. Liên kết đào tạo\n\n1. Liên kết đào tạo chỉ thực hiện đối với hình thức vừa làm vừa học theo quy định tại khoản 22 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và theo quy định tại khoản 2, khoản 3 Điều này. Không thực hiện việc liên kết đào tạo đối với các ngành thuộc lĩnh vực sức khoẻ có cấp chứng chỉ hành nghề.\n\n2. Các yêu cầu tối thiểu đối với cơ sở chủ trì đào tạo:\n\na) Đã được công nhận đạt tiêu chuẩn chất lượng cơ sở giáo dục đại học bởi tổ chức kiểm định chất lượng giáo dục hợp pháp và còn hiệu lực theo quy định;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 4,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 5. Liên kết đào tạo",
+              "chunk_index": 1,
+              "char_len": 553,
+              "start_char": 568,
+              "end_char": 1123
+            },
+            "score": 0.524265,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p18:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 18]\nb) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+        "context_ids": [
+          "para:tt08-2021:p18:c005"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "liên kết đào tạo hình thức học nhóm ngành cấm",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p18:c005",
+            "text": "b) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 21. Xây dựng và thực hiện quy chế của cơ sở đào tạo",
+              "chunk_index": 5,
+              "char_len": 337,
+              "start_char": 1586,
+              "end_char": 1923
+            },
+            "score": 0.546053,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p13:c001",
+            "text": "2. Hội đồng chuyên môn của cơ sở đ ào tạo xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ:\n\na) Công nhận, chuyển đổi theo từng học phần;\n\nb) Công nhận, chuyển đổi theo từng nhóm học phần;\n\nc) Công nhận, chuyển đổi theo cả chương trình đào tạo.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 13. Công nhận kết quả học tập và chuyển đổi tín chỉ",
+              "chunk_index": 1,
+              "char_len": 403,
+              "start_char": 356,
+              "end_char": 761
+            },
+            "score": 0.535243,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p04:c001",
+            "text": "Điều 5. Liên kết đào tạo\n\n1. Liên kết đào tạo chỉ thực hiện đối với hình thức vừa làm vừa học theo quy định tại khoản 22 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và theo quy định tại khoản 2, khoản 3 Điều này. Không thực hiện việc liên kết đào tạo đối với các ngành thuộc lĩnh vực sức khoẻ có cấp chứng chỉ hành nghề.\n\n2. Các yêu cầu tối thiểu đối với cơ sở chủ trì đào tạo:\n\na) Đã được công nhận đạt tiêu chuẩn chất lượng cơ sở giáo dục đại học bởi tổ chức kiểm định chất lượng giáo dục hợp pháp và còn hiệu lực theo quy định;",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 4,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 5. Liên kết đào tạo",
+              "chunk_index": 1,
+              "char_len": 553,
+              "start_char": 568,
+              "end_char": 1123
+            },
+            "score": 0.524265,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p18:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 18]\nb) Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ng ành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;",
+        "context_ids": [
+          "para:tt08-2021:p18:c005"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 5312.38,
+    "llm_tokens": 3620,
+    "llm_cost_usd": 0.001592
+  },
+  {
+    "query_id": "q22",
+    "split": "test",
+    "question": "Khi cơ sở đào tạo đại học cho phép sinh viên thi lại hoặc đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt, điểm học phần sau khi thi lại bị giới hạn tối đa ở mức điểm chữ nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "điểm học phần sau khi thi lại giới hạn tối đa điểm chữ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p09:c002",
+            "text": "d) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 9,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 2,
+              "char_len": 516,
+              "start_char": 955,
+              "end_char": 1473
+            },
+            "score": 0.629043,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p08:c001",
+            "text": "c) Diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm đ ầy đủ và lưu trữ.\n\n2. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng được dự thi, đánh giá ở một đợt khác và được tính điểm lần đầu.\n\n3. Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 8,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 1,
+              "char_len": 490,
+              "start_char": 575,
+              "end_char": 1067
+            },
+            "score": 0.58237,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p10:c002",
+            "text": "3. Những điểm chữ không được quy định tại khoản 2 Điều này không được tính vào các điểm trung bình học kỳ, năm học hoặc tích lũy. N hững học phần không nằm trong yêu cầu của chương trình đào tạo không được tính vào các tiêu chí đánh giá kết quả học tập của sinh viên.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 10,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 10. Đánh giá kết quả học tập theo học kỳ, năm học",
+              "chunk_index": 2,
+              "char_len": 267,
+              "start_char": 924,
+              "end_char": 1193
+            },
+            "score": 0.57569,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p09:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nd) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+        "context_ids": [
+          "para:tt08-2021:p09:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "điểm học phần sau khi thi lại giới hạn tối đa điểm chữ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p09:c002",
+            "text": "d) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 9,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 2,
+              "char_len": 516,
+              "start_char": 955,
+              "end_char": 1473
+            },
+            "score": 0.629043,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p08:c001",
+            "text": "c) Diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm đ ầy đủ và lưu trữ.\n\n2. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng được dự thi, đánh giá ở một đợt khác và được tính điểm lần đầu.\n\n3. Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 8,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 1,
+              "char_len": 490,
+              "start_char": 575,
+              "end_char": 1067
+            },
+            "score": 0.58237,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p10:c002",
+            "text": "3. Những điểm chữ không được quy định tại khoản 2 Điều này không được tính vào các điểm trung bình học kỳ, năm học hoặc tích lũy. N hững học phần không nằm trong yêu cầu của chương trình đào tạo không được tính vào các tiêu chí đánh giá kết quả học tập của sinh viên.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 10,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 10. Đánh giá kết quả học tập theo học kỳ, năm học",
+              "chunk_index": 2,
+              "char_len": 267,
+              "start_char": 924,
+              "end_char": 1193
+            },
+            "score": 0.57569,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p09:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nd) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+        "context_ids": [
+          "para:tt08-2021:p09:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "điểm học phần sau khi thi lại giới hạn tối đa điểm chữ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p09:c002",
+            "text": "d) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 9,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 2,
+              "char_len": 516,
+              "start_char": 955,
+              "end_char": 1473
+            },
+            "score": 0.629043,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p08:c001",
+            "text": "c) Diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm đ ầy đủ và lưu trữ.\n\n2. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng được dự thi, đánh giá ở một đợt khác và được tính điểm lần đầu.\n\n3. Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 8,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 1,
+              "char_len": 490,
+              "start_char": 575,
+              "end_char": 1067
+            },
+            "score": 0.58237,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p10:c002",
+            "text": "3. Những điểm chữ không được quy định tại khoản 2 Điều này không được tính vào các điểm trung bình học kỳ, năm học hoặc tích lũy. N hững học phần không nằm trong yêu cầu của chương trình đào tạo không được tính vào các tiêu chí đánh giá kết quả học tập của sinh viên.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 10,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 10. Đánh giá kết quả học tập theo học kỳ, năm học",
+              "chunk_index": 2,
+              "char_len": 267,
+              "start_char": 924,
+              "end_char": 1193
+            },
+            "score": 0.57569,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p09:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nd) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+        "context_ids": [
+          "para:tt08-2021:p09:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "điểm học phần sau khi thi lại giới hạn tối đa điểm chữ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p09:c002",
+            "text": "d) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 9,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 2,
+              "char_len": 516,
+              "start_char": 955,
+              "end_char": 1473
+            },
+            "score": 0.629043,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p08:c001",
+            "text": "c) Diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm đ ầy đủ và lưu trữ.\n\n2. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng được dự thi, đánh giá ở một đợt khác và được tính điểm lần đầu.\n\n3. Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 8,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 9. Đánh giá và tính điểm học phần",
+              "chunk_index": 1,
+              "char_len": 490,
+              "start_char": 575,
+              "end_char": 1067
+            },
+            "score": 0.58237,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p10:c002",
+            "text": "3. Những điểm chữ không được quy định tại khoản 2 Điều này không được tính vào các điểm trung bình học kỳ, năm học hoặc tích lũy. N hững học phần không nằm trong yêu cầu của chương trình đào tạo không được tính vào các tiêu chí đánh giá kết quả học tập của sinh viên.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 10,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 10. Đánh giá kết quả học tập theo học kỳ, năm học",
+              "chunk_index": 2,
+              "char_len": 267,
+              "start_char": 924,
+              "end_char": 1193
+            },
+            "score": 0.57569,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p09:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nd) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.",
+        "context_ids": [
+          "para:tt08-2021:p09:c002"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 4649.42,
+    "llm_tokens": 3926,
+    "llm_cost_usd": 0.001732
+  },
+  {
+    "query_id": "q23",
+    "split": "test",
+    "question": "Trong trao đổi sinh viên đại học, số lượng tín chỉ tối đa mà sinh viên được phép tích lũy tại cơ sở đào tạo khác chiếm không quá bao nhiêu phần trăm tổng khối lượng chương trình đào tạo?",
+    "status": "answered",
+    "answer": "Trong trao đổi sinh viên đại học, số lượng tín chỉ tối đa mà sinh viên được phép tích lũy tại cơ sở đào tạo khác không vượt quá 25% tổng khối lượng chương trình đào tạo. Điều này được quy định rõ trong việc đăng ký học tại cơ sở đào tạo khác khi có sự đồng ý của hiệu trưởng hai cơ sở đào tạo và trong hợp tác đào tạo giữa các cơ sở đào tạo cũng không vượt quá 25% tổng khối lượng chương trình đào tạo [para:tt08-2021:p16:c002].",
+    "citations": [
+      "para:tt08-2021:p16:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "số lượng tín chỉ tối đa tích lũy tại cơ sở đào tạo khác trong trao đổi sinh viên đại học",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p16:c002",
+            "text": "2. Trên cơ sở đánh giá và công nhận lẫn nhau, sinh viên của cơ sở đào tạo này có thể đăng ký thực hiện học một số học phần tại cơ sở đào tạo khác, nếu được hiệu trưởng của hai cơ sở đào tạo đồng ý với số lượng tín chỉ mà sinh viên tích lũy tại cơ sở đào tạo khác (nếu có) không vượt quá 25% tổng khối lượng của chương trình đào tạo.\n\n3. Trong hợp tác đào tạo giữa các cơ sở đào tạo, việc đánh giá và công nhận lẫn nhau số lượng tín chỉ mà sinh viên tích lũy tại cơ sở phối hợp đào tạo khác không vượt quá 25% tổng khối lượng của chương trình đào tạo.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 16,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 17. Trao đổi sinh viên và hợp tác trong đào tạo",
+              "chunk_index": 2,
+              "char_len": 550,
+              "start_char": 847,
+              "end_char": 1399
+            },
+            "score": 0.663915,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p16:c001",
+            "text": "Điều 17. Trao đổi sinh viên và hợp tác trong đào tạo\n\n1. Các cơ sở đào tạo xây dựng và ban hành quy định về việc công nhận lẫn nhau về quy trình đào tạo, nội dung đào tạo và giá trị của tín chỉ làm căn cứ cho phép sinh viên của cơ sở đào tạo này được học một số học phần tại cơ sở đào tạo khác và ngược lại (sau đây gọi là trao đổi sinh viên).",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 16,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 17. Trao đổi sinh viên và hợp tác trong đào tạo",
+              "chunk_index": 1,
+              "char_len": 343,
+              "start_char": 502,
+              "end_char": 847
+            },
+            "score": 0.654227,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p02:c004",
+            "text": "5. Thời gian tối đa để sinh viên hoàn thành khoá học được quy định trong quy chế của cơ sở đào tạo, nhưng không vượt quá 02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá đối với mỗi hình thức đào tạo. Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian tối đa để sinh viên hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng được miễn trừ.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 2,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 2. Chương trình đào tạo và thời gian học tập",
+              "chunk_index": 4,
+              "char_len": 453,
+              "start_char": 1471,
+              "end_char": 1926
+            },
+            "score": 0.633584,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p16:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 16]\n2. Trên cơ sở đánh giá và công nhận lẫn nhau, sinh viên của cơ sở đào tạo này có thể đăng ký thực hiện học một số học phần tại cơ sở đào tạo khác, nếu được hiệu trưởng của hai cơ sở đào tạo đồng ý với số lượng tín chỉ mà sinh viên tích lũy tại cơ sở đào tạo khác (nếu có) không vượt quá 25% tổng khối lượng của chương trình đào tạo.\n\n3. Trong hợp tác đào tạo giữa các cơ sở đào tạo, việc đánh giá và công nhận lẫn nhau số lượng tín chỉ mà sinh viên tích lũy tại cơ sở phối hợp đào tạo khác không vượt quá 25% tổng khối lượng của chương trình đào tạo.",
+        "context_ids": [
+          "para:tt08-2021:p16:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2899.15,
+    "llm_tokens": 1497,
+    "llm_cost_usd": 0.00082
+  },
+  {
+    "query_id": "q24",
+    "split": "test",
+    "question": "Tại cùng một thời điểm, giảng viên có chức danh Giáo sư, Phó Giáo sư và Tiến sĩ được hướng dẫn độc lập tối đa bao nhiêu nghiên cứu sinh, và việc đồng hướng dẫn được quy đổi như thế nào?",
+    "status": "answered",
+    "answer": "Tại cùng một thời điểm, người có chức danh giáo sư được hướng dẫn độc lập tối đa 07 nghiên cứu sinh; người có chức danh phó giáo sư hoặc có bằng tiến sĩ khoa học được hướng dẫn độc lập tối đa 05 nghiên cứu sinh; người có bằng tiến sĩ được hướng dẫn độc lập tối đa 03 nghiên cứu sinh. Trường hợp đồng hướng dẫn 01 nghiên cứu sinh được tính quy đổi tương đương hướng dẫn độc lập 0,5 nghiên cứu sinh [para:tt18-2021:p05:c001].",
+    "citations": [
+      "para:tt18-2021:p05:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "giảng viên chức danh Giáo sư Phó Giáo sư Tiến sĩ hướng dẫn nghiên cứu sinh đồng hướng dẫn quy đổi",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p05:c001",
+            "text": "2. Tại cùng một thời điểm, người có chức danh giáo sư được hướ ng dẫn độc lập tối đa 07 nghiên cứu sinh; ngườ i có ch ức danh phó giáo sư, hoặc có b ằng tiến sĩ khoa học được hướ ng dẫn độc lập tối đa 05 nghiên cứu sinh; người có b ằng tiến sĩ được hướ ng dẫn độc lập tối đa 03 nghiên cứu sinh. T rường hợp đồng hướ ng dẫn 01 nghiên c ứu sinh đượ c tính quy đổi tương đương hướng dẫn độc lập 0,5 nghiên cứu sinh.\n\n3. Người hướng dẫn nghiên cứu sinh có trách nhiệm:",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 5,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 6. Quyền và trách nhiệm của giảng viên giảng dạy trình độ tiến sĩ và người hướng dẫn",
+              "chunk_index": 1,
+              "char_len": 464,
+              "start_char": 347,
+              "end_char": 813
+            },
+            "score": 0.590164,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p04:c006",
+            "text": "3. Mỗi nghiên cứu sinh có 01 hoặc 02 người hướng dẫn, trong đó có 01 người là cán bộ cơ hữu của cơ sở đào tạo hoặc có hợp đồng giảng dạy, nghiên cứu khoa học với cơ sở đào tạo theo quy định của pháp luật ; làm việc theo chế độ trọn thời gian tại cơ sở đào tạo với thời hạn của hợp đồng phù hợp với kế hoạch học tập, nghiên cứu toàn khóa của nghiên cứu sinh.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 4,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 5. Tiêu chuẩn của người hướng dẫn nghiên cứu sinh",
+              "chunk_index": 6,
+              "char_len": 357,
+              "start_char": 1995,
+              "end_char": 2352
+            },
+            "score": 0.533455,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p08:c002",
+            "text": "Điều 10. Thay đổi trong quá trình đào tạo\n\n1. Nghiên cứu sinh và người hướng dẫn được đề xuất với cơ sở đào tạo về việc thay đổi đề tài luận án, bổ sung hoặc thay đổi người hướng dẫn, thay đổi đơn vị chuyên môn phụ trách và chuyển cơ sở đào tạo. Việc thay đổi phải kèm theo điều chỉnh kế hoạch học tập, nghiên cứu toàn khóa và bảo đảm thời gian đào tạo tuân thủ quy định tại Điều 3 của Quy chế này.\n\n2. Nghiên cứu sinh bị buộc thôi học trong những trường hợp sau:\n\na) Không hoàn thành chương trình đào tạo trong khoảng thời gian quy định tại khoản 1, khoản 2 Điều 3 của Quy chế này;",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 8,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 10. Thay đổi trong quá trình đào tạo",
+              "chunk_index": 2,
+              "char_len": 582,
+              "start_char": 790,
+              "end_char": 1374
+            },
+            "score": 0.530773,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p05:c001 | starter/data/tt18_2021_tien_si.pdf | page 5]\n2. Tại cùng một thời điểm, người có chức danh giáo sư được hướ ng dẫn độc lập tối đa 07 nghiên cứu sinh; ngườ i có ch ức danh phó giáo sư, hoặc có b ằng tiến sĩ khoa học được hướ ng dẫn độc lập tối đa 05 nghiên cứu sinh; người có b ằng tiến sĩ được hướ ng dẫn độc lập tối đa 03 nghiên cứu sinh. T rường hợp đồng hướ ng dẫn 01 nghiên c ứu sinh đượ c tính quy đổi tương đương hướng dẫn độc lập 0,5 nghiên cứu sinh.\n\n3. Người hướng dẫn nghiên cứu sinh có trách nhiệm:",
+        "context_ids": [
+          "para:tt18-2021:p05:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2746.44,
+    "llm_tokens": 1509,
+    "llm_cost_usd": 0.000832
+  },
+  {
+    "query_id": "q25",
+    "split": "test",
+    "question": "Người dự tuyển trình độ tiến sĩ là công dân nước ngoài nếu đăng ký học bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc mấy?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "người dự tuyển trình độ tiến sĩ công dân nước ngoài chứng chỉ tiếng Việt",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p06:c003",
+            "text": "3. Người dự tuyển là công dân nước ngoài nếu đăng ký theo học chương trình đào tạo trình độ tiến sĩ bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài và phải đáp ứng yêu cầu về ngoại ngữ thứ hai do cơ sở đào tạo quyết định, trừ trường hợp là người bản ngữ của ngôn ngữ được sử dụng trong chương trình đào tạo trình độ tiến sĩ.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 6,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 7. Đối tượng và điều kiện dự tuyển",
+              "chunk_index": 3,
+              "char_len": 405,
+              "start_char": 1124,
+              "end_char": 1531
+            },
+            "score": 0.712029,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p06:c001",
+            "text": "a) Bằng tốt nghiệp trình độ đại học trở lên do một cơ sở đào tạo nước ngoài, phân hiệu của cơ sở đào tạo nước ngoài ở Việt Nam hoặc cơ sở đào tạo của Việt Nam cấp cho người học toàn thời gian bằng tiếng nước ngoài;\n\nb) Bằng tốt nghiệp trình độ đại học ngành ngôn ngữ tiếng nước ngoài do các cơ sở đào tạo của Việt Nam cấp;",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 6,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 7. Đối tượng và điều kiện dự tuyển",
+              "chunk_index": 1,
+              "char_len": 322,
+              "start_char": 521,
+              "end_char": 845
+            },
+            "score": 0.544927,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p06:c000",
+            "text": "c) C ó kinh nghiệm nghiên cứu thể hiện qua luận văn thạc sĩ của chương trình đào tạo định hướng nghiên cứu ; hoặc bài báo, báo cáo khoa học đã công bố; hoặc có thời gian công tác từ 02 năm (24 tháng) trở lên là giảng viên, nghiên cứu viên của các cơ sở đào tạo, tổ chức khoa học và công nghệ;\n\nd) Có dự thảo đề cương nghiên cứu và dự kiến kế hoạch học tập, nghiên cứu toàn khóa.\n\n2. Người dự tuyển là công dân Việt Nam phải đạt yêu cầu về năng lực ngoại ngữ được minh chứng bằng một trong những văn bằng, chứng chỉ sau:",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 6,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 7. Đối tượng và điều kiện dự tuyển",
+              "chunk_index": 0,
+              "char_len": 519,
+              "start_char": 0,
+              "end_char": 521
+            },
+            "score": 0.51471,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p06:c003 | starter/data/tt18_2021_tien_si.pdf | page 6]\n3. Người dự tuyển là công dân nước ngoài nếu đăng ký theo học chương trình đào tạo trình độ tiến sĩ bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài và phải đáp ứng yêu cầu về ngoại ngữ thứ hai do cơ sở đào tạo quyết định, trừ trường hợp là người bản ngữ của ngôn ngữ được sử dụng trong chương trình đào tạo trình độ tiến sĩ.",
+        "context_ids": [
+          "para:tt18-2021:p06:c003"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 2356.22,
+    "llm_tokens": 1341,
+    "llm_cost_usd": 0.00067
+  },
+  {
+    "query_id": "q26",
+    "split": "test",
+    "question": "Khi chất lượng luận án tiến sĩ không đạt yêu cầu thẩm định, Hội đồng thẩm định luận án do Bộ Giáo dục và Đào tạo thành lập gồm bao nhiêu thành viên và có tối thiểu bao nhiêu thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Hội đồng thẩm định luận án tiến sĩ Bộ Giáo dục và Đào tạo số lượng thành viên và thành viên không là phản biện độc lập",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.703529,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c001",
+            "text": "4. Đối với những trường hợp chất lượng luận án không đạt yêu cầu:\n\na) Bộ Giáo dục và Đào tạo quyết định thành lập Hội đồng thẩm định luận án để xem xét, đánh giá và quyết nghị về chất lượng luận án; uỷ quyền cơ sở đào tạo tổ chức họp Hội đồng thẩm định luận án có sự giám sát của đại diện Bộ Giáo dục và Đào tạo;\n\nb) Hội đồng thẩm định có 07 thành viên , trong đó có tối thiểu 03 thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án; những nhà khoa học thẩm định không tán thành luận án theo quy định tại điểm b khoản 2 Điều này là thành viên đương nhiên của Hội đồng;",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 1,
+              "char_len": 595,
+              "start_char": 586,
+              "end_char": 1183
+            },
+            "score": 0.649439,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p13:c003",
+            "text": "4. Hội đồng phải bỏ phiếu và quyết nghị thông qua hoặc không thông qua luận án ; yêu cầu những nội dung phải chỉnh sửa, bổ sung nếu cần thiết trong trường hợp thông qua; kiến nghị hoặc không kiến nghị tổ chức đánh giá lại trong trường hợp không thông qua . Luận án được thông qua nếu không có hoặc chỉ có 01 thành viên Hội đồng có mặt tại buổi đánh giá không đồng ý về chuyên môn . Diễn biến của buổi đánh giá luận án được ghi biên bản; trong trường hợp tổ chức trực tuyến phải được ghi âm, ghi hình đầy đủ và lưu trữ tại cơ sở đào tạo.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 16. Đánh giá luận án tại cơ sở đào tạo",
+              "chunk_index": 3,
+              "char_len": 536,
+              "start_char": 1538,
+              "end_char": 2076
+            },
+            "score": 0.574361,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p17:c003 | starter/data/tt18_2021_tien_si.pdf | page 17]\nđ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+        "context_ids": [
+          "para:tt18-2021:p17:c003"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Hội đồng thẩm định luận án tiến sĩ Bộ Giáo dục và Đào tạo số lượng thành viên và thành viên không là phản biện độc lập",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.703529,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c001",
+            "text": "4. Đối với những trường hợp chất lượng luận án không đạt yêu cầu:\n\na) Bộ Giáo dục và Đào tạo quyết định thành lập Hội đồng thẩm định luận án để xem xét, đánh giá và quyết nghị về chất lượng luận án; uỷ quyền cơ sở đào tạo tổ chức họp Hội đồng thẩm định luận án có sự giám sát của đại diện Bộ Giáo dục và Đào tạo;\n\nb) Hội đồng thẩm định có 07 thành viên , trong đó có tối thiểu 03 thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án; những nhà khoa học thẩm định không tán thành luận án theo quy định tại điểm b khoản 2 Điều này là thành viên đương nhiên của Hội đồng;",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 1,
+              "char_len": 595,
+              "start_char": 586,
+              "end_char": 1183
+            },
+            "score": 0.649439,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p13:c003",
+            "text": "4. Hội đồng phải bỏ phiếu và quyết nghị thông qua hoặc không thông qua luận án ; yêu cầu những nội dung phải chỉnh sửa, bổ sung nếu cần thiết trong trường hợp thông qua; kiến nghị hoặc không kiến nghị tổ chức đánh giá lại trong trường hợp không thông qua . Luận án được thông qua nếu không có hoặc chỉ có 01 thành viên Hội đồng có mặt tại buổi đánh giá không đồng ý về chuyên môn . Diễn biến của buổi đánh giá luận án được ghi biên bản; trong trường hợp tổ chức trực tuyến phải được ghi âm, ghi hình đầy đủ và lưu trữ tại cơ sở đào tạo.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 16. Đánh giá luận án tại cơ sở đào tạo",
+              "chunk_index": 3,
+              "char_len": 536,
+              "start_char": 1538,
+              "end_char": 2076
+            },
+            "score": 0.574361,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p17:c003 | starter/data/tt18_2021_tien_si.pdf | page 17]\nđ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+        "context_ids": [
+          "para:tt18-2021:p17:c003"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Hội đồng thẩm định luận án tiến sĩ Bộ Giáo dục và Đào tạo số lượng thành viên và thành viên không là phản biện độc lập",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.703529,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c001",
+            "text": "4. Đối với những trường hợp chất lượng luận án không đạt yêu cầu:\n\na) Bộ Giáo dục và Đào tạo quyết định thành lập Hội đồng thẩm định luận án để xem xét, đánh giá và quyết nghị về chất lượng luận án; uỷ quyền cơ sở đào tạo tổ chức họp Hội đồng thẩm định luận án có sự giám sát của đại diện Bộ Giáo dục và Đào tạo;\n\nb) Hội đồng thẩm định có 07 thành viên , trong đó có tối thiểu 03 thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án; những nhà khoa học thẩm định không tán thành luận án theo quy định tại điểm b khoản 2 Điều này là thành viên đương nhiên của Hội đồng;",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 1,
+              "char_len": 595,
+              "start_char": 586,
+              "end_char": 1183
+            },
+            "score": 0.649439,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p13:c003",
+            "text": "4. Hội đồng phải bỏ phiếu và quyết nghị thông qua hoặc không thông qua luận án ; yêu cầu những nội dung phải chỉnh sửa, bổ sung nếu cần thiết trong trường hợp thông qua; kiến nghị hoặc không kiến nghị tổ chức đánh giá lại trong trường hợp không thông qua . Luận án được thông qua nếu không có hoặc chỉ có 01 thành viên Hội đồng có mặt tại buổi đánh giá không đồng ý về chuyên môn . Diễn biến của buổi đánh giá luận án được ghi biên bản; trong trường hợp tổ chức trực tuyến phải được ghi âm, ghi hình đầy đủ và lưu trữ tại cơ sở đào tạo.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 16. Đánh giá luận án tại cơ sở đào tạo",
+              "chunk_index": 3,
+              "char_len": 536,
+              "start_char": 1538,
+              "end_char": 2076
+            },
+            "score": 0.574361,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p17:c003 | starter/data/tt18_2021_tien_si.pdf | page 17]\nđ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+        "context_ids": [
+          "para:tt18-2021:p17:c003"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Hội đồng thẩm định luận án tiến sĩ Bộ Giáo dục và Đào tạo số lượng thành viên và thành viên không là phản biện độc lập",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.703529,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c001",
+            "text": "4. Đối với những trường hợp chất lượng luận án không đạt yêu cầu:\n\na) Bộ Giáo dục và Đào tạo quyết định thành lập Hội đồng thẩm định luận án để xem xét, đánh giá và quyết nghị về chất lượng luận án; uỷ quyền cơ sở đào tạo tổ chức họp Hội đồng thẩm định luận án có sự giám sát của đại diện Bộ Giáo dục và Đào tạo;\n\nb) Hội đồng thẩm định có 07 thành viên , trong đó có tối thiểu 03 thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án; những nhà khoa học thẩm định không tán thành luận án theo quy định tại điểm b khoản 2 Điều này là thành viên đương nhiên của Hội đồng;",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 1,
+              "char_len": 595,
+              "start_char": 586,
+              "end_char": 1183
+            },
+            "score": 0.649439,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p13:c003",
+            "text": "4. Hội đồng phải bỏ phiếu và quyết nghị thông qua hoặc không thông qua luận án ; yêu cầu những nội dung phải chỉnh sửa, bổ sung nếu cần thiết trong trường hợp thông qua; kiến nghị hoặc không kiến nghị tổ chức đánh giá lại trong trường hợp không thông qua . Luận án được thông qua nếu không có hoặc chỉ có 01 thành viên Hội đồng có mặt tại buổi đánh giá không đồng ý về chuyên môn . Diễn biến của buổi đánh giá luận án được ghi biên bản; trong trường hợp tổ chức trực tuyến phải được ghi âm, ghi hình đầy đủ và lưu trữ tại cơ sở đào tạo.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 13,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 16. Đánh giá luận án tại cơ sở đào tạo",
+              "chunk_index": 3,
+              "char_len": 536,
+              "start_char": 1538,
+              "end_char": 2076
+            },
+            "score": 0.574361,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p17:c003 | starter/data/tt18_2021_tien_si.pdf | page 17]\nđ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+        "context_ids": [
+          "para:tt18-2021:p17:c003"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 4957.4,
+    "llm_tokens": 4354,
+    "llm_cost_usd": 0.001994
+  },
+  {
+    "query_id": "u03",
+    "split": "test",
+    "question": "Theo Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, mức thù lao hoặc lệ phí thẩm định, phản biện độc lập luận án tiến sĩ là bao nhiêu đồng?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức thù lao hoặc lệ phí thẩm định phản biện luận án tiến sĩ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p11:c004",
+            "text": "3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 4,
+              "char_len": 419,
+              "start_char": 1681,
+              "end_char": 2100
+            },
+            "score": 0.532739,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p11:c001",
+            "text": "Điều 15. Phản biện độc lập luận án\n\n1. Phản biện độc lập là quy trình bắt buộc trước khi luận án của nghiên cứu sinh được đưa ra bảo vệ tại Hội đồng đánh giá luận án của cơ sở đào tạo. Chậm nhất không quá 06 tháng tính từ thời điểm nghiên cứu sinh hoàn thành thủ tục trình luận án sau khi đã được đơn vị chuyên môn thông qua, cơ sở đào tạo phải hoàn thành quy trình phản biện độc lập cho nghiên cứu sinh; riêng trường hợp phải thực hiện lấy ý kiến phản biện độc lập lần thứ hai theo quy định tại khoản 3 Điều này thì thời gian được kéo dài thêm tối đa 03 tháng.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 1,
+              "char_len": 561,
+              "start_char": 500,
+              "end_char": 1063
+            },
+            "score": 0.488312,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.479951,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p11:c004 | starter/data/tt18_2021_tien_si.pdf | page 11]\n3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+        "context_ids": [
+          "para:tt18-2021:p11:c004"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức thù lao hoặc lệ phí thẩm định phản biện luận án tiến sĩ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p11:c004",
+            "text": "3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 4,
+              "char_len": 419,
+              "start_char": 1681,
+              "end_char": 2100
+            },
+            "score": 0.532739,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p11:c001",
+            "text": "Điều 15. Phản biện độc lập luận án\n\n1. Phản biện độc lập là quy trình bắt buộc trước khi luận án của nghiên cứu sinh được đưa ra bảo vệ tại Hội đồng đánh giá luận án của cơ sở đào tạo. Chậm nhất không quá 06 tháng tính từ thời điểm nghiên cứu sinh hoàn thành thủ tục trình luận án sau khi đã được đơn vị chuyên môn thông qua, cơ sở đào tạo phải hoàn thành quy trình phản biện độc lập cho nghiên cứu sinh; riêng trường hợp phải thực hiện lấy ý kiến phản biện độc lập lần thứ hai theo quy định tại khoản 3 Điều này thì thời gian được kéo dài thêm tối đa 03 tháng.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 1,
+              "char_len": 561,
+              "start_char": 500,
+              "end_char": 1063
+            },
+            "score": 0.488312,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.479951,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p11:c004 | starter/data/tt18_2021_tien_si.pdf | page 11]\n3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+        "context_ids": [
+          "para:tt18-2021:p11:c004"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức thù lao hoặc lệ phí thẩm định phản biện luận án tiến sĩ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p11:c004",
+            "text": "3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 4,
+              "char_len": 419,
+              "start_char": 1681,
+              "end_char": 2100
+            },
+            "score": 0.532739,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p11:c001",
+            "text": "Điều 15. Phản biện độc lập luận án\n\n1. Phản biện độc lập là quy trình bắt buộc trước khi luận án của nghiên cứu sinh được đưa ra bảo vệ tại Hội đồng đánh giá luận án của cơ sở đào tạo. Chậm nhất không quá 06 tháng tính từ thời điểm nghiên cứu sinh hoàn thành thủ tục trình luận án sau khi đã được đơn vị chuyên môn thông qua, cơ sở đào tạo phải hoàn thành quy trình phản biện độc lập cho nghiên cứu sinh; riêng trường hợp phải thực hiện lấy ý kiến phản biện độc lập lần thứ hai theo quy định tại khoản 3 Điều này thì thời gian được kéo dài thêm tối đa 03 tháng.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 1,
+              "char_len": 561,
+              "start_char": 500,
+              "end_char": 1063
+            },
+            "score": 0.488312,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.479951,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p11:c004 | starter/data/tt18_2021_tien_si.pdf | page 11]\n3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+        "context_ids": [
+          "para:tt18-2021:p11:c004"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức thù lao hoặc lệ phí thẩm định phản biện luận án tiến sĩ",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt18-2021:p11:c004",
+            "text": "3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 4,
+              "char_len": 419,
+              "start_char": 1681,
+              "end_char": 2100
+            },
+            "score": 0.532739,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p11:c001",
+            "text": "Điều 15. Phản biện độc lập luận án\n\n1. Phản biện độc lập là quy trình bắt buộc trước khi luận án của nghiên cứu sinh được đưa ra bảo vệ tại Hội đồng đánh giá luận án của cơ sở đào tạo. Chậm nhất không quá 06 tháng tính từ thời điểm nghiên cứu sinh hoàn thành thủ tục trình luận án sau khi đã được đơn vị chuyên môn thông qua, cơ sở đào tạo phải hoàn thành quy trình phản biện độc lập cho nghiên cứu sinh; riêng trường hợp phải thực hiện lấy ý kiến phản biện độc lập lần thứ hai theo quy định tại khoản 3 Điều này thì thời gian được kéo dài thêm tối đa 03 tháng.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 11,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 15. Phản biện độc lập luận án",
+              "chunk_index": 1,
+              "char_len": 561,
+              "start_char": 500,
+              "end_char": 1063
+            },
+            "score": 0.488312,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt18-2021:p17:c003",
+            "text": "đ) Luận án không đạt yêu cầu thẩm định khi có từ 02 thành viên Hội đồng thẩm định luận án có mặt trở lên không thông qua. Trong trường hợp này, cơ sở đào tạo tổ chức và chủ trì đối thoại giữa Hội đồng thẩm định luận án và Hội đồng đánh giá luận án có sự tham dự của đại diện Bộ Giáo dục và Đào tạo. Số lượng thành viên của hai Hội đồng dự họp tối thiểu là 09 người, trong đó chủ tịch, phản biện, thư ký và các thành viên có ý kiến không tán thành của cả hai Hội đồng phải có mặt. Luận án không được thông qua nếu có từ 0 3 thành viên có mặt tại buổi đối thoại trở lên không tán thành.",
+            "source_id": "tt18-2021",
+            "source": "starter/data/tt18_2021_tien_si.pdf",
+            "page": 17,
+            "metadata": {
+              "title": "Quy chế tuyển sinh và đào tạo trình độ tiến sĩ (Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT)",
+              "version": "18/2021/TT-BGDĐT (2021-06-28)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "tien_si",
+              "year": 2021,
+              "section": "Điều 21. Xử lý kết quả kiểm tra, thẩm định",
+              "chunk_index": 3,
+              "char_len": 584,
+              "start_char": 1537,
+              "end_char": 2121
+            },
+            "score": 0.479951,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt18-2021:p11:c004 | starter/data/tt18_2021_tien_si.pdf | page 11]\n3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+        "context_ids": [
+          "para:tt18-2021:p11:c004"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 4750.78,
+    "llm_tokens": 3827,
+    "llm_cost_usd": 0.001711
+  },
+  {
+    "query_id": "u04",
+    "split": "test",
+    "question": "Quy chế đào tạo trình độ đại học có quy định điều kiện ưu tiên bố trí chỗ ở ký túc xá nội trú cho sinh viên năm nhất không?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "ưu tiên bố trí chỗ ở ký túc xá nội trú cho sinh viên năm nhất",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p12:c003",
+            "text": "c) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 12,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 12. Xử lý kết quả học tập theo niên chế",
+              "chunk_index": 3,
+              "char_len": 88,
+              "start_char": 1612,
+              "end_char": 1700
+            },
+            "score": 0.482926,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p15:c000",
+            "text": "3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 15,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 15. Nghỉ học tạm thời, thôi học",
+              "chunk_index": 0,
+              "char_len": 424,
+              "start_char": 0,
+              "end_char": 426
+            },
+            "score": 0.462278,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p18:c001",
+            "text": "Điều 20. Xử lý vi phạm đối với sinh viên\n\n1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 Điều này.\n\n2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 20. Xử lý vi phạm đối với sinh viên",
+              "chunk_index": 1,
+              "char_len": 507,
+              "start_char": 439,
+              "end_char": 948
+            },
+            "score": 0.452771,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p12:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 12]\nc) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.\n\n[para:tt08-2021:p15:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 15]\n3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+        "context_ids": [
+          "para:tt08-2021:p12:c003",
+          "para:tt08-2021:p15:c000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "ưu tiên bố trí chỗ ở ký túc xá nội trú cho sinh viên năm nhất",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p12:c003",
+            "text": "c) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 12,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 12. Xử lý kết quả học tập theo niên chế",
+              "chunk_index": 3,
+              "char_len": 88,
+              "start_char": 1612,
+              "end_char": 1700
+            },
+            "score": 0.482926,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p15:c000",
+            "text": "3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 15,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 15. Nghỉ học tạm thời, thôi học",
+              "chunk_index": 0,
+              "char_len": 424,
+              "start_char": 0,
+              "end_char": 426
+            },
+            "score": 0.462278,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p18:c001",
+            "text": "Điều 20. Xử lý vi phạm đối với sinh viên\n\n1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 Điều này.\n\n2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 20. Xử lý vi phạm đối với sinh viên",
+              "chunk_index": 1,
+              "char_len": 507,
+              "start_char": 439,
+              "end_char": 948
+            },
+            "score": 0.452771,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p12:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 12]\nc) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.\n\n[para:tt08-2021:p15:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 15]\n3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+        "context_ids": [
+          "para:tt08-2021:p12:c003",
+          "para:tt08-2021:p15:c000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "ưu tiên bố trí chỗ ở ký túc xá nội trú cho sinh viên năm nhất",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p12:c003",
+            "text": "c) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 12,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 12. Xử lý kết quả học tập theo niên chế",
+              "chunk_index": 3,
+              "char_len": 88,
+              "start_char": 1612,
+              "end_char": 1700
+            },
+            "score": 0.482926,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p15:c000",
+            "text": "3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 15,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 15. Nghỉ học tạm thời, thôi học",
+              "chunk_index": 0,
+              "char_len": 424,
+              "start_char": 0,
+              "end_char": 426
+            },
+            "score": 0.462278,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p18:c001",
+            "text": "Điều 20. Xử lý vi phạm đối với sinh viên\n\n1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 Điều này.\n\n2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 20. Xử lý vi phạm đối với sinh viên",
+              "chunk_index": 1,
+              "char_len": 507,
+              "start_char": 439,
+              "end_char": 948
+            },
+            "score": 0.452771,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p12:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 12]\nc) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.\n\n[para:tt08-2021:p15:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 15]\n3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+        "context_ids": [
+          "para:tt08-2021:p12:c003",
+          "para:tt08-2021:p15:c000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "ưu tiên bố trí chỗ ở ký túc xá nội trú cho sinh viên năm nhất",
+        "filter": null,
+        "results": [
+          {
+            "id": "para:tt08-2021:p12:c003",
+            "text": "c) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 12,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 12. Xử lý kết quả học tập theo niên chế",
+              "chunk_index": 3,
+              "char_len": 88,
+              "start_char": 1612,
+              "end_char": 1700
+            },
+            "score": 0.482926,
+            "rank": 1,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p15:c000",
+            "text": "3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 15,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 15. Nghỉ học tạm thời, thôi học",
+              "chunk_index": 0,
+              "char_len": 424,
+              "start_char": 0,
+              "end_char": 426
+            },
+            "score": 0.462278,
+            "rank": 2,
+            "strategy": "dense_qdrant"
+          },
+          {
+            "id": "para:tt08-2021:p18:c001",
+            "text": "Điều 20. Xử lý vi phạm đối với sinh viên\n\n1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 Điều này.\n\n2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.",
+            "source_id": "tt08-2021",
+            "source": "starter/data/tt08_2021_dai_hoc.pdf",
+            "page": 18,
+            "metadata": {
+              "title": "Quy chế đào tạo trình độ đại học (Ban hành kèm theo Thông tư số 08/2021/TT-BGDĐT)",
+              "version": "08/2021/TT-BGDĐT (2021-03-18)",
+              "doc_type": "thong_tu_quy_che",
+              "cap_dao_tao": "dai_hoc",
+              "year": 2021,
+              "section": "Điều 20. Xử lý vi phạm đối với sinh viên",
+              "chunk_index": 1,
+              "char_len": 507,
+              "start_char": 439,
+              "end_char": 948
+            },
+            "score": 0.452771,
+            "rank": 3,
+            "strategy": "dense_qdrant"
+          }
+        ],
+        "context": "[para:tt08-2021:p12:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 12]\nc) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.\n\n[para:tt08-2021:p15:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 15]\n3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.",
+        "context_ids": [
+          "para:tt08-2021:p12:c003",
+          "para:tt08-2021:p15:c000"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 4625.16,
+    "llm_tokens": 4097,
+    "llm_cost_usd": 0.001825
+  }
+]

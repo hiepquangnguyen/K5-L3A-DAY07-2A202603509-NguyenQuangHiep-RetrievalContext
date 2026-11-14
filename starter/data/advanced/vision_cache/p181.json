@@ -1,0 +1,14 @@
+{
+  "page": 181,
+  "page_title": "THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày văn bản thuyết minh báo cáo tài chính hợp nhất với tiêu đề chính ở trên cùng. Bên trái là thanh mục lục dọc với các mục đánh số từ 01 đến 08, mục 08 'BÁO CÁO TÀI CHÍNH HỢP NHẤT' được đánh dấu màu xanh dương và nền cam nhạt. Phần nội dung chính bên phải gồm các đoạn văn bản với các tiêu đề phụ màu xanh dương và cam, có bảng liệt kê thời gian sử dụng hữu ích của các loại tài sản cố định. Bảng có 2 cột, cột bên trái là loại tài sản, cột bên phải là khoảng thời gian (năm).",
+  "charts_and_tables": "Loại bảng: Bảng liệt kê thời gian sử dụng hữu ích ước tính của các loại tài sản cố định (TSCĐ).\n\n| Loại tài sản           | Thời gian sử dụng hữu ích (năm) |\n|-----------------------|---------------------------------|\n| Nhà cửa, vật kiến trúc | 5 – 30 năm                      |\n| Máy móc, thiết bị       | 3 – 25 năm                      |\n| Phương tiện vận tải    | 4 – 7 năm                       |\n| Thiết bị quản lý       | 3 – 10 năm                      |\n| Khác                  | 3 – 5 năm                       |\n\nNội dung văn bản chính gồm các phần: \n- 2.12. Hợp đồng phát triển phần mềm và tích hợp hệ thống: chính sách kế toán áp dụng, phương pháp hạch toán doanh thu và chi phí theo tiến độ công việc, ghi nhận doanh thu khi không thể ước tính đáng tin cậy, xử lý chi phí phát sinh và lợi nhuận hoặc lỗ.\n- 2.13. Tài sản cố định (TSCĐ): phân loại tài sản cố định hữu hình và vô hình, phương pháp khấu hao theo đường thẳng, nguyên giá tài sản cố định, các chi phí liên quan, thời gian sử dụng hữu ích ước tính của từng loại tài sản.\n- TSCĐ vô hình và khấu hao: định nghĩa tài sản cố định vô hình gồm quyền sử dụng đất, phần mềm máy tính, giấy phép, quyền khai thác, quyền phát hành và bản quyền, mối quan hệ với khách hàng và tên thương mại.\n- Quyền sử dụng đất: quyền sử dụng đất do Nhà nước giao có thu tiền sử dụng đất, quyền sử dụng đất nhận chuyển nhượng hợp pháp, tiền sử dụng đất trả trước cho hợp đồng thuê đất trước ngày 1/7/2004, nguyên giá quyền sử dụng đất bao gồm giá mua và chi phí liên quan, phương pháp khấu hao theo đường thẳng, quyền sử dụng đất không có thời hạn không được khấu hao.",
+  "prompt_tokens": 4299,
+  "completion_tokens": 693,
+  "cost_usd": 0.002828,
+  "error": null
+}

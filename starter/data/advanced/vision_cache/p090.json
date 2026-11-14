@@ -1,0 +1,15 @@
+{
+  "page": 90,
+  "page_title": "Nguyên tắc 05: Đảm bảo hoạt động hiệu quả của HĐQT và Môi trường kiểm soát",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang gồm phần nội dung văn bản chính về nguyên tắc hoạt động của Hội đồng Quản trị (HĐQT) và môi trường kiểm soát. Bên trái là mục lục phần 06 Quản trị công ty với các mục nhỏ. Phần giữa trang có bảng chi tiết thù lao của từng thành viên HĐQT năm 2025 với 3 cột: Thành viên HĐQT, Chức danh, Thù lao (đơn vị VNĐ). Phần bên phải trang là đoạn văn bản về nguyên tắc 07 và môi trường kiểm soát. Góc dưới bên phải có ảnh chụp hai người đang bắt tay trên bàn làm việc có tài liệu và laptop.",
+  "charts_and_tables": "Bảng: Chi tiết thù lao của từng thành viên HĐQT năm 2025 (Đơn vị: VNĐ)\n\n| Thành viên HĐQT               | Chức danh           | Thù lao       |\n|------------------------------|---------------------|--------------|\n| Ông Trương Gia Bình          | Chủ tịch HĐQT       | 0            |\n| Ông Bùi Quang Ngọc           | Phó chủ tịch HĐQT   | 0            |\n| Ông Đỗ Cao Bảo               | Ủy viên HĐQT        | 0            |\n| Ông Jean-Charles Belliol     | Ủy viên HĐQT        | 960.000.000  |\n| Ông Hiroshi Yokotsuka        | Ủy viên HĐQT        | 2.613.975.000|\n| Ông Hampapur Rangadore Binod | Ủy viên HĐQT        | 2.613.975.000|\n| Bà Trần Thị Hồng Lĩnh        | Ủy viên HĐQT        | 360.000.000  |",
+  "prompt_tokens": 4305,
+  "completion_tokens": 457,
+  "cost_usd": 0.002453,
+  "error": null
+}

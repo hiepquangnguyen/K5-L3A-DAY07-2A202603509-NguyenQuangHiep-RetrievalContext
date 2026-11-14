@@ -1,0 +1,14 @@
+{
+  "page": 16,
+  "page_title": "DẤU ẤN 2025",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang gồm hai phần chính với tiêu đề lớn màu xanh dương. Phần trái là bài viết về 'Ra mắt Liên minh Nhân lực chiến lược thực thi Nghị quyết 57-NQ/TW' kèm ảnh chụp lễ ký kết và ra mắt Liên minh với nhiều người đứng và ngồi trên sân khấu, phía sau là màn hình lớn hiển thị tên sự kiện. Phần phải là bài viết về 'Khởi xướng thành lập Liên minh AI Âu Lạc phát triển mô hình ngôn ngữ lớn tiếng Việt' kèm ảnh chụp sự kiện ra mắt Liên minh AI Âu Lạc với nhiều người đứng trên sân khấu, phía sau là màn hình lớn với logo và tên Liên minh AI Âu Lạc. Cả hai ảnh đều có khán giả ngồi phía dưới đang chụp ảnh sự kiện.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4397,
+  "completion_tokens": 228,
+  "cost_usd": 0.002124,
+  "error": null
+}

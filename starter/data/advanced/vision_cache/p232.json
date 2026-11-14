@@ -1,0 +1,14 @@
+{
+  "page": 232,
+  "page_title": "Thông tin liên hệ Công ty Cổ phần FPT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang cuối báo cáo thường niên với nền xanh dương đậm, có hiệu ứng ánh sáng và các đường mạch điện tử màu vàng nhạt trải rộng. Góc dưới bên trái có logo FPT màu trắng. Phần chữ trắng gồm tên công ty, địa chỉ, số điện thoại và website được đặt ở góc dưới bên trái.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4203,
+  "completion_tokens": 116,
+  "cost_usd": 0.001867,
+  "error": null
+}

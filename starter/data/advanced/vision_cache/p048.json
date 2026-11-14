@@ -1,0 +1,14 @@
+{
+  "page": 48,
+  "page_title": "Chiến lược phát triển",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang gồm hai cột nội dung chính. Cột trái trình bày văn bản về xu hướng ứng dụng AI và sự phát triển của lực lượng kỹ sư AI, cùng với biểu đồ đường thể hiện quy mô thị trường AI doanh nghiệp từ năm 2022 đến 2025. Cột phải trình bày văn bản về xung đột địa chính trị và chiến tranh thương mại định hình chuỗi giá trị công nghệ toàn cầu. Biểu đồ đường có các điểm dữ liệu năm 2022, 2023, 2024, 2025 với các giá trị tương ứng, có mũi tên tăng trưởng màu xanh lá và số liệu tăng trưởng cụ thể.",
+  "charts_and_tables": "Biểu đồ đường: Tiêu đề: Quy mô thị trường AI doanh nghiệp; Đơn vị: Tỷ USD; Dữ liệu theo năm: 2022: 0; 2023: 1,7; 2024: 11,5; 2025: 37,0; Tăng trưởng: từ 2024 đến 2025 tăng 3,2 lần; từ 2023 đến 2024 tăng 6,8 lần.",
+  "prompt_tokens": 4290,
+  "completion_tokens": 279,
+  "cost_usd": 0.002162,
+  "error": null
+}

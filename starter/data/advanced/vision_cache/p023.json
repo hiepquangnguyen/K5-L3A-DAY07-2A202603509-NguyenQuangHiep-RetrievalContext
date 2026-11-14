@@ -1,0 +1,14 @@
+{
+  "page": 23,
+  "page_title": "TỔNG QUAN VỀ FPT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có hình ảnh tòa nhà trụ sở chính của FPT với logo FPT lớn phía trước. Bên trái là mục lục phần 03 Tổng quan về FPT với các mục con như Thông tin chung, Sứ mệnh, giá trị cốt lõi, Ngành nghề kinh doanh, Vị thế và quy mô, Hành trình khẳng định năng lực và vị thế, Cơ cấu quản trị và bộ máy quản lý, Ban Lãnh đạo. Bên phải là phần Thông tin chung với các thông tin chi tiết về công ty như tên công ty, tên viết tắt, ngày thành lập, giấy chứng nhận đăng ký kinh doanh, vốn điều lệ, vốn chủ sở hữu, giá trị vốn hóa, trụ sở chính, điện thoại, fax và website.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4366,
+  "completion_tokens": 209,
+  "cost_usd": 0.002081,
+  "error": null
+}

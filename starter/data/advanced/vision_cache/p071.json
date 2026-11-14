@@ -1,0 +1,14 @@
+{
+  "page": 71,
+  "page_title": "Lĩnh vực dịch vụ nội dung số",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm ba phần chính: bên trái là mục lục báo cáo thường niên 2025 của FPT với các phần đánh số từ 01 đến 08, phần 05 được tô màu xanh dương nhạt và có dấu chấm cam bên cạnh, thể hiện phần 'Phân tích hoạt động kinh doanh'. Ở giữa trang là biểu tượng loa phát thanh màu xanh dương nhạt kèm theo dòng chữ 'Hệ sinh thái truyền thông marketing số hàng đầu' và số liệu nổi bật '50+ Triệu Người dùng toàn cầu' với chữ 'Triệu' màu xanh dương. Phía dưới là ảnh minh họa kỹ thuật số với các hình ảnh nhỏ ghép lại trên nền màu xanh đậm. Bên phải trang là ảnh chân dung bà Nguyễn Thị Hải, Chủ tịch FPT Online, mặc áo đen, tay khoanh trước ngực. Dưới ảnh là trích dẫn lời phát biểu của bà Nguyễn Thị Hải về mục tiêu và kế hoạch phát triển của công ty trong năm 2025 và 2026, với các đoạn văn bản màu đen và một số chi tiết màu cam như tên và chức danh.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4403,
+  "completion_tokens": 290,
+  "cost_usd": 0.002225,
+  "error": null
+}

@@ -1,0 +1,29 @@
+{
+  "split": "dev",
+  "n": 18,
+  "statuses": {
+    "answered": 15,
+    "abstain": 3,
+    "error": 0
+  },
+  "avg_tool_calls": 2.33,
+  "tool_breakdown": {
+    "search_multimodal_hybrid": 21,
+    "inspect_page_image": 19,
+    "search_exact_keywords": 1,
+    "read_page_full": 1
+  },
+  "median_ms": 10661.78,
+  "p95_ms": 18167.84,
+  "total_seconds": 219.97,
+  "chat_model": "gpt-4.1-mini",
+  "vision_model": "gpt-4.1-mini",
+  "embed_model": "text-embedding-3-large",
+  "agent_llm_tokens": 357675,
+  "agent_cost_usd": 0.156911,
+  "embed_tokens": 866,
+  "embed_cost_usd": 0.000113,
+  "rerank_tokens": 75119,
+  "rerank_cost_usd": 0.030975,
+  "total_estimated_cost_usd": 0.187999
+}

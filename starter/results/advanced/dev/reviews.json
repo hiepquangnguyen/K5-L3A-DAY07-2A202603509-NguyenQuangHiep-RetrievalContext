@@ -1,0 +1,267 @@
+[
+  {
+    "query_id": "adv_dev_t01",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      4
+    ],
+    "citation_pages": [
+      4
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_t02",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      57
+    ],
+    "citation_pages": [
+      57
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_t03",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      74
+    ],
+    "citation_pages": [
+      19,
+      74
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_tbl01",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      12
+    ],
+    "citation_pages": [
+      12
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_tbl02",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      90
+    ],
+    "citation_pages": [
+      215
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): cited equivalent Note 35.vii Board remuneration table on p215 (matches p90)."
+  },
+  {
+    "query_id": "adv_dev_tbl03",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      149
+    ],
+    "citation_pages": [
+      149
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_c01",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      11
+    ],
+    "citation_pages": [
+      11
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_c02",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      67
+    ],
+    "citation_pages": [
+      67
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_c03",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      137
+    ],
+    "citation_pages": [
+      137
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_id01",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      15
+    ],
+    "citation_pages": [
+      15
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_id02",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      29
+    ],
+    "citation_pages": [
+      29
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_id03",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      51
+    ],
+    "citation_pages": [
+      51
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_mh01",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      55,
+      60
+    ],
+    "citation_pages": [
+      55,
+      60
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_mh02",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      138,
+      152
+    ],
+    "citation_pages": [
+      138,
+      152
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_mh03",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      82,
+      83
+    ],
+    "citation_pages": [
+      82,
+      83
+    ],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): exact key_facts, valid inline citations, and source_pages covered."
+  },
+  {
+    "query_id": "adv_dev_u01",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): clean abstention after inspecting candidate pages."
+  },
+  {
+    "query_id": "adv_dev_u02",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): clean abstention after inspecting candidate pages."
+  },
+  {
+    "query_id": "adv_dev_u03",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "missing_key_facts": [],
+    "passed": true,
+    "note": "Verified human review (v5): clean abstention after inspecting candidate pages."
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "query_id": "adv_test_t01",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      8
+    ],
+    "citation_pages": [
+      8,
+      55
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_t02",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      49
+    ],
+    "citation_pages": [
+      49
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_t03",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      70
+    ],
+    "citation_pages": [
+      70
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_t04",
+    "category": "text",
+    "status": "answered",
+    "source_pages": [
+      154
+    ],
+    "citation_pages": [
+      154
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_tbl01",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      32
+    ],
+    "citation_pages": [
+      32
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_tbl02",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      33
+    ],
+    "citation_pages": [
+      33
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_tbl03",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      59
+    ],
+    "citation_pages": [
+      59
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_tbl04",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      75
+    ],
+    "citation_pages": [
+      75
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_tbl05",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      146
+    ],
+    "citation_pages": [
+      146
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_tbl06",
+    "category": "table",
+    "status": "answered",
+    "source_pages": [
+      169
+    ],
+    "citation_pages": [
+      169
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_c01",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      10
+    ],
+    "citation_pages": [
+      10
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_c02",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      27
+    ],
+    "citation_pages": [
+      27
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_c03",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      62
+    ],
+    "citation_pages": [
+      62
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: nêu đầy đủ 4 thị trường và 'Châu Á-Thái Bình Dương giảm 0,8%' (tương đương -0,8%)."
+  },
+  {
+    "query_id": "adv_test_c04",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      63
+    ],
+    "citation_pages": [
+      63
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_c05",
+    "category": "chart",
+    "status": "answered",
+    "source_pages": [
+      65
+    ],
+    "citation_pages": [
+      65
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_id01",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      31
+    ],
+    "citation_pages": [
+      31
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_id02",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      66
+    ],
+    "citation_pages": [
+      66
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_id03",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      80
+    ],
+    "citation_pages": [
+      80
+    ],
+    "invalid_citations": [],
+    "passed": false,
+    "note": "FAIL: trả lời chỉ nêu Tổng Giám đốc là người đại diện theo pháp luật, bỏ sót Chủ tịch HĐQT (trang 80 ghi rõ cả hai)."
+  },
+  {
+    "query_id": "adv_test_id04",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      111
+    ],
+    "citation_pages": [
+      111
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS (v5): trả lời đủ 5 chuẩn ISO và 1,1 triệu giờ; trích dẫn sạch p111:t000, p111:v000, không còn rò rỉ tag p118 như v4."
+  },
+  {
+    "query_id": "adv_test_id05",
+    "category": "image_diagram",
+    "status": "answered",
+    "source_pages": [
+      155
+    ],
+    "citation_pages": [
+      155
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: đọc đúng phông chữ sân khấu 'FPT Young Talents K24', niên khóa 2023-2025 và đầy đủ 4 mốc Học bổng Nguyễn Văn Đạo (93; 682; 2.611; 8.875 suất / 151 tỷ)."
+  },
+  {
+    "query_id": "adv_test_mh01",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      166,
+      167,
+      168
+    ],
+    "citation_pages": [
+      165,
+      167,
+      168
+    ],
+    "invalid_citations": [],
+    "passed": false,
+    "note": "FAIL: giá trị 3 chỉ tiêu khớp và phép cộng đúng, nhưng gán sai trang nguồn p165:t000 (chỉ có Tài sản ngắn hạn) cho Tổng tài sản Mã 270 (nằm ở p166) và không inspect p166."
+  },
+  {
+    "query_id": "adv_test_mh02",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      170,
+      171
+    ],
+    "citation_pages": [
+      170,
+      171
+    ],
+    "invalid_citations": [],
+    "passed": false,
+    "note": "FAIL: tính nhẩm sai tỷ lệ chuyển đổi 10.136.043.915.911 / 11.232.339.450.734 = 90,24% thành 'khoảng 90,1%'."
+  },
+  {
+    "query_id": "adv_test_mh03",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      144,
+      147
+    ],
+    "citation_pages": [
+      144,
+      147
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Verified all key_facts, exact figures, valid inline citations, and source_pages coverage."
+  },
+  {
+    "query_id": "adv_test_mh04",
+    "category": "multi_hop",
+    "status": "answered",
+    "source_pages": [
+      30,
+      68
+    ],
+    "citation_pages": [
+      30,
+      68
+    ],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS (v5): benchmark 2-hop đã bỏ gợi ý p030; agent tìm và kiểm chứng cả p030 (FPT Semiconductor, NVIDIA) lẫn p068 (Restar, 10 triệu chip, hạng 36/38, >111 tỷ tokens) và trích dẫn đủ cả 2 trang."
+  },
+  {
+    "query_id": "adv_test_u01",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Clean abstention after inspecting candidate pages; no hallucination."
+  },
+  {
+    "query_id": "adv_test_u02",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Clean abstention after inspecting candidate pages; no hallucination."
+  },
+  {
+    "query_id": "adv_test_u03",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Clean abstention after inspecting candidate pages; no hallucination."
+  },
+  {
+    "query_id": "adv_test_u04",
+    "category": "unanswerable",
+    "status": "answered",
+    "source_pages": [],
+    "citation_pages": [
+      65,
+      137
+    ],
+    "invalid_citations": [],
+    "passed": false,
+    "note": "FAIL: trả lời không có lương bình quân nhưng vẫn gọi submit_final_answer(abstain=false) kèm 3 trích dẫn (nêu doanh thu/người 93 triệu) thay vì abstain=true."
+  },
+  {
+    "query_id": "adv_test_u05",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Clean abstention after inspecting candidate pages; no hallucination."
+  },
+  {
+    "query_id": "adv_test_u06",
+    "category": "unanswerable",
+    "status": "abstain",
+    "source_pages": [],
+    "citation_pages": [],
+    "invalid_citations": [],
+    "passed": true,
+    "note": "PASS: Clean abstention after inspecting candidate pages; no hallucination."
+  }
+]

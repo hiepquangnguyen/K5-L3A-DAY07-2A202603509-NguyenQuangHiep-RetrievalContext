@@ -1,0 +1,234 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trong quy trình phản biện độc lập luận án tiến sĩ, thông tin về người phản biện độc lập được bảo mật như thế nào và việc liên hệ thuộc trách nhiệm của ai?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Trong đào tạo trình độ tiến sĩ, việc đánh giá và tính điểm các học phần trong chương trình đào tạo được áp dụng theo quy định nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    }
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Hình thức đánh giá trực tuyến ở bậc đại học đóng góp tối đa bao nhiêu phần trăm trọng số điểm học phần và hội đồng bảo vệ khóa luận trực tuyến cần ít nhất mấy thành viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Sinh viên đại học đã hết thời gian học tập tối đa nhưng chưa đạt chuẩn đầu ra về ngoại ngữ hoặc công nghệ thông tin thì được hoàn thiện các điều kiện còn thiếu trong thời hạn bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Theo Phụ lục II của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, chứng chỉ tiếng Anh TOEFL iBT và IELTS cần đạt mức điểm tối thiểu là bao nhiêu để minh chứng trình độ ngoại ngữ của người dự tuyển?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Nghiên cứu sinh được phép hoàn thành chương trình đào tạo tiến sĩ sớm hơn kế hoạch tối đa bao lâu và tổng thời gian đào tạo chậm hơn không vượt quá mấy năm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Quy chế của cơ sở đào tạo đại học quy định giới hạn số lần cảnh báo học tập liên tiếp đối với sinh viên tối đa là mấy lần?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ ở bậc đại học, chương trình đào tạo phải thể hiện rõ điều gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Sinh viên đại học xin thôi học vì lý do cá nhân nếu muốn quay trở lại học thì phải thực hiện quy định gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Theo thang điểm 10 trong quy chế đào tạo đại học, mức điểm nào được xếp loại Xuất sắc, Giỏi và Khá?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Khi đề tài luận án tiến sĩ liên quan đến bí mật quốc gia thuộc danh mục bí mật nhà nước, cơ sở đào tạo phải thực hiện thủ tục gì ngay sau khi có quyết định công nhận nghiên cứu sinh?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Đối với giảng viên giảng dạy chương trình đào tạo tiến sĩ thuộc lĩnh vực nghệ thuật, tiêu chuẩn công bố khoa học có thể được thay thế bằng danh hiệu nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Ở trình độ đại học, hội đồng chuyên môn của cơ sở đào tạo xem xét công nhận và chuyển đổi tín chỉ dựa trên việc đối sánh những yếu tố nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Để được xét cấp bằng tiến sĩ, nghiên cứu sinh phải nộp tóm tắt luận án và toàn văn luận án hoàn chỉnh cuối cùng cho cơ quan lưu chiểu quốc gia nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Ở trình độ tiến sĩ, việc công nhận và chuyển đổi kết quả học tập, nghiên cứu đã tích lũy của nghiên cứu sinh được thực hiện trên cơ sở đề xuất của ai?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "question": "Thông báo tuyển sinh trình độ tiến sĩ phải được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo ít nhất bao nhiêu ngày làm việc trước khi tổ chức tuyển sinh?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "question": "Khi sinh viên đại học đang học cùng lúc hai chương trình, trong trường hợp nào sinh viên phải dừng học chương trình thứ hai ở học kỳ tiếp theo?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "dev",
+    "question": "Theo quy chế đào tạo trình độ đại học, đối với hình thức chính quy và vừa làm vừa học thì tối đa bao nhiêu phần trăm tổng khối lượng chương trình đào tạo được thực hiện bằng lớp học trực tuyến?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "dev",
+    "question": "Trong thời gian tối đa bao lâu kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập thì cơ sở đào tạo phải thành lập Hội đồng đánh giá luận án, và những người thân nào của nghiên cứu sinh không được tham gia Hội đồng?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "dev",
+    "question": "Khi cần thiết phải xếp lịch học tập trung thời gian ở trình độ đại học, số giờ giảng đối với một học phần bất kỳ không được vượt quá giới hạn nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "question": "Theo Quy chế đào tạo trình độ đại học, liên kết đào tạo chỉ được thực hiện đối với hình thức học nào và bị cấm đối với nhóm ngành nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    }
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "question": "Khi cơ sở đào tạo đại học cho phép sinh viên thi lại hoặc đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt, điểm học phần sau khi thi lại bị giới hạn tối đa ở mức điểm chữ nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "Trong trao đổi sinh viên đại học, số lượng tín chỉ tối đa mà sinh viên được phép tích lũy tại cơ sở đào tạo khác chiếm không quá bao nhiêu phần trăm tổng khối lượng chương trình đào tạo?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "Tại cùng một thời điểm, giảng viên có chức danh Giáo sư, Phó Giáo sư và Tiến sĩ được hướng dẫn độc lập tối đa bao nhiêu nghiên cứu sinh, và việc đồng hướng dẫn được quy đổi như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    }
+  },
+  {
+    "id": "q25",
+    "split": "test",
+    "question": "Người dự tuyển trình độ tiến sĩ là công dân nước ngoài nếu đăng ký học bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc mấy?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q26",
+    "split": "test",
+    "question": "Khi chất lượng luận án tiến sĩ không đạt yêu cầu thẩm định, Hội đồng thẩm định luận án do Bộ Giáo dục và Đào tạo thành lập gồm bao nhiêu thành viên và có tối thiểu bao nhiêu thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "Theo Quy chế đào tạo trình độ đại học và tiến sĩ trong bộ tài liệu, mức tiền học bổng khuyến khích học tập và điều kiện điểm tối thiểu để nhận học bổng là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đã kiểm tra toàn bộ 210 chunks (TT08/2021 và TT18/2021): từ khóa 'học bổng' xuất hiện 0 lần; các quy chế đào tạo này không quy định chính sách hay mức tiền học bổng."
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "Quy chế đào tạo trình độ đại học quy định cách chấm điểm rèn luyện sinh viên theo từng học kỳ trên thang điểm bao nhiêu và xếp loại rèn luyện ra sao?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đã kiểm tra toàn bộ 210 chunks: cụm 'điểm rèn luyện' xuất hiện 0 lần; TT08/2021 chỉ quy định đánh giá học phần và học lực (Điều 9–10)."
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "Theo Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, mức thù lao hoặc lệ phí thẩm định, phản biện độc lập luận án tiến sĩ là bao nhiêu đồng?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đã kiểm tra toàn bộ 210 chunks: các từ khóa 'thù lao', 'lệ phí' xuất hiện 0 lần; Điều 15 TT18/2021 chỉ quy định quy trình phản biện độc lập, không quy định mức chi phí tài chính."
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "Quy chế đào tạo trình độ đại học có quy định điều kiện ưu tiên bố trí chỗ ở ký túc xá nội trú cho sinh viên năm nhất không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đã kiểm tra toàn bộ 210 chunks: các từ khóa 'ký túc xá', 'nội trú' xuất hiện 0 lần; TT08/2021 không điều chỉnh công tác nội trú sinh viên."
+  }
+]

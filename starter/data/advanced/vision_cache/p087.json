@@ -1,0 +1,14 @@
+{
+  "page": 87,
+  "page_title": "Thành viên Hội đồng Quản trị (HĐQT) FPT",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày có logo FPT và tiêu đề 'Làm Chủ Công Nghệ Chiến Lược - Báo cáo thường niên 2025' ở góc trên bên trái. Bên trái là mục lục phần 06 Quản trị công ty với các mục nhỏ. Phần chính bên phải là bảng thông tin về thành viên HĐQT gồm các cột: Thành viên HĐQT, Chức vụ tại FPT và các công ty khác, Kinh nghiệm chuyên môn, Tỷ lệ sở hữu, Ngày bắt đầu là thành viên HĐQT, Số buổi họp HĐQT tham dự, Tỷ lệ tham dự họp. Dưới bảng có đoạn văn bản mô tả về quy hoạch nhân sự kế cận và luân chuyển cán bộ lãnh đạo cấp cao của FPT.",
+  "charts_and_tables": "| Thành viên HĐQT               | Chức vụ tại FPT và các công ty khác                                                                 | Kinh nghiệm chuyên môn          | Tỷ lệ sở hữu | Ngày bắt đầu là thành viên HĐQT | Số buổi họp HĐQT tham dự | Tỷ lệ tham dự họp |\n|------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------|--------------|---------------------------------|--------------------------|-------------------|\n| Ông Hampapur Rangadore Binod | Ủy viên HĐQT độc lập FPT                                                                              | CNTT                           | 0,00%        | 07/04/2022                      | 07/07                    | 100%              |\n|                              | Cố vấn trưởng FPT Software (Không còn đương nhiệm từ tháng 04/2025)                                   |                                |              |                                 |                          |                   |\n|                              | Giám đốc FPT Ấn Độ (Không còn đương nhiệm từ tháng 04/2025)                                          |                                |              |                                 |                          |                   |\n| Bà Trần Thị Hồng Lĩnh        | Ủy viên HĐQT FPT                                                                                      | Đầu tư và quản trị doanh nghiệp| 0,00%        | 07/04/2022                      | 07/07                    | 100%              |\n|                              | Phó trưởng Ban Đầu tư 4, Tổng công ty Đầu tư và kinh doanh vốn Nhà nước                               |                                |              |                                 |                          |                   |\n|                              | Thành viên HĐQT FPT Telecom (Không còn đương nhiệm từ 24/12/2025)                                    |                                |              |                                 |                          |                   |",
+  "prompt_tokens": 4302,
+  "completion_tokens": 581,
+  "cost_usd": 0.00265,
+  "error": null
+}

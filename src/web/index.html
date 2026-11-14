@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Day 7 — Agentic RAG & Multimodal Studio</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="brand-badge">R7</div>
+        <div>
+          <div class="brand-title">Day 7 Agentic RAG &amp; Multimodal Studio</div>
+          <div class="brand-sub">Nguyễn Quang Hiệp · 2A202603509 · L3A · OpenAI + Qdrant</div>
+        </div>
+      </div>
+
+      <nav class="main-nav" aria-label="Chuyển màn hình">
+        <button class="nav-btn active" data-tab="live">Live Studio</button>
+        <button class="nav-btn" data-tab="basic">Basic Benchmark</button>
+        <button class="nav-btn" data-tab="advanced">Advanced 232p</button>
+        <button class="nav-btn" data-tab="corpus">Corpus Explorer</button>
+      </nav>
+
+      <div id="status-strip" class="status-strip" aria-live="polite">
+        <span class="pill pill-muted">Đang tải cấu hình...</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <!-- TAB 1: LIVE STUDIO -->
+    <section id="tab-live" class="tab-panel active">
+      <div class="workbench card">
+        <div class="workbench-top">
+          <div>
+            <h1 class="section-heading">Hỏi đáp trực tiếp trên Agentic RAG</h1>
+            <p class="section-desc">
+              Thử nghiệm trực tiếp pipeline <strong>FPT BCTN 2025 (232 trang đa phương thức)</strong> hoặc đối chiếu <strong>MOET Baseline vs Chosen</strong> với trích dẫn chứng thực và ảnh trang gốc.
+            </p>
+          </div>
+          <div class="kb-switch" role="group" aria-label="Chọn hệ thống RAG">
+            <button class="seg-btn active" data-kb="advanced" data-mode="advanced">
+              FPT BCTN 2025 <span class="badge">232p Vision</span>
+            </button>
+            <button class="seg-btn" data-kb="basic" data-mode="chosen">
+              MOET Chosen <span class="badge">Hybrid Rerank</span>
+            </button>
+            <button class="seg-btn" data-kb="basic" data-mode="compare">
+              MOET So sánh <span class="badge">Baseline vs Chosen</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="controls-row">
+          <div id="adv-options" class="option-group">
+            <label class="toggle-chip">
+              <input id="opt-reranker" type="checkbox" checked />
+              <span>Bật LLM Reranker (gpt-4.1-mini)</span>
+            </label>
+            <span class="meta-hint">Embedding: <code>text-embedding-3-large (3072d)</code> · Budget: <code>8.000 chars</code></span>
+          </div>
+
+          <div id="basic-options" class="option-group hidden">
+            <label class="select-chip">
+              <span>Lọc metadata bậc:</span>
+              <select id="opt-filter-cap">
+                <option value="">Tất cả văn bản (TT08 + TT18)</option>
+                <option value="dai_hoc">Chỉ Đại học (TT 08/2021)</option>
+                <option value="tien_si">Chỉ Tiến sĩ (TT 18/2021)</option>
+              </select>
+            </label>
+            <span class="meta-hint">Day 6 Qdrant: <code>day06_moet_chunks</code> (210 chunks, 1536d)</span>
+          </div>
+        </div>
+
+        <form id="ask-form" class="ask-form">
+          <textarea
+            id="ask-input"
+            rows="2"
+            placeholder="Nhập câu hỏi tiếng Việt (ví dụ về số liệu tài chính, biểu đồ, sơ đồ trên BCTN FPT 2025 hoặc quy chế ĐH/TS Bộ GD&ĐT)..."
+          ></textarea>
+          <div class="ask-actions">
+            <button id="ask-submit" type="submit" class="btn-primary">Chạy Agent</button>
+          </div>
+        </form>
+
+        <div class="presets-bar">
+          <span class="presets-label">Câu hỏi mẫu:</span>
+          <div id="preset-chips" class="preset-chips"></div>
+        </div>
+      </div>
+
+      <div id="live-loading" class="loading-banner hidden">
+        <div class="spinner"></div>
+        <div>
+          <strong id="loading-title">Đang truy xuất Qdrant &amp; điều phối Agent...</strong>
+          <div class="loading-sub" id="loading-sub">Hệ thống có thể gọi Hybrid Rerank và Vision LLM kiểm chứng trang ảnh gốc (thường mất 4–15 giây).</div>
+        </div>
+      </div>
+
+      <div id="live-error" class="error-banner hidden"></div>
+
+      <div id="live-empty" class="empty-hero card">
+        <div class="empty-grid">
+          <div>
+            <h2>Chọn câu hỏi mẫu hoặc nhập truy vấn mới</h2>
+            <p>Mỗi lượt chạy trả về đầy đủ <strong>câu trả lời có citation nội dòng</strong>, <strong>timeline công cụ từng bước</strong> (truy vấn hybrid, từ khóa chính xác, đọc toàn trang, kiểm ảnh Vision zoom), và <strong>trình xem trang PDF gốc</strong>.</p>
+          </div>
+          <div class="arch-mini">
+            <div class="arch-node">1. Dense + BM25 RRF</div>
+            <div class="arch-arrow">→</div>
+            <div class="arch-node">2. GPT-4.1-mini Rerank</div>
+            <div class="arch-arrow">→</div>
+            <div class="arch-node">3. Live Vision Zoom + Gate Citation</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Compare Mode (Basic Baseline vs Chosen) -->
+      <div id="live-compare-wrap" class="compare-grid hidden"></div>
+
+      <!-- Single Result Workspace -->
+      <div id="live-workspace" class="workspace-grid hidden">
+        <div class="workspace-main">
+          <article id="live-answer-card" class="card answer-card"></article>
+          <section id="live-trace-card" class="card trace-card"></section>
+        </div>
+
+        <aside class="workspace-side card">
+          <div class="side-tabs">
+            <button class="side-tab-btn active" data-side-tab="page">Xem ảnh trang PDF</button>
+            <button class="side-tab-btn" data-side-tab="context">Context đóng gói (<span id="ctx-count">0</span>)</button>
+          </div>
+
+          <div id="side-pane-page" class="side-pane active">
+            <div id="live-page-viewer" class="page-viewer"></div>
+          </div>
+          <div id="side-pane-context" class="side-pane">
+            <div id="live-context-list" class="chunk-stack"></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- TAB 2: BASIC BENCHMARK -->
+    <section id="tab-basic" class="tab-panel">
+      <div id="basic-kpi-strip" class="kpi-grid"></div>
+
+      <div class="card">
+        <div class="section-head-row">
+          <div>
+            <h2>Retrieval Benchmark — 7 Cấu hình</h2>
+            <p class="section-desc">Đánh giá trên 210 chunk Chiến lược C (`tt08-2021`: 99, `tt18-2021`: 111) kết nối trực tiếp từ Qdrant Day 6.</p>
+          </div>
+          <div class="pill-switch" id="basic-ret-split">
+            <button class="seg-btn active" data-split="dev">Tập dev (n = 20)</button>
+            <button class="seg-btn" data-split="test">Tập test (n = 6)</button>
+          </div>
+        </div>
+        <div id="basic-ret-bars" class="bars-panel"></div>
+        <div id="basic-ret-table" class="table-wrap"></div>
+      </div>
+
+      <div class="card">
+        <div class="section-head-row">
+          <div>
+            <h2>Basic Agent — Baseline vs Chosen Multi-Tool</h2>
+            <p class="section-desc">Đối chiếu `dense_qdrant_800` (1 tool, budget 800) với `hybrid_rerank_pack2400` + `read_adjacent` + kiểm chứng citation.</p>
+          </div>
+          <div class="pill-switch" id="basic-agent-split">
+            <button class="seg-btn active" data-split="dev">Tập dev (n = 22)</button>
+            <button class="seg-btn" data-split="test">Tập test (n = 8)</button>
+          </div>
+        </div>
+        <div id="basic-agent-stats" class="table-wrap"></div>
+
+        <h3 class="sub-heading">Duyệt từng câu hỏi &amp; Trace Baseline vs Chosen</h3>
+        <div class="split-explorer">
+          <div id="basic-case-list" class="case-list"></div>
+          <div id="basic-case-detail" class="case-detail"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: ADVANCED 232P -->
+    <section id="tab-advanced" class="tab-panel">
+      <div id="adv-kpi-strip" class="kpi-grid"></div>
+
+      <div class="card">
+        <div class="section-head-row">
+          <div>
+            <h2>Quá trình tinh chỉnh lặp trên tập dev (v1 → v4, n = 18)</h2>
+            <p class="section-desc">Mọi thay đổi budget, đa dạng trang, ngưỡng DPI Vision và prompt chỉ được thực hiện trên `dev` trước khi khóa chạy `test`.</p>
+          </div>
+        </div>
+        <div id="adv-dev-iterations" class="table-wrap"></div>
+      </div>
+
+      <div class="card">
+        <div class="section-head-row">
+          <div>
+            <h2>Đánh giá Thử thách Nâng cao (`FPT_BCTN_2025.pdf` — 232 trang)</h2>
+            <p class="section-desc">Kết quả chấm nghiêm ngặt từng câu đối chiếu trực tiếp với báo cáo gốc &amp; packed context.</p>
+          </div>
+          <div class="pill-switch" id="adv-split-switch">
+            <button class="seg-btn active" data-split="test">Locked test (n = 30 · 27/30 = 90.0%)</button>
+            <button class="seg-btn" data-split="dev">Tập dev v4 (n = 18 · 18/18 = 100%)</button>
+          </div>
+        </div>
+
+        <div id="adv-category-pills" class="cat-grid"></div>
+
+        <div class="filter-bar" id="adv-filter-bar"></div>
+
+        <div class="split-explorer">
+          <div id="adv-case-list" class="case-list"></div>
+          <div id="adv-case-detail" class="case-detail"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 4: CORPUS EXPLORER -->
+    <section id="tab-corpus" class="tab-panel">
+      <div class="card">
+        <div class="section-head-row">
+          <div>
+            <h2>Kho Tài liệu &amp; Chỉ mục Đa phương thức</h2>
+            <p class="section-desc">Xem toàn bộ 232 trang ảnh PNG cùng chunk text/vision của FPT BCTN 2025 hoặc duyệt 210 chunk văn bản quy chế Bộ GD&amp;ĐT.</p>
+          </div>
+          <div class="pill-switch" id="corpus-kb-switch">
+            <button class="seg-btn active" data-kb="advanced">FPT BCTN 2025 (232p · 1.243 chunks)</button>
+            <button class="seg-btn" data-kb="basic">MOET Quy chế (210 chunks)</button>
+          </div>
+        </div>
+
+        <div id="corpus-controls" class="corpus-controls"></div>
+        <div id="corpus-body" class="corpus-body"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Image Lightbox Modal -->
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-label="Phóng to trang PDF">
+    <div class="lightbox-bar">
+      <span id="lightbox-caption" class="lightbox-caption"></span>
+      <button id="lightbox-close" class="btn-secondary">Đóng (Esc)</button>
+    </div>
+    <div class="lightbox-stage">
+      <img id="lightbox-img" alt="Trang PDF phóng to" />
+    </div>
+  </div>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

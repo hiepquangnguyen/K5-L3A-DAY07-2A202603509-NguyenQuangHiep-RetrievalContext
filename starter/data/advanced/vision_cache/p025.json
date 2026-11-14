@@ -1,0 +1,14 @@
+{
+  "page": 25,
+  "page_title": "NGÀNH NGHỀ KINH DOANH - Công nghệ",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày nội dung về ngành nghề kinh doanh của FPT trong lĩnh vực Công nghệ. Bên trái là phần mục lục của báo cáo thường niên với các mục chính như Thông điệp Ban Lãnh Đạo, Dấu ấn 2025, Tổng quan về FPT, Chiến lược phát triển, Phân tích hoạt động kinh doanh, Quản trị công ty, Báo cáo ESG, Báo cáo tài chính hợp nhất. Ở phần nội dung chính, có hai nhóm nội dung chính: Nhóm dịch vụ và Nhóm sản phẩm, giải pháp. Ở góc dưới bên phải có hai ảnh: một ảnh chụp nhân viên mặc áo cam FPT đang thao tác với hệ thống máy chủ; ảnh còn lại là tay người cầm một bảng mạch điện tử nhỏ màu xanh có logo FPT trên đó.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4307,
+  "completion_tokens": 229,
+  "cost_usd": 0.002089,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 46,
+  "page_title": "CHIẾN LƯỢC PHÁT TRIỂN",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày nội dung chiến lược phát triển với tiêu đề lớn màu xanh dương. Bên trái có logo FPT và mục lục các phần của báo cáo thường niên, phần 'CHIẾN LƯỢC PHÁT TRIỂN' được đánh dấu nổi bật. Trang có biểu đồ hình tròn thể hiện chi tiêu CNTT toàn cầu năm 2026 chia theo các phân khúc: Dịch vụ CNTT, Phần mềm, Dịch vụ viễn thông, Trung tâm dữ liệu, Phần cứng. Biểu đồ có chú thích màu sắc tương ứng với từng phân khúc và đơn vị tính là tỷ USD.",
+  "charts_and_tables": "Biểu đồ hình tròn: Chi tiêu CNTT toàn cầu năm 2026 (Đơn vị: tỷ USD)\n- Tổng chi tiêu: 6.155 tỷ USD\n- Dịch vụ CNTT: 1.867 tỷ USD (30,3%)\n- Phần mềm: 1.434 tỷ USD (23,3%)\n- Dịch vụ viễn thông: 1.365 tỷ USD (22,2%)\n- Phần cứng: 836 tỷ USD (13,6%)\n- Trung tâm dữ liệu: 653 tỷ USD (10,6%)\n\nNội dung văn bản chính:\n- Chi tiêu CNTT toàn cầu dự kiến đạt 6.155 tỷ USD năm 2026, tăng 10,8% so với năm 2025 (Nguồn Gartner).\n- Tăng trưởng tập trung vào trung tâm dữ liệu (tăng 31,7%) và phần mềm (tăng 14,7%) nhờ nhu cầu xây dựng hạ tầng tính toán phục vụ AI.\n- Lĩnh vực Dịch vụ CNTT dự báo đạt 1.867 tỷ USD năm 2026, tăng trưởng 8,7%, trở thành phân khúc lớn nhất trong tổng chi tiêu CNTT toàn cầu, phản ánh xu hướng gia tăng nhu cầu tư vấn, triển khai, hiện đại hóa hệ thống, chuyển đổi số và ứng dụng AI trong doanh nghiệp.\n- AI bước vào chu kỳ tạo giá trị, động lực mới cho tăng trưởng dài hạn với các năng lực cốt lõi: Agile Realignment (Tái cấu trúc linh hoạt), Risk Readiness (Sẵn sàng trước rủi ro), Tenacity (Sự kiên định về kết quả tài chính).\n- 94% CIO kỳ vọng thay đổi lớn trong kế hoạch chi tiêu CNTT trong 24 tháng tới để đẩy mạnh dự án AI.\n- Các CIO chuyển từ chiến lược nhà cung cấp 'không biên giới' sang ưu tiên đối tác khu vực và giải pháp 'chủ quyền số' để giảm rủi ro địa chính trị và tuân thủ quy định dữ liệu.\n- Ưu tiên hàng đầu là chuyển hóa năng suất từ AI thành lợi nhuận thực tế thông qua tối ưu chi phí vận hành và tăng trưởng doanh thu.\n- Xu hướng ưu tiên sử dụng mô hình AI mã nguồn mở, kết hợp giải pháp độc quyền để tối ưu chi phí, hiệu năng và kiểm soát dữ liệu.\n- Tỷ lệ doanh nghiệp tự đầu tư phát triển mô hình AI giảm từ 43% năm 2024 xuống 24% năm 2025.\n- Cơ hội phát triển nền tảng AI dựa trên mã nguồn mở và giải pháp AI chuyên biệt cho doanh nghiệp công nghệ như FPT.",
+  "prompt_tokens": 4326,
+  "completion_tokens": 772,
+  "cost_usd": 0.002966,
+  "error": null
+}

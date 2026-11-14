@@ -1,0 +1,276 @@
+[
+  {
+    "query_id": "q21",
+    "split": "test",
+    "question": "Theo Quy chế đào tạo trình độ đại học, liên kết đào tạo chỉ được thực hiện đối với hình thức học nào và bị cấm đối với nhóm ngành nào?",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    },
+    "multi_evidence": false,
+    "config": "bm25_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p04:c001",
+        "source_id": "tt08-2021",
+        "page": 4,
+        "score": 29.531787203411202,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p17:c005",
+        "source_id": "tt08-2021",
+        "page": 17,
+        "score": 28.43321594666457,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p01:c003",
+        "source_id": "tt08-2021",
+        "page": 1,
+        "score": 27.795063686472343,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p04:c001"
+    ],
+    "context_chars": 625,
+    "elapsed_ms": 3.76,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q22",
+    "split": "test",
+    "question": "Khi cơ sở đào tạo đại học cho phép sinh viên thi lại hoặc đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt, điểm học phần sau khi thi lại bị giới hạn tối đa ở mức điểm chữ nào?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "bm25_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p09:c002",
+        "source_id": "tt08-2021",
+        "page": 9,
+        "score": 89.54789941066481,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p09:c000",
+        "source_id": "tt08-2021",
+        "page": 9,
+        "score": 58.86846983437483,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p06:c002",
+        "source_id": "tt08-2021",
+        "page": 6,
+        "score": 48.013212108299626,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p09:c002"
+    ],
+    "context_chars": 588,
+    "elapsed_ms": 3.34,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q23",
+    "split": "test",
+    "question": "Trong trao đổi sinh viên đại học, số lượng tín chỉ tối đa mà sinh viên được phép tích lũy tại cơ sở đào tạo khác chiếm không quá bao nhiêu phần trăm tổng khối lượng chương trình đào tạo?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "bm25_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p16:c002",
+        "source_id": "tt08-2021",
+        "page": 16,
+        "score": 51.62947750328078,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p16:c001",
+        "source_id": "tt08-2021",
+        "page": 16,
+        "score": 37.13099477751019,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p02:c004",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 36.3962313461795,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p16:c002"
+    ],
+    "context_chars": 623,
+    "elapsed_ms": 2.3,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q24",
+    "split": "test",
+    "question": "Tại cùng một thời điểm, giảng viên có chức danh Giáo sư, Phó Giáo sư và Tiến sĩ được hướng dẫn độc lập tối đa bao nhiêu nghiên cứu sinh, và việc đồng hướng dẫn được quy đổi như thế nào?",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    },
+    "multi_evidence": false,
+    "config": "bm25_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p05:c001",
+        "source_id": "tt18-2021",
+        "page": 5,
+        "score": 63.58530908382994,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p16:c003",
+        "source_id": "tt18-2021",
+        "page": 16,
+        "score": 34.774969962304965,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p04:c001",
+        "source_id": "tt18-2021",
+        "page": 4,
+        "score": 33.7370546185939,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p05:c001"
+    ],
+    "context_chars": 536,
+    "elapsed_ms": 2.22,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q25",
+    "split": "test",
+    "question": "Người dự tuyển trình độ tiến sĩ là công dân nước ngoài nếu đăng ký học bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc mấy?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "bm25_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p06:c003",
+        "source_id": "tt18-2021",
+        "page": 6,
+        "score": 70.37358910647028,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p06:c001",
+        "source_id": "tt18-2021",
+        "page": 6,
+        "score": 38.62308791423017,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p22:c002",
+        "source_id": "tt18-2021",
+        "page": 22,
+        "score": 36.891074123186044,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p06:c003"
+    ],
+    "context_chars": 477,
+    "elapsed_ms": 1.57,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q26",
+    "split": "test",
+    "question": "Khi chất lượng luận án tiến sĩ không đạt yêu cầu thẩm định, Hội đồng thẩm định luận án do Bộ Giáo dục và Đào tạo thành lập gồm bao nhiêu thành viên và có tối thiểu bao nhiêu thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "bm25_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p17:c001",
+        "source_id": "tt18-2021",
+        "page": 17,
+        "score": 82.37788858459638,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p17:c003",
+        "source_id": "tt18-2021",
+        "page": 17,
+        "score": 69.06761295593115,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p17:c002",
+        "source_id": "tt18-2021",
+        "page": 17,
+        "score": 64.528113457358,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p17:c001"
+    ],
+    "context_chars": 668,
+    "elapsed_ms": 2.77,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "page": 21,
+  "page_title": "Tự động hóa quy trình bảo hiểm với AI, nâng cao hiệu quả vận hành và chống gian lận",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày có logo FPT và mục lục bên trái. Phần nội dung chính bên phải gồm tiêu đề lớn màu xanh dương. Có các đoạn văn bản mô tả thách thức ngành bảo hiểm và giải pháp iSuite của FPT. Bên phải có 6 chỉ số nổi bật với mũi tên màu cam hoặc xanh lá thể hiện tăng giảm: 20-30% Chi phí vận hành (mũi tên xuống cam), 15% Tổn thất liên quan đến gian lận bảo hiểm (mũi tên xuống cam), 50% Khả năng phát hiện gian lận (mũi tên lên xanh lá), 70% Thời gian phát hành hợp đồng (mũi tên xuống cam), 18% Doanh thu (mũi tên lên xanh lá), 1-2% Tỷ lệ khách hàng hủy hợp đồng (mũi tên xuống cam). Phần cuối trang có danh sách các mô-đun của iSuite gồm Insurance360 (I360), Distribution System, AI Agent Digital Platform (AIDP), AI Claim, Customer Super App.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4292,
+  "completion_tokens": 290,
+  "cost_usd": 0.002181,
+  "error": null
+}

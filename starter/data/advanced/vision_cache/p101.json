@@ -1,0 +1,13 @@
+{
+  "page": 101,
+  "page_title": "Ủy ban Chính sách phát triển",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang có bố cục văn bản chia làm hai cột chính, bên trái là phần mục lục với các mục chính của báo cáo thường niên, phần nội dung chính bên phải trình bày chi tiết về hoạt động của Ủy ban Chính sách phát triển và Văn phòng Chủ tịch HĐQT. Không có bảng biểu, biểu đồ hay hình ảnh minh họa nào khác trên trang này.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4285,
+  "completion_tokens": 121,
+  "cost_usd": 0.001908,
+  "error": null
+}

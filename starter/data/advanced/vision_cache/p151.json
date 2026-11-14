@@ -1,0 +1,15 @@
+{
+  "page": 151,
+  "page_title": "Xây dựng môi trường làm việc xanh",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang có phần văn bản mô tả về việc theo dõi và kiểm soát môi trường không khí tại nơi làm việc của Tập đoàn FPT. Bên phải là ảnh chụp hai người phụ nữ đang trao đổi ngoài trời trong khuôn viên có nhiều cây xanh, một người đứng mặc áo cam, người kia ngồi mặc áo xanh nhạt, có ba lô đặt bên cạnh. Phía dưới phần văn bản có bảng kết quả quan trắc môi trường tại FPT Tower với các chỉ số đo lường chất lượng không khí và điều kiện môi trường.",
+  "charts_and_tables": "Bảng: Kết quả quan trắc môi trường tại FPT Tower\n\n| Thông số               | Kết quả KX01 | Kết quả KX02 | Kết quả KX03 | Quy chuẩn (QCVN 05:2013/BTNMT và QCVN 26:2010/BTNMT) |\n|------------------------|--------------|--------------|--------------|-------------------------------------------------------|\n| Tiếng ồn (dBA)         | 63,7         | 65,8         | 67,2         | 70                                                    |\n| Nhiệt độ (°C)          | 36,9         | 35,5         | 37,2         | -                                                     |\n| Độ ẩm (%)              | 58,9         | 61,2         | 57,7         | -                                                     |\n| Tốc độ gió (m/s)       | 0,7          | 0,8          | 0,8          | -                                                     |\n| Tổng bụi lơ lửng (µg/m³)| 136          | 121          | 157          | 300                                                   |\n| CO (µg/m³)             | <9000        | <9000        | <9000        | 30.000                                                |\n| SO2 (µg/m³)            | 108          | 101          | 132          | 350                                                   |\n| NO2 (µg/m³)            | 94           | 90           | 118          | 200                                                   |",
+  "prompt_tokens": 4302,
+  "completion_tokens": 501,
+  "cost_usd": 0.002522,
+  "error": null
+}

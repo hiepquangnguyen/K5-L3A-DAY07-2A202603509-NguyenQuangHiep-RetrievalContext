@@ -1,0 +1,14 @@
+{
+  "page": 208,
+  "page_title": "25. Lãi trên cổ phiếu",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày phần thuyết minh báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025. Có logo FPT và mục lục bên trái. Phần nội dung chính gồm tiêu đề '25. Lãi trên cổ phiếu' với phần (a) Lãi cơ bản trên cổ phiếu. Có đoạn giải thích cách tính lãi cơ bản trên cổ phiếu. Bảng số liệu so sánh giữa năm 2025 và năm 2024 (điều chỉnh lại) với các chỉ tiêu: Lợi nhuận thuần phân bổ cho các cổ đông, Trích quỹ khen thưởng, phúc lợi, Lãi cơ bản trên mỗi cổ phiếu, Bình quân số cổ phiếu phổ thông đang lưu hành. Bảng bên phải trình bày chi tiết số liệu cho năm tài chính kết thúc ngày 31/12/2024 gồm số liệu báo cáo trước đây, điều chỉnh và số liệu điều chỉnh lại. Có chú thích về việc tăng vốn từ nguồn vốn chủ sở hữu dẫn đến điều chỉnh số lượng cổ phiếu phổ thông bình quân. Phần (b) Lãi suy giảm trên cổ phiếu bắt đầu ở cuối trang.",
+  "charts_and_tables": "Bảng 1: Lãi cơ bản trên cổ phiếu (Đơn vị: VNĐ)\n| Chỉ tiêu                                   | 2025              | 2024 (Điều chỉnh lại (*)) |\n|-------------------------------------------|-------------------|---------------------------|\n| Lợi nhuận thuần phân bổ cho các cổ đông  | 9.376.127.629.501 | 7.856.767.812.178         |\n| Trích quỹ khen thưởng, phúc lợi           | (510.167.707.669) | (624.987.179.579)         |\n| Lãi cơ bản trên mỗi cổ phiếu               | 5.216             | 4.292                     |\n| Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu) | 1.699.740.091     | 1.684.830.543             |\n\nBảng 2: Năm tài chính kết thúc ngày 31 tháng 12 năm 2024 (Đơn vị: VNĐ)\n| Chỉ tiêu                                   | Số liệu báo cáo trước đây | Điều chỉnh | Số liệu điều chỉnh lại |\n|-------------------------------------------|--------------------------|------------|------------------------|\n| Lợi nhuận thuần phân bổ cho các cổ đông  | 7.856.767.812.178        | -          | 7.856.767.812.178      |\n| Trích quỹ khen thưởng, phúc lợi           | (624.987.179.579)        | -          | (624.987.179.579)      |\n|                                           | 7.231.780.632.599        | -          | 7.231.780.632.599      |\n| Bình quân gia quyền số cổ phiếu phổ thông đang lưu hành (cổ phiếu) | 1.462.653.544            | 222.176.999| 1.684.830.543          |\n| Lãi cơ bản trên mỗi cổ phiếu               | 4.944                    | (652)      | 4.292                  |",
+  "prompt_tokens": 4307,
+  "completion_tokens": 753,
+  "cost_usd": 0.002928,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 162,
+  "page_title": "BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề lớn 'BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC'. Bên trái là mục lục với các phần chính của báo cáo thường niên, phần 08 được đánh dấu màu xanh nhạt với chữ màu xanh đậm. Phần nội dung chính bên phải gồm đoạn văn bản trình bày trách nhiệm của Ban Tổng Giám đốc đối với báo cáo tài chính hợp nhất, kèm theo chữ ký và con dấu đỏ của Công ty Cổ phần FPT, cùng chữ ký của Nguyễn Thế Phương - Phó Tổng Giám đốc. Không có biểu đồ hay bảng biểu trên trang này.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4336,
+  "completion_tokens": 196,
+  "cost_usd": 0.002048,
+  "error": null
+}

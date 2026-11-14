@@ -1,0 +1,14 @@
+{
+  "page": 144,
+  "page_title": "HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và mục lục bên trái, tiêu đề chính 'HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH' ở trên cùng bên phải. Phần nội dung chính gồm đoạn văn bản chi tiết về cam kết và hoạt động môi trường của FPT. Bên dưới đoạn văn có hình ảnh minh họa một bàn tay đang nâng một chậu cây xanh với các biểu tượng công nghệ và môi trường xung quanh như biểu tượng năng lượng gió, ánh sáng, nước, xe điện, nhà ở, thể hiện sự kết hợp giữa công nghệ và bảo vệ môi trường. Bên phải trang có các tiêu đề phụ màu xanh đậm: 'Duy trì và tăng cường thực thi chính sách môi trường' và 'Tuân thủ pháp luật' với các đoạn văn giải thích chi tiết. Dưới phần 'Tuân thủ pháp luật' có các biểu tượng nhỏ minh họa cho từng hoạt động như báo cáo, thu gom xử lý chất thải, quản lý nước thải, phòng ngừa rủi ro môi trường, giám sát định kỳ.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4283,
+  "completion_tokens": 284,
+  "cost_usd": 0.002168,
+  "error": null
+}

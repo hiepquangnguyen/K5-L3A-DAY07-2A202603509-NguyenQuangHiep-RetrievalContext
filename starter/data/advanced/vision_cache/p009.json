@@ -1,0 +1,14 @@
+{
+  "page": 9,
+  "page_title": "DẤU ẤN 2025",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có nền xanh đậm với hình ảnh cúp vàng có ngôi sao ở giữa bên phải. Bên trái là thanh menu dọc với logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC BÁO CÁO THƯỜNG NIÊN 2025'. Thanh menu liệt kê các mục chính của báo cáo thường niên, mục số 02 'DẤU ẤN 2025' được đánh dấu nổi bật với nền xanh nhạt và chấm tròn màu cam. Ở giữa trang, tiêu đề 'DẤU ẤN 2025' màu trắng và cam, bên dưới là danh sách 4 mục chính: 01 Con số nổi bật, 02 Giải thưởng tiêu biểu, 03 Hoạt động nổi bật, 04 Dự án AI nổi bật, mỗi mục có dấu chấm màu trắng ở cuối.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4332,
+  "completion_tokens": 239,
+  "cost_usd": 0.002115,
+  "error": null
+}

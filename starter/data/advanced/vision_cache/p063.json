@@ -1,0 +1,15 @@
+{
+  "page": 63,
+  "page_title": "Dịch chuyển danh mục dịch vụ lên phân khúc giá trị cao và dẫn dắt chuyển đổi AI",
+  "content_types": [
+    "text",
+    "chart",
+    "diagram"
+  ],
+  "visual_summary": "Trang trình bày có logo FPT và tiêu đề chính ở đầu trang. Bên trái là mục lục phần 05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH với các mục con. Ở giữa trang là đoạn văn bản chi tiết về chiến lược dịch vụ chuyển đổi số của FPT, kèm theo biểu đồ cột thể hiện doanh thu dịch vụ chuyển đổi số giai đoạn 2021-2025. Biểu đồ gồm 2 nhóm cột: màu cam biểu thị doanh thu dịch vụ CNTT cho thị trường nước ngoài, màu xanh biểu thị doanh thu dịch vụ chuyển đổi số, đơn vị tỷ VNĐ. Bên phải trang là sơ đồ vòng tròn nhiều lớp thể hiện nền tảng AI linh hoạt FleziPT với các vòng màu xanh dương, cam, xanh lá, mỗi vòng chứa các thành phần, giải pháp và dịch vụ AI khác nhau. Vòng trong cùng là Flezi Foundation, vòng giữa là Flezi Crew, vòng ngoài là Flezi Verse, kèm theo các nhãn như 'Nhanh hơn', 'Linh hoạt hơn', 'Hiệu quả hơn', 'Bảo mật hơn', 'Nhân rộng hơn'.",
+  "charts_and_tables": "Biểu đồ cột: Doanh thu Dịch vụ Chuyển đổi số giai đoạn 2021-2025 (Đơn vị: Tỷ VNĐ)\nNăm | Doanh thu dịch vụ CNTT cho thị trường nước ngoài | Doanh thu dịch vụ Chuyển đổi số\n2021 | 14.541 | 5.522\n2022 | 18.915 | 7.349\n2023 | 24.288 | 10.425\n2024 | 30.953 | 14.340\n2025 | 35.382 | 16.751",
+  "prompt_tokens": 4301,
+  "completion_tokens": 440,
+  "cost_usd": 0.002424,
+  "error": null
+}

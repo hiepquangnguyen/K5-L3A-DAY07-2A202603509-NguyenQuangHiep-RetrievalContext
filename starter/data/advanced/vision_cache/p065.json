@@ -1,0 +1,16 @@
+{
+  "page": 65,
+  "page_title": "Nhân lực chất lượng cao, động lực cho công nghệ mũi nhọn",
+  "content_types": [
+    "text",
+    "chart",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang gồm phần văn bản mô tả về nhân lực chất lượng cao và các chương trình kinh doanh trọng điểm trong lĩnh vực công nghệ ô tô, chăm sóc sức khỏe, dữ liệu và điện toán đám mây. Biểu đồ cột thể hiện doanh thu từ Dịch vụ AI/Data Analytics giai đoạn 2022-2025 với các giá trị cụ thể từng năm. Bảng số liệu bên phải so sánh nhân sự bình quân của lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài và năng suất lao động năm 2024 và 2025, kèm tỷ lệ tăng trưởng. Ảnh chụp nhóm 5 người trẻ đang trao đổi công việc, trong đó có 3 người mặc áo cam có logo FPT, 2 người mặc trang phục công sở, bối cảnh văn phòng hiện đại.",
+  "charts_and_tables": "{'chart': {'type': 'bar chart', 'title': 'Doanh thu từ Dịch vụ AI/Data Analytics', 'unit': 'Tỷ VNĐ', 'data': {'2022': 980, '2023': 1221, '2024': 1856, '2025': 2612}, 'y_axis': {'min': 0, 'max': 3000, 'interval': 500}}, 'table': {'title': 'Nhân sự bình quân của lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài và năng suất lao động', 'columns': ['Tiêu chí', '2024', '2025', '+/-'], 'rows': [['Tổng nhân sự bình quân (người)', '28.814', '31.208', '8,3%'], ['Tổng nhân sự bình quân sản xuất (người)', '26.586', '29.899', '12,5%'], ['Doanh thu/người (triệu VNĐ)', '1.037', '1.116', '7,6%']]}}",
+  "prompt_tokens": 4394,
+  "completion_tokens": 495,
+  "cost_usd": 0.00255,
+  "error": null
+}

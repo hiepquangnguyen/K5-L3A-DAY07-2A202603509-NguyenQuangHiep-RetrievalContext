@@ -1,0 +1,13 @@
+{
+  "page": 100,
+  "page_title": "BÁO CÁO CỦA HĐQT",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang báo cáo có bố cục 2 cột chính. Cột trái là mục lục với các phần chính của báo cáo thường niên, phần 06 QUẢN TRỊ CÔNG TY được đánh dấu nổi bật màu cam và xanh dương. Cột phải là nội dung chính của báo cáo với tiêu đề lớn 'BÁO CÁO CỦA HĐQT'. Có các tiêu đề phụ màu xanh đậm như 'Đánh giá chung' và 'Đánh giá hoạt động của các tiểu ban'. Phần đánh giá hoạt động của các tiểu ban có tiêu đề phụ màu cam 'Ủy ban Nhân sự và Lương thưởng'. Không có hình ảnh, biểu đồ hay bảng biểu trên trang này.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4301,
+  "completion_tokens": 197,
+  "cost_usd": 0.002036,
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "page": 170,
+  "page_title": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT (Tiếp theo)",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang báo cáo tài chính với logo FPT và tiêu đề báo cáo ở trên cùng. Bảng số liệu kết quả hoạt động kinh doanh hợp nhất với các chỉ tiêu tài chính năm 2025 và 2024, đơn vị VNĐ. Bảng gồm các mã số, thuyết minh và số liệu tương ứng. Phía dưới có chữ ký của ba người: Hoàng Ngọc Bích (Người lập), Hoàng Hữu Chiến (Kế toán trưởng), Nguyễn Thế Phương (Phó Tổng Giám đốc) cùng con dấu đỏ của Công ty Cổ phần FPT. Bên trái là mục lục báo cáo thường niên với các phần đánh số từ 01 đến 08, phần 08 được tô màu xanh nhạt.",
+  "charts_and_tables": "| Mã số | Thuyết minh                         | 2025               | 2024               |\n|-------|-----------------------------------|--------------------|--------------------|\n| 60    | Lợi nhuận sau thuế TNDN (60 = 50 – 51 – 52) Phân bổ cho: | 11.232.339.450.734 | 9.427.422.530.444  |\n| 61    | Cổ đông của công ty mẹ            | 9.376.127.629.501  | 7.856.767.812.178  |\n| 62    | Cổ đông không kiểm soát           | 1.856.211.821.233  | 1.570.654.718.266  |\n| 70    | Lãi cơ bản trên cổ phiếu (tham chiếu 25(a)) | 5.216              | 4.292              |\n| 71    | Lãi suy giảm trên cổ phiếu (tham chiếu 25(b)) | 5.216              | 4.292              |",
+  "prompt_tokens": 4401,
+  "completion_tokens": 469,
+  "cost_usd": 0.002511,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 189,
+  "page_title": "THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề lớn ở trên cùng. Bên trái là mục lục với các mục chính của báo cáo thường niên, mục 08 được đánh dấu màu xanh dương nhạt. Phần nội dung chính gồm 2 phần: phần 3 Hợp nhất kinh doanh với đoạn văn bản mô tả các giao dịch mua lại vốn và phần 4 Tiền và các khoản tương đương tiền với bảng số liệu tài chính so sánh giữa ngày 31/12/2025 và 31/12/2024. Bảng có tiêu đề đơn vị VNĐ, gồm các dòng: Tiền mặt, Tiền gửi ngân hàng không kỳ hạn, Tiền đang chuyển, Các khoản tương đương tiền, Tổng cộng.",
+  "charts_and_tables": "| Khoản mục                  | 31/12/2025        | 31/12/2024        |\n|----------------------------|-------------------|-------------------|\n| Tiền mặt                   | 4.255.375.565     | 3.236.297.367     |\n| Tiền gửi ngân hàng không kỳ hạn | 8.078.385.544.605 | 6.713.912.691.054 |\n| Tiền đang chuyển           | 2.110.160.016     | 8.470.940.868     |\n| Các khoản tương đương tiền (*) | 2.437.354.649.806 | 2.589.820.509.595 |\n| Tổng cộng                  | 10.522.105.729.992| 9.315.440.438.884 |\n\n(*) Các khoản tương đương tiền chủ yếu bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc không quá 3 tháng. Lãi suất được quy định cụ thể cho từng khoản tiền gửi.",
+  "prompt_tokens": 4342,
+  "completion_tokens": 473,
+  "cost_usd": 0.002494,
+  "error": null
+}

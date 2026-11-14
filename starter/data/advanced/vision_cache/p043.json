@@ -1,0 +1,14 @@
+{
+  "page": 43,
+  "page_title": "Ban Lãnh đạo FPT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 3 phần chính giới thiệu 3 lãnh đạo của FPT gồm: Ông Chu Quang Huy (Giám đốc Nhân sự) ở góc trên bên phải với ảnh chân dung, Bà Mai Thị Lan Anh (Giám đốc Truyền thông) ở giữa bên trái với ảnh chân dung, và Bà Phạm Thị Quỳnh Vi (Giám đốc Chất lượng) ở dưới bên phải với ảnh chân dung. Mỗi phần có tên, chức danh màu cam, và đoạn mô tả tiểu sử, thành tích, nhiệm vụ. Trang có đường kẻ ngang màu cam phân chia các phần, cùng các đường nét đồ họa màu cam và xám tạo điểm nhấn. Bên trái trang là mục lục nội dung báo cáo thường niên FPT 2025 với các mục chính và phụ, mục 03 Tổng quan về FPT được đánh dấu nổi bật màu xanh dương và nền xanh nhạt.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4313,
+  "completion_tokens": 249,
+  "cost_usd": 0.002124,
+  "error": null
+}

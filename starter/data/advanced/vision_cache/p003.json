@@ -1,0 +1,14 @@
+{
+  "page": 3,
+  "page_title": "THÔNG ĐIỆP BAN LÃNH ĐẠO - THÔNG ĐIỆP CHỦ TỊCH HĐQT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục gồm cột bên trái là mục lục báo cáo thường niên với các phần chính được đánh số từ 01 đến 08. Phần chính bên phải là tiêu đề lớn 'THÔNG ĐIỆP BAN LÃNH ĐẠO' và tiêu đề phụ 'THÔNG ĐIỆP CHỦ TỊCH HĐQT'. Bên dưới tiêu đề là hình ảnh chân dung một người đàn ông mặc vest xanh, đeo cà vạt cam, khoanh tay, nhìn sang phải và mỉm cười. Bên phải hình ảnh là đoạn trích dẫn nổi bật với dấu ngoặc kép màu cam, nội dung in đậm về lợi thế cạnh tranh trong kỷ nguyên AI. Phía dưới là đoạn văn bản lời chào và thông điệp dài của Chủ tịch HĐQT gửi cổ đông, khách hàng, đối tác và cán bộ nhân viên FPT. Trang có thiết kế hiện đại, sử dụng màu xanh dương và cam làm điểm nhấn, nền trắng, có các họa tiết số nhị phân mờ làm nền trang trí.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4305,
+  "completion_tokens": 295,
+  "cost_usd": 0.002194,
+  "error": null
+}

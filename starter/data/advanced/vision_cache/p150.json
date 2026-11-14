@@ -1,0 +1,14 @@
+{
+  "page": 150,
+  "page_title": "Kết quả quan trắc môi trường nước thải tại FPT Tower",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề lớn 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' ở góc trên bên trái. Bên trái là mục lục phần 07 Báo cáo ESG với các mục nhỏ. Ở giữa trang là bảng kết quả quan trắc môi trường nước thải tại FPT Tower với các cột TT, Thông số, Đơn vị, Kết quả 2025, QCVN 14:2008/BTNMT. Bên phải là đoạn văn bản chi tiết về chương trình quản lý chất thải của FPT, nêu rõ nguyên tắc 3R (Reduce, Reuse, Recycle) và các biện pháp quản lý chất thải, bao gồm các điểm chính về thu gom, phân loại, xử lý chất thải, hợp tác với đơn vị có năng lực, thiết lập khu vực lưu giữ chất thải nguy hại, truyền thông nội bộ và áp dụng công nghệ thay thế thiết bị cá nhân nhằm giảm phát sinh rác thải điện tử.",
+  "charts_and_tables": "Bảng kết quả quan trắc môi trường nước thải tại FPT Tower:\n\n| TT | Thông số                      | Đơn vị     | Kết quả 2025 | QCVN 14:2008/BTNMT |\n|----|------------------------------|------------|--------------|--------------------|\n| 1  | pH                           | -          | 6,17         | 5 – 9              |\n| 2  | BOD5 (20°C)                  | mg/l       | 20,1         | 50                 |\n| 3  | Tổng chất rắn lơ lửng (TSS) | mg/l       | 46           | 100                |\n| 4  | Tổng chất rắn hòa tan (TDS)  | mg/l       | 515          | 1.000              |\n| 5  | Sunfua (tính theo H2S)       | mg/l       | <0,03*       | 4,0                |\n| 6  | Amoni (tính theo N)          | mg/l       | 3,97         | 10                 |\n| 7  | Nitrat (NO3-)                | mg/l       | 3,84         | 50                 |\n| 8  | Dầu mỡ động, thực vật         | mg/l       | KPH (MDL=1,4)| 20                 |\n| 9  | Tổng chất hoạt động bề mặt    | mg/l       | <0,03*       | 10                 |\n| 10 | Phosphat (PO4 3-)            | mg/l       | 8,31         | 10                 |\n| 11 | Tổng Coliforms               | MPN/100ml  | 1.500        | 5.000              |",
+  "prompt_tokens": 4424,
+  "completion_tokens": 694,
+  "cost_usd": 0.00288,
+  "error": null
+}

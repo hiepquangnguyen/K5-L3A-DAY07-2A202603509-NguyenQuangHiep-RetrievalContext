@@ -1,0 +1,15 @@
+{
+  "page": 152,
+  "page_title": "Văn phòng không giấy tờ",
+  "content_types": [
+    "text",
+    "chart",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày nội dung về chiến lược văn phòng không giấy tờ của FPT năm 2025. Bên trái là phần nội dung văn bản chi tiết về việc chuyển đổi số, sử dụng văn bản điện tử và tỷ lệ số hóa tài liệu. Bên phải có ảnh chụp một nhóm 4 nhân viên đang thảo luận, làm việc trong văn phòng hiện đại với máy tính và không gian sáng sủa. Dưới phần văn bản có 2 biểu đồ thanh ngang thể hiện tỷ lệ số hóa tài liệu giai đoạn 2022-2025 và tỷ lệ các cuộc họp trực tuyến và trực tiếp giai đoạn 2023-2025. Các biểu đồ có chú giải màu xanh dương cho văn bản phát hành điện tử và họp trực tuyến, màu cam cho văn bản cứng và họp trực tiếp.",
+  "charts_and_tables": "Biểu đồ 1: Tỷ lệ số hóa tài liệu giai đoạn 2022-2025\n- Đơn vị: %\n- Năm 2022: Văn bản phát hành điện tử 7,1%, Văn bản cứng 92,9%\n- Năm 2023: Văn bản phát hành điện tử 17,6%, Văn bản cứng 82,4%\n- Năm 2024: Văn bản phát hành điện tử 78,9%, Văn bản cứng 21,1%\n- Năm 2025: Văn bản phát hành điện tử 95,42%, Văn bản cứng 4,58%\n\nBiểu đồ 2: Tỷ lệ các cuộc họp trực tuyến và trực tiếp giai đoạn 2023-2025\n- Đơn vị: %\n- Năm 2023: Họp trực tuyến 67,8%, Họp trực tiếp 32,2%\n- Năm 2024: Họp trực tuyến 73,2%, Họp trực tiếp 26,8%\n- Năm 2025: Họp trực tuyến 94,0%, Họp trực tiếp 6,0%",
+  "prompt_tokens": 4287,
+  "completion_tokens": 486,
+  "cost_usd": 0.002492,
+  "error": null
+}

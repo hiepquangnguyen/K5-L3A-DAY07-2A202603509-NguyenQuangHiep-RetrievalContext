@@ -1,0 +1,13 @@
+{
+  "page": 230,
+  "page_title": "KHU VỰC CHÂU MỸ",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày danh sách các văn phòng và địa chỉ liên hệ của FPT tại khu vực Châu Mỹ, bao gồm Mỹ, Canada, Colombia, Costa Rica và Mexico. Trang có bố cục chữ viết theo cột, không có bảng biểu hay biểu đồ. Logo FPT và tiêu đề báo cáo thường niên 2025 xuất hiện ở góc trên bên trái. Thanh mục lục bên trái đánh dấu phần 'BÁO CÁO TÀI CHÍNH HỢP NHẤT' đang được chọn.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4331,
+  "completion_tokens": 987,
+  "cost_usd": 0.003312,
+  "error": null
+}

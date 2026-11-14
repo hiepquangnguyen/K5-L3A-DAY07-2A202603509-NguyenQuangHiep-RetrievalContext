@@ -1,0 +1,14 @@
+{
+  "page": 60,
+  "page_title": "Phân tích kết quả kinh doanh theo khối",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày có logo FPT và tiêu đề 'Làm chủ công nghệ chiến lược - Báo cáo thường niên 2025'. Bên trái là mục lục với phần 'Phân tích hoạt động kinh doanh' được đánh dấu. Phần chính trang gồm đoạn văn giải thích cách phân tích kết quả kinh doanh theo ba khối chính của Tập đoàn. Phía dưới là hai biểu đồ hình tròn (doughnut charts) thể hiện cơ cấu doanh thu và cơ cấu lợi nhuận trước thuế theo khối. Mỗi biểu đồ chia thành ba phần màu cam (Khối Công nghệ), xanh dương (Khối Viễn thông), xanh lá (Khối Giáo dục, Đầu tư và Khác). Các số liệu chính được đặt ở giữa biểu đồ với các mũi tên tăng màu xanh lá thể hiện tỷ lệ tăng trưởng phần trăm. Có chú thích màu sắc tương ứng với từng khối ở dưới cùng bên phải. Đơn vị tính là tỷ VNĐ.",
+  "charts_and_tables": "Cơ cấu doanh thu theo khối (đơn vị: tỷ VNĐ):\n- Tổng doanh thu: 70.113 (tăng 11,6%)\n- Khối Công nghệ: 44.475 (63,4%, tăng 13,7%)\n- Khối Viễn thông: 19.507 (27,8%, tăng 10,8%)\n- Khối Giáo dục, Đầu tư và Khác: 6.132 (8,8%, tăng 0,05%)\n\nCơ cấu lợi nhuận trước thuế theo khối (đơn vị: tỷ VNĐ):\n- Tổng lợi nhuận trước thuế: 13.044 (tăng 17,8%)\n- Khối Công nghệ: 5.907 (45,3%, tăng 12,9%)\n- Khối Viễn thông: 4.364 (33,5%, tăng 21,6%)\n- Khối Giáo dục, Đầu tư và Khác: 2.773 (21,2%, tăng 23,1%)",
+  "prompt_tokens": 4313,
+  "completion_tokens": 495,
+  "cost_usd": 0.002517,
+  "error": null
+}

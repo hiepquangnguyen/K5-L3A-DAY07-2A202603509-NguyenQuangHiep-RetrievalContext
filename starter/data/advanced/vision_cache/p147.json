@@ -1,0 +1,15 @@
+{
+  "page": 147,
+  "page_title": "Biện pháp giảm phát thải khí nhà kính",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và mục lục bên trái với phần 'BÁO CÁO ESG' được đánh dấu. Phần nội dung chính bên phải gồm đoạn văn bản chi tiết về kế hoạch giảm phát thải khí nhà kính của FPT, tập trung vào tiết kiệm năng lượng và sử dụng năng lượng tái tạo. Bên dưới có bảng tổng hợp so sánh kết quả tiêu thụ điện giữa năm 2024 và 2025. Ảnh chụp trên cao hệ thống điện mặt trời mái nhà tại tòa nhà F-Complex (Đà Nẵng) nằm bên phải trang, có chú thích màu cam phía dưới ảnh.",
+  "charts_and_tables": "Bảng tổng hợp so sánh kết quả tiêu thụ điện (Đơn vị: kWh):\n\n| Danh mục                              | Năm 2024    | Năm 2025    | Chênh lệch |\n|-------------------------------------|-------------|-------------|------------|\n| Tiêu thụ điện                       | 205.053.314 | 187.453.013 | -8,58%     |\n| Điện từ năng lượng tái tạo          | 0           | 842.749     | -          |\n| Tỷ lệ điện từ năng lượng tái tạo so với điện tiêu thụ | 0%          | 0,45%       | -          |",
+  "prompt_tokens": 4298,
+  "completion_tokens": 336,
+  "cost_usd": 0.002257,
+  "error": null
+}

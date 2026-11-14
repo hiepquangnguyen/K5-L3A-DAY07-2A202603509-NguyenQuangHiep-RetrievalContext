@@ -1,0 +1,14 @@
+{
+  "page": 53,
+  "page_title": "Chuyển đổi số khối Chính phủ và địa phương: Thị trường trọng điểm",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chính. Cột trái là phần nội dung văn bản chi tiết về chiến lược chuyển đổi số của FPT trong khối Chính phủ và địa phương, gồm các đoạn văn và danh sách gạch đầu dòng. Cột phải có ảnh chụp một người đàn ông đang ngồi làm việc trước màn hình máy tính hiển thị các biểu đồ và bản đồ số liệu. Phía dưới ảnh có chú thích màu cam: 'Thông qua trợ lý AI tại Trung tâm Giám sát, Điều hành thông minh Hệ thống Thi hành án dân sự (IOC THADS), lãnh đạo có thể theo dõi tiến độ xử lý ngay trên một màn hình điều hành tập trung.'",
+  "charts_and_tables": "",
+  "prompt_tokens": 4286,
+  "completion_tokens": 201,
+  "cost_usd": 0.002036,
+  "error": null
+}

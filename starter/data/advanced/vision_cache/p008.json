@@ -1,0 +1,14 @@
+{
+  "page": 8,
+  "page_title": "Thông điệp Tổng Giám đốc - Mục tiêu và chiến lược phát triển năm 2026",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'Làm chủ công nghệ chiến lược - Báo cáo thường niên 2025' ở góc trái trên. Bên trái là mục lục trang với các mục: Thông điệp Ban Lãnh Đạo, Dấu ấn 2025, Tổng quan về FPT, Chiến lược phát triển, Phân tích hoạt động kinh doanh, Quản trị công ty, Báo cáo ESG, Báo cáo tài chính hợp nhất. Ở giữa trang là hai số liệu lớn nổi bật: '43,9% nhân sự <30 tuổi' và '53,2% cán bộ quản lý <40 tuổi' trong các khung màu xanh nhạt. Phần còn lại là đoạn văn bản dài trình bày chi tiết về chiến lược phát triển, mục tiêu năm 2026, các nhóm hành động trọng tâm, và lời ký tên của Tổng Giám đốc Nguyễn Văn Khoa.",
+  "charts_and_tables": "Bảng mục lục (Markdown):\n| STT | Mục lục |\n|-----|-----------------------------|\n| 01  | Thông điệp Ban Lãnh Đạo     |\n| 02  | Dấu ấn 2025                 |\n| 03  | Tổng quan về FPT            |\n| 04  | Chiến lược phát triển       |\n| 05  | Phân tích hoạt động kinh doanh|\n| 06  | Quản trị công ty             |\n| 07  | Báo cáo ESG                 |\n| 08  | Báo cáo tài chính hợp nhất  |\n\nSố liệu nổi bật:\n- 43,9% nhân sự dưới 30 tuổi\n- 53,2% cán bộ quản lý dưới 40 tuổi",
+  "prompt_tokens": 4295,
+  "completion_tokens": 433,
+  "cost_usd": 0.002411,
+  "error": null
+}

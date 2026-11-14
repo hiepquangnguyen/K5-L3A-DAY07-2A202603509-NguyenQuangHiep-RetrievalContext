@@ -1,0 +1,845 @@
+"""Build and validate the disjoint dev/test Advanced Challenge benchmark for FPT_BCTN_2025.pdf."""
+from __future__ import annotations
+
+import argparse
+import json
+from collections import Counter
+from pathlib import Path
+from typing import Any
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_OUTPUT = ROOT / "starter" / "data" / "advanced" / "cases.json"
+
+
+def get_advanced_cases() -> dict[str, list[dict[str, Any]]]:
+    """Return strictly disjoint dev (18) and held-out test (30) multimodal QA cases."""
+    dev_cases: list[dict[str, Any]] = [
+        # --- TEXT (3) ---
+        {
+            "id": "adv_dev_t01",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [4],
+            "question": (
+                "Trong Thông điệp Chủ tịch HĐQT (mục 'Lợi thế cạnh tranh khác biệt của FPT'), "
+                "Tập đoàn đặt mục tiêu đào tạo bao nhiêu tiến sĩ, bao nhiêu chuyên gia công nghệ "
+                "trình độ cao, và bao nhiêu kỹ sư Cloud / kiến trúc sư Cloud cấp cao?"
+            ),
+            "expected_answer": (
+                "FPT đặt mục tiêu đào tạo 100 tiến sĩ, phát triển 2.000 chuyên gia công nghệ trình độ cao, "
+                "đồng thời đào tạo 1.500 kỹ sư Cloud và 200 kiến trúc sư Cloud cấp cao."
+            ),
+            "key_facts": ["100 tiến sĩ", "2.000 chuyên gia", "1.500 kỹ sư Cloud", "200 kiến trúc sư Cloud"],
+        },
+        {
+            "id": "adv_dev_t02",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [57],
+            "question": (
+                "Theo Báo cáo của Ban Điều hành về kết quả kinh doanh 2025 (mục 'Đánh giá chung - Kết quả kinh doanh'), "
+                "04 chỉ tiêu Doanh thu, Lợi nhuận trước thuế, LNST thuộc về cổ đông công ty mẹ và Thu nhập trên mỗi cổ phiếu (EPS) "
+                "năm 2025 lần lượt đạt bao nhiêu phần trăm kế hoạch năm?"
+            ),
+            "expected_answer": (
+                "So với kế hoạch năm 2025, Doanh thu đạt 93%, Lợi nhuận trước thuế đạt 97%, "
+                "LNST thuộc về cổ đông công ty mẹ đạt 98%, và Thu nhập trên mỗi cổ phiếu (EPS) đạt 100% kế hoạch."
+            ),
+            "key_facts": ["93%", "97%", "98%", "100%"],
+        },
+        {
+            "id": "adv_dev_t03",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [74],
+            "question": (
+                "Trong Lĩnh vực Giáo dục năm 2025 (mục 'Mở rộng hiện diện trên toàn quốc' và 'Khẳng định uy tín và vị thế giáo dục tầm quốc tế'), "
+                "FPT đã hoàn thành hơn bao nhiêu m² sàn xây dựng mới, hiện diện tại bao nhiêu tỉnh/thành sau sáp nhập, "
+                "và Trường Đại học FPT xếp nhóm hạng bao nhiêu trên THE Impact Rankings (cùng Top bao nhiêu thế giới ở tiêu chí SDG8)?"
+            ),
+            "expected_answer": (
+                "Lĩnh vực Giáo dục hoàn thành hơn 88.000 m² sàn xây dựng mới và hiện diện tại 19 tỉnh, thành phố sau sáp nhập; "
+                "Trường Đại học FPT thăng hạng lên nhóm 301-400 THE Impact Rankings và lọt Top 80 thế giới theo tiêu chí SDG8."
+            ),
+            "key_facts": ["88.000", "19 tỉnh", "301-400", "Top 80", "SDG8"],
+        },
+        # --- TABLE (3) ---
+        {
+            "id": "adv_dev_tbl01",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [12],
+            "question": (
+                "Theo bảng tổng hợp 'Các chỉ tiêu tài chính chủ yếu giai đoạn 2021-2025' (phần Dấu ấn 2025, đơn vị Tỷ VNĐ), "
+                "Vốn chủ sở hữu và Tổng tài sản của FPT năm 2025 đạt bao nhiêu tỷ VNĐ và tăng bao nhiêu phần trăm so với năm 2024?"
+            ),
+            "expected_answer": (
+                "Năm 2025, Vốn chủ sở hữu của FPT đạt 43.748 tỷ VNĐ (tăng 22,4%) và Tổng tài sản đạt 88.142 tỷ VNĐ (tăng 22,4%)."
+            ),
+            "key_facts": ["43.748", "88.142", "22,4%"],
+        },
+        {
+            "id": "adv_dev_tbl02",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [90],
+            "question": (
+                "Theo bảng 'Thù lao của Hội đồng Quản trị năm 2025' (chương Quản trị Công ty), "
+                "ba thành viên nào nhận mức thù lao bằng 0 VNĐ, và hai thành viên Hiroshi Yokotsuka và Hampapur Rangadore Binod "
+                "mỗi người nhận bao nhiêu VNĐ trong năm 2025?"
+            ),
+            "expected_answer": (
+                "Ba thành viên nhận thù lao 0 VNĐ gồm Trương Gia Bình, Bùi Quang Ngọc và Đỗ Cao Bảo; "
+                "hai thành viên Hiroshi Yokotsuka và Hampapur Rangadore Binod mỗi người nhận 2.613.975.000 VNĐ."
+            ),
+            "key_facts": ["Trương Gia Bình", "Bùi Quang Ngọc", "Đỗ Cao Bảo", "2.613.975.000"],
+        },
+        {
+            "id": "adv_dev_tbl03",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [149],
+            "question": (
+                "Theo 'Bảng tổng hợp so sánh kết quả tiêu thụ nước' trong phần Báo cáo ESG (đơn vị m³), "
+                "lượng nước tiêu thụ của FPT trong các năm 2023, 2024 và 2025 lần lượt là bao nhiêu m³, "
+                "và chênh lệch tăng của năm 2025 so với năm 2024 là bao nhiêu m³ (tỷ lệ bao nhiêu %)?"
+            ),
+            "expected_answer": (
+                "Tiêu thụ nước của FPT năm 2023 là 774.152 m³, năm 2024 là 827.940 m³, và năm 2025 là 831.885 m³; "
+                "chênh lệch năm 2025 tăng 3.945 m³, tương ứng tỷ lệ 0,48%."
+            ),
+            "key_facts": ["774.152", "827.940", "831.885", "3.945", "0,48%"],
+        },
+        # --- CHART (3) ---
+        {
+            "id": "adv_dev_c01",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [11],
+            "question": (
+                "Theo biểu đồ đường 'ROE và ROA' giai đoạn 2021-2025 trong phần Dấu ấn 2025, "
+                "chỉ số ROE và ROA của FPT trong năm 2024 và năm 2025 lần lượt đạt bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Theo biểu đồ ROE và ROA: ROE đạt 28,5% (năm 2024) và 28,1% (năm 2025); "
+                "ROA đạt 14,4% (năm 2024) và 14,1% (năm 2025)."
+            ),
+            "key_facts": ["28,5%", "28,1%", "14,4%", "14,1%"],
+        },
+        {
+            "id": "adv_dev_c02",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [67],
+            "question": (
+                "Theo biểu đồ cột 'Doanh thu từ Hệ sinh thái công nghệ Made by FPT' (giai đoạn 2021-2025, đơn vị Tỷ VNĐ), "
+                "doanh thu Made by FPT qua 5 năm 2021, 2022, 2023, 2024 và 2025 lần lượt là bao nhiêu tỷ VNĐ, "
+                "và mức tăng trưởng năm 2025 so với năm 2024 là bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Doanh thu Made by FPT qua các năm: 2021 đạt 746 tỷ VNĐ, 2022 đạt 1.150 tỷ VNĐ, 2023 đạt 1.637 tỷ VNĐ, "
+                "2024 đạt 2.244 tỷ VNĐ, và 2025 đạt 2.672 tỷ VNĐ (tăng 19,1% so với năm 2024)."
+            ),
+            "key_facts": ["746", "1.150", "1.637", "2.244", "2.672", "19,1%"],
+        },
+        {
+            "id": "adv_dev_c03",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [137],
+            "question": (
+                "Theo biểu đồ cột 'Số lượng cán bộ nhân viên nữ giai đoạn 2021-2025' trong Báo cáo ESG, "
+                "số lượng CBNV nữ của FPT qua các năm 2021, 2022, 2023, 2024 và 2025 lần lượt là bao nhiêu người "
+                "và tỷ lệ lao động nữ năm 2025 chiếm bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Số lượng CBNV nữ của FPT: 2021 là 13.841 người, 2022 là 16.155 người, 2023 là 18.022 người, "
+                "2024 là 20.280 người và 2025 là 20.383 người; tỷ lệ nhân sự nữ năm 2025 đạt 37,7%."
+            ),
+            "key_facts": ["13.841", "16.155", "18.022", "20.280", "20.383", "37,7%"],
+        },
+        # --- IMAGE / DIAGRAM (3) ---
+        {
+            "id": "adv_dev_id01",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [15],
+            "question": (
+                "Quan sát hai bức ảnh trong mục 'Khánh thành Trung tâm Dữ liệu FPT Fornix HCM02' và "
+                "'Đưa vào vận hành chính thức Nền tảng số Thi hành án dân sự': "
+                "ảnh bên trái chụp sự kiện gì trên màn hình phông nền phía sau diễn giả đang phát biểu, "
+                "còn ảnh bên phải các đại biểu đang nhấn nút hiển thị chữ gì trên màn hình LED sân khấu?"
+            ),
+            "expected_answer": (
+                "Ảnh bên trái chụp 'Lễ khai trương Trung tâm Dữ liệu FPT Fornix HCM02' với màn hình hiển thị diễn giả "
+                "Hoàng Việt Anh (Chủ tịch FPT Telecom) phát biểu; ảnh bên phải chụp 6 đại biểu chạm nút nghi thức hiển thị chữ 'KÍCH HOẠT' "
+                "tại lễ vận hành Nền tảng số Thi hành án dân sự."
+            ),
+            "key_facts": ["Lễ khai trương", "FPT Fornix HCM02", "KÍCH HOẠT"],
+        },
+        {
+            "id": "adv_dev_id02",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [29],
+            "question": (
+                "Theo sơ đồ dòng thời gian 'Hành trình khẳng định năng lực và vị thế (giai đoạn 2009-2021)', "
+                "hai thương vụ M&A ở nước ngoài năm 2014 và năm 2018 của FPT đã mua lại những công ty nào "
+                "(và tỷ lệ cổ phần mua lại ở năm 2018), đồng thời sự kiện xử lý sự cố HoSE năm 2021 giúp nâng công suất lên gấp bao nhiêu lần?"
+            ),
+            "expected_answer": (
+                "Năm 2014 FPT mua công ty RWE IT Slovakia; năm 2018 FPT mua 90% cổ phần của Intellinet (Mỹ); "
+                "năm 2021 FPT xử lý sự cố hệ thống giao dịch HoSE, nâng công suất lên gấp 03 lần (3 lần) so với hệ thống cũ."
+            ),
+            "key_facts": ["RWE IT Slovakia", "90%", "Intellinet", "3 lần"],
+        },
+        {
+            "id": "adv_dev_id03",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [51],
+            "question": (
+                "Quan sát sơ đồ kiến trúc 'Nền tảng phục vụ phát triển AI có chủ quyền của FPT': "
+                "ba lớp chính hiển thị ở cột bên phải từ dưới lên trên có tên tiếng Anh là gì, "
+                "và ở lớp giữa có hai khối tính năng lớn màu cam tên là gì?"
+            ),
+            "expected_answer": (
+                "Ba lớp chính từ dưới lên trên bên phải gồm: AI Infrastructure, AI Platform, và AI Agent x Human Economy; "
+                "tại lớp AI Platform ở giữa có hai khối lớn là AI STUDIO và AI INFERENCING."
+            ),
+            "key_facts": ["AI Infrastructure", "AI Platform", "AI Agent x Human Economy", "AI STUDIO", "AI INFERENCING"],
+        },
+        # --- MULTI-HOP (3) ---
+        {
+            "id": "adv_dev_mh01",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [55, 60],
+            "question": (
+                "So sánh giữa 'Kế hoạch năm 2026' (biểu đồ Doanh thu khối Công nghệ) với 'Cơ cấu doanh thu năm 2025' "
+                "theo biểu đồ hình vành khăn trong Báo cáo BĐH: doanh thu Khối Công nghệ năm 2025 là bao nhiêu tỷ VNĐ, "
+                "kế hoạch năm 2026 là bao nhiêu tỷ VNĐ, và mức tăng tuyệt đối tính bằng tỷ VNĐ (cùng tỷ lệ % tăng) là bao nhiêu?"
+            ),
+            "expected_answer": (
+                "Doanh thu Khối Công nghệ năm 2025 thực hiện là 44.475 tỷ VNĐ và kế hoạch năm 2026 là 52.650 tỷ VNĐ; "
+                "mức tăng tuyệt đối là 8.175 tỷ VNĐ, tương ứng mức tăng trưởng kế hoạch 18,4%."
+            ),
+            "key_facts": ["44.475", "52.650", "8.175", "18,4%"],
+        },
+        {
+            "id": "adv_dev_mh02",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [138, 152],
+            "question": (
+                "Tổng hợp hai chỉ số ESG về đào tạo nội bộ và văn phòng xanh năm 2025: "
+                "tổng số giờ đào tạo nội bộ toàn Tập đoàn năm 2025 đạt bao nhiêu giờ (riêng chương trình Mentor-Mentee đóng góp bao nhiêu giờ), "
+                "và trong năm 2025 tỷ lệ số hóa tài liệu điện tử cùng tỷ lệ cuộc họp trực tuyến của FPT đạt chính xác bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Năm 2025, tổng số giờ đào tạo nội bộ đạt 7.121.722 giờ (trong đó Mentor-Mentee đóng góp 209.138 giờ); "
+                "tỷ lệ tài liệu điện tử đạt 95,42% và tỷ lệ cuộc họp trực tuyến đạt 94,0%."
+            ),
+            "key_facts": ["7.121.722", "209.138", "95,42%", "94,0%"],
+        },
+        {
+            "id": "adv_dev_mh03",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [82, 83],
+            "question": (
+                "Kết hợp tổng hợp 'Trách nhiệm của HĐQT' và bảng 'Nội dung các phiên họp và Nghị quyết' năm 2025: "
+                "trong cả năm 2025 HĐQT đã tổ chức bao nhiêu cuộc họp (chia theo trực tiếp và xin ý kiến văn bản) và ban hành tổng cộng bao nhiêu Nghị quyết; "
+                "riêng trong Phiên 01 và Phiên 02 đầu năm đã ban hành bao nhiêu Nghị quyết và thông qua việc tái bổ nhiệm Tổng Giám đốc nào cho nhiệm kỳ ngày mấy đến ngày mấy?"
+            ),
+            "expected_answer": (
+                "Cả năm 2025 HĐQT tổ chức 07 cuộc họp (04 cuộc họp trực tiếp và 03 cuộc họp xin ý kiến bằng văn bản) và ban hành 08 Nghị quyết. "
+                "Riêng Phiên 01 (05/02/2025) và Phiên 02 (20/03/2025) ban hành tổng cộng 03 Nghị quyết (01.01-2025, 01.03-2025, 02.03-2025), "
+                "trong đó Phiên 02 tái bổ nhiệm Tổng Giám đốc Nguyễn Văn Khoa nhiệm kỳ 3 năm từ 29/03/2025 đến hết ngày 28/03/2028."
+            ),
+            "key_facts": ["07 cuộc họp", "08 Nghị quyết", "Nguyễn Văn Khoa", "29/03/2025", "28/03/2028"],
+        },
+        # --- UNANSWERABLE (3) ---
+        {
+            "id": "adv_dev_u01",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Công suất lắp đặt tính bằng kWp (hoặc MWp) của hai hệ thống điện mặt trời mái nhà "
+                "tại tòa nhà F-Complex (Đà Nẵng) và Data Center (TP.HCM) trong năm 2025 là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Không công bố công suất lắp đặt kWp/MWp, chỉ công bố sản lượng điện 842.749 kWh."],
+        },
+        {
+            "id": "adv_dev_u02",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Lượng phát thải khí nhà kính Phạm vi 3 (Scope 3) cụ thể tính bằng tấn CO2 tương đương "
+                "của Tập đoàn FPT trong năm 2025 là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo chỉ ghi Phạm vi 3 đang nghiên cứu / triển khai tại FPT Software, không có số liệu tấn CO2e."],
+        },
+        {
+            "id": "adv_dev_u03",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Đơn giá bán trung bình mỗi chip bán dẫn hoặc giá trị hợp đồng bàn giao lô chip nguồn đầu tiên "
+                "cho đối tác Restar tại Nhật Bản năm 2025 là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo nhắc đến bàn giao lô chip nguồn đầu tiên cho Restar nhưng không công bố đơn giá hoặc giá trị hợp đồng."],
+        },
+    ]
+
+    test_cases: list[dict[str, Any]] = [
+        # --- TEXT (4) ---
+        {
+            "id": "adv_test_t01",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [8],
+            "question": (
+                "Trong phần cuối 'Thông điệp Tổng Giám đốc Nguyễn Văn Khoa', tỷ lệ nhân sự dưới 30 tuổi và "
+                "tỷ lệ cán bộ quản lý dưới 40 tuổi của FPT là bao nhiêu phần trăm, đồng thời mục tiêu tăng trưởng năm 2026 "
+                "đối với Doanh thu và Lợi nhuận trước thuế toàn Tập đoàn (cũng như riêng Khối Công nghệ) lần lượt là bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "FPT có 43,9% nhân sự dưới 30 tuổi và 53,2% cán bộ quản lý dưới 40 tuổi; năm 2026 Tập đoàn đặt mục tiêu "
+                "tăng trưởng 15,8% doanh thu và 15,0% lợi nhuận trước thuế (riêng Khối Công nghệ mục tiêu tăng 18,4% doanh thu và 24,4% lợi nhuận)."
+            ),
+            "key_facts": ["43,9%", "53,2%", "15,8%", "15,0%", "18,4%", "24,4%"],
+        },
+        {
+            "id": "adv_test_t02",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [49],
+            "question": (
+                "Trong mục 'Đột phá chính sách của Việt Nam' (chương Chiến lược phát triển), Nghị quyết 57-NQ/TW đặt mục tiêu "
+                "đưa Việt Nam vào Top mấy ASEAN về nghiên cứu và phát triển AI và Top mấy toàn cầu về năng lực cạnh tranh số vào năm 2030, "
+                "đồng thời bảo đảm dành ít nhất bao nhiêu phần trăm ngân sách quốc gia hàng năm cho khoa học công nghệ và chuyển đổi số?"
+            ),
+            "expected_answer": (
+                "Nghị quyết 57-NQ/TW đặt mục tiêu vào năm 2030 đưa Việt Nam vào Top 3 ASEAN về nghiên cứu & phát triển AI, "
+                "Top 3 ASEAN và Top 50 toàn cầu về năng lực cạnh tranh số, đồng thời bảo đảm ít nhất 3% ngân sách quốc gia hàng năm "
+                "cho phát triển khoa học công nghệ và chuyển đổi số."
+            ),
+            "key_facts": ["Top 3 ASEAN", "Top 50", "3% ngân sách"],
+        },
+        {
+            "id": "adv_test_t03",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [70],
+            "question": (
+                "Trong phần 'Lĩnh vực Dịch vụ Viễn thông' (mục Bứt phá với Dịch vụ Broadband và Dẫn đầu công nghệ truyền hình), "
+                "doanh thu mảng Dịch vụ Broadband của FPT năm 2025 đạt bao nhiêu tỷ đồng (tăng bao nhiêu % so với năm trước), "
+                "và FPT Play sở hữu bản quyền Giải Ngoại hạng Anh tại Việt Nam từ thời điểm nào đến hết mùa giải nào?"
+            ),
+            "expected_answer": (
+                "Mảng Dịch vụ Broadband ghi nhận doanh thu 10.007 tỷ đồng, tăng 13,7% so với năm trước; "
+                "FPT Play sở hữu bản quyền Giải Ngoại hạng Anh tại Việt Nam từ giữa mùa giải 2025-2026 đến hết mùa 2030-2031."
+            ),
+            "key_facts": ["10.007", "13,7%", "2025-2026", "2030-2031"],
+        },
+        {
+            "id": "adv_test_t04",
+            "category": "text",
+            "answerable": True,
+            "source_pages": [154],
+            "question": (
+                "Theo phần 'Song hành vì sự phát triển cộng đồng' (Báo cáo ESG), trong năm 2025 FPT đã đóng góp bao nhiêu tỷ đồng "
+                "cho các hoạt động trách nhiệm xã hội (mang lại giá trị cho bao nhiêu người trên toàn quốc), "
+                "và Quỹ Người FPT Vì Cộng đồng (thành lập năm nào qua chương trình 'Góp một ngày lương') ghi nhận CBNV đóng góp bao nhiêu tỷ đồng trong năm 2025?"
+            ),
+            "expected_answer": (
+                "Năm 2025 FPT đã đóng góp 72,8 tỷ đồng cho các hoạt động trách nhiệm xã hội, hỗ trợ 97.300 người; "
+                "Quỹ Người FPT Vì Cộng đồng (thành lập năm 2014) nhận được 25,6 tỷ đồng đóng góp từ CBNV trong năm 2025."
+            ),
+            "key_facts": ["72,8", "97.300", "2014", "25,6"],
+        },
+        # --- TABLE (6) ---
+        {
+            "id": "adv_test_tbl01",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [32],
+            "question": (
+                "Theo hai bảng 'Cơ cấu cổ đông theo các mức cổ phiếu sở hữu' và 'Cơ cấu cổ đông theo đối tượng sở hữu' (cuối năm 2025), "
+                "nhóm sở hữu từ 1.000.001 cổ phiếu trở lên gồm bao nhiêu cổ đông và nắm giữ bao nhiêu % tổng số cổ phần; "
+                "còn đối với 'Nhà nước' và 'Cổ đông ngoài (Tổ chức)', mỗi nhóm nắm giữ bao nhiêu cổ phiếu và tỷ lệ bao nhiêu %?"
+            ),
+            "expected_answer": (
+                "Nhóm từ 1.000.001 cổ phiếu trở lên gồm 254 cổ đông (0,20% số cổ đông), nắm giữ 1.241.598.059 cổ phiếu (72,88%). "
+                "Cổ đông Nhà nước (1 cổ đông) nắm 96.585.637 cổ phiếu (5,67%); Cổ đông ngoài là Tổ chức (768 cổ đông) nắm 749.771.552 cổ phiếu (44,01%)."
+            ),
+            "key_facts": ["254", "72,88%", "96.585.637", "5,67%", "749.771.552", "44,01%"],
+        },
+        {
+            "id": "adv_test_tbl02",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [33],
+            "question": (
+                "Theo bảng 'Top 10 cổ đông lớn' (phần Cơ cấu cổ đông), ba cổ đông lớn nhất (STT 1, 2, 3) gồm những cá nhân/tổ chức nào "
+                "và nắm giữ cụ thể bao nhiêu cổ phần cùng tỷ lệ sở hữu bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Top 3 cổ đông lớn nhất gồm: (1) Ông Trương Gia Bình với 117.347.966 cổ phần (6,89%); "
+                "(2) Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước – Công ty TNHH với 96.585.637 cổ phần (5,67%); "
+                "(3) Công ty TNHH QT với 62.449.511 cổ phần (3,67%)."
+            ),
+            "key_facts": ["Trương Gia Bình", "117.347.966", "6,89%", "96.585.637", "62.449.511", "3,67%"],
+        },
+        {
+            "id": "adv_test_tbl03",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [59],
+            "question": (
+                "Theo bảng tổng hợp 'Các chỉ tiêu tài chính chủ yếu' năm 2024 và 2025 (mục Cơ cấu vốn, Năng lực hoạt động và Khả năng sinh lời), "
+                "ba chỉ tiêu Hệ số Nợ/Vốn chủ sở hữu, Vòng quay tiền mặt (ngày) và Tỷ suất sinh lời trên vốn đầu tư (ROCE) "
+                "của năm 2024 và năm 2025 lần lượt là bao nhiêu?"
+            ),
+            "expected_answer": (
+                "Hệ số Nợ/Vốn chủ sở hữu tăng từ 41,8% (2024) lên 48,2% (2025); "
+                "Vòng quay tiền mặt tăng từ 47,1 ngày (2024) lên 49,0 ngày (2025); "
+                "ROCE thay đổi từ 22,9% (2024) xuống 21,9% (2025)."
+            ),
+            "key_facts": ["41,8%", "48,2%", "47,1", "49,0", "22,9%", "21,9%"],
+        },
+        {
+            "id": "adv_test_tbl04",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [75],
+            "question": (
+                "Theo bảng 'Tình hình thực hiện các dự án đầu tư' năm 2025 (đơn vị: Tỷ VNĐ), "
+                "giá trị kế hoạch 2025, giá trị giải ngân 2025 và tỷ lệ % so với kế hoạch của từng khối "
+                "Công nghệ, Viễn thông và Giáo dục lần lượt là bao nhiêu?"
+            ),
+            "expected_answer": (
+                "Khối Công nghệ: kế hoạch 6.000, giải ngân 2.823 tỷ VNĐ (47,1%); "
+                "Khối Viễn thông: kế hoạch 2.500, giải ngân 1.751 tỷ VNĐ (70,0%); "
+                "Khối Giáo dục: kế hoạch 2.500, giải ngân 749 tỷ VNĐ (30,0%)."
+            ),
+            "key_facts": ["6.000", "2.823", "47,1%", "1.751", "70,0%", "749", "30,0%"],
+        },
+        {
+            "id": "adv_test_tbl05",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [146],
+            "question": (
+                "Theo bảng 'Tổng hợp lượng phát thải khí nhà kính của FPT năm 2025' (đơn vị: tấn CO2 tương đương), "
+                "lượng phát thải Phạm vi 1, Phạm vi 2 và Tổng cộng qua ba năm 2023, 2024 và 2025 lần lượt là bao nhiêu?"
+            ),
+            "expected_answer": (
+                "Phạm vi 1: 13.217 (2023), 4.826 (2024), 4.383 (2025); "
+                "Phạm vi 2: 109.696 (2023), 138.748 (2024), 123.569 (2025); "
+                "Tổng lượng phát thải: 122.913 (2023), 143.574 (2024), 127.952 (2025) tấn CO2 tương đương."
+            ),
+            "key_facts": ["13.217", "4.826", "4.383", "109.696", "138.748", "123.569", "122.913", "143.574", "127.952"],
+        },
+        {
+            "id": "adv_test_tbl06",
+            "category": "table",
+            "answerable": True,
+            "source_pages": [169],
+            "question": (
+                "Theo 'Báo cáo kết quả hoạt động kinh doanh hợp nhất' (Mẫu số B 02 - DN/HN, đơn vị: VNĐ), "
+                "ba chỉ tiêu Doanh thu thuần về bán hàng và cung cấp dịch vụ (Mã 10), Lợi nhuận gộp (Mã 20) "
+                "và Tổng lợi nhuận kế toán trước thuế (Mã 50) trong năm tài chính 2025 ghi nhận chính xác đến từng đồng là bao nhiêu?"
+            ),
+            "expected_answer": (
+                "Năm 2025, Doanh thu thuần (Mã 10) là 70.112.825.100.710 VNĐ, "
+                "Lợi nhuận gộp (Mã 20) là 25.888.529.512.413 VNĐ, và "
+                "Tổng lợi nhuận kế toán trước thuế (Mã 50) là 13.043.632.833.797 VNĐ."
+            ),
+            "key_facts": ["70.112.825.100.710", "25.888.529.512.413", "13.043.632.833.797"],
+        },
+        # --- CHART (5) ---
+        {
+            "id": "adv_test_c01",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [10],
+            "question": (
+                "Theo các biểu đồ cột trong phần 'Dấu ấn 2025 - Đảm bảo tăng trưởng ổn định', "
+                "giá trị Tổng doanh thu (Tỷ VNĐ) và Thu nhập trên cổ phiếu EPS (VNĐ, sau hồi tố) "
+                "qua đầy đủ 5 năm từ 2021 đến 2025 lần lượt là bao nhiêu?"
+            ),
+            "expected_answer": (
+                "Tổng doanh thu (Tỷ VNĐ): 2021 là 35.657; 2022 là 44.010; 2023 là 52.618; 2024 là 62.849; 2025 là 70.113. "
+                "EPS (VNĐ): 2021 là 2.367; 2022 là 2.910; 2023 là 3.518; 2024 là 4.292; 2025 là 5.216."
+            ),
+            "key_facts": ["35.657", "44.010", "52.618", "62.849", "70.113", "2.367", "2.910", "3.518", "4.292", "5.216"],
+        },
+        {
+            "id": "adv_test_c02",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [27],
+            "question": (
+                "Theo biểu đồ tròn 'Doanh thu theo khu vực địa lý' (mục Vị thế và quy mô), "
+                "tỷ trọng doanh thu năm 2025 của cả 5 khu vực Việt Nam, Nhật Bản, Châu Mỹ, Châu Á-Thái Bình Dương và Châu Âu là bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Cơ cấu doanh thu theo khu vực địa lý năm 2025: Việt Nam 48,9%, Nhật Bản 22,8%, Châu Mỹ 11,6%, "
+                "Châu Á-Thái Bình Dương 11,1%, và Châu Âu 5,6%."
+            ),
+            "key_facts": ["48,9%", "22,8%", "11,6%", "11,1%", "5,6%"],
+        },
+        {
+            "id": "adv_test_c03",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [62],
+            "question": (
+                "Theo biểu đồ tròn 'Doanh thu lĩnh vực dịch vụ CNTT cho thị trường nước ngoài' năm 2025 (tổng 35.382 tỷ VNĐ), "
+                "doanh thu (Tỷ VNĐ), tỷ trọng và tốc độ tăng/giảm của 4 thị trường Nhật Bản, Mỹ, Châu Á-Thái Bình Dương và Châu Âu là bao nhiêu; "
+                "thị trường duy nhất nào ghi nhận mức tăng trưởng âm?"
+            ),
+            "expected_answer": (
+                "Nhật Bản: 15.452 tỷ VNĐ (43,7%, +25,4%); Mỹ: 8.163 tỷ VNĐ (23,1%, +5,3%); "
+                "Châu Á-Thái Bình Dương: 8.173 tỷ VNĐ (23,1%, -0,8%); Châu Âu: 3.593 tỷ VNĐ (10,2%, +36,3%). "
+                "Thị trường duy nhất tăng trưởng âm là Châu Á-Thái Bình Dương (-0,8%)."
+            ),
+            "key_facts": ["15.452", "8.163", "8.173", "3.593", "-0,8%", "Châu Á-Thái Bình Dương"],
+        },
+        {
+            "id": "adv_test_c04",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [63],
+            "question": (
+                "Theo biểu đồ cột ghép 'Doanh thu Dịch vụ Chuyển đổi số giai đoạn 2021-2025' (Tỷ VNĐ), "
+                "doanh thu Dịch vụ Chuyển đổi số qua 5 năm từ 2021 đến 2025 lần lượt là bao nhiêu tỷ VNĐ, "
+                "và trong năm 2025 mảng này tăng bao nhiêu % cũng như chiếm bao nhiêu % tổng doanh thu CNTT cho thị trường nước ngoài?"
+            ),
+            "expected_answer": (
+                "Doanh thu Dịch vụ Chuyển đổi số: 2021 là 5.522; 2022 là 7.349; 2023 là 10.425; 2024 là 14.340; "
+                "2025 là 16.751 tỷ VNĐ; năm 2025 tăng 16,8% và chiếm 47,3% tổng doanh thu Dịch vụ CNTT cho thị trường nước ngoài."
+            ),
+            "key_facts": ["5.522", "7.349", "10.425", "14.340", "16.751", "16,8%", "47,3%"],
+        },
+        {
+            "id": "adv_test_c05",
+            "category": "chart",
+            "answerable": True,
+            "source_pages": [65],
+            "question": (
+                "Theo biểu đồ cột 'Doanh thu từ Dịch vụ AI/Data Analytics' (đơn vị: Tỷ VNĐ) và bảng nhân sự bình quân bên cạnh, "
+                "doanh thu AI/Data Analytics qua 4 năm 2022, 2023, 2024, 2025 lần lượt là bao nhiêu tỷ VNĐ, "
+                "và năng suất lao động ('Doanh thu/người') năm 2025 đạt bao nhiêu triệu VNĐ (tăng bao nhiêu % so với 2024)?"
+            ),
+            "expected_answer": (
+                "Doanh thu từ Dịch vụ AI/Data Analytics: 2022 đạt 980 tỷ VNĐ, 2023 đạt 1.221 tỷ VNĐ, 2024 đạt 1.856 tỷ VNĐ, "
+                "2025 đạt 2.612 tỷ VNĐ. Doanh thu/người năm 2025 đạt 1.116 triệu VNĐ, tăng 7,6% so với năm 2024."
+            ),
+            "key_facts": ["980", "1.221", "1.856", "2.612", "1.116", "7,6%"],
+        },
+        # --- IMAGE / DIAGRAM (5) ---
+        {
+            "id": "adv_test_id01",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [31],
+            "question": (
+                "Quan sát 'Sơ đồ tổ chức' trong chương Tổng quan về FPT: dưới Hội đồng Quản trị có 04 tiểu ban/bộ phận nào "
+                "và Tập đoàn có 02 công ty liên kết nào tính đến 31/12/2025 (nêu rõ vốn điều lệ và tỷ lệ sở hữu hiển thị trên sơ đồ của từng công ty liên kết)?"
+            ),
+            "expected_answer": (
+                "Dưới HĐQT có 04 bộ phận/tiểu ban: Ủy ban Nhân sự và Lương thưởng, Ủy ban Chính sách Phát triển, "
+                "Văn phòng Chủ tịch HĐQT, Bộ phận Kiểm toán nội bộ. 02 công ty liên kết là Synnex FPT (vốn điều lệ 1.188.400.000.000 VNĐ, "
+                "sở hữu 48,00%) và FPT Retail (vốn điều lệ 1.703.017.850.000 VNĐ, sở hữu 46,54%)."
+            ),
+            "key_facts": ["Ủy ban Nhân sự và Lương thưởng", "Synnex FPT", "48,00%", "FPT Retail", "46,54%"],
+        },
+        {
+            "id": "adv_test_id02",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [66],
+            "question": (
+                "Quan sát ảnh chụp giao diện cổng thông tin và ảnh chân dung trong phần 'Lĩnh vực Dịch vụ CNTT cho thị trường trong nước': "
+                "thanh địa chỉ trình duyệt trong ảnh hiển thị URL đầy đủ nào, banner công bố thêm bao nhiêu sản phẩm giải pháp Made by FPT "
+                "(nâng tổng số lên bao nhiêu sản phẩm), và nhân vật trong ảnh chân dung bên phải là ai với chức danh gì?"
+            ),
+            "expected_answer": (
+                "Thanh địa chỉ hiển thị URL https://nq57.mst.gov.vn/products; có 14 sản phẩm giải pháp Made by FPT được công bố mới, "
+                "nâng tổng số lên 18 sản phẩm trên Cổng TT NQ57; người trong ảnh chân dung là ông Nguyễn Hoàng Minh - Tổng Giám đốc FPT IS."
+            ),
+            "key_facts": ["https://nq57.mst.gov.vn/products", "14", "18", "Nguyễn Hoàng Minh", "Tổng Giám đốc FPT IS"],
+        },
+        {
+            "id": "adv_test_id03",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [80],
+            "question": (
+                "Quan sát sơ đồ 'Mô hình quản trị và vai trò của các bên' trong chương Quản trị Công ty: "
+                "ai là người đại diện theo pháp luật của Tập đoàn theo nội dung mô tả bên phải sơ đồ, "
+                "và Ban Kiểm soát chịu trách nhiệm trực tiếp trước cơ quan nào?"
+            ),
+            "expected_answer": (
+                "Cả Chủ tịch Hội đồng Quản trị và Tổng Giám đốc đều là người đại diện theo pháp luật của Tập đoàn "
+                "(Chủ tịch HĐQT điều hành công tác HĐQT và quản trị; Tổng Giám đốc với sự trợ giúp của Ban Điều hành điều hành hoạt động kinh doanh hàng ngày). "
+                "Ban Kiểm soát thực hiện giám sát HĐQT, TGĐ và chịu trách nhiệm trước Đại hội đồng Cổ đông (ĐHĐCĐ)."
+            ),
+            "key_facts": ["Chủ tịch Hội đồng Quản trị", "Tổng Giám đốc", "người đại diện theo pháp luật", "ĐHĐCĐ"],
+        },
+        {
+            "id": "adv_test_id04",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [111],
+            "question": (
+                "Quan sát trang infographic 'Dấu ấn nổi bật' trong chương Báo cáo ESG: "
+                "liệt kê đầy đủ 05 tiêu chuẩn ISO hiển thị dưới cột 'Quản trị bền vững' "
+                "cùng tổng số giờ học nâng cao kiến thức kỹ năng AI dưới cột 'Môi trường làm việc đẳng cấp'."
+            ),
+            "expected_answer": (
+                "05 tiêu chuẩn ISO gồm: ISO 27001:2013, ISO 14001:2015, ISO 45001:2018, ISO 14064:2018 và ISO/IEC 42001:2023; "
+                "tổng thời lượng học nâng cao kiến thức kỹ năng AI đạt 1,1 triệu giờ."
+            ),
+            "key_facts": ["ISO 27001:2013", "ISO 14001:2015", "ISO 45001:2018", "ISO 14064:2018", "ISO/IEC 42001:2023", "1,1 triệu"],
+        },
+        {
+            "id": "adv_test_id05",
+            "category": "image_diagram",
+            "answerable": True,
+            "source_pages": [155],
+            "question": (
+                "Quan sát ảnh chụp sân khấu và biểu đồ cột trong mục 'Tạo cơ hội học tập, phát triển tài năng trẻ cho đất nước': "
+                "phông chữ phía sau chụp sự kiện lễ gì (khóa và niên khóa bao nhiêu), và theo biểu đồ số suất 'Học bổng Nguyễn Văn Đạo' "
+                "qua các mốc 2010, 2015, 2020, 2025 là bao nhiêu suất (tổng giá trị năm 2025 bằng bao nhiêu tỷ đồng)?"
+            ),
+            "expected_answer": (
+                "Bức ảnh chụp sự kiện 'LỄ TRƯỞNG THÀNH FPT YOUNG TALENTS K24' (Niên khóa 2023 - 2025). "
+                "Số suất Học bổng Nguyễn Văn Đạo gồm: năm 2010 có 93 suất, năm 2015 có 682 suất, năm 2020 có 2.611 suất, "
+                "và năm 2025 có 8.875 suất với tổng giá trị 151 tỷ đồng."
+            ),
+            "key_facts": ["FPT YOUNG TALENTS K24", "2023 - 2025", "93", "682", "2.611", "8.875", "151 tỷ"],
+        },
+        # --- MULTI-HOP (4) ---
+        {
+            "id": "adv_test_mh01",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [166, 167, 168],
+            "question": (
+                "Đối chiếu ba trang 'Bảng cân đối kế toán hợp nhất' (Mẫu số B 01 - DN/HN tại ngày 31/12/2025): "
+                "nêu chính xác đến từng đồng ba chỉ tiêu năm 2025 gồm Tổng tài sản (Mã 270), Nợ phải trả (Mã 300) và Vốn chủ sở hữu (Mã 400), "
+                "đồng thời kiểm tra xem tổng (Mã 300 + Mã 400) có bằng Tổng nguồn vốn (Mã 440) không?"
+            ),
+            "expected_answer": (
+                "Tại 31/12/2025: Tổng tài sản (Mã 270) là 88.141.991.634.625 VNĐ; Nợ phải trả (Mã 300) là 44.393.950.887.086 VNĐ; "
+                "Vốn chủ sở hữu (Mã 400) là 43.748.040.747.539 VNĐ. Tổng 44.393.950.887.086 + 43.748.040.747.539 = 88.141.991.634.625 VNĐ, "
+                "khớp đúng 100% với Tổng nguồn vốn (Mã 440) và Tổng tài sản."
+            ),
+            "key_facts": ["88.141.991.634.625", "44.393.950.887.086", "43.748.040.747.539"],
+        },
+        {
+            "id": "adv_test_mh02",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [170, 171],
+            "question": (
+                "Kết hợp giữa phần cuối 'Báo cáo kết quả hoạt động kinh doanh hợp nhất' và 'Báo cáo lưu chuyển tiền tệ hợp nhất' năm 2025: "
+                "Lợi nhuận sau thuế TNDN (Mã 60 KQKD) và Lưu chuyển tiền thuần từ hoạt động kinh doanh (Mã 20 LCTT) năm 2025 đạt bao nhiêu VNĐ, "
+                "tỷ lệ dòng tiền thuần HĐKD trên LNST TNDN là khoảng bao nhiêu phần trăm, và người đại diện ký phê duyệt cả hai báo cáo ngày 18/03/2026 là ai?"
+            ),
+            "expected_answer": (
+                "Năm 2025, Lợi nhuận sau thuế TNDN (Mã 60) đạt 11.232.339.450.734 VNĐ và Lưu chuyển tiền thuần từ hoạt động kinh doanh (Mã 20) "
+                "đạt 10.136.043.915.911 VNĐ (tỷ lệ chuyển đổi dòng tiền/LNST khoảng 90,24%); cả hai báo cáo đều được ký bởi Phó Tổng Giám đốc Nguyễn Thế Phương ngày 18/03/2026."
+            ),
+            "key_facts": ["11.232.339.450.734", "10.136.043.915.911", "90,2", "Nguyễn Thế Phương"],
+        },
+        {
+            "id": "adv_test_mh03",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [144, 147],
+            "question": (
+                "Đối chiếu giữa 'Chính sách môi trường' và 'Bảng tổng hợp so sánh kết quả tiêu thụ điện' năm 2025: "
+                "năm 2025 điện từ năng lượng tái tạo đạt bao nhiêu kWh trên tổng tiêu thụ điện bao nhiêu kWh (tỷ lệ bao nhiêu %), "
+                "và Tập đoàn đặt mục tiêu tỷ lệ điện năng từ năng lượng tái tạo cùng tỷ lệ đèn LED vào năm 2026 là bao nhiêu phần trăm?"
+            ),
+            "expected_answer": (
+                "Năm 2025 FPT tạo ra 842.749 kWh điện năng lượng tái tạo trên tổng điện tiêu thụ 187.453.013 kWh (đạt tỷ lệ 0,45%); "
+                "mục tiêu đến năm 2026 là 2,5% điện năng tiêu thụ đến từ năng lượng tái tạo và 100% hệ thống chiếu sáng chuyển sang đèn LED."
+            ),
+            "key_facts": ["842.749", "187.453.013", "0,45%", "2,5%", "100%"],
+        },
+        {
+            "id": "adv_test_mh04",
+            "category": "multi_hop",
+            "answerable": True,
+            "source_pages": [30, 68],
+            "question": (
+                "Tổng hợp tiến trình phát triển bán dẫn - AI giai đoạn 2022-2025 từ 'Hành trình khẳng định năng lực 2022-2025' và mục 'AI - Bán dẫn' "
+                "trong Báo cáo Ban Điều hành: năm 2022 FPT thành lập công ty bán dẫn nào để ra mắt chip đầu tiên của Việt Nam và năm 2024 hợp tác toàn diện "
+                "với đối tác nào để xây dựng 02 nhà máy AI tại Việt Nam và Nhật Bản; sang năm 2025 FPT đã bàn giao lô chip nguồn đầu tiên cho đối tác nào, "
+                "đặt mục tiêu xuất khẩu bao nhiêu triệu chip trong 3 năm tới, đồng thời hai AI Factory xếp thứ hạng bao nhiêu trong Top 500 thế giới "
+                "và tạo ra hơn bao nhiêu tỷ tokens sau 6 tháng vận hành?"
+            ),
+            "expected_answer": (
+                "Năm 2022 FPT thành lập công ty FPT Semiconductor và ra mắt chip bán dẫn đầu tiên của Việt Nam; năm 2024 FPT hợp tác toàn diện với NVIDIA "
+                "xây dựng 02 nhà máy AI tại Việt Nam và Nhật Bản. Sang năm 2025, FPT bàn giao lô chip nguồn đầu tiên cho Restar (Nhật Bản) và đặt mục tiêu "
+                "xuất khẩu 10 triệu chip sang thị trường Châu Á-Thái Bình Dương trong 3 năm; hai Nhà máy AI tại Nhật Bản và Việt Nam xếp hạng 36 và 38 "
+                "trong Top 500 siêu máy tính toàn cầu và đã tạo ra hơn 111 tỷ tokens chỉ sau 6 tháng vận hành."
+            ),
+            "key_facts": ["FPT Semiconductor", "NVIDIA", "Restar", "10 triệu chip", "36", "38", "111 tỷ tokens"],
+        },
+        # --- UNANSWERABLE (6) ---
+        {
+            "id": "adv_test_u01",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Số lượng cụ thể GPU NVIDIA H100 hoặc H200 đang vận hành tại mỗi Nhà máy AI của FPT ở Việt Nam và Nhật Bản được công bố là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo không công bố model hoặc số lượng GPU cụ thể của các AI Factory."],
+        },
+        {
+            "id": "adv_test_u02",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Tổng mức vốn đầu tư (tính bằng tỷ VNĐ hoặc triệu USD) của dự án Trung tâm Dữ liệu FPT Fornix HCM02 tại Khu Công nghệ cao TP.HCM là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo chỉ nêu quy mô 08 tầng, 10.000 m² và 3.600 racks, không công bố tổng mức vốn đầu tư của HCM02."],
+        },
+        {
+            "id": "adv_test_u03",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Thị phần (%) cụ thể của FPT Telecom trên thị trường thuê bao Internet băng rộng cố định tại Việt Nam trong năm 2025 là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo chỉ mô tả định tính vị thế Top 3 và gia tăng thị phần, không có con số % thị phần cụ thể."],
+        },
+        {
+            "id": "adv_test_u04",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Mức lương bình quân hoặc thu nhập trung bình hàng tháng (VNĐ/người/tháng) của toàn thể cán bộ nhân viên Tập đoàn FPT năm 2025 là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo chỉ công bố thù lao HĐQT/BKS/TGĐ/quản lý chủ chốt, không công bố mức lương trung bình toàn CBNV."],
+        },
+        {
+            "id": "adv_test_u05",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Số lượng cửa hàng nhà thuốc FPT Long Châu đang hoạt động tính đến cuối năm 2025 được nêu trong báo cáo là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo chỉ nêu tỷ lệ sở hữu 46,54% tại FPT Retail (công ty liên kết), không nêu số cửa hàng FPT Long Châu."],
+        },
+        {
+            "id": "adv_test_u06",
+            "category": "unanswerable",
+            "answerable": False,
+            "source_pages": [],
+            "question": (
+                "Tỷ lệ chi trả cổ tức dự kiến (%) bằng tiền mặt hoặc cổ phiếu cho năm tài chính 2026 được công bố trong báo cáo là bao nhiêu?"
+            ),
+            "expected_answer": "ABSTAIN",
+            "key_facts": ["Báo cáo chỉ công bố cổ tức tiền mặt năm 2025 và kế hoạch doanh thu/LNTT 2026, không có tỷ lệ cổ tức 2026."],
+        },
+    ]
+
+    return {"dev": dev_cases, "test": test_cases}
+
+
+def validate_advanced_benchmark(payload: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
+    """Verify split minimums, category quotas, unique IDs, and zero dev/test page overlap."""
+    dev_cases = payload.get("dev") or []
+    test_cases = payload.get("test") or []
+
+    all_ids = [c["id"] for c in dev_cases + test_cases]
+    if len(all_ids) != len(set(all_ids)):
+        raise ValueError("Duplicate case IDs detected in advanced benchmark.")
+
+    dev_pages = {int(p) for c in dev_cases for p in (c.get("source_pages") or [])}
+    test_pages = {int(p) for c in test_cases for p in (c.get("source_pages") or [])}
+    overlap = sorted(dev_pages & test_pages)
+    if overlap:
+        raise ValueError(f"dev and test source_pages must be strictly disjoint; overlap={overlap}")
+
+    dev_ans = sum(1 for c in dev_cases if c.get("answerable"))
+    dev_unans = sum(1 for c in dev_cases if not c.get("answerable"))
+    if dev_ans < 15 or dev_unans < 3:
+        raise ValueError(f"dev split must have >=15 answerable and >=3 unanswerable, got {dev_ans}/{dev_unans}")
+
+    test_counts = Counter(c["category"] for c in test_cases)
+    required_test = {
+        "table": 6,
+        "image_diagram": 5,
+        "chart": 5,
+        "multi_hop": 4,
+        "text": 4,
+        "unanswerable": 6,
+    }
+    if len(test_cases) < 30:
+        raise ValueError(f"test split must have >=30 cases, got {len(test_cases)}")
+    for cat, min_n in required_test.items():
+        if test_counts[cat] < min_n:
+            raise ValueError(f"test category {cat} requires >={min_n}, got {test_counts[cat]}")
+
+    for c in dev_cases + test_cases:
+        if c["answerable"] and not c.get("source_pages"):
+            raise ValueError(f"Answerable case {c['id']} must specify source_pages.")
+        if not c["answerable"] and c.get("expected_answer") != "ABSTAIN":
+            raise ValueError(f"Unanswerable case {c['id']} must have expected_answer='ABSTAIN'.")
+
+    return {
+        "dev_total": len(dev_cases),
+        "dev_answerable": dev_ans,
+        "dev_unanswerable": dev_unans,
+        "dev_categories": dict(Counter(c["category"] for c in dev_cases)),
+        "dev_pages": sorted(dev_pages),
+        "test_total": len(test_cases),
+        "test_answerable": sum(1 for c in test_cases if c.get("answerable")),
+        "test_unanswerable": sum(1 for c in test_cases if not c.get("answerable")),
+        "test_categories": dict(test_counts),
+        "test_pages": sorted(test_pages),
+        "page_overlap": overlap,
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Build & validate starter/data/advanced/cases.json.")
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    args = parser.parse_args()
+
+    payload = get_advanced_cases()
+    summary = validate_advanced_benchmark(payload)
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Wrote {args.output}")
+    print(json.dumps(summary, ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

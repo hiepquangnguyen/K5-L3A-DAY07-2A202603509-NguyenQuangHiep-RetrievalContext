@@ -1,0 +1,14 @@
+{
+  "page": 37,
+  "page_title": "GIỚI THIỆU BAN LÃNH ĐẠO",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm hai phần chính: bên trái là phần nội dung văn bản giới thiệu về thành viên hội đồng quản trị FPT, bên phải là ảnh chân dung một người đàn ông mặc vest xanh đậm, đeo cà vạt màu cam, khoanh tay, đứng nghiêng mặt nhìn về phía trước. Ảnh có nền trắng sáng. Bên trái trang có thanh menu dọc với logo FPT và các mục nội dung báo cáo thường niên được đánh số từ 01 đến 08, mục 03 'TỔNG QUAN VỀ FPT' được tô màu xanh dương nhạt làm nổi bật.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4305,
+  "completion_tokens": 182,
+  "cost_usd": 0.002013,
+  "error": null
+}

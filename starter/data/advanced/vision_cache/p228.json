@@ -1,0 +1,13 @@
+{
+  "page": 228,
+  "page_title": "NHẬT BẢN",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang chứa danh sách các văn phòng, trung tâm và hub của FPT tại Nhật Bản, bao gồm địa chỉ, số điện thoại và email liên hệ. Trang được chia thành ba cột, mỗi cột liệt kê các địa điểm khác nhau. Bên trái có logo FPT và mục lục báo cáo thường niên 2025 với phần 08 được tô màu xanh nhạt và đánh dấu màu cam.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4362,
+  "completion_tokens": 124,
+  "cost_usd": 0.001943,
+  "error": null
+}

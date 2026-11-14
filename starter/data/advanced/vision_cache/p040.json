@@ -1,0 +1,14 @@
+{
+  "page": 40,
+  "page_title": "Thành viên Ban Điều hành và các giám đốc nghiệp vụ",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm hai phần chính: bên trái là mục lục phần 03 TỔNG QUAN VỀ FPT với các mục con chi tiết, bên phải là phần nội dung chính giới thiệu ông Nguyễn Văn Khoa - Tổng giám đốc FPT. Phần nội dung có tiêu đề màu xanh dương đậm, đoạn mô tả chi tiết về ông Nguyễn Văn Khoa với các đoạn văn bản, có một ảnh chân dung ông Nguyễn Văn Khoa mặc vest xanh, đeo cà vạt màu cam nhạt, đứng khoanh tay, cười tươi. Logo FPT và dòng chữ 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC BÁO CÁO THƯỜNG NIÊN 2025' nằm ở góc trên bên trái trang.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4314,
+  "completion_tokens": 224,
+  "cost_usd": 0.002084,
+  "error": null
+}

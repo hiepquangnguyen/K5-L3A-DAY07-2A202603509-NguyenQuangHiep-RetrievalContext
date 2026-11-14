@@ -1,0 +1,10 @@
+# Core LLM, Embedding, Vector Store, Retrieval, and Multimodal PDF Processing
+openai>=1.60.0
+qdrant-client>=1.13.0
+pypdf>=5.0.0
+pymupdf>=1.25.0,<1.27.0
+fonttools>=4.55.0
+python-dotenv>=1.0.1
+httpx>=0.28.0
+numpy>=2.0.0
+rank-bm25>=0.2.2

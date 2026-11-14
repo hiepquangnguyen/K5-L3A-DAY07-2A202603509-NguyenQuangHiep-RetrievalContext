@@ -1,0 +1,14 @@
+{
+  "page": 70,
+  "page_title": "PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Lĩnh vực Dịch vụ Viễn thông",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chữ, bên trái là phần nội dung chính với các đoạn văn bản chi tiết về kết quả kinh doanh và chiến lược phát triển của lĩnh vực Dịch vụ Viễn thông. Bên phải phía dưới có ảnh chụp sự kiện khai trương Trung tâm Dữ liệu FPT Fornix HCM02 với nhiều người tham dự, sân khấu có màn hình lớn và banner sự kiện. Phía dưới ảnh có khung màu cam chứa chú thích ảnh.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4402,
+  "completion_tokens": 167,
+  "cost_usd": 0.002028,
+  "error": null
+}

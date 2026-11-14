@@ -1,0 +1,14 @@
+{
+  "page": 86,
+  "page_title": "Danh sách Thành viên HĐQT nhiệm kỳ 2022-2027 và số cuộc họp tham dự trong năm 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày danh sách các thành viên Hội đồng Quản trị (HĐQT) FPT nhiệm kỳ 2022-2027, kèm theo các thông tin về chức vụ tại FPT và các công ty khác, kinh nghiệm chuyên môn, tỷ lệ sở hữu cổ phần, ngày bắt đầu làm thành viên HĐQT, số buổi họp HĐQT tham dự trong năm 2025 và tỷ lệ tham dự họp. Bố cục gồm tiêu đề bảng ở đầu trang, bảng dữ liệu chi tiết với các cột: Thành viên HĐQT, Chức vụ tại FPT và các công ty khác, Kinh nghiệm chuyên môn, Tỷ lệ sở hữu, Ngày bắt đầu là thành viên HĐQT, Số buổi họp HĐQT tham dự, Tỷ lệ tham dự họp. Trang có logo FPT và mục lục bên trái.",
+  "charts_and_tables": "| Thành viên HĐQT       | Chức vụ tại FPT và các công ty khác                                                                 | Kinh nghiệm chuyên môn | Tỷ lệ sở hữu | Ngày bắt đầu là thành viên HĐQT | Số buổi họp HĐQT tham dự | Tỷ lệ tham dự họp |\n|-----------------------|-------------------------------------------------------------------------------------------------------|------------------------|--------------|---------------------------------|--------------------------|-------------------|\n| Ông Trương Gia Bình    | Chủ tịch HĐQT FPT; Thành viên HĐQT FPT Telecom; Chủ tịch HĐTV FPT Education; Thành viên Hội đồng Trường Đại học FPT | CNTT                   | 6,89%        | 07/04/2022 Tái bầu cử           | 07/07                    | 100%              |\n| Ông Bùi Quang Ngọc    | Phó chủ tịch HĐQT FPT; Chủ sở hữu Công ty TNHH BĐS BQ; Thành viên Hội đồng Trường Đại học FPT           | CNTT                   | 1,48%        | 07/04/2022 Tái bầu cử           | 06/07                    | 86%               |\n| Ông Đỗ Cao Bảo        | Ủy viên HĐQT FPT; Cổ đông lớn Công ty CP Đầu tư và Thương mại BDM; Ủy viên HĐQT Công ty Cổ phần Đô thị FPT Đà Nẵng; Thành viên góp vốn Công ty TNHH BDMD Aumoria Đà Nẵng | CNTT                   | 0,93%        | 07/04/2022 Tái bầu cử           | 07/07                    | 100%              |\n| Ông Jean-Charles Belliol | Ủy viên HĐQT độc lập                                                                                   | Tài chính               | 0,00%        | 07/04/2022 Tái bầu cử           | 07/07                    | 100%              |\n| Ông Hiroshi Yokotsuka  | Ủy viên HĐQT độc lập                                                                                   | CNTT                   | 0,00%        | 07/04/2022 Tái bầu cử           | 07/07                    | 100%              |",
+  "prompt_tokens": 4361,
+  "completion_tokens": 742,
+  "cost_usd": 0.002932,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 14,
+  "page_title": "HOẠT ĐỘNG NỔI BẬT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có tiêu đề lớn 'HOẠT ĐỘNG NỔI BẬT' ở trên cùng. Bên trái là ảnh một người đàn ông mặc vest xanh, cầm micro đang thuyết trình, nền phía sau có nhiều chữ viết liên quan đến công nghệ. Bên phải là ảnh chụp nhóm 13 người đứng trong phòng họp hiện đại, phía sau có màn hình lớn hiển thị nội dung 'MEMORANDUM OF UNDERSTANDING' và các logo liên quan đến Liên minh Kinh tế tầm thấp (LAEP) và Hiệp hội Thiết bị bay không người lái Nhật Bản (JUIDA).",
+  "charts_and_tables": "",
+  "prompt_tokens": 4317,
+  "completion_tokens": 184,
+  "cost_usd": 0.002021,
+  "error": null
+}

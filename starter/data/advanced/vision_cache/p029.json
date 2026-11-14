@@ -1,0 +1,14 @@
+{
+  "page": 29,
+  "page_title": "HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)",
+  "content_types": [
+    "text",
+    "diagram"
+  ],
+  "visual_summary": "Trang trình bày dạng timeline với các mốc năm quan trọng từ 2009 đến 2021, mỗi năm có các điểm đánh dấu màu cam và các đoạn mô tả chi tiết về sự kiện, thành tựu của FPT. Nền là bản đồ chấm điểm khu vực châu Á. Bên trái là mục lục báo cáo thường niên với phần 'TỔNG QUAN VỀ FPT' được tô sáng màu xanh nhạt, đánh dấu trang 03. Các mốc năm được nối với nhau bằng đường kẻ ngang màu xám, tạo thành một hành trình liên tục.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4309,
+  "completion_tokens": 190,
+  "cost_usd": 0.002028,
+  "error": null
+}

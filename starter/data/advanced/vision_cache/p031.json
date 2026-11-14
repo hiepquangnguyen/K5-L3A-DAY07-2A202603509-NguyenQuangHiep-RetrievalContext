@@ -1,0 +1,14 @@
+{
+  "page": 31,
+  "page_title": "CƠ CẤU QUẢN TRỊ VÀ BỘ MÁY QUẢN LÝ",
+  "content_types": [
+    "text",
+    "diagram"
+  ],
+  "visual_summary": "Trang trình bày sơ đồ tổ chức quản trị và bộ máy quản lý của Tập đoàn FPT. Bên trái là phần mục lục báo cáo thường niên 2025 với các mục chính như Thông điệp ban lãnh đạo, Dấu ấn 2025, Tổng quan về FPT, Chiến lược phát triển, Phân tích hoạt động kinh doanh, Quản trị công ty, Báo cáo ESG, Báo cáo tài chính hợp nhất. Ở giữa trang là đoạn văn bản mô tả mô hình hoạt động theo Luật Doanh nghiệp gồm Đại hội đồng cổ đông, Hội đồng quản trị, Ban Kiểm soát và Tổng giám đốc. Phía phải là sơ đồ tổ chức với các khối màu cam, xanh dương và xanh nhạt thể hiện các bộ phận và công ty con, công ty liên kết. Sơ đồ bắt đầu từ Đại hội đồng cổ đông, kết nối tới Ban Kiểm soát và Hội đồng quản trị. Hội đồng quản trị kết nối tới Ủy ban Nhân sự và Lương thưởng, Ủy ban Chính sách Phát triển, Văn phòng Chủ tịch HĐQT, Bộ phận Kiểm toán nội bộ và Tổng giám đốc và Ban điều hành. Tổng giám đốc và Ban điều hành quản lý Tập đoàn, Công ty con và Công ty liên kết. Các công ty con thuộc Khối Công nghệ gồm FPT Software, FPT IS, FPT Digital, FPT Smart Cloud, FPT Online, FPT Telecom, FPT Investment, FPT Education với vốn điều lệ và tỷ lệ sở hữu cụ thể. Khối Viễn thông gồm Synnex FPT và FPT Retail với vốn điều lệ và tỷ lệ sở hữu. Khối Giáo dục, đầu tư và khác. Bên phải sơ đồ là các ban chức năng như Ban Công nghệ, Ban Công nghệ thông tin, Văn phòng Chuyển đổi số, Ban Nhân sự, Ban Đảm bảo chất lượng, Ban Tài chính Kế hoạch, Ban Giám sát Tuân thủ, Ban Truyền thông, Ban Mua sắm, Ban Văn hóa Đoàn thể, Văn phòng, Bộ phận phát triển các dự án chiến lược, Chi nhánh Tp.HCM.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4340,
+  "completion_tokens": 534,
+  "cost_usd": 0.00259,
+  "error": null
+}

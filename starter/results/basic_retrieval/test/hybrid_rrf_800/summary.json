@@ -1,0 +1,18 @@
+{
+  "config": "hybrid_rrf_800",
+  "split": "test",
+  "n": 6,
+  "hit1": 6,
+  "hit1_rate": 1.0,
+  "hit3": 6,
+  "hit3_rate": 1.0,
+  "hit3_strict": 6,
+  "context_hit": 6,
+  "context_hit_rate": 1.0,
+  "avg_context_chars": 586.2,
+  "median_ms": 20.16,
+  "total_seconds": 0.235,
+  "embed_tokens": 0,
+  "llm_tokens": 0,
+  "estimated_cost_usd": 0.0
+}

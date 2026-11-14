@@ -1,0 +1,15 @@
+{
+  "page": 155,
+  "page_title": "Tạo cơ hội học tập, phát triển tài năng trẻ cho đất nước",
+  "content_types": [
+    "text",
+    "chart",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và mục lục bên trái, tiêu đề chính màu xanh dương. Phần nội dung chính gồm 2 mục: Học bổng Nguyễn Văn Đạo và Trung tâm bồi dưỡng tài năng trẻ FPT. Bên phải có biểu đồ cột thể hiện số suất học bổng giai đoạn 2010-2025 với các mốc năm 2010, 2015, 2020, 2025 và các con số tương ứng ở trên đỉnh cột. Phía dưới là ảnh chụp nhóm sinh viên cầm giấy chứng nhận, đứng và quỳ trên sân khấu có phông nền \"Lễ trưởng thành FPT Young Talents K24 Niên khóa 2023-2025\". Có hoa trang trí hai bên phông nền.",
+  "charts_and_tables": "Biểu đồ cột: Học bổng Nguyễn Văn Đạo giai đoạn 2010-2025 (Đơn vị: Suất học bổng)\n- Năm 2010: 93\n- Năm 2015: 682\n- Năm 2020: 2.611\n- Năm 2025: 8.875\n\nNội dung chính:\n- Học bổng Nguyễn Văn Đạo: Từ 2010 đến nay, FPT triển khai thường niên học bổng này, năm 2025 có 8.875 suất học bổng trao cho sinh viên có hoàn cảnh khó khăn, thành tích học tập xuất sắc hoặc tài năng nổi trội, tổng giá trị 151 tỷ đồng.\n- Trung tâm bồi dưỡng tài năng trẻ FPT (FYT): 26 năm qua, FYT có 646 thành viên, nhiều người đã trở thành nhà sáng lập, quản lý, nhà khoa học, chuyên gia có tầm ảnh hưởng trong và ngoài nước. Năm 2025, FYT cấp 38 suất học bổng với số tiền 912 triệu đồng, hỗ trợ chi phí, cơ sở vật chất, kết nối cựu thành viên và chuyên gia giúp phát triển kỹ năng mềm.",
+  "prompt_tokens": 4291,
+  "completion_tokens": 487,
+  "cost_usd": 0.002496,
+  "error": null
+}

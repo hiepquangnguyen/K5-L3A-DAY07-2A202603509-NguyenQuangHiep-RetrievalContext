@@ -1,0 +1,14 @@
+{
+  "page": 134,
+  "page_title": "Rủi ro Môi trường – Thiên tai – Dịch bệnh",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có phần nội dung chính là bảng liệt kê tên rủi ro, nội dung và biện pháp quản trị liên quan đến rủi ro môi trường, thiên tai và dịch bệnh. Bảng gồm 3 cột: Tên rủi ro, Nội dung, Biện pháp quản trị. Phía dưới bảng là ảnh chụp ba người đang trò chuyện ngoài trời trong khuôn viên xanh, có cây cối và biển hiệu FPT Software.",
+  "charts_and_tables": "| Tên rủi ro                         | Nội dung                                                                                         | Biện pháp quản trị                                                                                                   |\n|-----------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|\n| Rủi ro Môi trường – Thiên tai – Dịch bệnh | • Biến đổi khí hậu dẫn đến điều kiện thời tiết bất thường, ảnh hưởng đến cơ sở hạ tầng, sức khỏe CBNV...\n• Gián đoạn hoạt động kinh doanh do thiên tai.\n• Sức khỏe CBNV, năng suất lao động bị suy giảm do bệnh dịch. | • Xác định các rủi ro tiềm ẩn từ môi trường, thiên tai và dịch bệnh, đánh giá mức độ tác động đến cơ sở hạ tầng, nguồn nhân lực và chuỗi cung ứng;\n• Ứng dụng IoT, AI và Big Data để theo dõi và cảnh báo sớm các hiện tượng thời tiết bất thường, thiên tai và dịch bệnh;\n• Đầu tư phát triển các giải pháp và công cụ hỗ trợ làm việc từ xa an toàn, đảm bảo mọi hoạt động của Tập đoàn được duy trì thông suốt trong mọi tình huống. |",
+  "prompt_tokens": 4314,
+  "completion_tokens": 385,
+  "cost_usd": 0.002342,
+  "error": null
+}

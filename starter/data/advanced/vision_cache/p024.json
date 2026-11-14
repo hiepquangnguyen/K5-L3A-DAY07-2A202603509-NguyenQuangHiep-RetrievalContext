@@ -1,0 +1,14 @@
+{
+  "page": 24,
+  "page_title": "SỨ MỆNH, GIÁ TRỊ CỐT LÕI",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột, cột trái là phần nội dung văn bản về các giá trị cốt lõi của FPT, cột phải có ảnh chụp một tác phẩm nghệ thuật mô hình xoắn ốc DNA màu vàng quấn quanh quả địa cầu xanh đặt trong không gian kiến trúc hiện đại. Bên cạnh ảnh là các mục giá trị cốt lõi với biểu tượng minh họa nhỏ màu xanh dương tương ứng: biểu tượng bắt tay cho Tôn trọng, biểu tượng mảnh ghép cho Đổi mới, biểu tượng 3 người đứng cạnh nhau cho Đồng đội, biểu tượng cân công lý cho Chí công, biểu tượng cúp sao cho Gương mẫu, biểu tượng mục tiêu cho Sáng suốt.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4318,
+  "completion_tokens": 208,
+  "cost_usd": 0.00206,
+  "error": null
+}

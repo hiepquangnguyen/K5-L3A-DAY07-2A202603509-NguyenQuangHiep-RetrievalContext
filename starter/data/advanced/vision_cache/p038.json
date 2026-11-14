@@ -1,0 +1,14 @@
+{
+  "page": 38,
+  "page_title": "Ban Lãnh Đạo FPT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 3 phần chính, mỗi phần giới thiệu một thành viên Ban Lãnh Đạo FPT với ảnh chân dung, tên, chức danh và mô tả chi tiết về kinh nghiệm, đóng góp. Bên trái trang là mục lục nội dung báo cáo thường niên với phần 'TỔNG QUAN VỀ FPT' được đánh dấu nổi bật. Mỗi phần giới thiệu có đường viền màu cam nối từ ảnh chân dung ra ngoài, tạo điểm nhấn. Các tên và chức danh được in đậm, một số chức danh màu cam nổi bật.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4308,
+  "completion_tokens": 165,
+  "cost_usd": 0.001987,
+  "error": null
+}

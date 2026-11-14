@@ -1,0 +1,14 @@
+{
+  "page": 130,
+  "page_title": "Quyền riêng tư và bảo mật dữ liệu của khách hàng",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và mục lục bên trái với phần 'BÁO CÁO ESG' được đánh dấu. Phần nội dung chính gồm hai cột chữ với các tiêu đề màu cam: 'Quyền riêng tư và bảo mật dữ liệu của khách hàng' bên trái và 'Phạm vi của chính sách và kế hoạch ứng phó sự cố' bên phải. Bên dưới cột phải có ảnh minh họa một người đang sử dụng laptop với các biểu tượng bảo mật kỹ thuật số nổi lên trên màn hình máy tính.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4294,
+  "completion_tokens": 160,
+  "cost_usd": 0.001974,
+  "error": null
+}

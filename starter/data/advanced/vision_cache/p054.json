@@ -1,0 +1,14 @@
+{
+  "page": 54,
+  "page_title": "Đổi mới và mở rộng dịch vụ trong lĩnh vực Giáo dục",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có phần text chiếm phần lớn diện tích phía trên, trình bày các nội dung về đổi mới và mở rộng dịch vụ giáo dục của hệ thống Giáo dục FPT. Phía dưới là ảnh chụp một phòng học hoặc phòng làm việc với nhiều sinh viên mặc áo cam đồng phục FPT đang làm việc với máy tính iMac. Phông nền phòng học hiện đại, có cửa kính lớn, ánh sáng tự nhiên. Dòng chú thích màu cam phía dưới ảnh: 'FPT mở rộng danh mục đào tạo theo sát chuỗi công nghệ chiến lược của quốc gia.'",
+  "charts_and_tables": "",
+  "prompt_tokens": 4286,
+  "completion_tokens": 171,
+  "cost_usd": 0.001988,
+  "error": null
+}

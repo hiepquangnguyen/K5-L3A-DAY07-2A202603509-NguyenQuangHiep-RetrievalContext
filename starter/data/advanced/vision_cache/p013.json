@@ -1,0 +1,14 @@
+{
+  "page": 13,
+  "page_title": "GIẢI THƯỞNG TIÊU BIỂU",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày có logo FPT và tiêu đề 'GIẢI THƯỞNG TIÊU BIỂU'. Bên trái là mục lục với các phần chính của báo cáo thường niên 2025. Ở giữa trang là các khối thông tin về giải thưởng tiêu biểu của FPT năm 2025, gồm hình ảnh hai chứng nhận TOP500 cho hai nhà máy AI lọt vào danh sách siêu máy tính mạnh nhất thế giới, biểu tượng bằng sáng chế và các giải thưởng TOP 1, TOP 5, TOP 8, TOP 10, TOP 40, TOP 50 với mô tả chi tiết từng giải thưởng. Góc dưới bên phải có ảnh chụp 4 người nhận giải thưởng 'Trường Hy Vọng' được trao giải thưởng Hành động vì cộng đồng ở hạng mục Dự án kịp thời.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4330,
+  "completion_tokens": 230,
+  "cost_usd": 0.0021,
+  "error": null
+}

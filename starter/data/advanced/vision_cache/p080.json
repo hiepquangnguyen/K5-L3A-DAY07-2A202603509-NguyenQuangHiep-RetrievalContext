@@ -1,0 +1,14 @@
+{
+  "page": 80,
+  "page_title": "QUẢN TRỊ CÔNG TY - MÔ HÌNH QUẢN TRỊ VÀ VAI TRÒ CỦA CÁC BÊN",
+  "content_types": [
+    "text",
+    "diagram"
+  ],
+  "visual_summary": "Trang trình bày mô hình quản trị công ty với sơ đồ các bên liên quan và vai trò của từng bên. Bên trái là các đoạn mô tả chi tiết về chức năng của các tiểu ban thuộc Hội đồng Quản trị (HĐQT). Ở giữa là sơ đồ các bên gồm: Đại hội đồng cổ đông, Ban kiểm soát, Hội đồng quản trị, Chủ tịch Hội đồng quản trị, Tổng giám đốc và Ban điều hành, Kiểm toán nội bộ, Văn phòng Chủ tịch HĐQT, Ủy ban nhân sự và lương thưởng, Ủy ban chính sách phát triển. Mỗi bên có các mũi tên kết nối và các hộp chữ màu xanh hoặc cam kèm theo mô tả vai trò, trách nhiệm cụ thể. Bên phải là các đoạn văn bản giải thích chi tiết vai trò của từng bên trong sơ đồ.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4358,
+  "completion_tokens": 256,
+  "cost_usd": 0.002153,
+  "error": null
+}

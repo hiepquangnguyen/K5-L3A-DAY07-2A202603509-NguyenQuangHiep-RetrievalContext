@@ -1,0 +1,14 @@
+{
+  "page": 138,
+  "page_title": "Cơ hội học hỏi và thăng tiến",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày nội dung về phát triển nguồn nhân lực tại FPT với tiêu đề chính 'Cơ hội học hỏi và thăng tiến' và tiêu đề phụ 'Đào tạo phát triển'. Bên phải là đoạn văn bản chi tiết về các chương trình đào tạo, mô hình Mentor – Mentee, đào tạo công nghệ và quản trị, hợp tác quốc tế, và các chương trình đào tạo dành cho sinh viên và người mới tốt nghiệp. Phía dưới bên trái là biểu đồ cột thể hiện tổng số giờ đào tạo nội bộ giai đoạn 2021-2025 với đơn vị giờ, các cột màu xanh dần tăng theo năm từ 2021 đến 2025. Bên trái trang là thanh menu điều hướng báo cáo thường niên FPT 2025 với các mục chính và mục con, mục 07 BÁO CÁO ESG được đánh dấu nổi bật.",
+  "charts_and_tables": "Biểu đồ cột: Tổng số giờ đào tạo nội bộ giai đoạn 2021-2025 (Đơn vị: Giờ)\n- 2021: 3.414.168\n- 2022: 3.803.220\n- 2023: 5.588.966\n- 2024: 6.365.814\n- 2025: 7.121.722",
+  "prompt_tokens": 4298,
+  "completion_tokens": 321,
+  "cost_usd": 0.002233,
+  "error": null
+}

@@ -1,0 +1,13 @@
+{
+  "page": 5,
+  "page_title": "THÔNG ĐIỆP BAN LÃNH ĐẠO",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chính. Cột trái là mục lục với các mục: 01 THÔNG ĐIỆP BAN LÃNH ĐẠO (có 2 mục nhỏ: Thông điệp Chủ tịch HĐQT, Thông điệp Tổng Giám đốc), 02 DẤU ẤN 2025, 03 TỔNG QUAN VỀ FPT, 04 CHIẾN LƯỢC PHÁT TRIỂN, 05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH, 06 QUẢN TRỊ CÔNG TY, 07 BÁO CÁO ESG, 08 BÁO CÁO TÀI CHÍNH HỢP NHẤT. Cột phải là nội dung thông điệp của Chủ tịch HĐQT với đoạn chữ lớn nhấn mạnh mục tiêu chiến lược của FPT trong khung màu cam nhạt. Phía dưới là chữ ký và tên Chủ tịch HĐQT TRƯƠNG GIA BÌNH. Không có biểu đồ hay bảng biểu trên trang này.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4277,
+  "completion_tokens": 289,
+  "cost_usd": 0.002173,
+  "error": null
+}

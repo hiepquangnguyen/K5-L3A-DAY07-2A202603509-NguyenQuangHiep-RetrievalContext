@@ -1,0 +1,13 @@
+{
+  "page": 122,
+  "page_title": "Cán bộ nhân viên",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày nội dung văn bản với bảng 2 cột: cột trái là 'Chương trình hành động nổi bật', cột phải là 'Kết quả năm 2025'. Không có biểu đồ hay bảng số liệu. Góc trái có logo FPT và mục lục phần 07 Báo cáo ESG được đánh dấu màu xanh dương nhạt. Nội dung chính tập trung vào các chương trình hành động và kết quả liên quan đến cán bộ nhân viên của FPT năm 2025.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4309,
+  "completion_tokens": 142,
+  "cost_usd": 0.001951,
+  "error": null
+}

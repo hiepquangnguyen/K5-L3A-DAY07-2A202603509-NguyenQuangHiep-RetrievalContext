@@ -1,0 +1,13 @@
+{
+  "page": 227,
+  "page_title": "MẠNG LƯỚI HOẠT ĐỘNG - KHU VỰC CHÂU Á",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày danh sách các công ty và chi nhánh thuộc mạng lưới hoạt động của FPT tại khu vực Châu Á, cụ thể là Việt Nam. Trang có bố cục 2 cột chính: cột trái là các công ty chính và chi nhánh, cột phải là các công ty thành viên. Mỗi mục gồm tên công ty, địa chỉ, số điện thoại và website (nếu có). Không có biểu đồ hay bảng biểu trên trang này.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4397,
+  "completion_tokens": 155,
+  "cost_usd": 0.002007,
+  "error": null
+}

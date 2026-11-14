@@ -1,0 +1,190 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed p11:c004 + p12:c001 (cùng Điều 15) nhưng budget 800 cắt mất rank 2 p12:c000 (quy định giữ kín người phản biện).",
+    "note": "Baseline bỏ sót p12:c000 vì budget 800, lặp tìm kiếm rồi từ chối trả lời."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt18:p08:c000 chứa đầy đủ quy định áp dụng đánh giá học phần trình độ tiến sĩ.",
+    "note": "Trả lời đúng đầy đủ và trích dẫn p08:c000 được bằng chứng hỗ trợ."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p08:c000 chứa đủ cả mức tối đa 50% trọng số và hội đồng ít nhất 05 thành viên.",
+    "note": "Trả lời chính xác hai ý, trích dẫn tt08:p08:c000 hợp lệ."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p14:c000 có đầy đủ thời hạn tối đa 03 năm hoàn thiện chuẩn đầu ra.",
+    "note": "Ngữ cảnh đã có p14:c000 nhưng baseline không tổng hợp được câu trả lời và dừng tại giới hạn tìm kiếm."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Packed tt18:p22:c001 chứa bảng Phụ lục II (TOEFL iBT >= 46, IELTS >= 5.5).",
+    "note": "Có bảng chứng chỉ p22:c001 nhưng baseline chỉ giữ 1 chunk, lúng túng lặp truy vấn."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Packed nhầm tt08:p02:c003 (bậc đại học), budget 800 cắt mất rank 2 tt18:p03:c001 (tiến sĩ).",
+    "note": "Sai cấp đào tạo do baseline không đặt filter cap_dao_tao=tien_si và budget quá chật."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed tt08:p11:c002 (khoản 1 điểm c về ĐTB cảnh báo) nhưng cắt mất rank 2 p12:c000 (giới hạn 02 lần liên tiếp).",
+    "note": "Đúng chủ đề cảnh báo học tập nhưng thiếu chunk p12:c000 chứa con số tối đa 2 lần."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p02:c000 có quy định chương trình song ngành/ngành chính - phụ.",
+    "note": "Đã có p02:c000 nhưng baseline trả lời lỗi/từ chối khi bị giới hạn bởi ngữ cảnh ngắn."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p15:c000 nêu rõ sinh viên xin thôi học muốn học lại phải dự tuyển đầu vào như thí sinh khác.",
+    "note": "Trả lời đúng, trích dẫn p15:c000 hợp lệ."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed p10:c004 (thang điểm 4) và p07:c004, cắt mất rank 3 p11:c000 chứa thang điểm 10.",
+    "note": "Thiếu chunk tiếp nối p11:c000 nên không có mốc điểm Xuất sắc/Giỏi/Khá theo thang 10."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Packed tt18:p15:c001 (đăng toàn văn luận án), sai trang so với thủ tục đề tài mật tại p14:c001.",
+    "note": "BM25 bỏ lỡ p14:c001 nên baseline không có bằng chứng về thủ tục báo cáo Bộ GD&ĐT."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed tt18:p03:c003 (tiêu chuẩn chung Điều 4) nhưng budget 800 cắt mất rank 3 p04:c000 (lĩnh vực nghệ thuật).",
+    "note": "Đúng Điều 4 nhưng thiếu đoạn quy định riêng cho giảng viên lĩnh vực nghệ thuật."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed tt08:p13:c000 (khoản 1 Điều 13 công nhận tín chỉ) nhưng cắt mất p13:c001 (vai trò Hội đồng chuyên môn).",
+    "note": "Đúng Điều 13 nhưng thiếu khoản 2 p13:c001 nêu rõ trách nhiệm hội đồng chuyên môn."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Packed tt18:p11:c004 (phản biện độc lập), hoàn toàn thiếu tt18:p15:c000 (nộp Thư viện Quốc gia Việt Nam).",
+    "note": "Truy vấn từ khóa chưa tìm thấy điều khoản lưu chiểu tại Thư viện Quốc gia."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Packed tt18:p08:c004 và p09:c001 (Điều 11 chuyển đổi kết quả học tập, nghiên cứu).",
+    "note": "Ngữ cảnh có p09:c001 nhưng baseline lặp tìm kiếm thay vì trích xuất câu trả lời."
+  },
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt18:p07:c001 quy định công khai thông báo tuyển sinh tiến sĩ trước ít nhất 20 ngày làm việc.",
+    "note": "Trả lời chính xác, trích dẫn p07:c001 hợp lệ."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p17:c001 quy định dừng học chương trình thứ hai khi ĐTB < 2,0.",
+    "note": "Trả lời chính xác, trích dẫn p17:c001 hợp lệ."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p07:c001 quy định tối đa 30% khối lượng bằng lớp học trực tuyến.",
+    "note": "Trả lời chính xác, trích dẫn p07:c001 hợp lệ."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed chỉ tt18:p13:c001 (thời hạn 03 tháng lập Hội đồng) nhưng thiếu p13:c000 (người thân không được tham gia).",
+    "note": "Chỉ phủ 1/2 vế câu hỏi, thiếu khoản quy định về người thân tại p13:c000."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Packed tt08:p02:c004 (thời gian khóa học tối đa), budget 800 cắt mất rank 2 p06:c001 (giờ giảng/tuần).",
+    "note": "Không có thông tin giới hạn số giờ giảng/tuần trong ngữ cảnh được nạp."
+  },
+  {
+    "query_id": "u01",
+    "abstention_correct": true,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Chỉ kiểm tra 1 chunk p09:c002 (điểm học phần), chưa kiểm chứng vùng học phí/học bổng.",
+    "note": "Từ chối đúng câu hỏi ngoài phạm vi tài liệu."
+  },
+  {
+    "query_id": "u02",
+    "abstention_correct": true,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Kiểm tra p09:c004 (Điều 10 đánh giá kết quả học tập theo kỳ/năm), xác nhận không đề cập điểm rèn luyện.",
+    "note": "Từ chối đúng câu hỏi không có trong văn bản."
+  }
+]

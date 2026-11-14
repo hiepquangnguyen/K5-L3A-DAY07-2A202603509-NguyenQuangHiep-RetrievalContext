@@ -1,0 +1,14 @@
+{
+  "page": 204,
+  "page_title": "THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang báo cáo tài chính với logo FPT và mục lục bên trái. Phần chính trang gồm hai mục lớn: 22. Vay và nợ thuê tài chính (tiếp theo) và 23. Vốn góp của chủ sở hữu. Có hai bảng số liệu chi tiết về ngoại tệ và cổ phiếu phổ thông. Không có hình ảnh hay biểu đồ khác.",
+  "charts_and_tables": "Bảng 1: Vay và nợ thuê tài chính (Đơn vị: VNĐ)\n| Ngoại tệ | 31/12/2025 Tổng số dư ngoại tệ | 31/12/2025 Số dư ngoại tệ đã được phòng ngừa rủi ro | 31/12/2024 Tổng số dư ngoại tệ | 31/12/2024 Số dư ngoại tệ đã được phòng ngừa rủi ro |\n|---------|-----------------------------|-----------------------------------------------|-----------------------------|-----------------------------------------------|\n| USD     | 6.750.000,00                | 6.750.000,00                                  | 32.900.000,00               | 25.000.000,00                                 |\n\nBảng 2: Doanh thu thu về bằng USD và JPY (Đơn vị: VNĐ)\n| Ngoại tệ | 2025           | 2024           |\n|----------|----------------|----------------|\n| USD      | 429.501.462,00 | 433.771.845,17 |\n| JPY      | 90.199.097.690,00 | 73.230.679.857,00 |\n\nBảng 3: Số lượng cổ phiếu (Đơn vị: VNĐ)\n| Ngày       | 31/12/2025 Cổ phiếu phổ thông | 31/12/2024 Cổ phiếu phổ thông |\n|------------|------------------------------|------------------------------|\n| Số lượng cổ phiếu đăng ký | 1.703.507.121                | 1.471.069.183                |\n| Số lượng cổ phiếu đã phát hành | 1.703.507.121                | 1.471.069.183                |\n| Cổ phiếu phổ thông | 1.703.507.121                | 1.471.069.183                |\n| - Trong đó: cổ phiếu bị hạn chế quyền chuyển giao quyền sở hữu | 31.584.406                  | 25.943.108                  |\n| Số lượng cổ phiếu đang lưu hành | 1.703.507.121                | 1.471.069.183                |\n| Cổ phiếu phổ thông | 1.703.507.121                | 1.471.069.183                |\n| - Trong đó: cổ phiếu bị hạn chế quyền chuyển giao quyền sở hữu | 31.584.406                  | 25.943.108                  |\n\nPhần text giải thích chi tiết về cổ phiếu phổ thông, quyền lợi cổ đông, và cổ phiếu bị hạn chế quyền chuyển giao quyền sở hữu.",
+  "prompt_tokens": 4370,
+  "completion_tokens": 757,
+  "cost_usd": 0.002959,
+  "error": null
+}

@@ -1,0 +1,1498 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Trong quy trình phản biện độc lập luận án tiến sĩ, thông tin về người phản biện độc lập được bảo mật như thế nào và việc liên hệ thuộc trách nhiệm của ai?",
+    "status": "answered",
+    "answer": "Thông tin về người phản biện độc lập được giữ kín đối với nghiên cứu sinh và người hướng dẫn. Người phản biện độc lập không tiếp xúc hoặc yêu cầu nghiên cứu sinh cung cấp thông tin, giải trình ý kiến phản biện. Mọi liên hệ với người phản biện trong quá trình phản biện độc lập thuộc trách nhiệm của cơ sở đào tạo [para:tt18-2021:p12:c000].",
+    "citations": [
+      "para:tt18-2021:p12:c000"
+    ],
+    "context": "[para:tt18-2021:p12:c000 | starter/data/tt18_2021_tien_si.pdf | page 12]\n4. Thông tin về người phản biện độc lập được giữ kín đối với nghiên cứu sinh và người hướng dẫn . N gười phản biện độc lập không tiếp xúc hoặc yêu cầu nghiên cứu sinh cung cấp thông tin , giải trình ý kiến phản biện. Mọi liên hệ với người phản biện trong quá trình phản biện độc lập thuộc trách nhiệm của cơ sở đào tạo. Những ý kiến giải trình của nghiên cứu sinh được gửi cho cơ sở đào tạo và trình bày tại buổi bảo vệ luận án.\n\n[para:tt18-2021:p12:c001 | starter/data/tt18_2021_tien_si.pdf | page 12]\n5. Cơ sở đào tạo quy định cụ thể quy trình lựa chọn, gửi lấy ý kiến và xử lý ý kiến phản biện độc lập ; việc bảo mật danh tính và thông tin cá nhân của người phản biện độc lập.\n\n[para:tt18-2021:p11:c004 | starter/data/tt18_2021_tien_si.pdf | page 11]\n3. Việc phản biện độc lập phải đảm bảo khách quan và minh bạch. Ý kiến kết luận của người phản biện độc lập đối với luận án phải ghi rõ đồng ý hay không đồng ý về chuyên môn. Luận án được xác định là đạt quy trình phản biện độc lập khi được 02 người phản biện độc lập đồng ý. Nếu có 01 người phản biện không đồng ý, cơ sở đào tạo gửi luận án để lấy ý kiến của thêm 01 người phản biện độc lập khác làm căn cứ quyết định.",
+    "context_ids": [
+      "para:tt18-2021:p12:c000",
+      "para:tt18-2021:p12:c001",
+      "para:tt18-2021:p11:c004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "phản biện độc lập luận án tiến sĩ bảo mật thông tin người phản biện liên hệ trách nhiệm",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p12:c000",
+            "source_id": "tt18-2021",
+            "page": 12,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p12:c001",
+            "source_id": "tt18-2021",
+            "page": 12,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p11:c004",
+            "source_id": "tt18-2021",
+            "page": 11,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p12:c000",
+          "para:tt18-2021:p12:c001",
+          "para:tt18-2021:p11:c004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 6656.71,
+    "llm_tokens": 2491,
+    "llm_cost_usd": 0.001206
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "Trong đào tạo trình độ tiến sĩ, việc đánh giá và tính điểm các học phần trong chương trình đào tạo được áp dụng theo quy định nào?",
+    "status": "answered",
+    "answer": "Việc đánh giá và tính điểm các học phần trong chương trình đào tạo trình độ tiến sĩ được áp dụng theo quy định về đánh giá và tính điểm học phần theo quy chế đào tạo trình độ đại học. Ngoài ra, quy chế của cơ sở đào tạo quy định chi tiết các hoạt động học tập, nghiên cứu của nghiên cứu sinh, bao gồm cách đánh giá, tính điểm học phần và những quy định liên quan khác trong tổ chức hoạt động đào tạo trình độ tiến sĩ của cơ sở đào tạo.[para:tt18-2021:p08:c000][para:tt18-2021:p08:c001]",
+    "citations": [
+      "para:tt18-2021:p08:c000",
+      "para:tt18-2021:p08:c001"
+    ],
+    "context": "[para:tt18-2021:p08:c000 | starter/data/tt18_2021_tien_si.pdf | page 8]\n3. Cơ sở đào tạo được tổ chức giảng dạy, đánh giá các học phần theo hình thức trực tuyến hoặc kết hợp giữa trực tuyến và trực tiếp khi đáp ứng quy định hiện hành về ứng dụng công nghệ thông tin trong quản lý và tổ chức đào tạo qua mạng; có giải pháp bảo đảm chất lượng các lớp học này không thấp hơn chất lượng lớp học trực tiếp.\n\n4. Việc đánh giá và tính điểm học phần trong chương trình đào tạo tiến sĩ được áp dụng quy định về đánh giá và tính điểm học phần theo quy chế đào tạo trình độ đại học.\n\n[para:tt18-2021:p08:c001 | starter/data/tt18_2021_tien_si.pdf | page 8]\n5. Quy chế của cơ sở đào tạo quy định chi tiết các hoạt động học tập, nghiên cứu của nghiên cứu sinh ; thời gian, địa điểm, phương thức tổ chức đào tạo; cách đánh giá, tính điểm học phần và những quy định liên quan khác trong tổ chức hoạt động đào tạo trình độ tiến sĩ của cơ sở đào tạo.\n\n[para:tt18-2021:p10:c003 | starter/data/tt18_2021_tien_si.pdf | page 10]\nĐiều 14. Đánh giá luận án tại đơn vị chuyên môn\n\n1. Việc đánh giá luận án tại đơn vị chuyên môn được tổ chức khi nghiên cứu sinh đáp ứng đủ những yêu cầu sau và yêu cầu bổ sung của cơ sở đào tạo đối với từng chương trình đào tạo (nếu có):\n\na) Đã hoàn thành các học phần trong chương trình đào tạo tiến sĩ;\n\nb) Có bản thảo luận án tiến sĩ được người hướng dẫn hoặc đồng hướng dẫn đồng ý đề xuất được đánh giá ở đơn vị chuyên môn;",
+    "context_ids": [
+      "para:tt18-2021:p08:c000",
+      "para:tt18-2021:p08:c001",
+      "para:tt18-2021:p10:c003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "đánh giá và tính điểm các học phần trong chương trình đào tạo tiến sĩ",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p08:c000",
+            "source_id": "tt18-2021",
+            "page": 8,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p08:c001",
+            "source_id": "tt18-2021",
+            "page": 8,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p10:c003",
+            "source_id": "tt18-2021",
+            "page": 10,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p08:c000",
+          "para:tt18-2021:p08:c001",
+          "para:tt18-2021:p10:c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4887.25,
+    "llm_tokens": 2595,
+    "llm_cost_usd": 0.001304
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Hình thức đánh giá trực tuyến ở bậc đại học đóng góp tối đa bao nhiêu phần trăm trọng số điểm học phần và hội đồng bảo vệ khóa luận trực tuyến cần ít nhất mấy thành viên?",
+    "status": "answered",
+    "answer": "Hình thức đánh giá trực tuyến ở bậc đại học đóng góp không quá 50% trọng số điểm học phần; riêng việc tổ chức bảo vệ và đánh giá đồ án, khóa luận trực tuyến được thực hiện với trọng số cao hơn khi đáp ứng điều kiện có hội đồng chuyên môn gồm ít nhất 3 thành viên [para:tt08-2021:p08:c000].",
+    "citations": [
+      "para:tt08-2021:p08:c000"
+    ],
+    "context": "[para:tt08-2021:p08:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 8]\nphần được quy định trong đề cương chi tiết của mỗi học phần. Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trọng số điểm học phần; riêng việc tổ chức bảo vệ và đánh giá đồ án, khóa luận được thực hiện trực tuyến với trọng số cao hơn khi đáp ứng thêm các điều kiện sau đây:\n\na) Việc đánh giá được thực h iện thông qua một hội đồng chuyên môn gồm ít nhất 3 thành viên;\n\nb) Hình thức bảo vệ và đánh giá trực tuyến được sự đồng thuận của các thành viên hội đồng và người học;\n\n[para:tt08-2021:p09:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nd) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.\n\n[para:tt08-2021:p07:c004 | starter/data/tt08_2021_dai_hoc.pdf | page 7]\nĐiều 9. Đánh giá và tính điểm học phần\n\n1. Đối với mỗi học phần, sinh viên được đánh giá qua tối thiểu hai điểm thành phần, đối với các học phần có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá. Các điểm thành ph ần được đánh giá theo thang điểm\n\n10. Phương pháp đánh giá, hình thức đánh giá và trọng số của mỗi điểm thành",
+    "context_ids": [
+      "para:tt08-2021:p08:c000",
+      "para:tt08-2021:p09:c002",
+      "para:tt08-2021:p07:c004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "hình thức đánh giá trực tuyến trọng số điểm học phần đại học hội đồng bảo vệ khóa luận trực tuyến số thành viên",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p08:c000",
+            "source_id": "tt08-2021",
+            "page": 8,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p09:c002",
+            "source_id": "tt08-2021",
+            "page": 9,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p07:c004",
+            "source_id": "tt08-2021",
+            "page": 7,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p08:c000",
+          "para:tt08-2021:p09:c002",
+          "para:tt08-2021:p07:c004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4331.78,
+    "llm_tokens": 2619,
+    "llm_cost_usd": 0.001253
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Sinh viên đại học đã hết thời gian học tập tối đa nhưng chưa đạt chuẩn đầu ra về ngoại ngữ hoặc công nghệ thông tin thì được hoàn thiện các điều kiện còn thiếu trong thời hạn bao lâu?",
+    "status": "answered",
+    "answer": "Sinh viên đại học đã hết thời gian học tập tối đa theo quy định nhưng chưa đạt chuẩn đầu ra về ngoại ngữ hoặc công nghệ thông tin thì được hoàn thiện các điều kiện còn thiếu trong thời hạn 03 năm tính từ khi thôi học để đề nghị xét công nhận tốt nghiệp [para:tt08-2021:p14:c000].",
+    "citations": [
+      "para:tt08-2021:p14:c000"
+    ],
+    "context": "[para:tt08-2021:p14:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 14]\nb) Sinh viên đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học.\n\n4. Sinh viên đã hết thời gian học tập tối đa theo quy định nhưng chưa đủ điều kiện tốt nghiệp do chưa hoàn thành những học phần Giáo dục quốc phòng-an ninh hoặc Giáo dục thể chất hoặc chưa đạt chuẩn đầu ra về ngoại ngữ, công nghệ thông tin , trong thời hạn 03 năm tính từ khi thôi học được hoàn thiện các điều kiện còn thiếu và đề nghị xét công nhận tốt nghiệp.\n\n5. Sinh viên không tốt nghiệp được cấp c hứng nhận về các học phần đã tích luỹ trong chương trình đào tạo của cơ sở đào tạo.\n\n6. Quy chế của cơ sở đào tạo quy định:\n\n[para:tt08-2021:p02:c004 | starter/data/tt08_2021_dai_hoc.pdf | page 2]\n5. Thời gian tối đa để sinh viên hoàn thành khoá học được quy định trong quy chế của cơ sở đào tạo, nhưng không vượt quá 02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá đối với mỗi hình thức đào tạo. Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian tối đa để sinh viên hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng được miễn trừ.\n\n[para:tt08-2021:p02:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 2]\na) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo chính quy phải phù hợp với thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời đảm bảo đa số sinh viên hoàn thành chương trình đào tạo;\n\nb) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài hơn tối thiểu 20% so với hình thức đào tạo chính quy của cùng chương trình đào tạo.",
+    "context_ids": [
+      "para:tt08-2021:p14:c000",
+      "para:tt08-2021:p02:c004",
+      "para:tt08-2021:p02:c003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "thời gian hoàn thiện chuẩn đầu ra ngoại ngữ công nghệ thông tin sinh viên đại học hết thời gian học tập tối đa",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p14:c000",
+            "source_id": "tt08-2021",
+            "page": 14,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p02:c004",
+            "source_id": "tt08-2021",
+            "page": 2,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p02:c003",
+            "source_id": "tt08-2021",
+            "page": 2,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p14:c000",
+          "para:tt08-2021:p02:c004",
+          "para:tt08-2021:p02:c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4289.5,
+    "llm_tokens": 2606,
+    "llm_cost_usd": 0.001238
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "Theo Phụ lục II của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, chứng chỉ tiếng Anh TOEFL iBT và IELTS cần đạt mức điểm tối thiểu là bao nhiêu để minh chứng trình độ ngoại ngữ của người dự tuyển?",
+    "status": "answered",
+    "answer": "Theo Phụ lục II của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, chứng chỉ tiếng Anh TOEFL iBT cần đạt từ 46 điểm trở lên và IELTS cần đạt từ 5.5 điểm trở lên để minh chứng trình độ ngoại ngữ của người dự tuyển [para:tt18-2021:p22:c001].",
+    "citations": [
+      "para:tt18-2021:p22:c001"
+    ],
+    "context": "[para:tt18-2021:p22:c001 | starter/data/tt18_2021_tien_si.pdf | page 22]\nDANH SÁCH MỘT SỐ CHỨNG CHỈ TIẾNG NƯỚC NGOÀI MINH CHỨNG CHO TRÌNH ĐỘ NGOẠI NGỮ CỦA NGƯỜI DỰ TUYỂN Stt Ngôn ngữ Bằng/Chứng chỉ/Chứng nhận Trình độ/Thang điểm 1 Tiếng Anh TOEFL iBT Từ 46 trở lên IELTS Từ 5.5 trở lên Cambridge Assessment English B2 First/B2 Business Vantage/Linguaskill Thang điểm: từ 160 trở lên 2 Tiếng Pháp CIEP/Alliance française diplomas TCF từ 400 trở lên DELF B2 trở lên Diplôme de Langue 3 Tiếng Đức Goethe -Institut Goethe- Zertifikat B2 trở lên The German TestDaF language certificate TestDaF level 4 (TDN 4) trở lên 4 Tiếng Trung Quốc Chinese Hanyu Shuiping Kaoshi (HSK) HSK\n\n[para:tt18-2021:p06:c002 | starter/data/tt18_2021_tien_si.pdf | page 6]\nc) Có một trong các chứng chỉ ngoại ngữ quy định tại Phụ lục II của Quy chế này còn hiệu lực tính đến ngày đăng ký dự tuyển hoặc các chứng chỉ ngoại ngữ khác tương đương trình độ bậc 4 (theo khung năng ngoại ngữ 6 bậc dùng cho Việt Nam) do Bộ Giáo dục Giáo dục Đào tạo công bố.\n\n[para:tt18-2021:p22:c002 | starter/data/tt18_2021_tien_si.pdf | page 22]\nlevel 4 trở lên 5 Tiếng Nhật Japanese Language Proficiency Test (JLPT) N3 trở lên 6 Tiếng Nga ТРКИ - Тест по русскому языку как иностранному (TORFL - Test of Russian as a Foreign Language) ТРКИ-2 trở lên 7 Các ngôn ngữ tiếng nước ngoài khác Chứng chỉ đánh giá theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam Từ bậc 4 trở lên",
+    "context_ids": [
+      "para:tt18-2021:p22:c001",
+      "para:tt18-2021:p06:c002",
+      "para:tt18-2021:p22:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "chứng chỉ tiếng Anh TOEFL iBT IELTS mức điểm tối thiểu minh chứng trình độ ngoại ngữ người dự tuyển",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p22:c001",
+            "source_id": "tt18-2021",
+            "page": 22,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p06:c002",
+            "source_id": "tt18-2021",
+            "page": 6,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p22:c002",
+            "source_id": "tt18-2021",
+            "page": 22,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p22:c001",
+          "para:tt18-2021:p06:c002",
+          "para:tt18-2021:p22:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4043.97,
+    "llm_tokens": 2693,
+    "llm_cost_usd": 0.001272
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Nghiên cứu sinh được phép hoàn thành chương trình đào tạo tiến sĩ sớm hơn kế hoạch tối đa bao lâu và tổng thời gian đào tạo chậm hơn không vượt quá mấy năm?",
+    "status": "answered",
+    "answer": "Nghiên cứu sinh được phép hoàn thành chương trình đào tạo tiến sĩ sớm hơn kế hoạch học tập, nghiên cứu toàn khóa không quá 01 năm (12 tháng), và tổng thời gian đào tạo chậm hơn kế hoạch không vượt quá 06 năm (72 tháng) tính từ ngày quyết định công nhận nghiên cứu sinh có hiệu lực đến thời điểm hoàn thành các thủ tục trình luận án cho cơ sở đào tạo [para:tt18-2021:p03:c001].",
+    "citations": [
+      "para:tt18-2021:p03:c001"
+    ],
+    "context": "[para:tt18-2021:p03:c001 | starter/data/tt18_2021_tien_si.pdf | page 3]\n2. Nghiên cứu sinh được phép hoàn thành chương trình đào tạo sớm hơn so với kế hoạch học tập, nghiên cứu toàn khóa không quá 01 năm (12 tháng), hoặc chậm hơn so với kế hoạch học tập, nghiên cứu toàn khóa nhưng tổng thời gian đào tạo không vượt quá 06 năm (72 tháng) tính từ ngày quyết định công nhận nghiên cứu sinh có hiệu lực đến thời điểm hoàn thành các thủ tục trình luận án cho cơ sở đào tạo , trước khi thực hiện quy trình phản biện độc lập và thành lập Hội đồng đánh giá luận án của cơ sở đào tạo.\n\n[para:tt18-2021:p02:c005 | starter/data/tt18_2021_tien_si.pdf | page 2]\nĐiều 3. Thời gian và hình thức đào tạo\n\n1. Thời gian đào tạo tiêu chuẩn của trình độ tiến sĩ từ 03 năm (36 tháng) đến 04 năm (48 tháng) do cơ sở đào tạo quyết định , bảo đảm phần\n\n[para:tt18-2021:p08:c002 | starter/data/tt18_2021_tien_si.pdf | page 8]\nĐiều 10. Thay đổi trong quá trình đào tạo\n\n1. Nghiên cứu sinh và người hướng dẫn được đề xuất với cơ sở đào tạo về việc thay đổi đề tài luận án, bổ sung hoặc thay đổi người hướng dẫn, thay đổi đơn vị chuyên môn phụ trách và chuyển cơ sở đào tạo. Việc thay đổi phải kèm theo điều chỉnh kế hoạch học tập, nghiên cứu toàn khóa và bảo đảm thời gian đào tạo tuân thủ quy định tại Điều 3 của Quy chế này.\n\n2. Nghiên cứu sinh bị buộc thôi học trong những trường hợp sau:\n\na) Không hoàn thành chương trình đào tạo trong khoảng thời gian quy định tại khoản 1, khoản 2 Điều 3 của Quy chế này;",
+    "context_ids": [
+      "para:tt18-2021:p03:c001",
+      "para:tt18-2021:p02:c005",
+      "para:tt18-2021:p08:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "hoàn thành chương trình đào tạo tiến sĩ sớm hơn kế hoạch tối đa bao lâu tổng thời gian đào tạo chậm hơn không vượt quá mấy năm",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p03:c001",
+            "source_id": "tt18-2021",
+            "page": 3,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p02:c005",
+            "source_id": "tt18-2021",
+            "page": 2,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p08:c002",
+            "source_id": "tt18-2021",
+            "page": 8,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p03:c001",
+          "para:tt18-2021:p02:c005",
+          "para:tt18-2021:p08:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4059.5,
+    "llm_tokens": 2595,
+    "llm_cost_usd": 0.001273
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Quy chế của cơ sở đào tạo đại học quy định giới hạn số lần cảnh báo học tập liên tiếp đối với sinh viên tối đa là mấy lần?",
+    "status": "answered",
+    "answer": "Quy chế của cơ sở đào tạo đại học quy định giới hạn số lần cảnh báo học tập liên tiếp đối với sinh viên tối đa là 2 lần cảnh báo liên tiếp [para:tt08-2021:p12:c000].",
+    "citations": [
+      "para:tt08-2021:p12:c000"
+    ],
+    "context": "[para:tt08-2021:p12:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 12]\nb) Thời gian học tập vượt quá giới hạn theo quy định tại khoản 5 Điều 2 của Quy chế này.\n\n3. Quy chế của cơ sở đào tạo quy định cụ thể:\n\na) Việc lựa chọn áp dụng một số điều kiện cảnh báo học tập, giới hạn số lần hoặc mức cảnh báo học tập nhưng không vượt quá 2 lần cảnh báo liên tiếp;\n\nb) Quy trình, thủ tục cảnh báo học tập, buộc thôi học ; việc thông báo hình thức áp dụng tới sinh viên;\n\nc) Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học.\n\n[para:tt08-2021:p11:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 11]\nc) Điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba dưới 1,8 đối với sinh viên các năm tiếp theo.\n\n2. Sinh viên bị buộc thôi học trong các trường hợp sau:\n\na) Số lần cảnh báo học tập hoặc mức cảnh báo học tập vượt quá giới hạn theo quy định của cơ sở đào tạo;\n\n[para:tt08-2021:p12:c001 | starter/data/tt08_2021_dai_hoc.pdf | page 12]\nĐiều 12. Xử lý kết quả học tập theo niên chế\n\n1. Cuối mỗi năm học, sinh viên được đánh giá đạt tiến độ học tập bình thường và được học tiếp lên năm học sau nếu đạt cả hai điều kiện sau:\n\na) Điểm trung bình năm học đạt từ 1,0 trở lên đối với năm học thứ nhất, từ 1,2 trở lên đối với năm thứ hai và từ 1,4 đối với năm thứ ba trở đi;\n\nb) Số tín chỉ nợ đọng từ đầu khóa không vượt quá 16.\n\n2. Sinh viên bị buộc thôi học trong các trường hợp sau:\n\na) Điểm trung bình năm học đạt dưới 0,8;\n\nb) Điểm trung bình tích lũy đạt dưới 1,2 sau 2 năm học, dưới 1,4 sau 3 năm học và dưới 1,6 từ sau 4 năm học trở đi;",
+    "context_ids": [
+      "para:tt08-2021:p12:c000",
+      "para:tt08-2021:p11:c002",
+      "para:tt08-2021:p12:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "giới hạn số lần cảnh báo học tập liên tiếp đối với sinh viên",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p12:c000",
+            "source_id": "tt08-2021",
+            "page": 12,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p11:c002",
+            "source_id": "tt08-2021",
+            "page": 11,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p12:c001",
+            "source_id": "tt08-2021",
+            "page": 12,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p12:c000",
+          "para:tt08-2021:p11:c002",
+          "para:tt08-2021:p12:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3671.75,
+    "llm_tokens": 2631,
+    "llm_cost_usd": 0.001208
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ ở bậc đại học, chương trình đào tạo phải thể hiện rõ điều gì?",
+    "status": "answered",
+    "answer": "Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ ở bậc đại học, chương trình đào tạo phải thể hiện rõ khối lượng học tập chung và riêng theo từng ngành [para:tt08-2021:p02:c000].",
+    "citations": [
+      "para:tt08-2021:p02:c000"
+    ],
+    "context": "[para:tt08-2021:p02:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 2]\nđủ các học phần bắt b uộc và đáp ứng chuẩn chương trình đào tạo theo quy định hiện hành của Bộ Giáo dục và Đào tạo . Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ, chương trình đào tạo phải thể hiện rõ khối lượng học tập chung và riêng theo từng ngành.\n\n[para:tt08-2021:p02:c001 | starter/data/tt08_2021_dai_hoc.pdf | page 2]\n2. Nội dung, chuẩn đầu ra của chương trình đào tạo áp dụng chung đối với các hình thức, phương thức tổ chức đào tạo và đối tượng người học khác nhau. Đối với người đã tốt nghiệp trình độ khác hoặc ngành khác, khối lượng học tập thực tế được xác định trên cơ sở công nhận, hoặc chuyển đổi tín chỉ đã tích lũy và miễn trừ học phần trong chương trình đào tạo trước.\n\n[para:tt08-2021:p01:c006 | starter/data/tt08_2021_dai_hoc.pdf | page 1]\nĐiều 2. Chương trình đào tạo và thời gian học tập\n\n1. Chương trình đào tạo được xây dựng theo đơn vị tín chỉ, cấu trúc từ các môn học hoặc học phần (sau đây gọi chung là học phần), trong đó phải có",
+    "context_ids": [
+      "para:tt08-2021:p02:c000",
+      "para:tt08-2021:p02:c001",
+      "para:tt08-2021:p01:c006"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "đào tạo song ngành ngành chính ngành phụ chương trình đào tạo",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p02:c000",
+            "source_id": "tt08-2021",
+            "page": 2,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p02:c001",
+            "source_id": "tt08-2021",
+            "page": 2,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p01:c006",
+            "source_id": "tt08-2021",
+            "page": 1,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p02:c000",
+          "para:tt08-2021:p02:c001",
+          "para:tt08-2021:p01:c006"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3548.4,
+    "llm_tokens": 2374,
+    "llm_cost_usd": 0.001107
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Sinh viên đại học xin thôi học vì lý do cá nhân nếu muốn quay trở lại học thì phải thực hiện quy định gì?",
+    "status": "answered",
+    "answer": "Sinh viên đại học xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc kỷ luật, nếu muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác. Ngoài ra, quy chế của cơ sở đào tạo sẽ quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời, tiếp nhận trở lại học và cho thôi học; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học [para:tt08-2021:p15:c000].",
+    "citations": [
+      "para:tt08-2021:p15:c000"
+    ],
+    "context": "[para:tt08-2021:p15:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 15]\n3. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Những sinh viên này muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.\n\n4. Quy chế của cơ sở đào tạo quy định cụ thể về điều kiện, thẩm quyền, thủ tục xét nghỉ học tạm thời , tiếp nhận trở lại học và cho thôi học ; việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh viên xin thôi học.\n\n[para:tt08-2021:p14:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 14]\nĐiều 15. Nghỉ học tạm thời, thôi học\n\n1. Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau:\n\na) Được điều động vào lực lượng vũ trang;\n\nb) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế;\n\nc) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;\n\nd) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật.\n\n[para:tt08-2021:p03:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 3]\nb) Sinh viên được đánh giá đạt tiến độ học tập bình thường sẽ được học tiếp năm sau theo kế hoạch học tập chuẩn và đăng ký học lại những học phần chưa đạt theo quy định trong chương trình đào tạo;\n\nc) Sinh viên được đánh giá không đạt tiến độ học tập bình thường sẽ phải học cùng sinh viên khóa sau để học lại các học phần chưa đạt theo quy định trong chương trình đào tạo.\n\n2. Đào tạo theo tín chỉ:",
+    "context_ids": [
+      "para:tt08-2021:p15:c000",
+      "para:tt08-2021:p14:c003",
+      "para:tt08-2021:p03:c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "sinh viên đại học thôi học quay trở lại học quy định",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p15:c000",
+            "source_id": "tt08-2021",
+            "page": 15,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p14:c003",
+            "source_id": "tt08-2021",
+            "page": 14,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p03:c000",
+            "source_id": "tt08-2021",
+            "page": 3,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p15:c000",
+          "para:tt08-2021:p14:c003",
+          "para:tt08-2021:p03:c000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3941.23,
+    "llm_tokens": 2610,
+    "llm_cost_usd": 0.001289
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Theo thang điểm 10 trong quy chế đào tạo đại học, mức điểm nào được xếp loại Xuất sắc, Giỏi và Khá?",
+    "status": "answered",
+    "answer": "Theo thang điểm 10 trong quy chế đào tạo đại học, mức điểm được xếp loại như sau: Xuất sắc từ 9,0 đến 10,0; Giỏi từ 8,0 đến cận 9,0; Khá từ 7,0 đến cận 8,0 [para:tt08-2021:p11:c000].",
+    "citations": [
+      "para:tt08-2021:p11:c000"
+    ],
+    "context": "[para:tt08-2021:p11:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 11]\nTừ 1,0 đến cận 2,0: Yếu; Dưới 1,0: Kém.\n\nb) Theo thang điểm 10: Từ 9,0 đến 10,0: Xuất sắc; Từ 8,0 đến cận 9,0: Giỏi; Từ 7,0 đến cận 8,0: Khá; Từ 5,0 đến cận 7,0: Trung bình; Từ 4,0 đến cận 5,0: Yếu; Dưới 4,0: Kém.\n\n6. Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học (gọi tắt là N) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn (gọi tắt là M), cụ thể như sau:\n\na) Trình độ năm thứ nhất: N < M;\n\nb) Trình độ năm thứ hai: M ≤ N < 2M;\n\nc) Trình độ năm thứ ba: 2M ≤ N < 3M;\n\nd) Trình độ năm thứ tư: 3M ≤ N < 4M;\n\nđ) Trình độ năm thứ năm: 4M ≤ N < 5M.\n\n[para:tt08-2021:p10:c004 | starter/data/tt08_2021_dai_hoc.pdf | page 10]\na) Theo thang điểm 4: Từ 3,6 đến 4,0: Xuất sắc; Từ 3,2 đến cận 3,6: Giỏi; Từ 2,5 đến cận 3,2: Khá; Từ 2,0 đến cận 2,5: Trung bình;\n\n[para:tt08-2021:p10:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 10]\n4. Cơ sở đào tạo đang đào tạo theo niên chế và sử dụng thang điểm 10 thì tính các điểm trung bình dựa trên điểm học phần theo thang điểm 10 , không quy đổi các điểm chữ về thang điểm 4 . Trong trường hợp này, qu y chế của cơ sở đào tạo quy định cụ thể các mức xử lý kết quả học tập để tương đương và thay thế cho các quy định tại Điều 12 của Quy chế này.\n\n5. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm trung bình năm học hoặc điểm trung bình tích lũy như sau:",
+    "context_ids": [
+      "para:tt08-2021:p11:c000",
+      "para:tt08-2021:p10:c004",
+      "para:tt08-2021:p10:c003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "thang diem 10 xep loai xuat sac gioi kha",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p11:c000",
+            "source_id": "tt08-2021",
+            "page": 11,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p10:c004",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p10:c003",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p11:c000",
+          "para:tt08-2021:p10:c004",
+          "para:tt08-2021:p10:c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3611.96,
+    "llm_tokens": 2705,
+    "llm_cost_usd": 0.001274
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Khi đề tài luận án tiến sĩ liên quan đến bí mật quốc gia thuộc danh mục bí mật nhà nước, cơ sở đào tạo phải thực hiện thủ tục gì ngay sau khi có quyết định công nhận nghiên cứu sinh?",
+    "status": "answered",
+    "answer": "Khi đề tài luận án tiến sĩ liên quan đến bí mật quốc gia thuộc danh mục bí mật nhà nước, cơ sở đào tạo phải xác định tính chất mật của đề tài ngay sau khi có quyết định công nhận nghiên cứu sinh, báo cáo Bộ Giáo dục và Đào tạo kèm theo minh chứng và phải được Bộ Giáo dục và Đào tạo đồng ý bằng văn bản [para:tt18-2021:p14:c001].",
+    "citations": [
+      "para:tt18-2021:p14:c001"
+    ],
+    "context": "[para:tt18-2021:p14:c001 | starter/data/tt18_2021_tien_si.pdf | page 14]\nĐiều 17. Đánh giá luận án theo chế độ mật\n\n1. Trong trường hợp đề tài luận án liên quan đến bí mật quốc gia thuộc danh mục bí mật nhà nước do cơ quan có thẩm quyền quy định thì cơ sở đào tạo phải xác định tính chất mật của đề tài ngay sau khi có quyết định công nhận nghiên cứu sinh, báo cáo Bộ Giáo dục và Đào tạo kèm theo minh chứng và phải được Bộ Giáo dục và Đào tạo đồng ý bằng văn bản.\n\n[para:tt18-2021:p14:c002 | starter/data/tt18_2021_tien_si.pdf | page 14]\n2. Nghiên cứu sinh thực hiện những đề tài luận án được xác định là mật phải đáp ứng những yêu cầu chung đối với nghiên cứu sinh, riêng các yêu cầu quy định tại điểm c và điểm d khoản 1 Điều 14 của Quy chế này có thể thay thế bằng những báo cáo nội bộ có giá trị về khoa học và thực tiễn của lĩnh vực nghiên cứu được cơ sở đào tạo xác nhận.\n\n3. Cơ sở đào tạo quy định chi tiết việc tổ chức đào tạo, nghiên cứu, đánh giá luận án, quản lý hồ sơ và tài liệu liên quan theo quy định bảo mật của pháp luật.\n\n[para:tt18-2021:p15:c001 | starter/data/tt18_2021_tien_si.pdf | page 15]\n2. Cơ sở đào tạo đăng toàn văn luận án hoàn chỉnh cuối cùng của nghiên cứu sinh trên trang thông tin điện tử của cơ sở đào tạo (trừ những luận án được đánh giá theo chế độ mật) trong thời gian 03 tháng kể từ khi nghiên cứu sinh đáp ứng đủ yêu cầu theo quy định tại khoản 1 Điều này.\n\n3. Sau thời hạn quy định tại khoản 2 Điều này, cơ sở đào tạo tổ chức xét và ban hành quyết định công nhận trình độ tiến sĩ cho nghiên cứu sinh.\n\n4. Cơ sở đào tạo lập hồ sơ xét công nhận trình độ tiến sĩ và cấp bằng tiến sĩ, bao gồm:\n\na) Biên bản của buổi đánh giá luận án tại cơ sở đào tạo;",
+    "context_ids": [
+      "para:tt18-2021:p14:c001",
+      "para:tt18-2021:p14:c002",
+      "para:tt18-2021:p15:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "đề tài luận án tiến sĩ liên quan đến bí mật quốc gia thủ tục sau khi có quyết định công nhận nghiên cứu sinh",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p14:c001",
+            "source_id": "tt18-2021",
+            "page": 14,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p14:c002",
+            "source_id": "tt18-2021",
+            "page": 14,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p15:c001",
+            "source_id": "tt18-2021",
+            "page": 15,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p14:c001",
+          "para:tt18-2021:p14:c002",
+          "para:tt18-2021:p15:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4022.54,
+    "llm_tokens": 2643,
+    "llm_cost_usd": 0.001277
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Đối với giảng viên giảng dạy chương trình đào tạo tiến sĩ thuộc lĩnh vực nghệ thuật, tiêu chuẩn công bố khoa học có thể được thay thế bằng danh hiệu nào?",
+    "status": "answered",
+    "answer": "Đối với giảng viên giảng dạy chương trình đào tạo tiến sĩ thuộc lĩnh vực nghệ thuật, tiêu chuẩn công bố khoa học có thể được thay thế bằng danh hiệu Nghệ sĩ Nhân dân do nhà nước trao tặng [para:tt18-2021:p04:c000].",
+    "citations": [
+      "para:tt18-2021:p04:c000"
+    ],
+    "context": "[para:tt18-2021:p03:c003 | starter/data/tt18_2021_tien_si.pdf | page 3]\nĐiều 4. Tiêu chuẩn của giảng viên giảng dạy trình độ tiến sĩ\n\n1. Giảng viên giảng dạy trình độ tiến sĩ phải đáp ứng những yêu cầu sau:\n\na) Là công dân Việt Nam hoặc công dân nước ngoài đáp ứng quy định tại khoản 1 Điều 54 Luật Giáo dục đại học (được sửa đổi , bổ sung năm 2018) và những quy định pháp luật khác có liên quan;\n\nb) Có chức danh giáo sư, phó giáo sư hoặc có bằng tiến sĩ khoa học, tiến sĩ trong lĩnh vực chuyên môn phù hợp với các học phần, môn học (sau đây gọi chung là học phần) đảm nhiệm trong chương trình đào tạo;\n\n[para:tt18-2021:p04:c000 | starter/data/tt18_2021_tien_si.pdf | page 4]\n01 sách chuyên khảo do các nhà xuất bản trong nước và quốc tế phát hành hoặc của 01 chương sách tham khảo do các nhà xuất bản quốc tế phát hành (sau đây gọi chung là tác giả chính);\n\nc) Đối với giảng viên giảng dạy những chương trình thuộc lĩnh vực nghệ thuật có thể thay thế yêu cầu tại điểm b khoản này bằng danh hiệu Nghệ sĩ Nhân dân do nhà nước trao tặng.\n\n[para:tt18-2021:p03:c004 | starter/data/tt18_2021_tien_si.pdf | page 3]\nc) Có năng lực ngoại ngữ, ứng dụng công nghệ thôngtin phục vụ công tác giảng dạy, nghiên cứu và triển khai những hoạt động trao đổi, hợp tác quốc tế về lĩnh vực chuyên môn đảm nhiệm trong chương trình đào tạo tiến sĩ.\n\n2. Người chưa có chức danh giáo sư, phó giáo sư phải đáp ứng thêm những yêu cầu sau:\n\na) Có thời gian giảng dạy ở trình độ đại học hoặc thạc sĩ từ 01 năm (12 tháng) trở lên kể từ khi có bằng tiến sĩ;",
+    "context_ids": [
+      "para:tt18-2021:p03:c003",
+      "para:tt18-2021:p04:c000",
+      "para:tt18-2021:p03:c004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "tiêu chuẩn công bố khoa học giảng viên giảng dạy chương trình đào tạo tiến sĩ lĩnh vực nghệ thuật",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p03:c003",
+            "source_id": "tt18-2021",
+            "page": 3,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p04:c000",
+            "source_id": "tt18-2021",
+            "page": 4,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p03:c004",
+            "source_id": "tt18-2021",
+            "page": 3,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p03:c003",
+          "para:tt18-2021:p04:c000",
+          "para:tt18-2021:p03:c004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4023.37,
+    "llm_tokens": 2586,
+    "llm_cost_usd": 0.001214
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Ở trình độ đại học, hội đồng chuyên môn của cơ sở đào tạo xem xét công nhận và chuyển đổi tín chỉ dựa trên việc đối sánh những yếu tố nào?",
+    "status": "answered",
+    "answer": "Ở trình độ đại học, hội đồng chuyên môn của cơ sở đào tạo xem xét công nhận và chuyển đổi tín chỉ dựa trên việc đối sánh các yếu tố: chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ công nhận, chuyển đổi theo từng học phần, từng nhóm học phần hoặc cả chương trình đào tạo [para:tt08-2021:p13:c001].",
+    "citations": [
+      "para:tt08-2021:p13:c001"
+    ],
+    "context": "[para:tt08-2021:p13:c001 | starter/data/tt08_2021_dai_hoc.pdf | page 13]\n2. Hội đồng chuyên môn của cơ sở đ ào tạo xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ:\n\na) Công nhận, chuyển đổi theo từng học phần;\n\nb) Công nhận, chuyển đổi theo từng nhóm học phần;\n\nc) Công nhận, chuyển đổi theo cả chương trình đào tạo.\n\n[para:tt08-2021:p13:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 13]\nĐiều 13. Công nhận kết quả học tập và chuyển đổi tín chỉ\n\n1. Kết quả học tập của người học đ ã tích lũy từ một trình độ đào tạo khác, một ngành đào tạo hoặc một chương trình đào tạo khác, một khóa học khác hoặc từ một cơ sở đào tạo khác được cơ sở đào tạo xem xét công nhận, chuyển đổi sang tín chỉ của những học phần trong chương trình đào tạo theo học.\n\n[para:tt08-2021:p13:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 13]\n3. Cơ sở đào tạo công khai quy định việc công nhận kết quả học tập và chuyển đổi tín chỉ. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 50% khối lượng học tập tối thiểu của chương trình đào tạo ; riêng đối với ngành đào tạo giáo viên thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo.",
+    "context_ids": [
+      "para:tt08-2021:p13:c001",
+      "para:tt08-2021:p13:c000",
+      "para:tt08-2021:p13:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "hội đồng chuyên môn công nhận chuyển đổi tín chỉ đại học",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p13:c001",
+            "source_id": "tt08-2021",
+            "page": 13,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p13:c000",
+            "source_id": "tt08-2021",
+            "page": 13,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p13:c002",
+            "source_id": "tt08-2021",
+            "page": 13,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p13:c001",
+          "para:tt08-2021:p13:c000",
+          "para:tt08-2021:p13:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3693.69,
+    "llm_tokens": 2548,
+    "llm_cost_usd": 0.001238
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Để được xét cấp bằng tiến sĩ, nghiên cứu sinh phải nộp tóm tắt luận án và toàn văn luận án hoàn chỉnh cuối cùng cho cơ quan lưu chiểu quốc gia nào?",
+    "status": "answered",
+    "answer": "Nghiên cứu sinh phải nộp tóm tắt luận án và toàn văn luận án hoàn chỉnh cuối cùng cho Thư viện Quốc gia Việt Nam, cả bản điện tử và bản in, có chữ ký của nghiên cứu sinh, chữ ký của người hướng dẫn và xác nhận của cơ sở đào tạo để được xét cấp bằng tiến sĩ [para:tt18-2021:p15:c000].",
+    "citations": [
+      "para:tt18-2021:p15:c000"
+    ],
+    "context": "[para:tt18-2021:p15:c000 | starter/data/tt18_2021_tien_si.pdf | page 15]\nb) Nghiên cứu sinh đã nộp cho cơ sở đào tạo (cả bản in và bản điện tử) luận án hoàn chỉnh cuối cùng có chữ ký của nghiên cứu sinh, xác nhận của người hướng dẫn; xác nhận Chủ tịch Hội đồng đánh giá luận án sau khi đã hoàn thành chỉnh sửa, bổ sung luận án (nếu có);\n\nc) Nghiên cứu sinh đã nộp Thư viện Quốc gia Việt Nam (cả bản điện tử và bản in) tóm tắt luận án và toàn văn luận án hoàn chỉnh cuối cùng có chữ ký của nghiên cứu sinh, chữ ký của người hướng dẫn và xác nhận của cơ sở đào tạo.\n\n[para:tt18-2021:p19:c004 | starter/data/tt18_2021_tien_si.pdf | page 19]\nĐiều 23. Chế độ lưu trữ, báo cáo và công khai thông tin\n\n1. Cơ sở giáo đào tạo có trách nhiệm:\n\na) Hoàn thiện cơ sở dữ liệu nội bộ và cập nhật dữ liệu về đào tạo tiến sĩ trong c ơ sở dữ liệu quốc gia về giáo dục đại học bao gồm: thông tin tuyển sinh; thông tin của nghiên cứu sinh; thông tin của giảng viên và người hướng dẫn; thông tin về kết quả hoạt động khoa học và công nghệ liên quan đến đào tạo tiến sĩ ; thông tin về cấp bằng tiến sĩ ; tóm tắt và toàn văn luận án hoàn chỉnh của nghiên cứu sinh đã nộp Thư viện Quốc gia Việt Nam;\n\n[para:tt18-2021:p15:c001 | starter/data/tt18_2021_tien_si.pdf | page 15]\n2. Cơ sở đào tạo đăng toàn văn luận án hoàn chỉnh cuối cùng của nghiên cứu sinh trên trang thông tin điện tử của cơ sở đào tạo (trừ những luận án được đánh giá theo chế độ mật) trong thời gian 03 tháng kể từ khi nghiên cứu sinh đáp ứng đủ yêu cầu theo quy định tại khoản 1 Điều này.\n\n3. Sau thời hạn quy định tại khoản 2 Điều này, cơ sở đào tạo tổ chức xét và ban hành quyết định công nhận trình độ tiến sĩ cho nghiên cứu sinh.\n\n4. Cơ sở đào tạo lập hồ sơ xét công nhận trình độ tiến sĩ và cấp bằng tiến sĩ, bao gồm:\n\na) Biên bản của buổi đánh giá luận án tại cơ sở đào tạo;",
+    "context_ids": [
+      "para:tt18-2021:p15:c000",
+      "para:tt18-2021:p19:c004",
+      "para:tt18-2021:p15:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "cơ quan lưu chiểu quốc gia nộp tóm tắt luận án và toàn văn luận án hoàn chỉnh cấp bằng tiến sĩ",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p15:c000",
+            "source_id": "tt18-2021",
+            "page": 15,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p19:c004",
+            "source_id": "tt18-2021",
+            "page": 19,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p15:c001",
+            "source_id": "tt18-2021",
+            "page": 15,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p15:c000",
+          "para:tt18-2021:p19:c004",
+          "para:tt18-2021:p15:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4066.2,
+    "llm_tokens": 2693,
+    "llm_cost_usd": 0.001288
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "Ở trình độ tiến sĩ, việc công nhận và chuyển đổi kết quả học tập, nghiên cứu đã tích lũy của nghiên cứu sinh được thực hiện trên cơ sở đề xuất của ai?",
+    "status": "answered",
+    "answer": "Ở trình độ tiến sĩ, việc công nhận và chuyển đổi kết quả học tập, nghiên cứu đã tích lũy của nghiên cứu sinh được thực hiện trên cơ sở đề xuất của hội đồng chuyên môn [para:tt18-2021:p09:c001].",
+    "citations": [
+      "para:tt18-2021:p09:c001"
+    ],
+    "context": "[para:tt18-2021:p09:c001 | starter/data/tt18_2021_tien_si.pdf | page 9]\n2. Việc công nhận và chuyển đổi kết quả học tập, nghiên cứu đã tích lũy của nghiên cứu sinh phải phù hợp với nội dung, yêu cầu của chương trình đào tạo, được thực hiện trên cơ sở đề xuất của hội đồng chuyên môn. Trường hợp chuyển cơ sở đào tạo hoặc là nghiên c ứu sinh mới, việc công nhận và chuyển đổi k ết quả h ọc tập, nghiên c ứu tối đa không quá 50% t ổng khối lượng của chương trình đào tạo.\n\n[para:tt18-2021:p08:c004 | starter/data/tt18_2021_tien_si.pdf | page 8]\nĐiều 11. Công nhận và chuyển đổi kết quả học tập, nghiên cứu\n\n1. Kết quả học tập, nghiên cứu của nghiên cứu sinh đã tích lũy trong chương trình đào tạo tiến sĩ được bảo lưu, xem xét công nh ận, chuyển đổi trong những trường hợp sau:\n\n[para:tt18-2021:p09:c002 | starter/data/tt18_2021_tien_si.pdf | page 9]\n3. Quy ch ế của cơ sở đào tạo quy đị nh chi ti ết về thời hạn bảo lưu, thành phần hội đồng chuyên môn, quy trình th ực hiện việc công nh ận và chuyển đổi kết quả học tập, nghiên cứu của nghiên cứu sinh.",
+    "context_ids": [
+      "para:tt18-2021:p09:c001",
+      "para:tt18-2021:p08:c004",
+      "para:tt18-2021:p09:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "công nhận chuyển đổi kết quả học tập nghiên cứu sinh",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p09:c001",
+            "source_id": "tt18-2021",
+            "page": 9,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p08:c004",
+            "source_id": "tt18-2021",
+            "page": 8,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p09:c002",
+            "source_id": "tt18-2021",
+            "page": 9,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p09:c001",
+          "para:tt18-2021:p08:c004",
+          "para:tt18-2021:p09:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4902.27,
+    "llm_tokens": 2451,
+    "llm_cost_usd": 0.001138
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "question": "Thông báo tuyển sinh trình độ tiến sĩ phải được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo ít nhất bao nhiêu ngày làm việc trước khi tổ chức tuyển sinh?",
+    "status": "answered",
+    "answer": "Thông báo tuyển sinh trình độ tiến sĩ phải được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo ít nhất 30 ngày làm việc trước khi tổ chức tuyển sinh [para:tt18-2021:p07:c001].",
+    "citations": [
+      "para:tt18-2021:p07:c001"
+    ],
+    "context": "[para:tt18-2021:p07:c001 | starter/data/tt18_2021_tien_si.pdf | page 7]\n3. Thông báo tuyển sinh được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo ít nhất 30 ngày làm việc trước khi tổ chức tuyển sinh, trong đó bao gồm những thông tin về đối tượng và điều kiện dự tuyển; ngành tuyển sinh và yêu cầu chuyên môn phù hợp; chỉ tiêu tuyển sinh; hồ sơ dự tuyển, kế hoạch và phương thức tuyển sinh, thời gian công bố kết quả trúng tuyển và thời gian nhập học;\n\n[para:tt18-2021:p06:c005 | starter/data/tt18_2021_tien_si.pdf | page 6]\nĐiều 8. Tuyển sinh và công nhận nghiên cứu sinh\n\n1. Việc tuyển sinh được tổ chức một hoặc nhiều lần trong năm do cơ sở đào tạo quyết định khi đáp ứng đủ điều kiện bảo đảm chất lượng triển khai đào tạo ở trình độ tiến sĩ theo quy định hiện hành.\n\n2. Phương thức tuyển sinh bao gồm thi tuyển, xét tuyển hoặc kết hợp giữa thi tuyển và xét tuyển do cơ sở đào tạo quyết định bảo đảm đánh g iá\n\n[para:tt18-2021:p13:c001 | starter/data/tt18_2021_tien_si.pdf | page 13]\n3. Trong thời gian tối đa 03 tháng kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập, cơ sở đào tạo phải tổ chức họp Hội đồng đánh giá luận án. Việc tổ chức buổ i đánh giá luận án cho nghiên cứu sinh do cơ sở đào tạo quyết định bảo đảm những yêu cầu sau:\n\na) Thời gian, địa điểm tổ chức buổi đánh giá luận án, tóm tắt luận án được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo (trừ trường hợp đánh giá luận án theo chế độ mật);\n\nb) Không tổ chức buổi đánh giá luận án khi thành viên Hội đồng có mặt dưới 05 người hoặc vắng mặt quá 01 người;",
+    "context_ids": [
+      "para:tt18-2021:p07:c001",
+      "para:tt18-2021:p06:c005",
+      "para:tt18-2021:p13:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "thông báo tuyển sinh trình độ tiến sĩ công bố công khai trên trang thông tin điện tử trước bao nhiêu ngày làm việc",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p07:c001",
+            "source_id": "tt18-2021",
+            "page": 7,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p06:c005",
+            "source_id": "tt18-2021",
+            "page": 6,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p13:c001",
+            "source_id": "tt18-2021",
+            "page": 13,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p07:c001",
+          "para:tt18-2021:p06:c005",
+          "para:tt18-2021:p13:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3682.36,
+    "llm_tokens": 2559,
+    "llm_cost_usd": 0.001194
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "question": "Khi sinh viên đại học đang học cùng lúc hai chương trình, trong trường hợp nào sinh viên phải dừng học chương trình thứ hai ở học kỳ tiếp theo?",
+    "status": "answered",
+    "answer": "Khi sinh viên đại học học cùng lúc hai chương trình, nếu điểm trung bình tích luỹ của chương trình thứ nhất đạt dưới điểm trung bình hoặc thuộc diện cảnh báo kết quả học tập thì sinh viên phải dừng học chương trình thứ hai ở học kỳ tiếp theo; đồng thời sinh viên sẽ bị loại khỏi danh sách đã đăng ký học chương trình thứ hai [para:tt08-2021:p17:c001].",
+    "citations": [
+      "para:tt08-2021:p17:c001"
+    ],
+    "context": "[para:tt08-2021:p17:c001 | starter/data/tt08_2021_dai_hoc.pdf | page 17]\n3. Trong quá trình sinh viên học cùng lúc hai chương trình, nếu điểm trung bình tích luỹ của chương trình thứ nhất đạt dưới điểm trung bình hoặc thuộc diện cảnh báo kết quả học tập thì phải d ừng học chương trình thứ hai ở học kỳ tiếp theo ; sinh viên sẽ bị loại khỏi danh sách đã đăng ký học chương trình thứ hai.\n\n[para:tt08-2021:p16:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 16]\n2. Sinh viên được đ ăng ký học chương trình thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của chương trình thứ nhất . Tại thời điểm đăng ký, sinh viên phải đáp ứng 01 trong 02 điều kiện sau và các điều kiện khác của cơ sở đào tạo:\n\n[para:tt08-2021:p17:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 17]\na) Học lực tính theo điểm trung bình tích lũy xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất lượng của chương trình thứ hai trong năm tuyển sinh;\n\nb) Học lực tính theo điểm trung bình tích lũy xếp loại trung bình và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh.",
+    "context_ids": [
+      "para:tt08-2021:p17:c001",
+      "para:tt08-2021:p16:c005",
+      "para:tt08-2021:p17:c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "sinh viên học cùng lúc hai chương trình dừng học chương trình thứ hai",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p17:c001",
+            "source_id": "tt08-2021",
+            "page": 17,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p16:c005",
+            "source_id": "tt08-2021",
+            "page": 16,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p17:c000",
+            "source_id": "tt08-2021",
+            "page": 17,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p17:c001",
+          "para:tt08-2021:p16:c005",
+          "para:tt08-2021:p17:c000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 5878.96,
+    "llm_tokens": 2413,
+    "llm_cost_usd": 0.001168
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "question": "Theo quy chế đào tạo trình độ đại học, đối với hình thức chính quy và vừa làm vừa học thì tối đa bao nhiêu phần trăm tổng khối lượng chương trình đào tạo được thực hiện bằng lớp học trực tuyến?",
+    "status": "answered",
+    "answer": "Theo quy chế đào tạo trình độ đại học, đối với hình thức chính quy và vừa làm vừa học, tối đa 30% tổng khối lượng của chương trình đào tạo được thực hiện bằng lớp học trực tuyến [para:tt08-2021:p07:c001].",
+    "citations": [
+      "para:tt08-2021:p07:c001"
+    ],
+    "context": "[para:tt08-2021:p07:c001 | starter/data/tt08_2021_dai_hoc.pdf | page 7]\nb) Đối với đào tạo theo hình thức chính quy và vừa làm vừa học, tối đa 30% tổng khối lượng của chương trình đào tạo được thực hiện bằng lớp học trực tuyến. Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng khác, cơ sở đào tạo thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo.\n\n3. Quy chế của cơ sở đào tạo quy định:\n\na) Việc phân công giảng viên cho các lớp học, giảng viên giảng dạy, giảng viên hướng dẫn sinh viên làm thí nghiệm, thực hành, thực tập, đồ án, khoá luận và thực hiện các hoạt động học tập khác;\n\n[para:tt08-2021:p05:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 5]\n3. Kế hoạch học kỳ bao gồm kế hoạch mở lớp , hình thức dạy và học (trực tiếp hoặc trực tuyến), lịch học, lịch thi của các học phần được tổ chức\n\n[para:tt08-2021:p03:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 3]\nĐiều 4. Hình thức đào tạo\n\n1. Đào tạo chính quy:\n\na) Các hoạt động giảng dạy được thực hiện tại cơ sở đào tạo , r iêng những hoạt động thực hành, thực tập, trải nghiệm thực t ế và giảng dạy trực tuyến có thể thực hiện ngoài cơ sở đào tạo;\n\nb) Thời gian tổ chức hoạt động giảng dạy trong khoảng từ 06 giờ đến 20 giờ các ngày trong tuần từ thứ 2 đến thứ 7 ; thời gian tổ chức n hững hoạt động đặc thù của chương trình đào tạo được thực hiện theo quy định của cơ sở đào tạo.\n\n2. Đào tạo vừa làm vừa học:",
+    "context_ids": [
+      "para:tt08-2021:p07:c001",
+      "para:tt08-2021:p05:c005",
+      "para:tt08-2021:p03:c003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "tối đa bao nhiêu phần trăm tổng khối lượng chương trình đào tạo được thực hiện bằng lớp học trực tuyến hình thức chính quy và vừa làm vừa học",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p07:c001",
+            "source_id": "tt08-2021",
+            "page": 7,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p05:c005",
+            "source_id": "tt08-2021",
+            "page": 5,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p03:c003",
+            "source_id": "tt08-2021",
+            "page": 3,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p07:c001",
+          "para:tt08-2021:p05:c005",
+          "para:tt08-2021:p03:c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3804.07,
+    "llm_tokens": 2623,
+    "llm_cost_usd": 0.001238
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "question": "Trong thời gian tối đa bao lâu kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập thì cơ sở đào tạo phải thành lập Hội đồng đánh giá luận án, và những người thân nào của nghiên cứu sinh không được tham gia Hội đồng?",
+    "status": "answered",
+    "answer": "Trong thời gian tối đa 03 tháng kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập, cơ sở đào tạo phải tổ chức họp Hội đồng đánh giá luận án [para:tt18-2021:p13:c001]. Những người thân không được tham gia Hội đồng gồm cha, mẹ, vợ hoặc chồng, con, anh, chị, em ruột của nghiên cứu sinh [para:tt18-2021:p13:c000].",
+    "citations": [
+      "para:tt18-2021:p13:c001",
+      "para:tt18-2021:p13:c000"
+    ],
+    "context": "[para:tt18-2021:p13:c001 | starter/data/tt18_2021_tien_si.pdf | page 13]\n3. Trong thời gian tối đa 03 tháng kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập, cơ sở đào tạo phải tổ chức họp Hội đồng đánh giá luận án. Việc tổ chức buổ i đánh giá luận án cho nghiên cứu sinh do cơ sở đào tạo quyết định bảo đảm những yêu cầu sau:\n\na) Thời gian, địa điểm tổ chức buổi đánh giá luận án, tóm tắt luận án được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo (trừ trường hợp đánh giá luận án theo chế độ mật);\n\nb) Không tổ chức buổi đánh giá luận án khi thành viên Hội đồng có mặt dưới 05 người hoặc vắng mặt quá 01 người;\n\n[para:tt18-2021:p13:c000 | starter/data/tt18_2021_tien_si.pdf | page 13]\nhữu của cơ sở đào tạo ; 01 người hướng dẫn nghiên cứu sinh có thể tham gia Hội đồng với tư cách là ủy viên;\n\nc) Tiêu chuẩn về năng lực nghiên cứu của t hành viên Hội đồng như tiêu chuẩn về năng lực nghiên cứu của người hướng dẫn chính quy định tại Điều 5 trừ thư ký Hội đồng phải đáp ứng quy định như đối với giảng viên giảng dạy trình độ tiến sĩ quy định tại Điều 4 của Quy chế này;\n\nd) Cha, mẹ, vợ hoặc chồng, con, anh, chị, em ruột của nghiên cứu sinh không tham gia Hội đồng.\n\n[para:tt18-2021:p11:c001 | starter/data/tt18_2021_tien_si.pdf | page 11]\nĐiều 15. Phản biện độc lập luận án\n\n1. Phản biện độc lập là quy trình bắt buộc trước khi luận án của nghiên cứu sinh được đưa ra bảo vệ tại Hội đồng đánh giá luận án của cơ sở đào tạo. Chậm nhất không quá 06 tháng tính từ thời điểm nghiên cứu sinh hoàn thành thủ tục trình luận án sau khi đã được đơn vị chuyên môn thông qua, cơ sở đào tạo phải hoàn thành quy trình phản biện độc lập cho nghiên cứu sinh; riêng trường hợp phải thực hiện lấy ý kiến phản biện độc lập lần thứ hai theo quy định tại khoản 3 Điều này thì thời gian được kéo dài thêm tối đa 03 tháng.",
+    "context_ids": [
+      "para:tt18-2021:p13:c001",
+      "para:tt18-2021:p13:c000",
+      "para:tt18-2021:p11:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "thời gian thành lập Hội đồng đánh giá luận án nghiên cứu sinh và người thân không được tham gia Hội đồng",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p13:c001",
+            "source_id": "tt18-2021",
+            "page": 13,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p13:c000",
+            "source_id": "tt18-2021",
+            "page": 13,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p11:c001",
+            "source_id": "tt18-2021",
+            "page": 11,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt18-2021:p13:c001",
+          "para:tt18-2021:p13:c000",
+          "para:tt18-2021:p11:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4392.5,
+    "llm_tokens": 2725,
+    "llm_cost_usd": 0.00133
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "question": "Khi cần thiết phải xếp lịch học tập trung thời gian ở trình độ đại học, số giờ giảng đối với một học phần bất kỳ không được vượt quá giới hạn nào?",
+    "status": "answered",
+    "answer": "Khi cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với một học phần bất kỳ không được vượt quá 15 giờ/tuần và 4 giờ/ngày [para:tt08-2021:p06:c001].",
+    "citations": [
+      "para:tt08-2021:p06:c001"
+    ],
+    "context": "[para:tt08-2021:p06:c001 | starter/data/tt08_2021_dai_hoc.pdf | page 6]\n4. Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc các khoá học, hình thức và chương trình đào tạo. Thời khóa biểu của các lớp học phần bình thường được bố trí đều trong các tuần của học kỳ. Trong trường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với một học phần bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày.\n\n5. Quy chế của cơ sở đào tạo quy định rõ việc phân bổ các học kỳ, thời gian, địa điểm, hình thức bố trí các giờ lên lớp theo quy định của Quy chế này.\n\n[para:tt08-2021:p05:c005 | starter/data/tt08_2021_dai_hoc.pdf | page 5]\n3. Kế hoạch học kỳ bao gồm kế hoạch mở lớp , hình thức dạy và học (trực tiếp hoặc trực tuyến), lịch học, lịch thi của các học phần được tổ chức\n\n[para:tt08-2021:p06:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 6]\nĐiều 7. Tổ chức đăng ký học tập\n\n1. Trước khi bắt đầu mỗi học kỳ, cơ sở đào tạo hướng dẫn cho sinh viên đăng ký học tập trên hệ thống đăng ký học tập của cơ sở đào tạo.\n\n2. Sinh viên học theo tín chỉ phải đăng ký lớp của các học phần dự định sẽ học trong học kỳ, gồm: những học phần mới, một số học phần chưa đạt (để học lại) và một số học phần đã đạt (để cải thiện điểm , nếu có) căn cứ danh sách học phần được mở và điều kiện đăng ký của mỗi học phần.",
+    "context_ids": [
+      "para:tt08-2021:p06:c001",
+      "para:tt08-2021:p05:c005",
+      "para:tt08-2021:p06:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "xếp lịch học tập trung số giờ giảng học phần đại học",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p06:c001",
+            "source_id": "tt08-2021",
+            "page": 6,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p05:c005",
+            "source_id": "tt08-2021",
+            "page": 5,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p06:c002",
+            "source_id": "tt08-2021",
+            "page": 6,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p06:c001",
+          "para:tt08-2021:p05:c005",
+          "para:tt08-2021:p06:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3651.22,
+    "llm_tokens": 2490,
+    "llm_cost_usd": 0.001157
+  },
+  {
+    "query_id": "u01",
+    "split": "dev",
+    "question": "Theo Quy chế đào tạo trình độ đại học và tiến sĩ trong bộ tài liệu, mức tiền học bổng khuyến khích học tập và điều kiện điểm tối thiểu để nhận học bổng là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong tài liệu được cung cấp để trả lời câu hỏi này.",
+    "citations": [],
+    "context": "[para:tt08-2021:p06:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 6]\nĐiều 7. Tổ chức đăng ký học tập\n\n1. Trước khi bắt đầu mỗi học kỳ, cơ sở đào tạo hướng dẫn cho sinh viên đăng ký học tập trên hệ thống đăng ký học tập của cơ sở đào tạo.\n\n2. Sinh viên học theo tín chỉ phải đăng ký lớp của các học phần dự định sẽ học trong học kỳ, gồm: những học phần mới, một số học phần chưa đạt (để học lại) và một số học phần đã đạt (để cải thiện điểm , nếu có) căn cứ danh sách học phần được mở và điều kiện đăng ký của mỗi học phần.\n\n[para:tt18-2021:p21:c001 | starter/data/tt18_2021_tien_si.pdf | page 21]\nKẾ HOẠCH HỌC TẬP, NGHIÊN CỨU TOÀN KHÓA CỦA NGHIÊN CỨU SINH Cơ sở đào tạo: Họ và tên nghiên cứu sinh: Tên đề tài: Ngành đào tạo: Mã ngành đào tạo: Năm học Nội dung học tập, nghiên cứu Khối lượng học tập, nghiên cứu đăng ký Kết quả dự kiến Năm thứ 1 Các học phần về chuyên môn bổ sung (nếu có) 10 - 12 tín chỉ Chứng nhận kết thúc học phần Các học phần về phương pháp nghiên cứu 04 -06 tín chỉ Chứng nhận kết thúc học phần Năm thứ 2 Thực hiện phần 1 của Luận án đến 24 tín chỉ Chương Tổng quan về vấn đề nghiên cứu, phương pháp nghiên cứu,...\n\n[para:tt08-2021:p09:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nd) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 3 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 3 Điều này;\n\nđ) Việc cho phép thi lại , đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần sau khi thi lại, đánh giá lại chỉ được giới hạn ở mức điểm D hoặc điểm C;\n\ne) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn.\n\n[para:tt18-2021:p07:c002 | starter/data/tt18_2021_tien_si.pdf | page 7]\nhọc phí, các chính sách miễn giảm học phí và hỗ trợ kinh phí cho nghiên cứu sinh trong quá trình học tập (nếu có) và những thông tin cần thiết khác theo yêu cầu của chương trình đào tạo và của cơ sở đào tạo.\n\n[para:tt08-2021:p09:c004 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nĐiều 10. Đánh giá kết quả học tập theo học kỳ, năm học\n\n1. Kết quả học tập của sinh viên được đánh giá sau từng học kỳ hoặc sau từng năm học, dựa trên kết quả các học phần nằm trong yêu cầu của chương trình đào tạo mà sinh viên đã học và có điểm theo các tiêu chí sau đây:",
+    "context_ids": [
+      "para:tt08-2021:p06:c002",
+      "para:tt18-2021:p21:c001",
+      "para:tt08-2021:p09:c002",
+      "para:tt18-2021:p07:c002",
+      "para:tt08-2021:p09:c004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "mức tiền học bổng khuyến khích học tập điểm tối thiểu",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p09:c002",
+            "source_id": "tt08-2021",
+            "page": 9,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p08:c002",
+            "source_id": "tt08-2021",
+            "page": 8,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p11:c002",
+            "source_id": "tt08-2021",
+            "page": 11,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p09:c002",
+          "para:tt08-2021:p08:c002",
+          "para:tt08-2021:p11:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "mức tiền học bổng khuyến khích học tập điểm tối thiểu",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p07:c002",
+            "source_id": "tt18-2021",
+            "page": 7,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt18-2021:p16:c003",
+            "source_id": "tt18-2021",
+            "page": 16,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt18-2021:p12:c004",
+            "source_id": "tt18-2021",
+            "page": 12,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p09:c002",
+          "para:tt18-2021:p07:c002",
+          "para:tt08-2021:p08:c002",
+          "para:tt18-2021:p16:c003",
+          "para:tt08-2021:p11:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_exact_keywords",
+        "query": "học bổng khuyến khích học tập",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p06:c002",
+            "source_id": "tt08-2021",
+            "page": 6,
+            "score": 4.865742731291212
+          },
+          {
+            "id": "para:tt08-2021:p09:c004",
+            "source_id": "tt08-2021",
+            "page": 9,
+            "score": 4.782410065792423
+          },
+          {
+            "id": "para:tt08-2021:p03:c000",
+            "source_id": "tt08-2021",
+            "page": 3,
+            "score": 4.781956190033449
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p06:c002",
+          "para:tt08-2021:p09:c002",
+          "para:tt18-2021:p07:c002",
+          "para:tt08-2021:p09:c004",
+          "para:tt08-2021:p08:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_exact_keywords",
+        "query": "học bổng khuyến khích học tập",
+        "filter": {
+          "cap_dao_tao": "tien_si"
+        },
+        "results": [
+          {
+            "id": "para:tt18-2021:p21:c001",
+            "source_id": "tt18-2021",
+            "page": 21,
+            "score": 4.472206160407827
+          },
+          {
+            "id": "para:tt18-2021:p07:c002",
+            "source_id": "tt18-2021",
+            "page": 7,
+            "score": 4.092109383023322
+          },
+          {
+            "id": "para:tt18-2021:p08:c004",
+            "source_id": "tt18-2021",
+            "page": 8,
+            "score": 3.9267203460356512
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p06:c002",
+          "para:tt18-2021:p21:c001",
+          "para:tt08-2021:p09:c002",
+          "para:tt18-2021:p07:c002",
+          "para:tt08-2021:p09:c004"
+        ]
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "elapsed_ms": 5758.56,
+    "llm_tokens": 6829,
+    "llm_cost_usd": 0.003062
+  },
+  {
+    "query_id": "u02",
+    "split": "dev",
+    "question": "Quy chế đào tạo trình độ đại học quy định cách chấm điểm rèn luyện sinh viên theo từng học kỳ trên thang điểm bao nhiêu và xếp loại rèn luyện ra sao?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong tài liệu được cung cấp để trả lời câu hỏi này.",
+    "citations": [],
+    "context": "[para:tt08-2021:p10:c003 | starter/data/tt08_2021_dai_hoc.pdf | page 10]\n4. Cơ sở đào tạo đang đào tạo theo niên chế và sử dụng thang điểm 10 thì tính các điểm trung bình dựa trên điểm học phần theo thang điểm 10 , không quy đổi các điểm chữ về thang điểm 4 . Trong trường hợp này, qu y chế của cơ sở đào tạo quy định cụ thể các mức xử lý kết quả học tập để tương đương và thay thế cho các quy định tại Điều 12 của Quy chế này.\n\n5. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm trung bình năm học hoặc điểm trung bình tích lũy như sau:\n\n[para:tt08-2021:p11:c000 | starter/data/tt08_2021_dai_hoc.pdf | page 11]\nTừ 1,0 đến cận 2,0: Yếu; Dưới 1,0: Kém.\n\nb) Theo thang điểm 10: Từ 9,0 đến 10,0: Xuất sắc; Từ 8,0 đến cận 9,0: Giỏi; Từ 7,0 đến cận 8,0: Khá; Từ 5,0 đến cận 7,0: Trung bình; Từ 4,0 đến cận 5,0: Yếu; Dưới 4,0: Kém.\n\n6. Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học (gọi tắt là N) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn (gọi tắt là M), cụ thể như sau:\n\na) Trình độ năm thứ nhất: N < M;\n\nb) Trình độ năm thứ hai: M ≤ N < 2M;\n\nc) Trình độ năm thứ ba: 2M ≤ N < 3M;\n\nd) Trình độ năm thứ tư: 3M ≤ N < 4M;\n\nđ) Trình độ năm thứ năm: 4M ≤ N < 5M.\n\n[para:tt08-2021:p08:c002 | starter/data/tt08_2021_dai_hoc.pdf | page 8]\na) Loại đạt có phân mức, áp dụng cho các học phần được tính vào điểm trung bình học tập, bao gồm: A: từ 8,5 đến 10,0; B: từ 7,0 đến 8,4; C: từ 5,5 đến 6,9; D: từ 4,0 đến 5,4.\n\nb) Loại đạt không phân mức, áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập: P: từ 5,0 trở lên.\n\nc) Loại không đạt: F: dưới 4,0.\n\nd) Một số trường hợp đặc bi ệt sử dụng các điểm chữ xếp loại , không được tính vào điểm trung bình học tập: I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra; X: Điểm chưa hoàn thiện do chưa đủ dữ liệu;\n\n[para:tt08-2021:p09:c004 | starter/data/tt08_2021_dai_hoc.pdf | page 9]\nĐiều 10. Đánh giá kết quả học tập theo học kỳ, năm học\n\n1. Kết quả học tập của sinh viên được đánh giá sau từng học kỳ hoặc sau từng năm học, dựa trên kết quả các học phần nằm trong yêu cầu của chương trình đào tạo mà sinh viên đã học và có điểm theo các tiêu chí sau đây:",
+    "context_ids": [
+      "para:tt08-2021:p10:c003",
+      "para:tt08-2021:p11:c000",
+      "para:tt08-2021:p08:c002",
+      "para:tt08-2021:p09:c004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "chấm điểm rèn luyện sinh viên theo từng học kỳ thang điểm xếp loại rèn luyện",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p10:c003",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p09:c004",
+            "source_id": "tt08-2021",
+            "page": 9,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p17:c000",
+            "source_id": "tt08-2021",
+            "page": 17,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p10:c003",
+          "para:tt08-2021:p09:c004",
+          "para:tt08-2021:p17:c000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "điểm rèn luyện sinh viên theo học kỳ thang điểm xếp loại",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p10:c003",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p10:c000",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p12:c001",
+            "source_id": "tt08-2021",
+            "page": 12,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p10:c003",
+          "para:tt08-2021:p10:c000",
+          "para:tt08-2021:p09:c004",
+          "para:tt08-2021:p12:c001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "điểm rèn luyện sinh viên học kỳ thang điểm xếp loại",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p11:c000",
+            "source_id": "tt08-2021",
+            "page": 11,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p10:c003",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p08:c002",
+            "source_id": "tt08-2021",
+            "page": 8,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p11:c000",
+          "para:tt08-2021:p10:c003",
+          "para:tt08-2021:p10:c000",
+          "para:tt08-2021:p09:c004"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "điểm rèn luyện sinh viên học kỳ thang điểm xếp loại rèn luyện",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p10:c003",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p08:c002",
+            "source_id": "tt08-2021",
+            "page": 8,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p10:c000",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p10:c003",
+          "para:tt08-2021:p11:c000",
+          "para:tt08-2021:p08:c002",
+          "para:tt08-2021:p09:c004"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_hybrid",
+        "query": "điểm rèn luyện sinh viên học kỳ thang điểm xếp loại rèn luyện",
+        "filter": {
+          "cap_dao_tao": "dai_hoc"
+        },
+        "results": [
+          {
+            "id": "para:tt08-2021:p10:c003",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 1.0
+          },
+          {
+            "id": "para:tt08-2021:p08:c002",
+            "source_id": "tt08-2021",
+            "page": 8,
+            "score": 0.5
+          },
+          {
+            "id": "para:tt08-2021:p10:c000",
+            "source_id": "tt08-2021",
+            "page": 10,
+            "score": 0.333333
+          }
+        ],
+        "context_ids": [
+          "para:tt08-2021:p10:c003",
+          "para:tt08-2021:p11:c000",
+          "para:tt08-2021:p08:c002",
+          "para:tt08-2021:p09:c004"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 11978.99,
+    "llm_tokens": 17280,
+    "llm_cost_usd": 0.007246
+  }
+]

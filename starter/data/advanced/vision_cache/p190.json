@@ -1,0 +1,14 @@
+{
+  "page": 190,
+  "page_title": "5. Đầu tư tài chính",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày phần thuyết minh báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025, mục 5 về Đầu tư tài chính. Có bảng số liệu chi tiết về đầu tư nắm giữ đến ngày đáo hạn, phân loại ngắn hạn và dài hạn, với các khoản tiền gửi ngân hàng có kỳ hạn và các khoản khác. Bảng có các cột giá gốc và giá trị ghi sổ cho hai thời điểm 31/12/2025 và 31/12/2024. Phía dưới bảng có chú thích về kỳ hạn tiền gửi ngân hàng và lãi suất. Bảng tiếp theo chi tiết số dư các khoản tiền gửi có kỳ hạn ngắn hạn theo nguyên tệ (VNĐ, USD, JPY, EUR) và tương đương.",
+  "charts_and_tables": "Bảng 1: Đầu tư nắm giữ đến ngày đáo hạn\n| Loại | 31/12/2025 Giá gốc | 31/12/2025 Giá trị ghi sổ | 31/12/2024 Giá gốc | 31/12/2024 Giá trị ghi sổ |\n|---|---|---|---|---|\n| (i) Ngắn hạn | | | | |\n| Tiền gửi ngân hàng có kỳ hạn – ngắn hạn (*) | 29.630.986.737.440 | 29.630.986.737.440 | 21.785.213.686.808 | 21.785.213.686.808 |\n| Khác | 33.275.051.776 | - | 33.275.051.776 | - |\n| Tổng ngắn hạn | 29.664.261.789.216 | 29.630.986.737.440 | 21.818.488.738.584 | 21.785.213.686.808 |\n| (ii) Dài hạn | | | | |\n| Tiền gửi ngân hàng có kỳ hạn – dài hạn (*) | - | - | 200.000.000 | 200.000.000 |\n\n(*) Bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc hơn 3 tháng và kỳ hạn còn lại không quá 12 tháng (cho các khoản tiền gửi ngân hàng ngắn hạn) và có kỳ hạn còn lại trên 12 tháng (cho các khoản tiền gửi ngân hàng dài hạn). Lãi suất được quy định cụ thể cho từng khoản tiền gửi.\n\nBảng 2: Chi tiết số dư các khoản tiền gửi có kỳ hạn ngắn hạn theo nguyên tệ\n| Nguyên tệ | 31/12/2025 Nguyên tệ | 31/12/2025 Tương đương (VNĐ) | 31/12/2024 Nguyên tệ | 31/12/2024 Tương đương (VNĐ) |\n|---|---|---|---|---|\n| Đồng Việt Nam (\"VNĐ\") | 28.465.140.287.440 | 28.465.140.287.440 | 21.588.470.987.398 | 21.588.470.987.398 |\n| Đô la Mỹ (\"USD\") | - | - | 7.700.000 | 196.742.699.410 |\n| Yên Nhật Bản (\"JPY\") | 6.000.000.000 | 1.007.580.000.000 | - | - |\n| Euro (\"EUR\") | 5.000.000 | 158.266.450.000 | - | - |\n| Tổng | 29.630.986.737.440 | 29.630.986.737.440 | 21.785.213.686.808 | 21.785.213.686.808 |",
+  "prompt_tokens": 4368,
+  "completion_tokens": 870,
+  "cost_usd": 0.003139,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 98,
+  "page_title": "Giao dịch giữa công ty với các đối tượng khác",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' ở góc trên bên trái. Thanh mục lục bên trái với các mục từ 01 đến 08, mục 06 'QUẢN TRỊ CÔNG TY' được tô màu xanh nhạt và đánh dấu màu cam. Phần chính trang là bảng chi tiết giao dịch giữa công ty với các đối tượng khác, gồm các cột: STT, Tên tổ chức, Số giấy NSH, ngày cấp, nơi cấp, Người có liên quan, Vị trí của người có liên quan tại công ty, Địa chỉ trụ sở chính, Thời điểm giao dịch, Ghi chú. Bảng có hai dòng dữ liệu, mỗi dòng mô tả một công ty con trong cùng tập đoàn FPT với thông tin chi tiết về người liên quan, vị trí, địa chỉ, thời gian giao dịch và ghi chú về dịch vụ hoặc hoạt động giao dịch.",
+  "charts_and_tables": "| STT | Tên tổ chức | Số giấy NSH, ngày cấp, nơi cấp | Người có liên quan | Vị trí của người có liên quan tại công ty | Địa chỉ trụ sở chính | Thời điểm giao dịch | Ghi chú |\n|-----|--------------|---------------------------------|---------------------|---------------------------------------------|-----------------------|---------------------|---------|\n| 1 | Công ty Cổ phần Viễn thông FPT (Công ty con trong cùng Tập đoàn) | • 0101778163 • 28/07/2005 • Sở Kế hoạch và Đầu tư Tp.Hà Nội | Ông Trương Gia Bình, Chủ tịch HĐQT FPT Ông Nguyễn Văn Khoa, Tổng giám đốc FPT Bà Trần Thị Hồng Lĩnh, thành viên HĐQT FPT | Thành viên HĐQT FPT Telecom Thành viên HĐQT FPT Telecom Thành viên HĐQT FPT Telecom (Miễn nhiệm từ ngày 24/12/2025) | Số 10 phố Phạm Văn Bạch, phường Cầu Giấy, Tp.Hà Nội | Từ năm 2014 – năm 2025 | • FPT cho thuê văn phòng, phí quản lý và dịch vụ tiện ích; • FPT mua dịch vụ Internet và Data Center. |\n| 2 | Công ty TNHH Giáo dục FPT (Công ty con trong cùng Tập đoàn) | • 0104900076 • 07/09/2010 • Sở Kế hoạch và Đầu tư Tp.Hà Nội | Ông Trương Gia Bình, Chủ tịch HĐQT FPT | Chủ tịch Hội đồng thành viên FPT Education | Khu công nghệ cao Hòa Lạc, Km 29, Đại lộ Thăng Long, phường Thạch Thất, Tp.Hà Nội | Từ năm 2014 – năm 2025 | • FPT cung cấp dịch vụ, chia sẻ chi phí và tiện ích dùng chung; • FPT mua dịch vụ đào tạo; • Vay và trả nợ vay. |",
+  "prompt_tokens": 4370,
+  "completion_tokens": 722,
+  "cost_usd": 0.002903,
+  "error": null
+}

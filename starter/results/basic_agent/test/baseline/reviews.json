@@ -1,0 +1,70 @@
+[
+  {
+    "query_id": "q21",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Retrieval trả p04:c001 ở rank 3 nhưng budget 800 chỉ pack được p18:c005 (Điều 21, sai nội dung điều kiện liên kết).",
+    "note": "Thiếu p04:c001 nên baseline lặp truy vấn 4 lần và bỏ cuộc."
+  },
+  {
+    "query_id": "q22",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Packed tt08:p09:c002 (chứa ý 'chỉ được giới hạn ở mức điểm D hoặc điểm C') nhưng cụt đầu đoạn Điều 9 (thiếu p09:c000).",
+    "note": "Ngữ cảnh cụt đầu khoản đ) khiến baseline do dự, lặp 4 lần tới giới hạn tìm kiếm."
+  },
+  {
+    "query_id": "q23",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt08:p16:c002 chứa đủ quy định giới hạn không vượt quá 25% tổng khối lượng CTĐT.",
+    "note": "Trả lời đúng 25% và trích dẫn p16:c002 được bằng chứng hỗ trợ."
+  },
+  {
+    "query_id": "q24",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Packed tt18:p05:c001 chứa đủ giới hạn GS=7, PGS/TSKH=5, TS=3 và quy đổi đồng hướng dẫn 0,5.",
+    "note": "Trả lời đầy đủ mọi định mức và trích dẫn p05:c001 chính xác."
+  },
+  {
+    "query_id": "q25",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Packed tt18:p06:c003 chứa đủ điều kiện chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên.",
+    "note": "Đã tìm thấy đủ p06:c003 nhưng agent baseline xuất câu trả lời thiếu [chunk-id] nên bị từ chối."
+  },
+  {
+    "query_id": "q26",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Retrieval trả p17:c001 ở rank 2 nhưng sau p17:c003 (584 chars) thì vượt budget 800 nên chỉ pack p17:c003 (thiếu số 07 và 03).",
+    "note": "Thiếu p17:c001 do budget 800 quá nhỏ, baseline lặp truy vấn tới search_limit."
+  },
+  {
+    "query_id": "u03",
+    "abstention_correct": true,
+    "citation_support": [],
+    "context_grade": 1,
+    "context_reason": "Kiểm tra p11:c004 (Điều 15 phản biện độc lập), chưa kiểm tra các điều về thẩm định/hỗ trợ kinh phí.",
+    "note": "Từ chối đúng: tài liệu không quy định thù lao/lệ phí phản biện độc lập."
+  },
+  {
+    "query_id": "u04",
+    "abstention_correct": true,
+    "citation_support": [],
+    "context_grade": 0,
+    "context_reason": "Chỉ nạp p12:c003 và p15:c000 (buộc thôi học/xin thôi học), ít liên quan chủ đề ký túc xá.",
+    "note": "Từ chối đúng: TT08/2021 không điều chỉnh chỗ ở ký túc xá nội trú."
+  }
+]

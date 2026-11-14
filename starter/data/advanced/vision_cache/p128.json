@@ -1,0 +1,14 @@
+{
+  "page": 128,
+  "page_title": "Hướng đến mua sắm bền vững",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chữ, bên trái là phần nội dung chính với tiêu đề 'Hướng đến mua sắm bền vững' và các đoạn văn bản chi tiết về chính sách và kết quả thực hiện mua sắm bền vững của Tập đoàn FPT năm 2025. Bên phải phía dưới có ảnh chụp cảnh hai người trong trang phục công sở đang trao đổi, một người đưa tài liệu cho người kia. Bên trái trang có thanh menu dọc màu xanh nhạt với logo FPT và danh mục mục lục báo cáo ESG, đánh dấu mục 07 đang mở. Trang có số trang 128 ở góc dưới bên trái.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4310,
+  "completion_tokens": 188,
+  "cost_usd": 0.002025,
+  "error": null
+}

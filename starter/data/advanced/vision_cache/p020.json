@@ -1,0 +1,15 @@
+{
+  "page": 20,
+  "page_title": "DỰ ÁN AI NỔI BẬT",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày nội dung về dự án AI nổi bật của FPT trong việc hiện đại hóa hệ thống máy tính quy mô lớn với AI, tăng tốc chuyển đổi các hệ thống CNTT 'di sản'. Bên trái là phần mục lục báo cáo thường niên 2025 với các mục chính và phụ được đánh số, mục 02 'DẤU ẤN 2025' đang được tô màu xanh nhạt. Phần giữa trang có các biểu tượng nhỏ minh họa cho số liệu (biểu tượng mã nguồn, biểu tượng đồng tiền, biểu tượng giao dịch) kèm theo các số liệu lớn màu xanh dương. Phía dưới bên phải có ảnh chụp một nhóm nhân sự FPT đang thảo luận trong phòng họp, có bảng trắng và màn hình TV phía sau. Các số liệu quan trọng được trình bày nổi bật với biểu tượng và chữ số lớn màu xanh dương.",
+  "charts_and_tables": "Biểu đồ/Bảng số liệu: \n- 220-300 Tỷ đồng mã COBOL đang được vận hành trên toàn cầu\n- 60-80% Ngân sách CNTT của doanh nghiệp dành cho duy trì hệ thống CNTT 'di sản'\n- 70-80% Giao dịch kinh doanh trên thế giới được xử lý bởi các hệ thống COBOL\n- 300 Hệ thống CNTT di sản được khai thác hiệu quả\n- 40 Doanh nghiệp toàn cầu\n- 200 triệu Dòng mã nguồn được chuyển đổi",
+  "prompt_tokens": 4302,
+  "completion_tokens": 358,
+  "cost_usd": 0.002294,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 67,
+  "page_title": "PHÂN TÍCH HOẠT ĐỘNG KINH DOANH",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang gồm phần văn bản phân tích chi tiết về kết quả kinh doanh lĩnh vực Dịch vụ CNTT trong nước năm 2025, các định hướng chiến lược công nghệ lõi và phát triển hệ sinh thái Made by FPT. Bên phải trang có biểu đồ cột thể hiện doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025 với các cột màu xanh nhạt đến xanh đậm theo từng năm. Trục tung biểu đồ thể hiện đơn vị tỷ VNĐ từ 0 đến 3000, trục hoành là các năm 2021, 2022, 2023, 2024, 2025. Các giá trị doanh thu được ghi trên đỉnh từng cột.",
+  "charts_and_tables": "Biểu đồ cột: Doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025 (Đơn vị: Tỷ VNĐ)\n- 2021: 746\n- 2022: 1.150\n- 2023: 1.637\n- 2024: 2.244\n- 2025: 2.672",
+  "prompt_tokens": 4398,
+  "completion_tokens": 290,
+  "cost_usd": 0.002223,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 42,
+  "page_title": "Ban Lãnh đạo FPT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'Làm Chủ Công Nghệ Chiến Lược - Báo cáo thường niên 2025' ở góc trên bên trái. Bên trái là mục lục phần 03 'Tổng quan về FPT' với các mục nhỏ như Thông tin chung, Sứ mệnh, giá trị cốt lõi, Ngành nghề kinh doanh, Vị thế và quy mô, Hành trình khẳng định năng lực và vị thế, Cơ cấu quản trị và bộ máy quản lý, Ban Lãnh đạo. Ở giữa và bên phải trang là ảnh chân dung và thông tin tiểu sử của 3 lãnh đạo: Ông Vũ Anh Tú (Giám đốc Công nghệ, Giám đốc Điều hành FPT UAV), Ông Nguyễn Xuân Việt (Giám đốc Công nghệ Thông tin), Ông Hoàng Hữu Chiến (Kế toán trưởng). Mỗi người có ảnh chân dung chính diện, mặc vest, kèm theo phần mô tả chi tiết về quá trình công tác, chức vụ và đóng góp tại FPT. Có các đường nét đồ họa màu cam và xám nối các phần thông tin với ảnh chân dung tương ứng.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4336,
+  "completion_tokens": 299,
+  "cost_usd": 0.002213,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 88,
+  "page_title": "Nguyên tắc 02: Thiết lập một HĐQT có năng lực và chuyên nghiệp",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày có phần menu bên trái với các mục chính của báo cáo thường niên FPT 2025, mục 06 QUẢN TRỊ CÔNG TY được đánh dấu nổi bật. Phần chính trang bên phải gồm đoạn văn bản chi tiết về Hội đồng Quản trị (HĐQT) nhiệm kỳ 2022-2027 của FPT, nhấn mạnh về sự đa dạng kinh nghiệm, chuyên môn và tính chuyên nghiệp của các thành viên. Bên cạnh đó là khung số liệu tóm tắt các đặc điểm thành viên HĐQT với các con số lớn màu xanh dương và chú thích chi tiết. Phía dưới là ảnh chụp một sự kiện họp báo hoặc đại hội cổ đông với 5 người ngồi trên bàn hội nghị, phía sau là màn hình lớn có logo FPT và dòng chữ Đại hội đồng cổ đông thường niên FPT 2025.",
+  "charts_and_tables": "03 Thành viên HĐQT độc lập\n01 Thành viên HĐQT nữ\n05 Thành viên HĐQT có kinh nghiệm chuyên sâu trong lĩnh vực CNTT\n01 Thành viên HĐQT am hiểu sâu sắc lĩnh vực đầu tư và quản trị doanh nghiệp\n01 Thành viên HĐQT có kinh nghiệm chuyên sâu trong lĩnh vực tài chính",
+  "prompt_tokens": 4306,
+  "completion_tokens": 316,
+  "cost_usd": 0.002228,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 44,
+  "page_title": "Ban Kiểm soát",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày gồm ba ảnh chân dung của các thành viên Ban Kiểm soát FPT, mỗi người mặc vest công sở, đứng chính diện. Bên trái là ông Nguyễn Việt Thắng, ở giữa là ông Nguyễn Khải Hoàn, bên phải là bà Dương Thùy Dương. Phía trên ảnh có tiêu đề 'Ban Kiểm soát' và đoạn mô tả chung về Ban Kiểm soát. Bên trái trang có thanh mục lục với các phần chính của báo cáo thường niên FPT 2025.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4317,
+  "completion_tokens": 154,
+  "cost_usd": 0.001973,
+  "error": null
+}

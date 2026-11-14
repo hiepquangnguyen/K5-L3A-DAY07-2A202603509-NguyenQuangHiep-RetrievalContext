@@ -1,0 +1,13 @@
+{
+  "page": 121,
+  "page_title": "Cổ đông và Nhà đầu tư",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày nội dung văn bản với tiêu đề chính 'Cổ đông và Nhà đầu tư'. Bố cục gồm 2 cột: cột trái là danh mục mục lục báo cáo thường niên FPT 2025 với các phần đánh số từ 01 đến 08, phần 07 được tô màu xanh dương nhạt làm nổi bật. Cột phải là bảng nội dung chính với 3 mục lớn: Minh bạch công bố và chia sẻ thông tin, Đối thoại và tương tác với cộng đồng đầu tư, Đảm bảo quyền lợi của cổ đông. Mỗi mục có phần mô tả chi tiết kết quả năm 2025 dưới dạng các dấu chấm đầu dòng. Không có biểu đồ, bảng số liệu hay hình ảnh minh họa nào khác trên trang này.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4305,
+  "completion_tokens": 205,
+  "cost_usd": 0.00205,
+  "error": null
+}

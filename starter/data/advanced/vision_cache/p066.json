@@ -1,0 +1,14 @@
+{
+  "page": 66,
+  "page_title": "LĨNH VỰC DỊCH VỤ CNTT CHO THỊ TRƯỜNG TRONG NƯỚC",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm ba phần chính: bên trái là mục lục báo cáo thường niên 2025 của FPT với các phần đánh số từ 01 đến 08, phần 05 được tô màu xanh dương nhạt và đánh dấu cam. Phần giữa là các số liệu nổi bật về lĩnh vực dịch vụ CNTT trong nước của FPT, gồm 4 ô thông tin với các con số lớn màu xanh dương và mô tả chi tiết. Phần phải là ảnh chụp ông Nguyễn Hoàng Minh, Tổng Giám đốc FPT IS, mặc vest, đeo kính, đang giơ tay phải lên, kèm theo đoạn trích dẫn lời phát biểu của ông. Dưới phần số liệu có ảnh chụp màn hình trang web Bộ Khoa học và Công nghệ với logo FPT và thông tin về 14 sản phẩm giải pháp Made by FPT được công bố mới trên Công Thông tin Nghị quyết 57.",
+  "charts_and_tables": "Không có bảng biểu hay biểu đồ số liệu dạng bảng hoặc biểu đồ trên trang này. Các số liệu chính được trình bày dưới dạng ô thông tin như sau:\n- Top 1: Công ty tư vấn và cung cấp sản phẩm, giải pháp, dịch vụ công nghệ\n- 40: Dự án thúc đẩy chuyển đổi số, xây dựng cơ sở dữ liệu cho các Bộ, ngành\n- 100.000+: Dự án số đa quy mô\n- 24: Tỉnh thành hợp tác chuyển đổi số",
+  "prompt_tokens": 4406,
+  "completion_tokens": 377,
+  "cost_usd": 0.002366,
+  "error": null
+}

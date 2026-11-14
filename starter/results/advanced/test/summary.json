@@ -1,0 +1,34 @@
+{
+  "split": "test",
+  "version": "v5",
+  "grading": "strict",
+  "total": 30,
+  "passed": 26,
+  "accuracy": 0.8667,
+  "by_category": {
+    "text": {
+      "total": 4,
+      "passed": 4
+    },
+    "table": {
+      "total": 6,
+      "passed": 6
+    },
+    "chart": {
+      "total": 5,
+      "passed": 5
+    },
+    "image_diagram": {
+      "total": 5,
+      "passed": 4
+    },
+    "multi_hop": {
+      "total": 4,
+      "passed": 2
+    },
+    "unanswerable": {
+      "total": 6,
+      "passed": 5
+    }
+  }
+}

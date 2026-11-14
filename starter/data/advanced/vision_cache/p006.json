@@ -1,0 +1,14 @@
+{
+  "page": 6,
+  "page_title": "THÔNG ĐIỆP TỔNG GIÁM ĐỐC",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có hình ảnh một người đàn ông mặc vest xanh, đeo cà vạt màu hồng nhạt, đứng khoanh tay nhìn về phía bên phải với biểu cảm tự tin. Bên trái trang là thanh menu dọc với logo FPT và các mục chính của báo cáo thường niên 2025. Phần lớn trang là đoạn văn bản thông điệp từ Tổng Giám đốc với trích dẫn nổi bật màu cam ở đầu đoạn văn.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4296,
+  "completion_tokens": 144,
+  "cost_usd": 0.001949,
+  "error": null
+}

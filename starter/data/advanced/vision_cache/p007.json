@@ -1,0 +1,14 @@
+{
+  "page": 7,
+  "page_title": "Kiên định bám sát kế hoạch, đảm bảo tăng trưởng hai chữ số",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'Làm chủ công nghệ chiến lược - Báo cáo thường niên 2025' ở góc trên bên trái. Thanh menu dọc bên trái liệt kê các mục chính của báo cáo từ 01 đến 08. Phần nội dung chính gồm đoạn văn bản chi tiết về kết quả kinh doanh năm 2025 của FPT, kèm theo hai bảng số liệu lớn thể hiện doanh thu và lợi nhuận sau thuế với các con số nổi bật và mũi tên tăng màu xanh lá. Bảng doanh thu ghi 70.113 tỷ VNĐ, tăng 11,6%. Bảng lợi nhuận sau thuế ghi 11.232 tỷ VNĐ, tăng 19,1%. Phần văn bản bên phải trình bày chi tiết về các lĩnh vực kinh doanh chính: Dịch vụ CNTT cho thị trường nước ngoài và trong nước, Dịch vụ Viễn thông, Giáo dục, với các số liệu và mô tả cụ thể về tăng trưởng, hợp tác, đầu tư và chiến lược phát triển.",
+  "charts_and_tables": "Doanh thu: 70.113 Tỷ VNĐ, tăng 11,6%\nLợi nhuận sau thuế: 11.232 Tỷ VNĐ, tăng 19,1%\nLợi nhuận trước thuế: 13.044 Tỷ VNĐ, tăng 17,8%\nEPS đạt 5.216 đồng, tăng 21,5% so với cùng kỳ.\n\nLĩnh vực Dịch vụ CNTT cho thị trường nước ngoài:\n- Doanh thu đạt 35.382 tỷ đồng, tăng 14,3%\n- Doanh thu ký mới vượt mốc 1,5 tỷ USD, tương đương 40.636 tỷ đồng, tăng 23,2%\n- Số lượng hợp đồng quy mô trên 10 triệu USD tăng gấp đôi so với năm trước\n- Doanh thu Dịch vụ Chuyển đổi số chiếm 47,3% tổng doanh thu Dịch vụ CNTT cho thị trường nước ngoài.\n\nLĩnh vực Dịch vụ CNTT cho thị trường trong nước:\n- Tăng tốc hợp tác chuyển đổi số và triển khai các chương trình theo Nghị quyết 57-NQ/TW, 214/NQ-CP và các kế hoạch của Ban Chỉ đạo Trung ương\n- Tham gia xây dựng chiến lược dữ liệu và chuyển đổi số với nhiều Bộ ngành\n- Hệ sinh thái Made by FPT đạt 2.672 tỷ đồng, tăng 19,1%\n\nLĩnh vực Dịch vụ Viễn thông:\n- Doanh thu 18.702 tỷ đồng\n- Lợi nhuận trước thuế 4.167 tỷ đồng\n- Trung tâm dữ liệu quy mô 10.000 m2\n- FPT Telecom chuyển giao về Bộ Công an\n\nLĩnh vực Giáo dục:\n- Mở rộng đào tạo tại Nghệ An, Long An, Bình Định, Bình Dương (cũ), Sóc Trăng (cũ)\n- Tập trung đào tạo theo nhu cầu phát triển nguồn nhân lực doanh nghiệp và địa phương\n- Tích hợp công nghệ hiện đại như AI, khoa học dữ liệu, STEAM\n- Quảng Ninh tiếp nhận 74 sinh viên chuyên ngành CNTT của trường đại học FPT tham gia hỗ trợ chính quyền địa phương triển khai Nghị quyết.",
+  "prompt_tokens": 4327,
+  "completion_tokens": 774,
+  "cost_usd": 0.002969,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 137,
+  "page_title": "MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày nội dung về môi trường làm việc đa dạng, công bằng và hạnh phúc tại FPT. Có biểu đồ cột thể hiện số lượng nhân sự nữ của FPT giai đoạn 2021-2025. Biểu đồ có các cột màu xanh nhạt đến xanh đậm tương ứng với các năm từ 2021 đến 2025. Bên trái trang có mục lục phần Báo cáo ESG được đánh dấu phần Môi trường làm việc đẳng cấp, hạnh phúc. Có các tiêu đề phụ màu xanh và cam nhấn mạnh các chủ đề về đa dạng văn hóa, tôn trọng và cân bằng giới tính.",
+  "charts_and_tables": "Biểu đồ cột: Nhân sự nữ của FPT giai đoạn 2021-2025 (Đơn vị: Nhân sự)\n- 2021: 13.841\n- 2022: 16.155\n- 2023: 18.022\n- 2024: 20.280\n- 2025: 20.383\n\nCác số liệu chính trong văn bản:\n- 43,9% nhân sự dưới 30 tuổi\n- 53,2% cán bộ quản lý dưới 40 tuổi\n- Tính đến hết năm 2025, FPT có 54.110 nhân sự làm việc tại hơn 30 quốc gia, trong đó có 4.124 nhân sự người nước ngoài với 82 quốc tịch, chủ yếu từ Mỹ, Nhật Bản, Slovakia, Malaysia, Mexico, Philippines, tăng 18% so với cùng kỳ.\n- Tỷ lệ lao động nữ tại FPT đến ngày 31/12/2025 đạt 37,7%, cao hơn mức trung bình toàn cầu của ngành CNTT (25% - ILO).\n- Nữ giới chiếm 36,4% đội ngũ quản lý, bao gồm cả các vị trí lãnh đạo cấp cao tại các công ty thành viên.",
+  "prompt_tokens": 4296,
+  "completion_tokens": 473,
+  "cost_usd": 0.002475,
+  "error": null
+}

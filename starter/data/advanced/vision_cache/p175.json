@@ -1,0 +1,14 @@
+{
+  "page": 175,
+  "page_title": "THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày phần thuyết minh báo cáo tài chính hợp nhất năm 2025 của Tập đoàn FPT. Có logo FPT và tiêu đề lớn ở trên cùng. Bên trái là mục lục báo cáo thường niên với các mục đánh số từ 01 đến 08, mục 08 được tô màu xanh dương nhạt và đánh dấu màu cam. Phần nội dung chính gồm tiêu đề lớn, các mục nhỏ đánh số và phân mục (i) Công ty con trực tiếp, (ii) Công ty liên kết trực tiếp. Có bảng liệt kê các công ty con với các cột: Công ty con, Hoạt động chính, Nơi thành lập, đăng ký hoạt động, Tỷ lệ sở hữu, Tỷ lệ quyền biểu quyết. Bảng có nền màu vàng nhạt ở phần đầu cột. Không có hình ảnh hay biểu đồ nào khác.",
+  "charts_and_tables": "Bảng: Công ty con trực tiếp và công ty liên kết trực tiếp\n\n| Công ty con                             | Hoạt động chính                                                                                     | Nơi thành lập, đăng ký hoạt động                         | Tỷ lệ sở hữu | Tỷ lệ quyền biểu quyết |\n|---------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|-----------------------|\n| Công ty Cổ phần Synnex FPT             | Sản xuất các sản phẩm công nghệ và phân phối các linh kiện CNTT và điện thoại di động, chế tạo máy tính. | Số 17, Phố Duy Tân, Phường Cầu Giấy, Hà Nội              | 48%         | 48%                   |\n| Công ty Cổ phần Bán lẻ Kỹ thuật số FPT | Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông; đại lý dịch vụ viễn thông.  | Số 261 - 263 Khánh Hội, Phường Vĩnh Hội, TP. Hồ Chí Minh | 46,54%      | 46,54%                |\n\nPhần text giải thích về cơ sở hợp nhất báo cáo tài chính của Công ty Cổ phần Viễn thông FPT (FTEL) với các mốc thời gian và quyền kiểm soát của Tập đoàn FPT, thay đổi quyền đại diện vốn Nhà nước tại FTEL từ 11/11/2025 và các phương pháp hợp nhất báo cáo tài chính áp dụng từ năm tài chính 2026.",
+  "prompt_tokens": 4349,
+  "completion_tokens": 597,
+  "cost_usd": 0.002695,
+  "error": null
+}

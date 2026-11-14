@@ -1,0 +1,22 @@
+{
+  "qdrant_path": "C:\\Users\\hiepq\\VinUni\\K5-L3A-DAY06-NguyenQuangHiep-2A202603509-DataIngestion\\starter\\qdrant_db",
+  "collection": "day06_moet_chunks",
+  "strategy": "C",
+  "chunk_count": 210,
+  "question_count": 20,
+  "single_chunk_gold_matches": 19,
+  "gold_issues": [
+    {
+      "id": "q19",
+      "split": "dev",
+      "gold": [
+        {
+          "source_id": "tt18-2021",
+          "page": 13,
+          "evidence": "Cha, mẹ, vợ hoặc chồng, con, anh, chị, em ruột của nghiên cứu sinh không tham gia Hội đồng. 3. Trong thời gian tối đa 03 tháng kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập"
+        }
+      ],
+      "reason": "evidence spans multiple chunks or differs slightly from chunk text"
+    }
+  ]
+}

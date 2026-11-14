@@ -1,0 +1,15 @@
+{
+  "page": 27,
+  "page_title": "VỊ THẾ VÀ QUY MÔ",
+  "content_types": [
+    "text",
+    "chart",
+    "image"
+  ],
+  "visual_summary": "Trang trình bày có logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025'. Thanh mục lục bên trái đánh dấu phần 03 'TỔNG QUAN VỀ FPT' với các mục con như Thông tin chung, Sứ mệnh, giá trị cốt lõi, Ngành nghề kinh doanh, Vị thế và quy mô, Hành trình khẳng định năng lực và vị thế, Cơ cấu quản trị và bộ máy quản lý, Ban Lãnh đạo. Ở giữa trang là đoạn văn bản giới thiệu về FPT, vị thế và quy mô hoạt động toàn cầu với hơn 54.110 CBNV, hiện diện tại hơn 30 quốc gia và 4 châu lục, giá trị vốn hóa tăng gần 6 lần từ 2006 đến nay. Bên phải có 3 số lớn thể hiện: 34 tỉnh thành tại Việt Nam, hơn 30 quốc gia và vùng lãnh thổ, 04 châu lục. Phía dưới là bản đồ thế giới với các điểm đánh dấu vị trí các quốc gia và vùng lãnh thổ có hoạt động của FPT, gồm nhiều quốc gia ở Bắc Mỹ, Châu Âu, Châu Á và Châu Đại Dương. Bên cạnh bản đồ là biểu đồ vòng tròn thể hiện tỷ trọng doanh thu theo khu vực địa lý với các màu sắc và tỷ lệ: Việt Nam 48,9% (màu xanh đậm), Nước ngoài 51,1% gồm Châu Mỹ 11,6% (xanh dương nhạt), Châu Âu 5,6% (xám), Nhật Bản 22,8% (cam), Châu Á-Thái Bình Dương 11,1% (xanh lá).",
+  "charts_and_tables": "Biểu đồ vòng tròn - Doanh thu theo khu vực địa lý:\n- Việt Nam: 48,9%\n- Nhật Bản: 22,8%\n- Châu Á-Thái Bình Dương: 11,1%\n- Châu Mỹ: 11,6%\n- Châu Âu: 5,6%\n\nBản đồ thế giới có đánh dấu các quốc gia và vùng lãnh thổ nơi FPT hiện diện gồm: Canada, USA, Mexico, Colombia, Costa Rica, Anh, Cộng hòa Séc, Đức, Pháp, Romania, Slovakia, Đan Mạch, Thụy Điển, Israel, Ấn Độ, Ả-rập-xê-út, Tiểu Vương quốc Ả-rập thống nhất, Việt Nam, Campuchia, Thái Lan, Singapore, Malaysia, Myanmar, Trung Quốc, Hàn Quốc, Đài Loan, Hong Kong, Nhật Bản, Philippines, Indonesia, Úc.",
+  "prompt_tokens": 4371,
+  "completion_tokens": 663,
+  "cost_usd": 0.002809,
+  "error": null
+}

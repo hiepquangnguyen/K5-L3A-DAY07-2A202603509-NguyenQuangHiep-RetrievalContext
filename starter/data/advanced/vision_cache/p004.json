@@ -1,0 +1,13 @@
+{
+  "page": 4,
+  "page_title": "Ba yếu tố sống còn trong kỷ nguyên AI",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chữ, bên trái là phần mục lục với logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025'. Mục lục gồm các phần: 01 THÔNG ĐIỆP BAN LÃNH ĐẠO (có 2 mục nhỏ), 02 DẤU ẤN 2025, 03 TỔNG QUAN VỀ FPT, 04 CHIẾN LƯỢC PHÁT TRIỂN, 05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH, 06 QUẢN TRỊ CÔNG TY, 07 BÁO CÁO ESG, 08 BÁO CÁO TÀI CHÍNH HỢP NHẤT. Bên phải là nội dung chính với 2 phần lớn: 'Ba yếu tố sống còn trong kỷ nguyên AI' và 'Lợi thế cạnh tranh khác biệt của FPT'. Có một khung chữ màu cam nhạt chứa đoạn nhấn mạnh về đội ngũ nhân sự công nghệ của FPT.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4289,
+  "completion_tokens": 303,
+  "cost_usd": 0.0022,
+  "error": null
+}

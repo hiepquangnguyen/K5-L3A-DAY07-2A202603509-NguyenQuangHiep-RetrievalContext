@@ -1,0 +1,14 @@
+{
+  "page": 57,
+  "page_title": "PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày báo cáo kinh doanh với tiêu đề lớn màu xanh dương ở trên cùng. Bên trái là mục lục các phần của báo cáo thường niên, phần 'PHÂN TÍCH HOẠT ĐỘNG KINH DOANH' được đánh dấu màu xanh dương. Nội dung chính gồm hai phần đánh giá chung: Bối cảnh và Kết quả kinh doanh, với các đoạn văn bản chi tiết. Phía dưới bên phải là bảng số liệu tài chính chính gồm 4 chỉ số lớn với số liệu và tỷ lệ tăng trưởng màu xanh lá kèm mũi tên hướng lên: Doanh thu, Lợi nhuận trước thuế, LNST thuộc cổ đông công ty mẹ, Thu nhập trên mỗi cổ phiếu (EPS).",
+  "charts_and_tables": "| Chỉ số                         | Giá trị           | Tỷ lệ tăng trưởng |\n|-------------------------------|-------------------|-------------------|\n| Doanh thu                     | 70.113 Tỷ VNĐ     | 11,6%             |\n| Lợi nhuận trước thuế          | 13.044 Tỷ VNĐ     | 17,8%             |\n| LNST thuộc cổ đông công ty mẹ | 9.376 Tỷ VNĐ      | 19,3%             |\n| Thu nhập trên mỗi cổ phiếu    | 5.216 VNĐ         | 21,5%             |\n\nĐơn vị: Tỷ VNĐ hoặc VNĐ cho EPS. Tất cả các tỷ lệ tăng trưởng đều được thể hiện bằng màu xanh lá và mũi tên hướng lên.",
+  "prompt_tokens": 4336,
+  "completion_tokens": 431,
+  "cost_usd": 0.002424,
+  "error": null
+}

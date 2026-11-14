@@ -1,0 +1,916 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Trong quy trình phản biện độc lập luận án tiến sĩ, thông tin về người phản biện độc lập được bảo mật như thế nào và việc liên hệ thuộc trách nhiệm của ai?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p12:c000",
+        "source_id": "tt18-2021",
+        "page": 12,
+        "score": 0.658089,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p11:c004",
+        "source_id": "tt18-2021",
+        "page": 11,
+        "score": 0.608082,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p12:c001",
+        "source_id": "tt18-2021",
+        "page": 12,
+        "score": 0.549497,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p12:c000",
+      "para:tt18-2021:p12:c001"
+    ],
+    "context_chars": 752,
+    "elapsed_ms": 995.35,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "Trong đào tạo trình độ tiến sĩ, việc đánh giá và tính điểm các học phần trong chương trình đào tạo được áp dụng theo quy định nào?",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    },
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p08:c000",
+        "source_id": "tt18-2021",
+        "page": 8,
+        "score": 0.695989,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p07:c006",
+        "source_id": "tt18-2021",
+        "page": 7,
+        "score": 0.621905,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p08:c001",
+        "source_id": "tt18-2021",
+        "page": 8,
+        "score": 0.614615,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p08:c000"
+    ],
+    "context_chars": 571,
+    "elapsed_ms": 1289.16,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Hình thức đánh giá trực tuyến ở bậc đại học đóng góp tối đa bao nhiêu phần trăm trọng số điểm học phần và hội đồng bảo vệ khóa luận trực tuyến cần ít nhất mấy thành viên?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p08:c000",
+        "source_id": "tt08-2021",
+        "page": 8,
+        "score": 0.714618,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p08:c001",
+        "source_id": "tt08-2021",
+        "page": 8,
+        "score": 0.587814,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p13:c003",
+        "source_id": "tt18-2021",
+        "page": 13,
+        "score": 0.561691,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p08:c000"
+    ],
+    "context_chars": 645,
+    "elapsed_ms": 275.1,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Sinh viên đại học đã hết thời gian học tập tối đa nhưng chưa đạt chuẩn đầu ra về ngoại ngữ hoặc công nghệ thông tin thì được hoàn thiện các điều kiện còn thiếu trong thời hạn bao lâu?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p14:c000",
+        "source_id": "tt08-2021",
+        "page": 14,
+        "score": 0.692335,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p02:c004",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.603119,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p17:c002",
+        "source_id": "tt08-2021",
+        "page": 17,
+        "score": 0.596054,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p14:c000"
+    ],
+    "context_chars": 673,
+    "elapsed_ms": 258.26,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "Theo Phụ lục II của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, chứng chỉ tiếng Anh TOEFL iBT và IELTS cần đạt mức điểm tối thiểu là bao nhiêu để minh chứng trình độ ngoại ngữ của người dự tuyển?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p22:c001",
+        "source_id": "tt18-2021",
+        "page": 22,
+        "score": 0.638633,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p06:c003",
+        "source_id": "tt18-2021",
+        "page": 6,
+        "score": 0.595339,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p06:c000",
+        "source_id": "tt18-2021",
+        "page": 6,
+        "score": 0.54369,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p22:c001"
+    ],
+    "context_chars": 671,
+    "elapsed_ms": 272.65,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Nghiên cứu sinh được phép hoàn thành chương trình đào tạo tiến sĩ sớm hơn kế hoạch tối đa bao lâu và tổng thời gian đào tạo chậm hơn không vượt quá mấy năm?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p03:c001",
+        "source_id": "tt18-2021",
+        "page": 3,
+        "score": 0.797007,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p02:c003",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.672824,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p03:c002",
+        "source_id": "tt18-2021",
+        "page": 3,
+        "score": 0.672081,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p03:c001"
+    ],
+    "context_chars": 576,
+    "elapsed_ms": 595.43,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Quy chế của cơ sở đào tạo đại học quy định giới hạn số lần cảnh báo học tập liên tiếp đối với sinh viên tối đa là mấy lần?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p12:c000",
+        "source_id": "tt08-2021",
+        "page": 12,
+        "score": 0.69237,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p11:c002",
+        "source_id": "tt08-2021",
+        "page": 11,
+        "score": 0.666546,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p02:c004",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.642002,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p12:c000"
+    ],
+    "context_chars": 553,
+    "elapsed_ms": 345.62,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ ở bậc đại học, chương trình đào tạo phải thể hiện rõ điều gì?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p02:c000",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.721952,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p02:c001",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.622842,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p15:c002",
+        "source_id": "tt08-2021",
+        "page": 15,
+        "score": 0.596132,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p02:c000",
+      "para:tt08-2021:p02:c001"
+    ],
+    "context_chars": 779,
+    "elapsed_ms": 257.38,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Sinh viên đại học xin thôi học vì lý do cá nhân nếu muốn quay trở lại học thì phải thực hiện quy định gì?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p15:c000",
+        "source_id": "tt08-2021",
+        "page": 15,
+        "score": 0.721506,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p14:c003",
+        "source_id": "tt08-2021",
+        "page": 14,
+        "score": 0.573534,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p09:c000",
+        "source_id": "tt18-2021",
+        "page": 9,
+        "score": 0.560372,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p15:c000"
+    ],
+    "context_chars": 497,
+    "elapsed_ms": 243.97,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Theo thang điểm 10 trong quy chế đào tạo đại học, mức điểm nào được xếp loại Xuất sắc, Giỏi và Khá?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p10:c003",
+        "source_id": "tt08-2021",
+        "page": 10,
+        "score": 0.601041,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p10:c004",
+        "source_id": "tt08-2021",
+        "page": 10,
+        "score": 0.584858,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p09:c004",
+        "source_id": "tt08-2021",
+        "page": 9,
+        "score": 0.5543,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p10:c003",
+      "para:tt08-2021:p10:c004"
+    ],
+    "context_chars": 760,
+    "elapsed_ms": 283.08,
+    "hit1": false,
+    "hit3": false,
+    "hit3_strict": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Khi đề tài luận án tiến sĩ liên quan đến bí mật quốc gia thuộc danh mục bí mật nhà nước, cơ sở đào tạo phải thực hiện thủ tục gì ngay sau khi có quyết định công nhận nghiên cứu sinh?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p15:c001",
+        "source_id": "tt18-2021",
+        "page": 15,
+        "score": 0.645677,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p14:c001",
+        "source_id": "tt18-2021",
+        "page": 14,
+        "score": 0.645661,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p07:c003",
+        "source_id": "tt18-2021",
+        "page": 7,
+        "score": 0.614669,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p15:c001"
+    ],
+    "context_chars": 647,
+    "elapsed_ms": 261.36,
+    "hit1": false,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Đối với giảng viên giảng dạy chương trình đào tạo tiến sĩ thuộc lĩnh vực nghệ thuật, tiêu chuẩn công bố khoa học có thể được thay thế bằng danh hiệu nào?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p04:c000",
+        "source_id": "tt18-2021",
+        "page": 4,
+        "score": 0.608799,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p17:c006",
+        "source_id": "tt08-2021",
+        "page": 17,
+        "score": 0.526704,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p03:c004",
+        "source_id": "tt18-2021",
+        "page": 3,
+        "score": 0.520797,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p04:c000",
+      "para:tt08-2021:p17:c006"
+    ],
+    "context_chars": 728,
+    "elapsed_ms": 344.91,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Ở trình độ đại học, hội đồng chuyên môn của cơ sở đào tạo xem xét công nhận và chuyển đổi tín chỉ dựa trên việc đối sánh những yếu tố nào?",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    },
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p13:c001",
+        "source_id": "tt08-2021",
+        "page": 13,
+        "score": 0.760916,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p16:c000",
+        "source_id": "tt08-2021",
+        "page": 16,
+        "score": 0.651024,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p13:c000",
+        "source_id": "tt08-2021",
+        "page": 13,
+        "score": 0.640864,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p13:c001"
+    ],
+    "context_chars": 476,
+    "elapsed_ms": 316.43,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Để được xét cấp bằng tiến sĩ, nghiên cứu sinh phải nộp tóm tắt luận án và toàn văn luận án hoàn chỉnh cuối cùng cho cơ quan lưu chiểu quốc gia nào?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p15:c000",
+        "source_id": "tt18-2021",
+        "page": 15,
+        "score": 0.627563,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p15:c001",
+        "source_id": "tt18-2021",
+        "page": 15,
+        "score": 0.584476,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p12:c002",
+        "source_id": "tt18-2021",
+        "page": 12,
+        "score": 0.523241,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p15:c000"
+    ],
+    "context_chars": 563,
+    "elapsed_ms": 621.77,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "Ở trình độ tiến sĩ, việc công nhận và chuyển đổi kết quả học tập, nghiên cứu đã tích lũy của nghiên cứu sinh được thực hiện trên cơ sở đề xuất của ai?",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    },
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p09:c001",
+        "source_id": "tt18-2021",
+        "page": 9,
+        "score": 0.626273,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p08:c004",
+        "source_id": "tt18-2021",
+        "page": 8,
+        "score": 0.615993,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p15:c001",
+        "source_id": "tt18-2021",
+        "page": 15,
+        "score": 0.592316,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p09:c001",
+      "para:tt18-2021:p08:c004"
+    ],
+    "context_chars": 775,
+    "elapsed_ms": 252.97,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "question": "Thông báo tuyển sinh trình độ tiến sĩ phải được công bố công khai trên trang thông tin điện tử của cơ sở đào tạo ít nhất bao nhiêu ngày làm việc trước khi tổ chức tuyển sinh?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p07:c001",
+        "source_id": "tt18-2021",
+        "page": 7,
+        "score": 0.753092,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p19:c004",
+        "source_id": "tt08-2021",
+        "page": 19,
+        "score": 0.622973,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p15:c003",
+        "source_id": "tt18-2021",
+        "page": 15,
+        "score": 0.604087,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p07:c001",
+      "para:tt18-2021:p15:c003"
+    ],
+    "context_chars": 708,
+    "elapsed_ms": 533.81,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "question": "Khi sinh viên đại học đang học cùng lúc hai chương trình, trong trường hợp nào sinh viên phải dừng học chương trình thứ hai ở học kỳ tiếp theo?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p17:c001",
+        "source_id": "tt08-2021",
+        "page": 17,
+        "score": 0.771985,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p17:c002",
+        "source_id": "tt08-2021",
+        "page": 17,
+        "score": 0.664851,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p16:c004",
+        "source_id": "tt08-2021",
+        "page": 16,
+        "score": 0.654144,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p17:c001"
+    ],
+    "context_chars": 387,
+    "elapsed_ms": 316.94,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "question": "Theo quy chế đào tạo trình độ đại học, đối với hình thức chính quy và vừa làm vừa học thì tối đa bao nhiêu phần trăm tổng khối lượng chương trình đào tạo được thực hiện bằng lớp học trực tuyến?",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    },
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p07:c001",
+        "source_id": "tt08-2021",
+        "page": 7,
+        "score": 0.684258,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p02:c003",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.630251,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p02:c004",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.59463,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p07:c001"
+    ],
+    "context_chars": 614,
+    "elapsed_ms": 331.4,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "question": "Trong thời gian tối đa bao lâu kể từ khi luận án của nghiên cứu sinh đạt quy trình phản biện độc lập thì cơ sở đào tạo phải thành lập Hội đồng đánh giá luận án, và những người thân nào của nghiên cứu sinh không được tham gia Hội đồng?",
+    "filter": null,
+    "multi_evidence": true,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt18-2021:p13:c001",
+        "source_id": "tt18-2021",
+        "page": 13,
+        "score": 0.775364,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p13:c004",
+        "source_id": "tt18-2021",
+        "page": 13,
+        "score": 0.67115,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p13:c002",
+        "source_id": "tt18-2021",
+        "page": 13,
+        "score": 0.656771,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p13:c001"
+    ],
+    "context_chars": 652,
+    "elapsed_ms": 331.1,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "question": "Khi cần thiết phải xếp lịch học tập trung thời gian ở trình độ đại học, số giờ giảng đối với một học phần bất kỳ không được vượt quá giới hạn nào?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "dense_qdrant_800",
+    "top_k": 3,
+    "budget_chars": 800,
+    "results": [
+      {
+        "id": "para:tt08-2021:p02:c004",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.607828,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p06:c001",
+        "source_id": "tt08-2021",
+        "page": 6,
+        "score": 0.607282,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p02:c003",
+        "source_id": "tt08-2021",
+        "page": 2,
+        "score": 0.606156,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p02:c004"
+    ],
+    "context_chars": 525,
+    "elapsed_ms": 588.77,
+    "hit1": false,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": false
+  }
+]

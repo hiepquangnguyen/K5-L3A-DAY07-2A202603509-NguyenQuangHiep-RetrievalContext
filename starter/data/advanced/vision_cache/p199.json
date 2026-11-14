@@ -1,0 +1,14 @@
+{
+  "page": 199,
+  "page_title": "Thuyết minh báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày phần thuyết minh báo cáo tài chính hợp nhất với các mục chính: 15. Chi phí xây dựng cơ bản dở dang, 16. Lợi thế thương mại, và phần đầu của 17. Phải trả người bán ngắn hạn. Bố cục gồm tiêu đề lớn, các mục nhỏ được đánh số và tiêu đề màu xanh dương, bảng số liệu chi tiết cho từng mục. Bảng chi phí xây dựng cơ bản dở dang liệt kê các dự án và số dư cuối năm tài chính 31/12/2025 và 31/12/2024. Bảng lợi thế thương mại trình bày biến động lợi thế thương mại năm 2025 và 2024. Logo FPT và danh mục mục lục bên trái trang.",
+  "charts_and_tables": "15. Chi phí xây dựng cơ bản dở dang (Đơn vị: VNĐ)\n| Hạng mục                         | 31/12/2025          | 31/12/2024          |\n|---------------------------------|---------------------|---------------------|\n| Trung tâm dữ liệu Quận 9         | 261.390.076.052     | 255.192.260.444     |\n| FPT Complex 3                   | 257.007.246.197     | 235.118.889.735     |\n| Tuyến cáp quang biển ALC         | 175.234.809.563     | -                   |\n| Khuôn viên Đại học FPT tại Đà Nẵng| 164.976.465.441     | -                   |\n| Dự án AI Factory                | -                   | 979.758.464.658     |\n| Dự án F-Town 3                 | -                   | 446.585.871.610     |\n| Khác                           | 746.469.407.645     | 643.111.237.964     |\n| **Tổng cộng**                   | 1.605.078.004.898   | 2.559.766.724.411   |\n\n16. Lợi thế thương mại (Đơn vị: VNĐ)\n| Mục                              | 2025                | 2024                |\n|---------------------------------|---------------------|---------------------|\n| Số dư đầu năm                   | 1.097.458.206.678   | 1.283.790.079.129   |\n| Tăng từ hợp nhất kinh doanh     | 190.164.264.770     | 405.953.037.874     |\n| Phân bổ                        | (215.789.551.218)   | (175.819.337.548)   |\n| Giảm do đánh giá lại giá trị hợp lý của công ty con tại ngày mua và điều chỉnh giá phí hợp nhất kinh doanh | (56.102.654.069)    | (416.465.572.777)   |\n| Số dư cuối năm                 | 1.015.730.266.161   | 1.097.458.206.678   |",
+  "prompt_tokens": 4371,
+  "completion_tokens": 724,
+  "cost_usd": 0.002907,
+  "error": null
+}

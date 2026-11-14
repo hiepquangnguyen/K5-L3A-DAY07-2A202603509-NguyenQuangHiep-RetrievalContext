@@ -1,0 +1,13 @@
+{
+  "page": 163,
+  "page_title": "BÁO CÁO KIỂM TOÁN ĐỘC LẬP GỬI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN FPT",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề báo cáo kiểm toán độc lập. Bố cục gồm 2 cột chữ, cột trái là phần 'Trách nhiệm của Ban Tổng Giám đốc' với tiêu đề màu xanh đậm, cột phải là phần 'Trách nhiệm của Kiểm toán viên' với tiêu đề màu xanh đậm. Phía dưới góc trái có logo PwC và thông tin liên hệ công ty TNHH PwC (Việt Nam).",
+  "charts_and_tables": "",
+  "prompt_tokens": 4312,
+  "completion_tokens": 175,
+  "cost_usd": 0.002005,
+  "error": null
+}

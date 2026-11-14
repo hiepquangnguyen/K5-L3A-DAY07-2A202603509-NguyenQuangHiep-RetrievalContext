@@ -1,0 +1,13 @@
+{
+  "page": 125,
+  "page_title": "Xác định các vấn đề trọng yếu",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày nội dung văn bản với tiêu đề chính 'Xác định các vấn đề trọng yếu'. Bên trái có thanh mục lục màu xanh nhạt với logo FPT và các mục chính của báo cáo thường niên 2025. Nội dung chính gồm phần giới thiệu về nguyên tắc xác định các vấn đề trọng yếu trong hoạt động ESG của FPT, vai trò và trách nhiệm của các bên trong quản trị phát triển bền vững được trình bày theo bảng với các bộ phận chịu trách nhiệm: HĐQT, Ban Điều hành, Công ty thành viên. Bên phải là quy trình xác định các vấn đề trọng yếu được chia thành các bước 01, 02, 03 với các mô tả chi tiết từng bước. Màu sắc chủ đạo là xanh dương và cam cho các tiêu đề bước quy trình.",
+  "charts_and_tables": "Bảng Vai trò và trách nhiệm của các bên trong quản trị phát triển bền vững:\n\n| Bộ phận chịu trách nhiệm | Vai trò và trách nhiệm |\n|-------------------------|-----------------------|\n| HĐQT                    | Phê duyệt, ban hành chiến lược và định hướng phát triển bền vững trong toàn Tập đoàn. |\n| Ban Điều hành           | Đảm bảo việc triển khai chiến lược phát triển bền vững thông qua các hoạt động:\n- Xây dựng mục tiêu phát triển bền vững cụ thể cho Tập đoàn và công ty thành viên;\n- Chỉ đạo triển khai các chương trình hiện thực hóa chiến lược phát triển bền vững của Tập đoàn;\n- Giám sát kết quả thực hiện mục tiêu phát triển bền vững của Tập đoàn và công ty thành viên. |\n| Công ty thành viên      | - Đảm bảo hiện thực hóa các mục tiêu phát triển bền vững theo định hướng và chiến lược chung của Tập đoàn;\n- Thực hiện báo cáo định kỳ về tình hình triển khai chiến lược phát triển bền vững của đơn vị.",
+  "prompt_tokens": 4295,
+  "completion_tokens": 466,
+  "cost_usd": 0.002464,
+  "error": null
+}

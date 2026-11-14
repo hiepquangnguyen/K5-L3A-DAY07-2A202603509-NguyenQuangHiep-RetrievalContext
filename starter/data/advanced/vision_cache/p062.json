@@ -1,0 +1,14 @@
+{
+  "page": 62,
+  "page_title": "Phân tích hoạt động kinh doanh - Lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày nội dung phân tích chi tiết về lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài của FPT năm 2025. Bên trái là phần nội dung văn bản dài, trình bày các kết quả kinh doanh, chiến lược mở rộng thị trường, hợp đồng lớn, và các thị trường chiến lược như Nhật Bản, châu Á-Thái Bình Dương, châu Âu và Bắc Mỹ. Bên phải là biểu đồ vòng tròn thể hiện doanh thu theo khu vực thị trường nước ngoài, gồm 4 phân đoạn màu sắc khác nhau đại diện cho các khu vực: Châu Âu (xanh dương), Nhật Bản (cam), Mỹ (xanh lá), Châu Á-Thái Bình Dương (xám). Mỗi phân đoạn có số liệu doanh thu (tỷ VNĐ), tỷ lệ phần trăm doanh thu trên tổng, và tỷ lệ tăng trưởng so với cùng kỳ năm trước. Biểu đồ có mũi tên màu xanh lá hoặc cam thể hiện tăng trưởng, hoặc mũi tên màu cam thể hiện giảm trưởng.",
+  "charts_and_tables": "Biểu đồ vòng tròn - Doanh thu lĩnh vực dịch vụ CNTT cho thị trường nước ngoài (Đơn vị: Tỷ VNĐ):\n- Tổng doanh thu: 35.382 tỷ đồng, tăng 14,3%\n- Nhật Bản: 15.452 tỷ đồng, chiếm 43,7%, tăng 25,4%\n- Châu Á-Thái Bình Dương: 8.173 tỷ đồng, chiếm 23,1%, giảm 0,8%\n- Mỹ: 8.163 tỷ đồng, chiếm 23,1%, tăng 5,3%\n- Châu Âu: 3.593 tỷ đồng, chiếm 10,2%, tăng 36,3%",
+  "prompt_tokens": 4308,
+  "completion_tokens": 443,
+  "cost_usd": 0.002432,
+  "error": null
+}

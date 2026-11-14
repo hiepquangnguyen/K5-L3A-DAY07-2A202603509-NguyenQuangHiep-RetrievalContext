@@ -1,0 +1,13 @@
+{
+  "page": 231,
+  "page_title": "KHU VỰC CHÂU ÂU",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày danh sách các văn phòng của FPT tại khu vực Châu Âu và Châu Đại Dương, chia theo từng quốc gia với địa chỉ, số điện thoại và email liên hệ cụ thể. Bố cục gồm 3 cột chính: cột trái là các văn phòng tại Đức (German), cột giữa là các văn phòng tại Pháp (France) và các quốc gia khác như Romania, Slovakia, cột phải là các văn phòng tại Thụy Điển, Vương quốc Anh và khu vực Châu Đại Dương (Australia). Bên trái trang có thanh mục lục các phần của báo cáo thường niên với phần 08 được đánh dấu màu xanh nhạt.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4351,
+  "completion_tokens": 189,
+  "cost_usd": 0.002043,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 159,
+  "page_title": "BÁO CÁO TÀI CHÍNH HỢP NHẤT",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có nền xanh đậm với hình ảnh biểu tượng đồng tiền đô la Mỹ ở trung tâm, bao quanh bởi các mảng màu cam và xanh dương tạo thành hình tròn. Phía sau biểu tượng là các biểu đồ nến và đường biểu diễn tài chính màu xanh và đỏ mờ. Bên trái trang là thanh menu dọc với logo FPT và các mục chính của báo cáo thường niên 2025 được đánh số từ 01 đến 08, trong đó mục 08 'BÁO CÁO TÀI CHÍNH HỢP NHẤT' được tô màu xanh nhạt và đánh dấu màu cam. Trang không có bảng biểu hay biểu đồ số liệu cụ thể nào khác.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4308,
+  "completion_tokens": 201,
+  "cost_usd": 0.002045,
+  "error": null
+}

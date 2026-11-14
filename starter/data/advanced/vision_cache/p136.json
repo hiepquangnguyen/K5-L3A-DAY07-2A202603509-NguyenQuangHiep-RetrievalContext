@@ -1,0 +1,15 @@
+{
+  "page": 136,
+  "page_title": "Kiểm soát nội bộ",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' ở góc trên bên trái. Bên trái là mục lục phần 07 BÁO CÁO ESG với các mục con. Phần chính trang trình bày nội dung về kiểm soát nội bộ với đoạn văn giới thiệu, bảng mô hình kiểm soát nội bộ gồm 4 chủ thể và trách nhiệm tương ứng. Bên phải là đoạn văn liệt kê các hoạt động kiểm soát trọng điểm của Tập đoàn. Góc dưới bên phải có ảnh minh họa một bàn tay chạm vào các biểu tượng công nghệ số, biểu tượng con người, biểu tượng kiểm soát, biểu tượng tài liệu, biểu tượng khóa bảo mật, biểu tượng biểu đồ, biểu tượng hợp tác, biểu tượng đánh dấu tích hợp, biểu tượng bảo vệ quyền riêng tư, tất cả được kết nối bằng các vòng tròn sáng tạo hiệu ứng công nghệ hiện đại.",
+  "charts_and_tables": "Mô hình kiểm soát nội bộ\n| Chủ thể                          | Trách nhiệm                                                                                                                                                     |\n|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Tổng giám đốc                   | • Phê duyệt kế hoạch kiểm soát tuân thủ;\n• Chỉ đạo giải quyết các tồn tại cũng như cải tiến hệ thống;\n• Xây dựng, phê duyệt, triển khai và kiểm soát khung quản lý rủi ro của Tập đoàn. |\n| Trưởng Ban Giám sát tuân thủ    | • Hoạch định và tổ chức kiểm soát việc tuân thủ các yêu cầu của pháp luật, kiểm soát các lĩnh vực/hoạt động có rủi ro cao trong hệ thống quản trị của Tập đoàn;\n• Tổ chức các đợt kiểm soát đột xuất theo yêu cầu của Ban Điều hành. |\n| Giám đốc Ban Đảm bảo chất lượng | • Hoạch định và tổ chức kiểm soát việc tuân thủ các yêu cầu của hệ thống quản trị của Tập đoàn;\n• Tổ chức các đợt kiểm soát theo yêu cầu của Ban Điều hành. |\n| Trưởng các bộ phận chức năng ngành dọc | • Rà soát và cập nhật hệ thống tài liệu quản trị của Tập đoàn trong phạm vi phụ trách nhằm đảm bảo phù hợp với các yêu cầu luật pháp, tiêu chuẩn quốc gia/quốc tế liên quan và phù hợp với thực tế hoạt động;\n• Phối hợp với Ban Đảm bảo chất lượng, Ban Giám sát tuân thủ trong các hoạt động kiểm soát và giải quyết các tồn tại cũng như cải tiến hệ thống.",
+  "prompt_tokens": 4284,
+  "completion_tokens": 618,
+  "cost_usd": 0.002702,
+  "error": null
+}

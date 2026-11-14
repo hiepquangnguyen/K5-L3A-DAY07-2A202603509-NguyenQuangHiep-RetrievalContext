@@ -1,0 +1,2373 @@
+[
+  {
+    "query_id": "adv_dev_t01",
+    "split": "dev",
+    "question": "Trong Thông điệp Chủ tịch HĐQT (mục 'Lợi thế cạnh tranh khác biệt của FPT'), Tập đoàn đặt mục tiêu đào tạo bao nhiêu tiến sĩ, bao nhiêu chuyên gia công nghệ trình độ cao, và bao nhiêu kỹ sư Cloud / kiến trúc sư Cloud cấp cao?",
+    "status": "answered",
+    "answer": "Trong phần \"Lợi thế cạnh tranh khác biệt của FPT\" trên trang 4 của Báo cáo thường niên FPT 2025, Tập đoàn đặt mục tiêu đào tạo như sau: 100 tiến sĩ, 2.000 chuyên gia công nghệ trình độ cao, 1.500 kỹ sư Cloud và 200 kiến trúc sư Cloud cấp cao [adv:fpt2025:p004:t003].",
+    "citations": [
+      "adv:fpt2025:p004:t003"
+    ],
+    "context": "[adv:fpt2025:p004:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 4]\n[Trang 4 - Text | Ba yếu tố sống còn trong kỷ nguyên AI]\nBa yếu tố sống còn trong kỷ nguyên AI\nĐể không bị bỏ lại phía sau trong kỷ nguyên AI, các doanh nghiệp, tổ chức buộc\nphải giải được ba bài toán sống còn: thời gian, chi phí và năng suất lao động.\nThứ nhất là về thời gian. Trong một thế giới thay đổi theo từng ngày, thậm chí từng\ngiờ, doanh nghiệp nào đưa sản phẩm, dịch vụ ra thị trường nhanh hơn sẽ là doanh\nnghiệp chiến thắng.\nThứ hai là về chi phí. Công nghệ, đặc biệt là AI, đang mở ra khả năng giảm mạnh\nchi phí phát triển, và vận hành. Những công việc trước đây cần nhiều nguồn lực,\nnhiều thời gian, giờ đây có thể được thực hiện với hiệu quả cao hơn nhiều lần. Theo\nnghiên cứu của McKinsey, AI có thể giúp doanh nghiệp giảm 20-30% chi phí trong\nnhiều quy trình, trong khi Microsoft ghi nhận các công cụ AI hỗ trợ lập trình giúp\ntăng năng suất lên tới 55%.\nVà cuối cùng là năng suất lao động, yếu tố mang tính quyết định. AI cho phép tự\n\n[adv:fpt2025:p004:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 4]\n[Trang 4 - Text | Ba yếu tố sống còn trong kỷ nguyên AI]\nnhận các công cụ AI hỗ trợ lập trình giúp\ntăng năng suất lên tới 55%.\nVà cuối cùng là năng suất lao động, yếu tố mang tính quyết định. AI cho phép tự\nđộng hóa ngày càng nhiều công việc liên quan đến tri thức – từ phân tích dữ liệu,\nphát triển phần mềm cho đến vận hành hệ thống. Điều này cho phép năng suất lao\nđộng tăng lên không phải vài phần trăm như trước đây, mà tăng theo nhiều lần.\nMột ví dụ rất cụ thể là bài toán hiện đại hóa các hệ thống công nghệ thông tin di\nsản trên thế giới, đặc biệt là các hệ thống viết bằng ngôn ngữ COBOL. Theo thống\nkê, có khoảng 300 tỷ dòng mã COBOL đang được vận hành trên toàn cầu và\n70-80% giao dịch kinh doanh trên thế giới vẫn được xử lý bởi các hệ thống này.\nViệc chuyển đổi các hệ thống này sang nền tảng hiện đại là một khối lượng công\nviệc khổng lồ và có thể kéo dài nhiều năm. Với các nền tảng AI như xMainframe mà\n\n[adv:fpt2025:p004:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 4]\n[Trang 4 - Text | Ba yếu tố sống còn trong kỷ nguyên AI]\nển đổi các hệ thống này sang nền tảng hiện đại là một khối lượng công\nviệc khổng lồ và có thể kéo dài nhiều năm. Với các nền tảng AI như xMainframe mà\nFPT đang phát triển, quá trình phân tích, chuyển đổi và tái cấu trúc các hệ thống\nnày được tự động hóa giúp giảm 30% khối lượng công việc thủ công.\nTổng hòa của ba yếu tố này cho thấy một thực tế: lợi thế cạnh tranh trong kỷ\nnguyên AI không còn đến từ quy mô hay kinh nghiệm, mà đến từ khả năng thích\nứng và tái tạo chính mình bằng công nghệ. Và để làm được điều này, các doanh\nnghiệp buộc phải tiến tới mô hình AI thuần (AI-Native). Đây không còn là một lựa\nchọn mang tính chiến lược, mà là một yêu cầu mang tính sống còn. AI sẽ không chỉ\nlà công cụ hỗ trợ, mà sẽ trở thành nền tảng vận hành cốt lõi của tổ chức.\nLợi thế cạnh tranh khác biệt của FPT\nTrong làn sóng chuyển đổi mang tính lịch sử đó, FPT tin rằng mình đang sở hữu một\n\n[adv:fpt2025:p004:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 4]\n[Trang 4 - Text | Ba yếu tố sống còn trong kỷ nguyên AI]\ng vận hành cốt lõi của tổ chức.\nLợi thế cạnh tranh khác biệt của FPT\nTrong làn sóng chuyển đổi mang tính lịch sử đó, FPT tin rằng mình đang sở hữu một\nsố lợi thế cạnh tranh mà không nhiều doanh nghiệp có được.\nTrước hết là lực lượng nhân lực công nghệ đông đảo. Với hàng chục nghìn kỹ sư\nđang làm việc trên khắp thế giới, đây chính là nguồn lực quan trọng để FPT triển\nkhai những chương trình chuyển đổi công nghệ quy mô lớn và kéo dài nhiều năm\ncho khách hàng toàn cầu.\nNhưng trong kỷ nguyên công nghệ mới, không chỉ đông mà còn phải tinh nhuệ. Với\nhơn 54.000 nhân sự làm việc tại trên 30 quốc gia, trong đó có hơn 4.000 chuyên\ngia quốc tế đến từ 82 quốc tịch, FPT đang từng bước xây dựng một đội ngũ công\nnghệ mang tính toàn cầu, đa dạng và có khả năng triển khai những bài toán phức\ntạp ở quy mô lớn. Chúng tôi cũng đã thành lập Viện Quantum AI & Cybersecurity,",
+    "context_ids": [
+      "adv:fpt2025:p004:t000",
+      "adv:fpt2025:p004:t001",
+      "adv:fpt2025:p004:t002",
+      "adv:fpt2025:p004:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Lợi thế cạnh tranh khác biệt của FPT đào tạo tiến sĩ chuyên gia công nghệ kỹ sư Cloud kiến trúc sư Cloud",
+        "results": [
+          {
+            "id": "adv:fpt2025:p004:t003",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:t004",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p052:t003",
+            "page": 52,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p054:t000",
+            "page": 54,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p065:t001",
+            "page": 65,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p004:t003",
+          "adv:fpt2025:p004:t004",
+          "adv:fpt2025:p052:t003",
+          "adv:fpt2025:p054:t000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p004:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p004:t000",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:t001",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:t002",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:t003",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:t004",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:t005",
+            "page": 4,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p004:v000",
+            "page": 4,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p004:t000",
+          "adv:fpt2025:p004:t001",
+          "adv:fpt2025:p004:t002",
+          "adv:fpt2025:p004:t003"
+        ],
+        "visual_observation": "Trên trang 4 của Báo cáo thường niên FPT 2025, trong phần \"Lợi thế cạnh tranh khác biệt của FPT\" có thông tin về mục tiêu đào tạo như sau:\n\n- FPT đã thành lập Viện Quantum AI & Cybersecurity, đặt mục tiêu đào tạo:\n  - 100 tiến sĩ\n  - Phát triển 2.000 chuyên gia công nghệ trình độ cao\n  - Công bố 500 công trình khoa học, bằng sáng chế và tài sản sở hữu trí tuệ có giá trị\n- Trong các lĩnh vực công nghệ nền tảng, FPT đặt mục tiêu đào tạo:\n  - 1.500 kỹ sư Cloud\n  - 200 kiến trúc sư Cloud cấp cao\n\nNhư vậy, mục tiêu đào tạo tiến sĩ, chuyên gia công nghệ trình độ cao, kỹ sư Cloud, kiến trúc sư Cloud cấp cao được nêu rõ trên trang này trong phần \"Lợi thế cạnh tranh khác biệt của FPT\"."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 12908.62,
+    "llm_tokens": 19874,
+    "llm_cost_usd": 0.008627
+  },
+  {
+    "query_id": "adv_dev_t02",
+    "split": "dev",
+    "question": "Theo Báo cáo của Ban Điều hành về kết quả kinh doanh 2025 (mục 'Đánh giá chung - Kết quả kinh doanh'), 04 chỉ tiêu Doanh thu, Lợi nhuận trước thuế, LNST thuộc về cổ đông công ty mẹ và Thu nhập trên mỗi cổ phiếu (EPS) năm 2025 lần lượt đạt bao nhiêu phần trăm kế hoạch năm?",
+    "status": "answered",
+    "answer": "Theo Báo cáo của Ban Điều hành về kết quả kinh doanh 2025 (mục 'Đánh giá chung - Kết quả kinh doanh'), 04 chỉ tiêu phần trăm kế hoạch năm 2025 đạt như sau: Doanh thu đạt 93%, Lợi nhuận trước thuế đạt 97%, Lợi nhuận sau thuế thuộc về cổ đông công ty mẹ đạt 98%, và Thu nhập trên mỗi cổ phiếu (EPS) đạt 100% kế hoạch năm 2025 [adv:fpt2025:p057:t003].",
+    "citations": [
+      "adv:fpt2025:p057:t003"
+    ],
+    "context": "[adv:fpt2025:p057:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 57]\n[Trang 57 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026]\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nBÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026\nĐánh giá chung\n• Bối cảnh\n• Kết quả kinh doanh\nNăm 2025, kinh tế thế giới tiếp tục vận động trong trạng thái thận trọng khi phải\nđối mặt với nhiều thách thức đan xen, bao gồm biến động địa chính trị, áp lực lạm\nphát kéo dài tại một số nền kinh tế lớn, xu hướng tái cấu trúc chuỗi cung ứng toàn\ncầu và chính sách tiền tệ thắt chặt. Trong bối cảnh đó, các doanh nghiệp và tổ chức\ntrên toàn cầu có xu hướng kiểm soát chặt chẽ hơn quyết định đầu tư, ưu tiên hiệu\nquả, khả năng sinh lời và tính bền vững dài hạn. Tuy nhiên, song hành với những khó\nkhăn là cơ hội mới khi làn sóng chuyển đổi số, ứng dụng AI, tự động hóa và dữ liệu\nlớn tiếp tục được đẩy mạnh nhằm nâng cao năng suất, tối ưu chi phí và tăng cường\nnăng lực cạnh tranh. Công nghệ, đặc biệt là AI, chuyển dịch từ giai đoạn thử nghiệm\n\n[adv:fpt2025:p057:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 57]\n[Trang 57 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026]\nược đẩy mạnh nhằm nâng cao năng suất, tối ưu chi phí và tăng cường\nnăng lực cạnh tranh. Công nghệ, đặc biệt là AI, chuyển dịch từ giai đoạn thử nghiệm\nsang triển khai thực tiễn, tạo ra nhu cầu ngày càng rõ nét đối với các giải pháp có\nkhả năng tạo giá trị thực tiễn cho hoạt động sản xuất kinh doanh.\nKinh tế Việt Nam tiếp tục duy trì đà tăng trưởng tích cực nhờ sự ổn định vĩ mô,\nchính sách điều hành linh hoạt và sự phục hồi của các hoạt động sản xuất, xuất khẩu\nvà tiêu dùng trong nước. Chính phủ đẩy mạnh triển khai các chính sách hỗ trợ\ndoanh nghiệp, cải thiện môi trường đầu tư, đồng thời thúc đẩy phát triển khu vực\nkinh tế tư nhân như một động lực quan trọng của tăng trưởng. Đặc biệt, Nghị quyết\n57-NQ/TW về phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số\nquốc gia tạo hành lang chính sách thuận lợi cho việc ứng dụng công nghệ, AI và\n\n[adv:fpt2025:p057:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 57]\n[Trang 57 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026]\n/TW về phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số\nquốc gia tạo hành lang chính sách thuận lợi cho việc ứng dụng công nghệ, AI và\ndữ liệu trong cả khu vực công và khu vực tư nhân. Đây là nền tảng quan trọng thúc đẩy\nnhu cầu về các giải pháp công nghệ toàn diện, mở ra cơ hội tăng trưởng dài hạn cho\ncác doanh nghiệp có năng lực công nghệ và uy tín trên thị trường.\nTrong bối cảnh đó, FPT tiếp tục khẳng định vai trò là doanh nghiệp công nghệ\nhàng đầu, chủ động thích ứng với những thay đổi của môi trường kinh doanh toàn\ncầu và trong nước. Tập đoàn tập trung nguồn lực vào các lĩnh vực công nghệ cốt lõi,\nbao gồm: AI, chuyển đổi số, bán dẫn, công nghệ ô tô số và hạ tầng số, đồng thời\ntừng bước tối ưu hóa danh mục hoạt động theo hướng nâng cao hiệu quả và chất\nlượng tăng trưởng. Việc đẩy mạnh ứng dụng AI không chỉ giới hạn ở việc phát triển\n\n[adv:fpt2025:p057:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 57]\n[Trang 57 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026]\nc tối ưu hóa danh mục hoạt động theo hướng nâng cao hiệu quả và chất\nlượng tăng trưởng. Việc đẩy mạnh ứng dụng AI không chỉ giới hạn ở việc phát triển\nsản phẩm và dịch vụ mới, mà còn được Tập đoàn triển khai sâu rộng trong vận hành\nnội bộ, quản trị dự án và tối ưu quy trình, qua đó nâng cao năng suất lao động và\nnăng lực cạnh tranh tổng thể. FPT kiên định chiến lược phát triển bền vững, cân bằng\ngiữa mở rộng quy mô và nâng cao hiệu quả sử dụng vốn, từng bước xây dựng lợi thế\ncạnh tranh dài hạn trong bối cảnh cạnh tranh ngày càng gay gắt.\nNăm 2025, trong bối cảnh kinh tế toàn cầu xuất hiện thêm nhiều biến động khó\nlường so với thời điểm xây dựng kế hoạch kinh doanh đầu năm, đặc biệt là những\ntác động từ căng thẳng thương mại và chính sách thuế quan của Mỹ, FPT vẫn duy\ntrì đà tăng trưởng hai chữ số và bám sát kế hoạch kinh doanh được đặt ra từ đầu",
+    "context_ids": [
+      "adv:fpt2025:p057:t000",
+      "adv:fpt2025:p057:t001",
+      "adv:fpt2025:p057:t002",
+      "adv:fpt2025:p057:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Đánh giá chung Kết quả kinh doanh 2025 Doanh thu Lợi nhuận trước thuế LNST cổ đông công ty mẹ Thu nhập trên mỗi cổ phiếu EPS phần trăm kế hoạch",
+        "results": [
+          {
+            "id": "adv:fpt2025:p007:t000",
+            "page": 7,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p107:t000",
+            "page": 107,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:t004",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p058:v001",
+            "page": 58,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p010:t000",
+            "page": 10,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p007:t000",
+          "adv:fpt2025:p107:t000",
+          "adv:fpt2025:p057:t004",
+          "adv:fpt2025:p058:v001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p057:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p057:t000",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:t001",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:t002",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:t003",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:t004",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:t005",
+            "page": 57,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p057:v000",
+            "page": 57,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p057:t000",
+          "adv:fpt2025:p057:t001",
+          "adv:fpt2025:p057:t002",
+          "adv:fpt2025:p057:t003"
+        ],
+        "visual_observation": "Trên trang 57 của Báo cáo thường niên FPT 2025, phần trăm kế hoạch năm 2025 của các chỉ tiêu được thể hiện như sau:\n\n- Doanh thu: đạt 93% kế hoạch\n- Lợi nhuận trước thuế: đạt 97% kế hoạch\n- LNST thuộc cổ đông công ty mẹ: đạt 98% kế hoạch\n- Thu nhập trên mỗi cổ phiếu (EPS): đạt 100% kế hoạch\n\nThông tin này được nêu trong phần \"Kết quả kinh doanh\" với câu:  \n\"FPT vẫn duy trì đà tăng trưởng hai chữ số và bám sát kế hoạch kinh doanh được đặt ra từ đầu năm với doanh thu đạt 93%, lợi nhuận trước thuế đạt 97% kế hoạch. Lợi nhuận sau thuế thuộc về cổ đông công ty mẹ và thu nhập trên mỗi cổ phiếu (EPS) đạt tương ứng đạt 98% và 100% kế hoạch.\"\n\nNhư vậy, tất cả các chỉ tiêu Doanh thu, Lợi nhuận trước thuế, LNST cổ đông công ty mẹ và EPS đều có phần trăm kế hoạch năm 2025 được thể hiện rõ trên trang này."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 11763.29,
+    "llm_tokens": 22471,
+    "llm_cost_usd": 0.009791
+  },
+  {
+    "query_id": "adv_dev_t03",
+    "split": "dev",
+    "question": "Trong Lĩnh vực Giáo dục năm 2025 (mục 'Mở rộng hiện diện trên toàn quốc' và 'Khẳng định uy tín và vị thế giáo dục tầm quốc tế'), FPT đã hoàn thành hơn bao nhiêu m² sàn xây dựng mới, hiện diện tại bao nhiêu tỉnh/thành sau sáp nhập, và Trường Đại học FPT xếp nhóm hạng bao nhiêu trên THE Impact Rankings (cùng Top bao nhiêu thế giới ở tiêu chí SDG8)?",
+    "status": "answered",
+    "answer": "Trong lĩnh vực Giáo dục năm 2025, FPT đã hoàn thành hơn 88.000 m² sàn xây dựng mới và hiện diện tại 19 tỉnh, thành phố trên toàn quốc sau sáp nhập. Trường Đại học FPT xếp nhóm hạng 301-400 trên THE Impact Rankings và đặc biệt lọt Top 80 thế giới ở tiêu chí Việc làm tốt và Tăng trưởng kinh tế (SDG8) [adv:fpt2025:p074:t003][adv:fpt2025:p074:t005].",
+    "citations": [
+      "adv:fpt2025:p074:t003",
+      "adv:fpt2025:p074:t005"
+    ],
+    "context": "[adv:fpt2025:p074:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 74]\n[Trang 74 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Giáo dục năm 2025]\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nBáo cáo của Ban Điều hành về\nkết quả kinh doanh 2025 và\nnhận định 2026\nĐánh giá của HĐQT về hoạt động\ncủa Tập đoàn\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n73\nNăm 2025, trong bối cảnh cạnh tranh ngày càng gia tăng, lĩnh vực Giáo dục kiên định\nchiến lược phát triển dài hạn, tập trung đầu tư cho chương trình đào tạo công\nnghệ lõi, quốc tế hóa và nâng cao chất lượng đội ngũ. Việc duy trì đầu tư cho các\nchương trình đào tạo công nghệ cao, gắn chặt với nhu cầu thực tiễn của doanh nghiệp\nvà xu hướng toàn cầu, giúp FPT củng cố nền tảng chất lượng, gia tăng giá trị đầu ra\ncho người học và tạo tiền đề để quay lại quỹ đạo tăng trưởng khi nhu cầu nhân lực\n\n[adv:fpt2025:p074:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 74]\n[Trang 74 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Giáo dục năm 2025]\nn cầu, giúp FPT củng cố nền tảng chất lượng, gia tăng giá trị đầu ra\ncho người học và tạo tiền đề để quay lại quỹ đạo tăng trưởng khi nhu cầu nhân lực\ncông nghệ cao tiếp tục mở rộng trong các năm tới.\nĐồng hành chiến lược chuyển đổi số và phát triển nguồn nhân lực quốc gia\nFPT khẳng định vai trò đối tác đào tạo chiến lược của quốc gia khi Trường Đại học\nFPT tham gia hàng loạt liên minh trọng điểm như Liên minh Nhân lực chiến lược\nthực thi Nghị quyết 57-NQ/TW, Liên minh AI Âu Lạc và Liên minh Bán dẫn.\nSong song, Cao đẳng FPT Polytechnic sáng lập và tham gia Liên minh Phát triển\nNguồn lực Công nghiệp Bán dẫn Việt Nam, góp phần hình thành hệ sinh thái đào tạo,\ncung ứng nhân lực cho các ngành công nghệ mũi nhọn.\nCác chương trình và chuyên ngành đào tạo AI, thiết kế vi mạch bán dẫn được\ntriển khai đồng bộ ở cả bậc cao đẳng và đại học, với hơn 3.700 sinh viên theo học.\n\n[adv:fpt2025:p074:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 74]\n[Trang 74 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Giáo dục năm 2025]\nơng trình và chuyên ngành đào tạo AI, thiết kế vi mạch bán dẫn được\ntriển khai đồng bộ ở cả bậc cao đẳng và đại học, với hơn 3.700 sinh viên theo học.\nAI được phổ cập cho 100% học sinh từ lớp 1 đến lớp 12, trong khi các chương trình\nAutomotive, AI Agent và Cybersecurity được triển khai hiệu quả tại Viện Đào tạo\nQuốc tế. Hoạt động chuyển đổi số cũng được lan tỏa sâu rộng trong nội bộ, với\nhơn 6.000 cán bộ, giảng viên tham gia đào tạo, qua đó từng bước đưa AI và dữ liệu\nvào thực tiễn giảng dạy, quản trị và nghiên cứu.\nMở rộng hiện diện trên toàn quốc\nSong song với đầu tư chiều sâu, FPT tiếp tục mở rộng hạ tầng đào tạo nhằm đón đầu\nnhu cầu trong trung và dài hạn. Trong năm 2025, hàng loạt công trình giáo dục\nmới được khởi công, cất nóc và đưa vào sử dụng tại Hậu Giang (cũ), Long An (cũ),\nĐà Nẵng, Bình Định (cũ), Huế, Sóc Trăng (cũ), Bình Dương (cũ) và Nghệ An.\n\n[adv:fpt2025:p074:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 74]\n[Trang 74 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Giáo dục năm 2025]\nđược khởi công, cất nóc và đưa vào sử dụng tại Hậu Giang (cũ), Long An (cũ),\nĐà Nẵng, Bình Định (cũ), Huế, Sóc Trăng (cũ), Bình Dương (cũ) và Nghệ An.\nCác cơ sở mới của Greenwich Việt Nam và Swinburne Việt Nam tại Cần Thơ cũng\nchính thức đi vào hoạt động.\nTổng cộng trong năm, lĩnh vực Giáo dục hoàn thành hơn 88.000 m² sàn xây dựng\nmới và hiện diện tại 19 tỉnh, thành phố trên toàn quốc sau sáp nhập, qua đó tạo\nnền tảng cho tăng trưởng quy mô trong các chu kỳ tiếp theo.\nKhẳng định uy tín và vị thế giáo dục tầm quốc tế\nChất lượng đào tạo và nghiên cứu tiếp tục được ghi nhận khi Trường Đại học FPT\nthăng hạng lên nhóm 301-400 THE Impact Rankings, đặc biệt lọt Top 80 thế giới\ntheo tiêu chí Việc làm tốt và Tăng trưởng kinh tế (SDG8), đồng thời được Coursera\nvinh danh với giải thưởng AI Innovation. Hoạt động nghiên cứu khoa học tăng tốc\n\n[adv:fpt2025:p074:t005 | FPT Báo cáo thường niên 2025 (232 trang) | page 74]\n[Trang 74 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Giáo dục năm 2025]\ngóp phần\ncủng cố uy tín và thương hiệu giáo dục FPT trên trường quốc tế.\nFPT cất nóc dự án trường Phổ thông liên cấp FPT Vinh (Nghệ An) với diện tích\nhơn 27.000 m2, dự kiến đào tạo khoảng 2.800 học sinh từ bậc Tiểu học đến THPT.",
+    "context_ids": [
+      "adv:fpt2025:p074:t000",
+      "adv:fpt2025:p074:t001",
+      "adv:fpt2025:p074:t002",
+      "adv:fpt2025:p074:t003",
+      "adv:fpt2025:p074:t005"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Lĩnh vực Giáo dục 2025 Mở rộng hiện diện trên toàn quốc Khẳng định uy tín và vị thế giáo dục tầm quốc tế sàn xây dựng mới tỉnh thành sau sáp nhập Đại học FPT THE Impact Rankings SDG8",
+        "results": [
+          {
+            "id": "adv:fpt2025:p074:t003",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t002",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p019:t000",
+            "page": 19,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p007:t004",
+            "page": 7,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t004",
+            "page": 74,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p074:t003",
+          "adv:fpt2025:p074:t002",
+          "adv:fpt2025:p019:t000",
+          "adv:fpt2025:p007:t004"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p074:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p074:t000",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t001",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t002",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t003",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t004",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:t005",
+            "page": 74,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p074:v000",
+            "page": 74,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p074:t000",
+          "adv:fpt2025:p074:t001",
+          "adv:fpt2025:p074:t002",
+          "adv:fpt2025:p074:t003",
+          "adv:fpt2025:p074:t005"
+        ],
+        "visual_observation": "Dưới đây là thông tin xác nhận từ trang 74 của Báo cáo thường niên FPT 2025:\n\n1. Diện tích sàn xây dựng mới hoàn thành:\n- Tổng cộng trong năm, lĩnh vực Giáo dục hoàn thành hơn 88.000 m² sàn xây dựng mới.\n- Ảnh chú thích thêm: FPT cất nóc dự án trường Phổ thông liên cấp FPT Vinh (Nghệ An) với diện tích hơn 27.000 m².\n\n2. Số tỉnh thành hiện diện sau sáp nhập:\n- Hiện diện tại 19 tỉnh, thành phố trên toàn quốc sau sáp nhập.\n\n3. Nhóm hạng THE Impact Rankings của Đại học FPT:\n- Trường Đại học FPT thăng hạng lên nhóm 301-400 THE Impact Rankings.\n\n4. Vị trí Top thế giới tiêu chí SDG8:\n- Đặc biệt lọt Top 80 thế giới theo tiêu chí Việc làm tốt và Tăng trưởng kinh tế (SDG8).\n\nTóm lại, tất cả các chỉ tiêu bạn hỏi đều có trên trang này với các con số và thông tin cụ thể như trên."
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 9776.16,
+    "llm_tokens": 14752,
+    "llm_cost_usd": 0.006557
+  },
+  {
+    "query_id": "adv_dev_tbl01",
+    "split": "dev",
+    "question": "Theo bảng tổng hợp 'Các chỉ tiêu tài chính chủ yếu giai đoạn 2021-2025' (phần Dấu ấn 2025, đơn vị Tỷ VNĐ), Vốn chủ sở hữu và Tổng tài sản của FPT năm 2025 đạt bao nhiêu tỷ VNĐ và tăng bao nhiêu phần trăm so với năm 2024?",
+    "status": "answered",
+    "answer": "Theo bảng tổng hợp \"Các chỉ tiêu tài chính chủ yếu giai đoạn 2021-2025\" tại phần Dấu ấn 2025, đơn vị tỷ VNĐ, Vốn chủ sở hữu của FPT năm 2025 đạt 43.748 tỷ VNĐ, tăng 22,4% so với năm 2024. Tổng tài sản năm 2025 đạt 88.142 tỷ VNĐ, tăng 22,4% so với năm 2024 [adv:fpt2025:p012:v000].",
+    "citations": [
+      "adv:fpt2025:p012:v000"
+    ],
+    "context": "[adv:fpt2025:p012:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 12]\n[Trang 12 - Text | Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025]\nSố liệu tài chính trong Báo cáo này được trích xuất từ Báo cáo tài chính hợp nhất đã kiểm toán bao gồm Báo cáo tài chính Công ty mẹ, Báo cáo tài chính của các công ty\ndo Tập đoàn nắm quyền kiểm soát (Công ty con) và kết quả kinh doanh hợp nhất của các công ty liên kết theo phương pháp vốn chủ.\n(*): Tiền mặt chi trả trong năm bao gồm cổ tức tiền mặt còn lại của năm liền trước và tạm ứng cổ tức tiền mặt của năm hiện tại nếu có.\nSTT\nChỉ tiêu\n2021\n+/-\n2022\n+/-\n2023\n+/-\n2024\n+/-\n2025\n+/-\n21.418\n53.698\n35.657\n6.228\n7.981\n6.337\n6.337\n5.349\n4.337\n1.697\n25.356\n51.650\n44.010\n7.589\n9.495\n7.662\n7.662\n6.491\n5.310\n2.011\n15,1%\n28,7%\n19,5%\n20,0%\n18,2%\n20,4%\n20,4%\n20,9%\n22,6%\n15,8%\n18,4%\n-3,8%\n23,4%\n21,8%\n19,0%\n20,9%\n20,9%\n21,3%\n22,4%\n18,5%\n18,1%\n16,7%\n19,6%\n20,1%\n21,0%\n20,1%\n20,1%\n20,0%\n21,8%\n18,1%\n29.933\n60.283\n52.618\n9.112\n11.490\n9.203\n9.203\n7.788\n6.465\n2.374\n35.728\n72.000\n62.849\n11.025\n13.605\n11.070\n\n[adv:fpt2025:p012:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 12]\n[Trang 12 - Text | Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025]\n6%\n20,1%\n21,0%\n20,1%\n20,1%\n20,0%\n21,8%\n18,1%\n29.933\n60.283\n52.618\n9.112\n11.490\n9.203\n9.203\n7.788\n6.465\n2.374\n35.728\n72.000\n62.849\n11.025\n13.605\n11.070\n11.070\n9.427\n7.857\n2.741\n19,4%\n19,4%\n19,4%\n21,0%\n18,4%\n20,3%\n20,3%\n21,0%\n21,5%\n15,4%\n43.748\n88.142\n70.113\n12.952\n15.958\n13.044\n13.044\n11.232\n9.376\n3.185\n22,4%\n22,4%\n11,6%\n17,5%\n17,3%\n17,8%\n17,8%\n19,1%\n19,3%\n16,2%\nVốn chủ sở hữu\nTổng tài sản\nTổng doanh thu\nLợi nhuận thuần từ hoạt động kinh doanh\nLợi nhuận trước thuế, lãi vay và khấu hao\nLợi nhuận trước thuế và lãi vay\nLợi nhuận trước thuế\nLợi nhuận sau thuế\nLợi nhuận sau thuế thuộc về cổ đông công ty mẹ\nChi trả cổ tức bằng tiền mặt (*)\nTình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025\nĐơn vị: Tỷ VNĐ\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nCon số nổi bật\nGiải thưởng tiêu biểu\nHoạt động nổi bật\nDự án AI nổi bật\n\n[adv:fpt2025:p012:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 12]\n[Trang 12 - Text | Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025]\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nCon số nổi bật\nGiải thưởng tiêu biểu\nHoạt động nổi bật\nDự án AI nổi bật\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÁO TÀI CHÍNH HỢP NHẤT\n11\n\n[adv:fpt2025:p012:v000 | FPT Báo cáo thường niên 2025 (232 trang) | page 12]\n[Trang 12 - Vision/Multimodal | Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025]\nMô tả trực quan:\nTrang có logo FPT và tiêu đề lớn màu xanh dương ở giữa trang. Bên trái là mục lục với các phần chính của báo cáo thường niên 2025, phần đang mở là 'DẤU ẤN 2025'. Phần chính bên phải là bảng số liệu tài chính với tiêu đề và chú thích phía trên. Bảng gồm 10 chỉ tiêu tài chính theo từng năm từ 2021 đến 2025, kèm theo tỷ lệ tăng giảm (%) so với năm trước. Chú thích nhỏ phía dưới giải thích về cổ tức tiền mặt.\nSố liệu biểu đồ & bảng biểu:\n| STT | Chỉ tiêu                                   | 2021   | +/-   | 2022   | +/-   | 2023   | +/-   | 2024   | +/-   | 2025   | +/-   |\n|-----|-------------------------------------------|--------|-------|--------|-------|--------|-------|--------|-------|--------|-------|\n| 1   | Vốn chủ sở hữu                            | 21.418 | 15,1% | 25.356 | 18,4% | 29.933 | 18,1% | 35.728 | 19,4% | 43.748 | 22,4% |\n| 2   | Tổng tài sản                              | 53.698 | 28,7% | 51.650 | -3,8% | 60.283 | 16,7% | 72.000 | 19,4% | 88.142 | 22,4% |\n| 3   | Tổng doanh thu                           | 35.657 | 19,5% | 44.010 | 23,4% | 52.618 | 19,6% | 62.849 | 19,4% | 70.113 | 11,6% |\n| 4   | Lợi nhuận thuần từ hoạt động kinh doanh | 6.228  | 20,0% | 7.589  | 21,8% | 9.112  | 20,1% | 11.025 | 21,0% | 12.952 | 17,5% |",
+    "context_ids": [
+      "adv:fpt2025:p012:t000",
+      "adv:fpt2025:p012:t001",
+      "adv:fpt2025:p012:t002",
+      "adv:fpt2025:p012:v000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_exact_keywords",
+        "query": "Các chỉ tiêu tài chính chủ yếu giai đoạn 2021-2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p012:v000",
+            "page": 12,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p138:v000",
+            "page": 138,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p137:v000",
+            "page": 137,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p010:v000",
+            "page": 10,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p059:v000",
+            "page": 59,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p012:v000",
+          "adv:fpt2025:p138:v000",
+          "adv:fpt2025:p137:v000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p012:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p012:t000",
+            "page": 12,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p012:t001",
+            "page": 12,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p012:t002",
+            "page": 12,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p012:v000",
+            "page": 12,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p012:v001",
+            "page": 12,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p012:t000",
+          "adv:fpt2025:p012:t001",
+          "adv:fpt2025:p012:t002",
+          "adv:fpt2025:p012:v000"
+        ],
+        "visual_observation": "Dưới đây là thông tin chính xác đọc được từ trang 12 của Báo cáo thường niên FPT 2025 về bảng tổng hợp các chỉ tiêu tài chính chủ yếu giai đoạn 2021-2025:\n\n- Tiêu đề bảng: \"Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025\"\n- Ghi chú: Số liệu tài chính trong Báo cáo này được trích xuất từ Báo cáo tài chính hợp nhất đã kiểm toán bao gồm Báo cáo tài chính Công ty mẹ, Báo cáo tài chính của các công ty do Tập đoàn nắm quyền kiểm soát (Công ty con) và kết quả kinh doanh hợp nhất của các công ty liên kết theo phương pháp vốn chủ.\n- Đơn vị: Tỷ VNĐ\n\nBảng gồm các cột:\n- STT\n- Chỉ tiêu\n- Năm 2021, 2022, 2023, 2024, 2025\n- Tỷ lệ tăng trưởng (+/-) so với năm trước tương ứng từng năm\n\nCác chỉ tiêu và số liệu cụ thể:\n\n1. Vốn chủ sở hữu (Tỷ VNĐ)\n- 2021: 21.418\n- 2022: 25.356 (+18,4%)\n- 2023: 29.933 (+18,1%)\n- 2024: 35.728 (+19,4%)\n- 2025: 43.748 (+22,4%)\n\n2. Tổng tài sản (Tỷ VNĐ)\n- 2021: 53.698\n- 2022: 51.650 (-3,8%)\n- 2023: 60.283 (+16,7%)\n- 2024: 72.000 (+19,4%)\n- 2025: 88.142 (+22,4%)\n\n---\n\nKết luận:  \n- Bảng tổng hợp các chỉ tiêu tài chính chủ yếu giai đoạn 2021-2025 có trên trang này.  \n- Vốn chủ sở hữu năm 2025 là 43.748 tỷ VNĐ, tăng 22,4% so với năm 2024.  \n- Tổng tài sản năm 2025 là 88.142 tỷ VNĐ, tăng 22,4% so với năm 2024.\n\nNếu cần thông tin chỉ tiêu khác hoặc chi tiết thêm, bạn có thể hỏi tiếp."
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 9130.93,
+    "llm_tokens": 17277,
+    "llm_cost_usd": 0.007811
+  },
+  {
+    "query_id": "adv_dev_tbl02",
+    "split": "dev",
+    "question": "Theo bảng 'Thù lao của Hội đồng Quản trị năm 2025' (chương Quản trị Công ty), ba thành viên nào nhận mức thù lao bằng 0 VNĐ, và hai thành viên Hiroshi Yokotsuka và Hampapur Rangadore Binod mỗi người nhận bao nhiêu VNĐ trong năm 2025?",
+    "status": "answered",
+    "answer": "Theo bảng \"Thù lao của Hội đồng Quản trị năm 2025\" trong chương Quản trị Công ty, ba thành viên nhận mức thù lao bằng 0 VNĐ là Ông Trương Gia Bình (Chủ tịch), Ông Bùi Quang Ngọc (Phó Chủ tịch), và Ông Đỗ Cao Bảo (Ủy viên). Hai thành viên Ông Hiroshi Yokotsuka và Ông Hampapur Rangadore Binod mỗi người nhận mức thù lao là 2.613.975.000 VNĐ trong năm 2025 [adv:fpt2025:p090:t001] [adv:fpt2025:p090:t002].",
+    "citations": [
+      "adv:fpt2025:p090:t001",
+      "adv:fpt2025:p090:t002"
+    ],
+    "context": "[adv:fpt2025:p090:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 90]\n[Trang 90 - Text | Nguyên tắc 05: Đảm bảo hoạt động hiệu quả của HĐQT và Môi trường kiểm soát]\nHàng năm, HĐQT tự thực hiện đánh giá công việc của HĐQT và các ủy ban trực\nthuộc giúp các thành viên hiểu rõ được vai trò, trách nhiệm để hoạt động hiệu quả hơn.\nThù lao của HĐQT, BKS, Ban Điều hành và các vị trí quản lý khác được công bố\ncông khai và lập thành một mục riêng trong Báo cáo tài chính của Tập đoàn, đồng thời\ntuân thủ theo đúng quy định tại Nghị quyết ĐHĐCĐ thường niên 2025.\n• Nguyên tắc 05: Đảm bảo hoạt động hiệu quả của HĐQT\nFPT đã ban hành Quyết định số 145/QĐ-FPT về việc thực hiện nguyên tắc,\nphương thức lãnh đạo tập trung dân chủ tại FPT áp dụng cho mọi cấp lãnh đạo,\nquản lý FPT; Bộ Quy tắc ứng xử; Bộ Quy tắc Đạo đức nghề nghiệp; Nội quy lao\nđộng; Quy định Phát ngôn ứng xử trên các phương tiện truyền thông, nhằm thiết\nlập chuẩn mực cho hành vi chuyên môn, đạo đức và văn hóa doanh nghiệp, đồng\nthời làm rõ những quy tắc được và không được chấp nhận trong Tập đoàn. Năm\n\n[adv:fpt2025:p090:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 90]\n[Trang 90 - Text | Nguyên tắc 05: Đảm bảo hoạt động hiệu quả của HĐQT và Môi trường kiểm soát]\nlập chuẩn mực cho hành vi chuyên môn, đạo đức và văn hóa doanh nghiệp, đồng\nthời làm rõ những quy tắc được và không được chấp nhận trong Tập đoàn. Năm\n2021, ĐHĐCĐ thường niên cũng đã thông qua Quy chế nội bộ về quản trị công ty và\nQuy chế Hoạt động của HĐQT, trong đó nêu rõ các quy tắc đạo đức và quy định\nbáo cáo, công khai các lợi ích của thành viên HĐQT.\nNhững quy tắc, quy chế này được phổ biến, đào tạo cho toàn bộ lãnh đạo, cán bộ\nquản lý, CBNV nhằm nâng cao nhận thức và đảm bảo việc tuân thủ.\n• Nguyên tắc 06: Thiết lập và duy trì văn hóa đạo đức công ty\nChi tiết thù lao của từng thành viên HĐQT năm 2025\nThành viên HĐQT\nChức danh\nThù lao\nÔng Trương Gia Bình\nÔng Bùi Quang Ngọc\nÔng Đỗ Cao Bảo\nÔng Jean-Charles Belliol\nÔng Hiroshi Yokotsuka\nÔng Hampapur Rangadore Binod\nBà Trần Thị Hồng Lĩnh\nChủ tịch HĐQT\nPhó chủ tịch HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\n0\n\n[adv:fpt2025:p090:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 90]\n[Trang 90 - Text | Nguyên tắc 05: Đảm bảo hoạt động hiệu quả của HĐQT và Môi trường kiểm soát]\nÔng Hampapur Rangadore Binod\nBà Trần Thị Hồng Lĩnh\nChủ tịch HĐQT\nPhó chủ tịch HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\nỦy viên HĐQT\n0\n0\n0\n960.000.000\n2.613.975.000\n2.613.975.000\n360.000.000\nHĐQT đã thiết lập các tiêu chí lựa chọn công ty kiểm toán độc lập, đánh giá chất lượng\ncông việc của kiểm toán độc lập và quy trình để theo dõi việc thực hiện các\nkhuyến nghị mà kiểm toán độc lập đưa ra. Theo ủy quyền của ĐHĐCĐ, HĐQT chọn\nCông ty TNHH PwC Việt Nam là đơn vị kiểm toán độc lập cho năm tài chính 2025.\nTrong năm 2025, Tập đoàn phát sinh phí dịch vụ phi kiểm toán là 2,5 tỷ đồng,\nphí dịch vụ kiểm toán là 7,1 tỷ đồng. Tổng phí kiểm toán là 9,6 tỷ đồng.\nHàng năm, HĐQT phê duyệt chiến lược và giám sát Ban Điều hành thực hiện các\nmục tiêu đề ra một cách hiệu quả. Nhằm hạn chế rủi ro ở mức thấp nhất, bộ máy\n\n[adv:fpt2025:p090:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 90]\n[Trang 90 - Text | Nguyên tắc 05: Đảm bảo hoạt động hiệu quả của HĐQT và Môi trường kiểm soát]\ng năm, HĐQT phê duyệt chiến lược và giám sát Ban Điều hành thực hiện các\nmục tiêu đề ra một cách hiệu quả. Nhằm hạn chế rủi ro ở mức thấp nhất, bộ máy\nquản trị rủi ro của FPT được tổ chức ở cấp Tập đoàn và cấp công ty thành viên,\nđồng thời được phân cấp, ủy quyền, phối hợp thành một hệ thống thống nhất,\nxuyên suốt trong Tập đoàn.\nBộ phận Kiểm toán nội bộ trực thuộc HĐQT được thành lập năm 2022 với chức năng\nđảm bảo khách quan, tư vấn độc lập nhằm gia tăng giá trị và cải tiến hoạt động của\nTập đoàn.\n• Nguyên tắc 07: Thiết lập khung quản lý rủi ro\nvà môi trường kiểm soát vững mạnh\nMôi trường kiểm soát\nĐơn vị: VNĐ\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\nMô hình quản trị và vai trò của\ncác bên liên quan\nQuản trị công ty năm 2025\nBáo cáo của HĐQT\nBáo cáo của Ban Kiểm soát\n06\n01\n02\n03\n04\n05\n06\n07\n08\n89\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN",
+    "context_ids": [
+      "adv:fpt2025:p090:t000",
+      "adv:fpt2025:p090:t001",
+      "adv:fpt2025:p090:t002",
+      "adv:fpt2025:p090:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_exact_keywords",
+        "query": "Thù lao của Hội đồng Quản trị năm 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p215:v000",
+            "page": 215,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p090:v000",
+            "page": 90,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p108:v000",
+            "page": 108,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p108:t002",
+            "page": 108,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p215:t000",
+            "page": 215,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p215:v000",
+          "adv:fpt2025:p090:v000",
+          "adv:fpt2025:p108:v000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p090:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p090:t000",
+            "page": 90,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p090:t001",
+            "page": 90,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p090:t002",
+            "page": 90,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p090:t003",
+            "page": 90,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p090:t004",
+            "page": 90,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p090:v000",
+            "page": 90,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p090:t000",
+          "adv:fpt2025:p090:t001",
+          "adv:fpt2025:p090:t002",
+          "adv:fpt2025:p090:t003"
+        ],
+        "visual_observation": "Dưới đây là thông tin xác minh từ trang 90 của Báo cáo thường niên FPT 2025:\n\n- Tiêu đề bảng: \"Chi tiết thù lao của từng thành viên HĐQT năm 2025\"\n- Đơn vị tính: VNĐ\n\nChi tiết thù lao của Hội đồng Quản trị năm 2025:\n\n| Thành viên HĐQT                  | Chức danh           | Thù lao (VNĐ)    |\n|---------------------------------|---------------------|------------------|\n| Ông Trương Gia Bình             | Chủ tịch HĐQT       | 0                |\n| Ông Bùi Quang Ngọc             | Phó chủ tịch HĐQT   | 0                |\n| Ông Đỗ Cao Bảo                 | Ủy viên HĐQT        | 0                |\n| Ông Jean-Charles Belliol       | Ủy viên HĐQT        | 960.000.000      |\n| Ông Hiroshi Yokotsuka          | Ủy viên HĐQT        | 2.613.975.000    |\n| Ông Hampapur Rangadore Binod   | Ủy viên HĐQT        | 2.613.975.000    |\n| Bà Trần Thị Hồng Lĩnh          | Ủy viên HĐQT        | 360.000.000      |\n\nKết luận:\n- Các thành viên nhận 0 VNĐ là: Ông Trương Gia Bình, Ông Bùi Quang Ngọc, Ông Đỗ Cao Bảo.\n- Thù lao của ông Hiroshi Yokotsuka là 2.613.975.000 VNĐ.\n- Thù lao của ông Hampapur Rangadore Binod là 2.613.975.000 VNĐ.\n\nThông tin này có đầy đủ trên trang 90, không thiếu sót."
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p215:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p215:t000",
+            "page": 215,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p215:t001",
+            "page": 215,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p215:t002",
+            "page": 215,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p215:v000",
+            "page": 215,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p215:v001",
+            "page": 215,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p215:v002",
+            "page": 215,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p090:t000",
+          "adv:fpt2025:p090:t001",
+          "adv:fpt2025:p090:t002",
+          "adv:fpt2025:p090:t003"
+        ],
+        "visual_observation": "Dưới đây là thông tin kiểm chứng từ trang 215 của Báo cáo thường niên FPT 2025 liên quan đến câu hỏi:\n\n- Thù lao của Hội đồng Quản trị năm 2025 (đơn vị: VNĐ):\n\n| STT | Họ và tên                      | Chức danh | 2025          |\n|------|-------------------------------|-----------|---------------|\n| 1    | Ông Trương Gia Bình           | Chủ tịch  | -             |\n| 2    | Ông Bùi Quang Ngọc           | Phó Chủ tịch | -           |\n| 3    | Ông Đỗ Cao Bảo               | Ủy viên   | -             |\n| 4    | Ông Jean Charles Belliol     | Ủy viên   | 960.000.000   |\n| 5    | Bà Trần Thị Hồng Lĩnh        | Ủy viên   | 360.000.000   |\n| 6    | Ông Hiroshi Yokotsuka        | Ủy viên   | 2.613.975.000 |\n| 7    | Ông Hampapur Rangadore Binod | Ủy viên   | 2.613.975.000 |\n\n- Các thành viên nhận 0 VNĐ là:\n  - Ông Trương Gia Bình (Chủ tịch)\n  - Ông Bùi Quang Ngọc (Phó Chủ tịch)\n  - Ông Đỗ Cao Bảo (Ủy viên)\n\n- Thù lao của ông Hiroshi Yokotsuka năm 2025 là 2.613.975.000 VNĐ.\n\n- Thù lao của ông Hampapur Rangadore Binod năm 2025 là 2.613.975.000 VNĐ.\n\nTóm lại, thông tin về thù lao Hội đồng Quản trị năm 2025, các thành viên nhận 0 VNĐ và thù lao của Hiroshi Yokotsuka, Hampapur Rangadore Binod đều có trên trang này."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 16485.75,
+    "llm_tokens": 35166,
+    "llm_cost_usd": 0.015714
+  },
+  {
+    "query_id": "adv_dev_tbl03",
+    "split": "dev",
+    "question": "Theo 'Bảng tổng hợp so sánh kết quả tiêu thụ nước' trong phần Báo cáo ESG (đơn vị m³), lượng nước tiêu thụ của FPT trong các năm 2023, 2024 và 2025 lần lượt là bao nhiêu m³, và chênh lệch tăng của năm 2025 so với năm 2024 là bao nhiêu m³ (tỷ lệ bao nhiêu %)?",
+    "status": "answered",
+    "answer": "Lượng nước tiêu thụ của FPT trong các năm lần lượt là: năm 2023 là 774.152 m³, năm 2024 là 827.940 m³, năm 2025 là 831.885 m³. Chênh lệch tăng của năm 2025 so với năm 2024 là 3.945 m³, tương ứng tỷ lệ tăng 0,48% [adv:fpt2025:p149:t000] [adv:fpt2025:p149:t001] [adv:fpt2025:p149:t002] [adv:fpt2025:p149:t003].",
+    "citations": [
+      "adv:fpt2025:p149:t000",
+      "adv:fpt2025:p149:t001",
+      "adv:fpt2025:p149:t002",
+      "adv:fpt2025:p149:t003"
+    ],
+    "context": "[adv:fpt2025:p149:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 149]\n[Trang 149 - Text | Quản lý nước thải và các nguồn phát thải khác]\nBảng tổng hợp so sánh kết quả tiêu thụ nước\nNăm 2025, chỉ số tiêu thụ nước của FPT chỉ tăng 0,48% so với năm 2024. Mức tăng\nnày được đánh giá là tích cực trong bối cảnh Tập đoàn tiếp tục mở rộng quy mô\nhoạt động và tăng trưởng kinh doanh, đồng thời phản ánh tính hiệu quả của các\nbiện pháp quản lý và sử dụng nước được triển khai đồng bộ như sau:\n• Tuân thủ các quy định của cơ quan quản lý về xử lý và tái chế nước thải;\n• Thực hiện quan trắc chất lượng nước sinh hoạt 1 tháng/lần, nước thải 3 tháng/lần\nvà lập báo cáo gửi cơ quan quản lý theo đúng quy định;\n• Bổ sung chế phẩm vi sinh nhằm nâng cao hiệu quả xử lý nước tại bể tự hoại;\n• Tuyên truyền nâng cao nhận thức của CBNV về tiết kiệm nước, bảo vệ môi trường\nthông qua các bài viết, hình ảnh, video trên các kênh nội bộ, poster dán tại các\nkhu vực công cộng;\n• Tích cực sử dụng nguồn nước ngầm và nước mưa;\n\n[adv:fpt2025:p149:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 149]\n[Trang 149 - Text | Quản lý nước thải và các nguồn phát thải khác]\nng\nthông qua các bài viết, hình ảnh, video trên các kênh nội bộ, poster dán tại các\nkhu vực công cộng;\n• Tích cực sử dụng nguồn nước ngầm và nước mưa;\n• Định kỳ kiểm tra, bảo trì hệ thống đường ống nước để phát hiện, sửa chữa kịp thời các\nchỗ rò rỉ, tránh thất thoát, đồng thời điều chỉnh áp suất nước phù hợp về kỹ thuật.\nFPT luôn đảm bảo thực hiện các quy định thống nhất trong các tòa nhà.\nĐơn vị tính: m3\nLà doanh nghiệp hoạt động chủ yếu trong lĩnh vực công nghệ và cung cấp dịch vụ,\ncác hoạt động kinh doanh cốt lõi của FPT không phát sinh tác động đáng kể đến\nmôi trường như các doanh nghiệp sản xuất. Tuy nhiên, trong phạm vi hoạt động vận\nhành, đặc biệt tại các trụ sở làm việc và các tòa nhà do FPT sở hữu, FPT cam kết\ntuân thủ nghiêm ngặt các quy định pháp luật và chính sách liên quan đến tài nguyên\nnước, đồng thời triển khai các biện pháp nhằm nâng cao hiệu quả sử dụng nước và\n\n[adv:fpt2025:p149:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 149]\n[Trang 149 - Text | Quản lý nước thải và các nguồn phát thải khác]\niêm ngặt các quy định pháp luật và chính sách liên quan đến tài nguyên\nnước, đồng thời triển khai các biện pháp nhằm nâng cao hiệu quả sử dụng nước và\ngiảm cường độ tiêu thụ nước.\nFPT không ghi nhận bất kỳ vi phạm pháp luật nào liên quan đến việc khai thác,\nsử dụng và xả thải nước. Ở cấp độ chính sách, cam kết quản lý tài nguyên nước của\nFPT được áp dụng thống nhất trên toàn bộ các đơn vị, trụ sở và cơ sở thuộc sở hữu\ncủa Tập đoàn, cũng như đối với CBNV, đối tác, nhà cung cấp, nhà thầu và các bên\nliên quan khác.\nKhi thiết kế các tòa nhà, FPT chú trọng xây dựng hệ thống lưu trữ nước mưa, hệ thống\nlọc nước thải để tận dụng tối đa nguồn nước này cho một số mục đích phù hợp như\ntưới cây, giúp tối ưu chi phí tiêu thụ nước, đặc biệt vào mùa khô. Ngoài ra, hệ thống\nhồng ngoại và máy phun xoay chiều tự động được áp dụng trên tất cả khu vực cây\n\n[adv:fpt2025:p149:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 149]\n[Trang 149 - Text | Quản lý nước thải và các nguồn phát thải khác]\ntối ưu chi phí tiêu thụ nước, đặc biệt vào mùa khô. Ngoài ra, hệ thống\nhồng ngoại và máy phun xoay chiều tự động được áp dụng trên tất cả khu vực cây\nxanh trong các tòa nhà để giảm thiểu việc sử dụng nước và đảm bảo sự phát triển\ncủa hệ thống cây xanh mang lại môi trường làm việc thân thiện với thiên nhiên.\nĐối với nguồn nước sử dụng từ hệ thống nước sạch của thành phố, FPT luôn đảm bảo\nthực hiện các quy định thống nhất trong các tòa nhà, campus về tiết kiệm và\nsử dụng nước. Các khu vực chung sử dụng vòi nước cảm ứng tự động tắt khi không\nsử dụng và phát động phong trào sử dụng nước tiết kiệm tại các văn phòng trên\ntoàn hệ thống.\nQuản lý nước thải và các nguồn phát thải khác\n• Quản lý nước, nước thải\nChênh lệch\nNăm 2024\n827.940\nNăm 2025\n831.885\nMức tiêu thụ\n3.945\nTỷ lệ\n0,48%\nNăm 2023\n774.152\nDanh mục\nTiêu thụ nước\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07",
+    "context_ids": [
+      "adv:fpt2025:p149:t000",
+      "adv:fpt2025:p149:t001",
+      "adv:fpt2025:p149:t002",
+      "adv:fpt2025:p149:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Bảng tổng hợp so sánh kết quả tiêu thụ nước Báo cáo ESG 2023 2024 2025 đơn vị m3",
+        "results": [
+          {
+            "id": "adv:fpt2025:p149:v000",
+            "page": 149,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p149:t000",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:t003",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:t004",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p150:v000",
+            "page": 150,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p149:v000",
+          "adv:fpt2025:p149:t000",
+          "adv:fpt2025:p149:t003",
+          "adv:fpt2025:p149:t004"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p149:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p149:t000",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:t001",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:t002",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:t003",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:t004",
+            "page": 149,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p149:v000",
+            "page": 149,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p149:t000",
+          "adv:fpt2025:p149:t001",
+          "adv:fpt2025:p149:t002",
+          "adv:fpt2025:p149:t003"
+        ],
+        "visual_observation": "Trên trang 149 của Báo cáo thường niên FPT 2025, có bảng tổng hợp so sánh kết quả tiêu thụ nước các năm 2023, 2024, 2025 với các thông tin cụ thể như sau:\n\n- Tiêu đề bảng: \"Bảng tổng hợp so sánh kết quả tiêu thụ nước\"\n- Đơn vị tính: m³\n\nNội dung bảng:\n\n| Danh mục       | Năm 2023 | Năm 2024 | Năm 2025 | Chênh lệch Mức tiêu thụ | Tỷ lệ  |\n|----------------|----------|----------|----------|-------------------------|--------|\n| Tiêu thụ nước  | 774.152  | 827.940  | 831.885  | 3.945                   | 0,48%  |\n\nNgoài ra, phần văn bản bên cạnh bảng cũng ghi nhận: \"Năm 2025, chỉ số tiêu thụ nước của FPT chỉ tăng 0,48% so với năm 2024.\"\n\nKết luận: Bảng tổng hợp so sánh kết quả tiêu thụ nước các năm 2023, 2024, 2025 và chênh lệch tăng năm 2025 so với 2024 có đầy đủ trên trang này với các số liệu và tỷ lệ tăng cụ thể như trên."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 11151.72,
+    "llm_tokens": 21427,
+    "llm_cost_usd": 0.009541
+  },
+  {
+    "query_id": "adv_dev_c01",
+    "split": "dev",
+    "question": "Theo biểu đồ đường 'ROE và ROA' giai đoạn 2021-2025 trong phần Dấu ấn 2025, chỉ số ROE và ROA của FPT trong năm 2024 và năm 2025 lần lượt đạt bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Theo biểu đồ đường \"ROE và ROA\" giai đoạn 2021-2025 trong phần Dấu ấn 2025 trên trang 11 của Báo cáo thường niên FPT 2025, chỉ số ROE của FPT trong năm 2024 đạt 28,5% và năm 2025 đạt 28,1%. Chỉ số ROA trong năm 2024 là 14,4% và năm 2025 là 14,1% [adv:fpt2025:p011:v000].",
+    "citations": [
+      "adv:fpt2025:p011:v000"
+    ],
+    "context": "[adv:fpt2025:p011:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 11]\n[Trang 11 - Text | Đảm bảo tăng trưởng ổn định (Tiếp theo)]\n2021\n2022\n2023\n2024\n2025\n30\n20\n10\n0\nTỷ suất sinh lời\ntrên vốn chủ sở hữu (ROE)\n28,1%\nTỷ suất sinh lời\ntrên tổng tài sản (ROA)\n14,1%\nROA (%)\nROE (%)\n26,7%\n27,7%\n27,9%\n28,5%\n28,1%\n11,4%\n11,9%\n13,6%\n14,4%\n14,1%\n1.697\n2.011\n2.374\n2.741\n3.185\n2021\n2022\n2023\n2024\n2025\n3.500\n3.000\n2.500\n2.000\n1.500\n1.000\n500\n0\nso với cùng kỳ\n16,2%\nCổ tức bằng tiền mặt\nTỷ VNĐ\n3.185\nĐơn vị: Tỷ VNĐ\n5.750\n7.112\n8.167\n10.117\n11.078\n2021\n2022\n2023\n2024\n2025\n12.000\n10.000\n8.000\n6.000\n4.000\n2.000\n0\nso với cùng kỳ\n9,5%\nĐóng góp Ngân sách Nhà nước\nTỷ VNĐ\n11.078\nĐơn vị: Tỷ VNĐ\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nCon số nổi bật\nGiải thưởng tiêu biểu\nHoạt động nổi bật\nDự án AI nổi bật\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÁO TÀI CHÍNH HỢP NHẤT\n10\n\n[adv:fpt2025:p011:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 11]\n[Trang 11 - Text | Đảm bảo tăng trưởng ổn định (Tiếp theo)]\nLÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÁO TÀI CHÍNH HỢP NHẤT\n10\nĐảm bảo tăng trưởng ổn định (Tiếp theo)\n\n[adv:fpt2025:p011:v000 | FPT Báo cáo thường niên 2025 (232 trang) | page 11]\n[Trang 11 - Vision/Multimodal | Đảm bảo tăng trưởng ổn định (Tiếp theo)]\nMô tả trực quan:\nTrang trình bày các biểu đồ thanh và biểu đồ đường thể hiện các chỉ số tài chính chính của FPT từ năm 2021 đến 2025. Có 3 phần chính: Cổ tức bằng tiền mặt, Đóng góp Ngân sách Nhà nước, và Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) cùng Tỷ suất sinh lời trên tổng tài sản (ROA). Mỗi phần có biểu đồ thanh hoặc biểu đồ đường với các giá trị theo từng năm, kèm theo số liệu cụ thể và tỷ lệ tăng trưởng so với cùng kỳ được biểu thị bằng mũi tên màu xanh lá. Bên trái trang có mục lục các phần của báo cáo thường niên với phần đang xem là mục 02 DẤU ẤN 2025.\n\nSố liệu biểu đồ & bảng biểu:\n1. Cổ tức bằng tiền mặt (Đơn vị: Tỷ VNĐ)\nNăm: 2021, 2022, 2023, 2024, 2025\nGiá trị: 1.697, 2.011, 2.374, 2.741, 3.185\nTăng trưởng so với cùng kỳ: 16,2%\n\n2. Đóng góp Ngân sách Nhà nước (Đơn vị: Tỷ VNĐ)\nNăm: 2021, 2022, 2023, 2024, 2025\nGiá trị: 5.750, 7.112, 8.167, 10.117, 11.078\nTăng trưởng so với cùng kỳ: 9,5%\n\n3. Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) và trên tổng tài sản (ROA) (%)\nNăm: 2021, 2022, 2023, 2024, 2025\nROE (%): 26,7, 27,7, 27,9, 28,5, 28,1\nROA (%): 11,4, 11,9, 13,6, 14,4, 14,1\n\n[adv:fpt2025:p059:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 59]\n[Trang 59 - Text | Các chỉ tiêu tài chính chủ yếu]\n3. Chỉ tiêu về năng lực hoạt động\nVòng quay hàng tồn kho (lần)\nVòng quay khoản phải thu (lần)\nVòng quay khoản phải trả (lần)\nVòng quay tiền mặt (ngày)\n4. Chỉ tiêu về khả năng sinh lời\nTỷ suất lợi nhuận từ hoạt động kinh doanh\nTỷ suất lợi nhuận trước thuế\nTỷ suất lợi nhuận sau thuế\nTỷ suất sinh lời trên vốn chủ sở hữu (ROE)\nTỷ suất sinh lời trên vốn đầu tư (ROCE)\nTỷ suất sinh lời trên tổng tài sản (ROA)\n1,31\n1,25\n20,8%\n41,8%\n-45,2%\n19,7\n6,2\n11,9\n47,1\n17,5%\n17,6%\n15,0%\n28,5%\n22,9%\n14,4%\n1,40\n1,35\n23,9%\n48,2%\n-43,6%\n20,5\n6,1\n12,7\n49,0\n18,5%\n18,6%\n16,0%\n28,1%\n21,9%\n14,1%\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nBáo cáo của Ban Điều hành về\nkết quả kinh doanh 2025 và\nnhận định 2026\nĐánh giá của HĐQT về hoạt động\ncủa Tập đoàn\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY",
+    "context_ids": [
+      "adv:fpt2025:p011:t000",
+      "adv:fpt2025:p011:t001",
+      "adv:fpt2025:p011:v000",
+      "adv:fpt2025:p059:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "biểu đồ đường ROE và ROA giai đoạn 2021-2025 Dấu ấn 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p011:t000",
+            "page": 11,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p059:t003",
+            "page": 59,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p012:t001",
+            "page": 12,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p011:t000",
+          "adv:fpt2025:p059:t003",
+          "adv:fpt2025:p012:t001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p011:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p011:t000",
+            "page": 11,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p011:t001",
+            "page": 11,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p011:v000",
+            "page": 11,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p011:t000",
+          "adv:fpt2025:p011:t001",
+          "adv:fpt2025:p011:v000",
+          "adv:fpt2025:p059:t003"
+        ],
+        "visual_observation": "Trên trang 11 của Báo cáo thường niên FPT 2025, có biểu đồ đường thể hiện chỉ số ROE và ROA giai đoạn 2021-2025 với các thông tin cụ thể như sau:\n\n- Tiêu đề biểu đồ: \"Tỷ suất sinh lời trên vốn chủ sở hữu (ROE)\" và \"Tỷ suất sinh lời trên tổng tài sản (ROA)\"\n- Đơn vị: %\n- Chú giải: \n  + Đường màu xanh dương biểu thị ROE (%)\n  + Đường màu cam biểu thị ROA (%)\n- Các giá trị theo năm:\n  + Năm 2024:\n    * ROE: 28,5%\n    * ROA: 14,4%\n  + Năm 2025:\n    * ROE: 28,1%\n    * ROA: 14,1%\n\nNhư vậy, chỉ số ROE của FPT trong năm 2024 là 28,5% và năm 2025 là 28,1%. Chỉ số ROA trong năm 2024 là 14,4% và năm 2025 là 14,1%.\n\nThông tin này được thể hiện rõ ràng trên biểu đồ đường ở góc dưới bên phải của trang 11."
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 8839.8,
+    "llm_tokens": 13365,
+    "llm_cost_usd": 0.005976
+  },
+  {
+    "query_id": "adv_dev_c02",
+    "split": "dev",
+    "question": "Theo biểu đồ cột 'Doanh thu từ Hệ sinh thái công nghệ Made by FPT' (giai đoạn 2021-2025, đơn vị Tỷ VNĐ), doanh thu Made by FPT qua 5 năm 2021, 2022, 2023, 2024 và 2025 lần lượt là bao nhiêu tỷ VNĐ, và mức tăng trưởng năm 2025 so với năm 2024 là bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Doanh thu từ Hệ sinh thái công nghệ Made by FPT qua các năm (đơn vị: tỷ VNĐ) lần lượt là: 2021: 746 tỷ, 2022: 1.150 tỷ, 2023: 1.637 tỷ, 2024: 2.244 tỷ, 2025: 2.672 tỷ. Mức tăng trưởng doanh thu năm 2025 so với năm 2024 là 19,1% [adv:fpt2025:p067:t003].",
+    "citations": [
+      "adv:fpt2025:p067:t003"
+    ],
+    "context": "[adv:fpt2025:p067:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 67]\n[Trang 67 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH]\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nBáo cáo của Ban Điều hành về\nkết quả kinh doanh 2025 và\nnhận định 2026\nĐánh giá của HĐQT về hoạt động\ncủa Tập đoàn\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n66\nDoanh thu lĩnh vực Dịch vụ CNTT cho thị trường trong nước đạt 9.093 tỷ đồng,\ntăng trưởng 11,5% so với cùng kỳ. Tăng trưởng doanh thu được dẫn dắt đồng thời\ntừ cả khối khách hàng Chính phủ và khu vực công, khối khách hàng doanh nghiệp,\nngân hàng, trong bối cảnh nhu cầu triển khai các nền tảng số, hệ thống quản trị\nquốc gia, hệ thống dữ liệu và chuyển đổi AI ngày càng gia tăng.\nLợi nhuận trước thuế ghi nhận 440 tỷ đồng, giảm 4,5% so với cùng kỳ do chủ động\ngia tăng đầu tư cho các nền tảng công nghệ lõi và năng lực hạ tầng chiến lược, bao\n\n[adv:fpt2025:p067:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 67]\n[Trang 67 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH]\nước thuế ghi nhận 440 tỷ đồng, giảm 4,5% so với cùng kỳ do chủ động\ngia tăng đầu tư cho các nền tảng công nghệ lõi và năng lực hạ tầng chiến lược, bao\ngồm việc phát triển hạ tầng nhà máy AI tại Việt Nam, với định hướng dài hạn nhằm\ncủng cố năng lực cạnh tranh, mở rộng hệ sinh thái sản phẩm, dịch vụ trong các\nnăm tới.\nNăm 2025 đánh dấu những thay đổi lớn của Việt Nam với hàng loạt các hành động\nmạnh mẽ trong thực thi Nghị quyết số 57-NQ/TW và các nghị quyết trụ cột. Trong đó,\nNghị quyết số 214/NQ-CP ban hành kế hoạch hành động của Chính phủ về thúc\nđẩy tạo lập dữ liệu phục vụ chuyển đổi số toàn diện đã xác lập một cách tiếp\ncận mới, tổng thể và dài hạn hơn cho chương trình chuyển đổi số quốc gia.\nCác định hướng này không chỉ thúc đẩy nhu cầu đầu tư CNTT trong khu vực công mà\ncòn mở ra hành lang pháp lý và cơ chế phối hợp rõ nét hơn, tạo điều kiện để các\n\n[adv:fpt2025:p067:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 67]\n[Trang 67 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH]\nhướng này không chỉ thúc đẩy nhu cầu đầu tư CNTT trong khu vực công mà\ncòn mở ra hành lang pháp lý và cơ chế phối hợp rõ nét hơn, tạo điều kiện để các\ndoanh nghiệp công nghệ trong nước như FPT tham gia sớm và sâu, đóng vai trò\nđối tác chiến lược và song hành cùng Chính phủ, bộ ngành trong quá trình hiện thực hóa\ncác mục tiêu chuyển đổi số quốc gia.\nLàm chủ công nghệ lõi, hiện thực hóa chiến lược quốc gia\nFPT ghi dấu bước phát triển quan trọng của hệ sinh thái Made by FPT, thể hiện rõ\nnăng lực làm chủ công nghệ lõi và vai trò tiên phong của Tập đoàn trong việc hiện\nthực hóa các định hướng lớn của Đảng và Chính phủ tại Nghị quyết 57-NQ/TW và\nQuyết định 1131/QĐ-TTg.\nThông qua chiến lược đầu tư bài bản cho nghiên cứu và phát triển, FPT không\nngừng mở rộng danh mục sản phẩm Made by FPT, từng bước chuyển dịch từ cung\ncấp dịch vụ sang làm chủ và thương mại hóa các nền tảng, giải pháp công nghệ\n\n[adv:fpt2025:p067:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 67]\n[Trang 67 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH]\ngừng mở rộng danh mục sản phẩm Made by FPT, từng bước chuyển dịch từ cung\ncấp dịch vụ sang làm chủ và thương mại hóa các nền tảng, giải pháp công nghệ\ncó giá trị gia tăng cao. Trong đó, doanh thu từ hệ sinh thái Made by FPT ghi nhận\nmức tăng trưởng 19,1%, đạt doanh thu 2.672 tỷ đồng, với 10 giải pháp đạt doanh số\nký trên 100 tỷ đồng, phản ánh rõ khả năng thương mại hóa và quy mô hóa sản phẩm\ncông nghệ do FPT phát triển.\nSong song với kết quả kinh doanh tích cực, hệ sinh thái Made by FPT tiếp tục được\nghi nhận mạnh mẽ ở cấp độ quốc gia khi 14 sản phẩm được Bộ Khoa học và\nCông nghệ công bố trên Cổng Nghị quyết 57; nhiều giải pháp được công nhận là\nSản phẩm Công nghiệp chủ lực, Sản phẩm công nghệ số xuất sắc, đồng thời trực\ntiếp tham gia giải quyết các bài toán chuyển đổi số quy mô quốc gia, khẳng định\nvai trò của FPT trong việc phát triển các nền tảng công nghệ chiến lược cho đất nước.",
+    "context_ids": [
+      "adv:fpt2025:p067:t000",
+      "adv:fpt2025:p067:t001",
+      "adv:fpt2025:p067:t002",
+      "adv:fpt2025:p067:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Doanh thu từ Hệ sinh thái công nghệ Made by FPT 2021 2022 2023 2024 2025 biểu đồ cột",
+        "results": [
+          {
+            "id": "adv:fpt2025:p067:t005",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:t003",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:v000",
+            "page": 67,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p011:t000",
+            "page": 11,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p011:v000",
+            "page": 11,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p067:t005",
+          "adv:fpt2025:p067:t003",
+          "adv:fpt2025:p067:v000",
+          "adv:fpt2025:p011:t000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p067:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p067:t000",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:t001",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:t002",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:t003",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:t004",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:t005",
+            "page": 67,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p067:v000",
+            "page": 67,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p067:t000",
+          "adv:fpt2025:p067:t001",
+          "adv:fpt2025:p067:t002",
+          "adv:fpt2025:p067:t003"
+        ],
+        "visual_observation": "Trên trang 67 của Báo cáo thường niên FPT 2025, có thông tin về \"Doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025\" được thể hiện qua biểu đồ cột và đoạn văn bên cạnh.\n\nCụ thể:\n\n- Doanh thu hệ sinh thái Made by FPT các năm (đơn vị: tỷ VNĐ):\n  - 2021: 746\n  - 2022: 1.150\n  - 2023: 1.637\n  - 2024: 2.244\n  - 2025: 2.672\n\n- Mức tăng trưởng năm 2025 so với 2024 được nêu trong đoạn văn là 19,1%.\n\nTóm lại, trang này có đầy đủ thông tin về doanh thu hệ sinh thái công nghệ Made by FPT các năm 2021 đến 2025 và mức tăng trưởng năm 2025 so với 2024 là 19,1%."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 10133.71,
+    "llm_tokens": 21363,
+    "llm_cost_usd": 0.00934
+  },
+  {
+    "query_id": "adv_dev_c03",
+    "split": "dev",
+    "question": "Theo biểu đồ cột 'Số lượng cán bộ nhân viên nữ giai đoạn 2021-2025' trong Báo cáo ESG, số lượng CBNV nữ của FPT qua các năm 2021, 2022, 2023, 2024 và 2025 lần lượt là bao nhiêu người và tỷ lệ lao động nữ năm 2025 chiếm bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Số lượng cán bộ nhân viên nữ của FPT qua các năm 2021, 2022, 2023, 2024 và 2025 lần lượt là: 13.841 người, 16.155 người, 18.022 người, 20.280 người và 20.383 người. Tỷ lệ lao động nữ năm 2025 chiếm 37,7% tổng số lao động tại FPT. [adv:fpt2025:p137:t004]",
+    "citations": [
+      "adv:fpt2025:p137:t004"
+    ],
+    "context": "[adv:fpt2025:p137:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 137]\n[Trang 137 - Text | MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC]\n• Sự đa dạng về văn hóa, màu da, sắc tộc, độ tuổi, trình độ\nLà tập đoàn toàn cầu, FPT phát huy hiệu quả nguồn nhân lực đa dạng, tạo nền tảng\nvững chắc cho tăng trưởng dài hạn và năng lực cạnh tranh bền vững, đồng thời\nxây dựng môi trường làm việc chuyên nghiệp, thu hút và giữ chân nhân tài. Tập đoàn\nbảo đảm cơ hội việc làm bình đẳng, góp phần thu hẹp khoảng cách phát triển giữa\ncác vùng miền, tuân thủ đầy đủ quy định pháp luật và cam kết không sử dụng lao động\ndưới 18 tuổi.\nFPT sở hữu nguồn nhân lực đa dạng về văn hóa, quốc tịch, độ tuổi, trình độ….\nĐây cũng là yếu tố quan trọng tạo lợi thế cạnh tranh bền vững cho FPT. Tính đến hết\nnăm 2025, FPT có 54.110 nhân sự làm việc tại hơn 30 quốc gia, trong đó, có 4.124\nnhân sự người nước ngoài với 82 quốc tịch, chủ yếu từ Mỹ, Nhật Bản, Slovakia,\nMalaysia, Mexico, Philippines, tăng 18% so với cùng kỳ.\n\n[adv:fpt2025:p137:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 137]\n[Trang 137 - Text | MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC]\nong đó, có 4.124\nnhân sự người nước ngoài với 82 quốc tịch, chủ yếu từ Mỹ, Nhật Bản, Slovakia,\nMalaysia, Mexico, Philippines, tăng 18% so với cùng kỳ.\nTrong bối cảnh thị trường lao động có nhiều biến động, FPT vẫn duy trì sự ổn định\nvề nhân sự với tỷ lệ nghỉ việc chủ động ở mức 15,4%, nằm trong ngưỡng kiểm soát\nan toàn, bảo đảm tính liên tục của hoạt động kinh doanh. Cơ cấu nhân sự cho thấy\nsự cân bằng và kế thừa bền vững, với 43,9% nhân sự dưới 30 tuổi, 13,0% trên 40\ntuổi, 53,2% cán bộ quản lý dưới 40 tuổi. Nhân sự có trình độ đại học và sau đại học\nchiếm trên 84% tổng số nhân sự toàn Tập đoàn.\nMÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC\nSự đa dạng, công bằng và hoà hợp\nNhân sự dưới 30 tuổi\n43,9%\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nThông điệp và định hướng ESG\nQuản trị hướng đến phát triển bền vững\nMôi trường làm việc đẳng cấp,\nhạnh phúc\n\n[adv:fpt2025:p137:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 137]\n[Trang 137 - Text | MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC]\nNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nThông điệp và định hướng ESG\nQuản trị hướng đến phát triển bền vững\nMôi trường làm việc đẳng cấp,\nhạnh phúc\nHoạt động vì môi trường xanh\nSong hành vì sự phát triển cộng đồng\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n136\n• Tôn trọng, đổi mới và đảm bảo hài hòa về cân bằng giới tính\nVới quan điểm con người là tài sản cốt lõi và trung tâm của chiến lược phát triển,\nngay từ khi thành lập, FPT luôn đề cao tôn trọng quyền con người và xây dựng môi trường\nlàm việc dân chủ, bình đẳng, khuyến khích tự do sáng tạo, trao quyền và tạo cơ hội\nđể mỗi cá nhân học hỏi, phát huy năng lực và đóng góp cho Tập đoàn. CBNV được\nkhuyến khích đối thoại, đóng góp ý kiến và bảo vệ quan điểm trên tinh thần minh bạch,\n\n[adv:fpt2025:p137:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 137]\n[Trang 137 - Text | MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC]\nn học hỏi, phát huy năng lực và đóng góp cho Tập đoàn. CBNV được\nkhuyến khích đối thoại, đóng góp ý kiến và bảo vệ quan điểm trên tinh thần minh bạch,\ntôn trọng và không phân biệt vị trí, trong khi đội ngũ lãnh đạo và quản lý có trách nhiệm\nghi nhận, phát triển và trọng dụng nhân tài.\nFPT cam kết không phân biệt đối xử trong sử dụng lao động, đặc biệt là vấn đề\nbình đẳng giới. Nhờ đó, đến ngày 31/12/2025, tỷ lệ lao động nữ tại FPT đạt 37,7%,\ncao hơn mức trung bình toàn cầu của ngành CNTT (25% – ILO); nữ giới chiếm 36,4%\nđội ngũ quản lý, bao gồm cả các vị trí lãnh đạo cấp cao tại các công ty thành viên.\nChính sách thu nhập tại FPT được xây dựng trên nguyên tắc công bằng và minh\nbạch, dựa trên vị trí, kết quả và mức độ đóng góp, không phân biệt giới tính, qua đó\ngóp phần duy trì nguồn nhân lực chất lượng cao và ổn định trong dài hạn.\nNhân sự nữ của FPT giai đoạn 2021-2025\n2021\n2022\n2023\n\n[adv:fpt2025:p137:t004 | FPT Báo cáo thường niên 2025 (232 trang) | page 137]\n[Trang 137 - Text | MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC]\nbiệt giới tính, qua đó\ngóp phần duy trì nguồn nhân lực chất lượng cao và ổn định trong dài hạn.\nNhân sự nữ của FPT giai đoạn 2021-2025\n2021\n2022\n2023\n2024\n2025\n25.000\n20.000\n15.000\n10.000\n5.000\n0\n13.841\n16.155\n18.022\n20.280\n20.383\nĐơn vị: Nhân sự\nCán bộ quản lý dưới 40 tuổi\n53,2%",
+    "context_ids": [
+      "adv:fpt2025:p137:t000",
+      "adv:fpt2025:p137:t001",
+      "adv:fpt2025:p137:t002",
+      "adv:fpt2025:p137:t003",
+      "adv:fpt2025:p137:t004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Số lượng cán bộ nhân viên nữ giai đoạn 2021-2025 Báo cáo ESG biểu đồ cột",
+        "results": [
+          {
+            "id": "adv:fpt2025:p137:t004",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p137:v000",
+            "page": 137,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p137:t003",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p118:v004",
+            "page": 118,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p118:t003",
+            "page": 118,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p137:t004",
+          "adv:fpt2025:p137:v000",
+          "adv:fpt2025:p137:t003",
+          "adv:fpt2025:p118:v004",
+          "adv:fpt2025:p118:t003"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p137:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p137:t000",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p137:t001",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p137:t002",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p137:t003",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p137:t004",
+            "page": 137,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p137:v000",
+            "page": 137,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p137:t000",
+          "adv:fpt2025:p137:t001",
+          "adv:fpt2025:p137:t002",
+          "adv:fpt2025:p137:t003",
+          "adv:fpt2025:p137:t004"
+        ],
+        "visual_observation": "Dưới đây là thông tin chính xác từ trang 137 của Báo cáo thường niên FPT 2025 liên quan đến câu hỏi:\n\n**Số lượng cán bộ nhân viên nữ của FPT qua các năm 2021, 2022, 2023, 2024, 2025 (Đơn vị: Nhân sự):**\n- 2021: 13.841\n- 2022: 16.155\n- 2023: 18.022\n- 2024: 20.280\n- 2025: 20.383\n\n**Tỷ lệ lao động nữ năm 2025:**\n- Tỷ lệ lao động nữ tại FPT đạt 37,7%.\n\nThông tin này được trình bày trong phần \"Tôn trọng, đổi mới và đảm bảo hài hòa về cân bằng giới tính\" và biểu đồ \"Nhân sự nữ của FPT giai đoạn 2021-2025\" ở góc dưới bên phải trang.\n\n---\n\nNếu cần thêm thông tin chi tiết khác, bạn có thể yêu cầu."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 9688.36,
+    "llm_tokens": 21145,
+    "llm_cost_usd": 0.009209
+  },
+  {
+    "query_id": "adv_dev_id01",
+    "split": "dev",
+    "question": "Quan sát hai bức ảnh trong mục 'Khánh thành Trung tâm Dữ liệu FPT Fornix HCM02' và 'Đưa vào vận hành chính thức Nền tảng số Thi hành án dân sự': ảnh bên trái chụp sự kiện gì trên màn hình phông nền phía sau diễn giả đang phát biểu, còn ảnh bên phải các đại biểu đang nhấn nút hiển thị chữ gì trên màn hình LED sân khấu?",
+    "status": "answered",
+    "answer": "Ảnh bên trái chụp sự kiện \"LỄ KHAI TRƯƠNG TRUNG TÂM DỮ LIỆU FPT FORNIX HCM02\". Trên màn hình phông nền phía sau diễn giả đang phát biểu có các nội dung: tên sự kiện \"LỄ KHAI TRƯƠNG TRUNG TÂM DỮ LIỆU FPT FORNIX HCM02\", tiếng Anh \"FPT FORNIX HCM02 DATA CENTER GRAND OPENING CEREMONY\", thời gian \"TP.HCM | 20.06.2023\", tên diễn giả \"PGS. Hoàng Việt Anh\", chức vụ diễn giả \"Chairman FPT Telecom, FPT Corporation\" và hình ảnh minh họa tòa nhà Trung tâm dữ liệu.\n\nẢnh bên phải các đại biểu đang nhấn nút, trên màn hình LED sân khấu hiển thị chữ: \"NỀN TẢNG SỐ THI HÀNH ÁN DÂN SỰ VÀ TRUNG TÂM GIÁM SÁT, ĐIỀU HÀNH THÔNG MINH HỆ THỐNG THI HÀNH ÁN DÂN SỰ\" và phía dưới mỗi đại biểu có vòng tròn với chữ \"KÍCH HOẠT\".\n\n[adv:fpt2025:p015:v000] [adv:fpt2025:p015:t000] [adv:fpt2025:p015:t001]",
+    "citations": [
+      "adv:fpt2025:p015:v000",
+      "adv:fpt2025:p015:t000",
+      "adv:fpt2025:p015:t001"
+    ],
+    "context": "[adv:fpt2025:p015:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 15]\n[Trang 15 - Text | DẤU ẤN 2025]\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nCon số nổi bật\nGiải thưởng tiêu biểu\nHoạt động nổi bật\nDự án AI nổi bật\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÁO TÀI CHÍNH HỢP NHẤT\n14\nKhánh thành Trung tâm Dữ liệu\nquy mô lớn nhất Việt Nam tạo\nnền tảng cho kỷ nguyên AI\nTrung tâm Dữ liệu FPT Fornix HCM02 tại Khu Công\nnghệ cao Tp.Hồ Chí Minh có quy mô 08 tầng, tổng\ndiện tích 10.000 m² và 3.600 tủ rack.\nFPT Fornix HCM02 đóng vai trò hạ tầng trọng yếu\nphục vụ các nền tảng AI, điện toán đám mây và\nchuyển đổi số, góp phần hiện thực hóa mục tiêu\nđưa Việt Nam trở thành Digital Hub của khu vực\nĐông Nam Á vào năm 2030.\nĐồng hành Chính phủ, bộ ngành, địa phương chuyển đổi số,\nhiện thực hoá tinh thần Nghị quyết 57-NQ/TW\n\n[adv:fpt2025:p015:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 15]\n[Trang 15 - Text | DẤU ẤN 2025]\nDigital Hub của khu vực\nĐông Nam Á vào năm 2030.\nĐồng hành Chính phủ, bộ ngành, địa phương chuyển đổi số,\nhiện thực hoá tinh thần Nghị quyết 57-NQ/TW\nFPT phối hợp với Bộ Tài chính, Bộ Tư pháp, Bộ Dân tộc và Tôn giáo, Ngân hàng Nhà nước, Bộ Ngoại giao ban hành\ncác chiến lược dữ liệu và chuyển đổi số, đồng thời triển khai gần 40 dự án thúc đẩy chuyển đổi số, xây dựng cơ sở\ndữ liệu cho các bộ, ngành. FPT cũng tham gia triển khai hai cơ sở dữ liệu (CSDL) quốc gia trọng yếu gồm:\nCSDL Hộ tịch điện tử và CSDL quốc gia về tài chính, cùng 16 CSDL chuyên ngành tại Bộ Tài chính, Bộ Tư pháp,\nBộ Dân tộc và Tôn giáo, Ngân hàng Nhà nước, Bộ Ngoại giao và Bộ Y tế.\nTập đoàn song hành cùng Bộ Công an tư vấn xây dựng Trung tâm Dữ liệu quốc gia đạt các tiêu chuẩn quốc tế\ncao nhất và phối hợp Bộ Tư pháp đưa vào vận hành Nền tảng số Thi hành án dân sự và Cổng Pháp luật quốc gia.\n\n[adv:fpt2025:p015:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 15]\n[Trang 15 - Text | DẤU ẤN 2025]\nữ liệu quốc gia đạt các tiêu chuẩn quốc tế\ncao nhất và phối hợp Bộ Tư pháp đưa vào vận hành Nền tảng số Thi hành án dân sự và Cổng Pháp luật quốc gia.\nSong song, FPT tiếp tục đồng hành cùng nhiều địa phương như: Cà Mau, Hải Phòng, Quảng Ninh… trong xây dựng\nchính quyền số, kinh tế số và xã hội số.\n\n[adv:fpt2025:p015:v000 | FPT Báo cáo thường niên 2025 (232 trang) | page 15]\n[Trang 15 - Vision/Multimodal | DẤU ẤN 2025]\nMô tả trực quan:\nTrang có hai ảnh chính: Ảnh bên trái là cảnh lễ khai trương Trung tâm Dữ liệu FPT Fornix HCM02 với nhiều người ngồi dự và một người đang phát biểu trên sân khấu. Ảnh bên phải là cảnh một nhóm 6 người đàn ông mặc vest đứng trước màn hình lớn có nội dung 'NỀN TẢNG SỐ THI HÀNH ÁN DÂN SỰ VÀ TRUNG TÂM GIÁM SÁT, ĐIỀU HÀNH THÔNG MINH HỆ THỐNG THI HÀNH ÁN DÂN SỰ', mỗi người đang giơ tay chạm vào biểu tượng 'KÍCH HOẠT' trên màn hình.\n\n[adv:fpt2025:p070:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 70]\n[Trang 70 - Text | PHÂN TÍCH HOẠT ĐỘNG KINH DOANH - Lĩnh vực Dịch vụ Viễn thông]\ntục đóng vai trò là động lực thúc đẩy tăng trưởng người dùng, gia tăng\nthời gian sử dụng dịch vụ và tạo hiệu ứng cộng hưởng tích cực cho hệ sinh thái\nviễn thông – giải trí của FPT.\nTrung tâm dữ liệu – Nền tảng cho tăng trưởng dài hạn\nFPT tiếp tục đẩy mạnh đầu tư hạ tầng dữ liệu nhằm đón đầu nhu cầu gia tăng\nnhanh chóng từ AI, Cloud và Chuyển đổi số. Trong năm 2025, FPT chính thức\nđưa vào vận hành Trung tâm Dữ liệu FPT Fornix HCM02 tại Khu Công nghệ cao\nTp. Hồ Chí Minh với diện tích gần 10.000 m² và sức chứa lên tới 3.600 racks, được\nthiết kế theo tiêu chuẩn quốc tế và kiến trúc dự phòng cao. Trung tâm dữ liệu này\nđóng vai trò hạ tầng trọng yếu cho các nền tảng công nghệ chiến lược của FPT,\nFPT chính thức đưa vào vận hành Trung tâm Dữ liệu FPT Fornix HCM02 tại\nKhu Công nghệ cao Tp. Hồ Chí Minh với diện tích gần 10.000 m².",
+    "context_ids": [
+      "adv:fpt2025:p015:t000",
+      "adv:fpt2025:p015:t001",
+      "adv:fpt2025:p015:t002",
+      "adv:fpt2025:p015:v000",
+      "adv:fpt2025:p070:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Khánh thành Trung tâm Dữ liệu FPT Fornix HCM02 Đưa vào vận hành chính thức Nền tảng số Thi hành án dân sự",
+        "results": [
+          {
+            "id": "adv:fpt2025:p015:v000",
+            "page": 15,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p015:t000",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p070:t003",
+            "page": 70,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p070:t004",
+            "page": 70,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:t002",
+            "page": 15,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p015:v000",
+          "adv:fpt2025:p015:t000",
+          "adv:fpt2025:p070:t003",
+          "adv:fpt2025:p070:t004",
+          "adv:fpt2025:p015:t002"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p015:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p015:t000",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:t001",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:t002",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:v000",
+            "page": 15,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p015:t000",
+          "adv:fpt2025:p015:t001",
+          "adv:fpt2025:p015:t002",
+          "adv:fpt2025:p015:v000",
+          "adv:fpt2025:p070:t003"
+        ],
+        "visual_observation": "Ảnh bên trái chụp sự kiện \"LỄ KHAI TRƯƠNG TRUNG TÂM DỮ LIỆU FPT FORNIX HCM02\" (FPT FORNIX HCM02 DATA CENTER GRAND OPENING CEREMONY).\n\nTrên màn hình phông nền phía sau diễn giả đang phát biểu có các nội dung sau:\n- Tên sự kiện: LỄ KHAI TRƯƠNG TRUNG TÂM DỮ LIỆU FPT FORNIX HCM02\n- Tiếng Anh: FPT FORNIX HCM02 DATA CENTER GRAND OPENING CEREMONY\n- Thời gian: TP.HCM | 20.06.2023\n- Tên diễn giả: PGS. Hoàng Việt Anh\n- Chức vụ diễn giả: Chairman FPT Telecom, FPT Corporation\n- Có hình ảnh minh họa tòa nhà Trung tâm dữ liệu bên phải màn hình.\n\nTrên trang này không có nhãn, tiêu đề, đơn vị, trục, chú giải hay con số nào khác liên quan đến ảnh bên trái ngoài những thông tin trên màn hình phông nền sự kiện.\n\nTóm lại, ảnh bên trái chụp sự kiện khai trương Trung tâm Dữ liệu FPT Fornix HCM02."
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p015:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p015:t000",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:t001",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:t002",
+            "page": 15,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p015:v000",
+            "page": 15,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p015:t000",
+          "adv:fpt2025:p015:t001",
+          "adv:fpt2025:p015:t002",
+          "adv:fpt2025:p015:v000",
+          "adv:fpt2025:p070:t003"
+        ],
+        "visual_observation": "Trên ảnh bên phải các đại biểu đang nhấn nút, màn hình LED sân khấu hiển thị chữ:\n\n- Ở phía trên cùng là: \n  \"NỀN TẢNG SỐ THI HÀNH ÁN DÂN SỰ\n   VÀ TRUNG TÂM GIÁM SÁT, ĐIỀU HÀNH THÔNG MINH\n   HỆ THỐNG THI HÀNH ÁN DÂN SỰ\"\n\n- Ở phía dưới, phía trước mỗi đại biểu có vòng tròn với chữ bên trong là: \"KÍCH HOẠT\"\n\n---\n\nCác nhãn, tiêu đề, đơn vị, trục, chú giải và con số trên trang này chủ yếu là phần mục lục bên trái và phần nội dung mô tả về Trung tâm Dữ liệu FPT Fornix HCM02, không có bảng biểu hay biểu đồ cụ thể.\n\nThông tin/chỉ tiêu được hỏi về chữ hiển thị trên màn hình LED sân khấu là có trên trang này, cụ thể như đã nêu ở trên."
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 15992.65,
+    "llm_tokens": 23805,
+    "llm_cost_usd": 0.010731
+  },
+  {
+    "query_id": "adv_dev_id02",
+    "split": "dev",
+    "question": "Theo sơ đồ dòng thời gian 'Hành trình khẳng định năng lực và vị thế (giai đoạn 2009-2021)', hai thương vụ M&A ở nước ngoài năm 2014 và năm 2018 của FPT đã mua lại những công ty nào (và tỷ lệ cổ phần mua lại ở năm 2018), đồng thời sự kiện xử lý sự cố HoSE năm 2021 giúp nâng công suất lên gấp bao nhiêu lần?",
+    "status": "answered",
+    "answer": "Theo sơ đồ dòng thời gian \"Hành trình khẳng định năng lực và vị thế (giai đoạn 2009-2021)\" trên trang 29 Báo cáo thường niên FPT 2025, hai thương vụ M&A ở nước ngoài như sau:\n- Năm 2014: FPT mua công ty RWE IT Slovakia – Thương vụ M&A đầu tiên trong lĩnh vực CNTT của Việt Nam tại thị trường nước ngoài.\n- Năm 2018: FPT mua 90% cổ phần của Intellinet – Công ty Tư vấn Công nghệ hàng đầu của Mỹ.\n\nSự kiện xử lý sự cố HoSE năm 2021 giúp FPT nâng công suất hệ thống giao dịch lên gấp 3 lần so với hệ thống cũ [adv:fpt2025:p029:t000][adv:fpt2025:p029:t001].",
+    "citations": [
+      "adv:fpt2025:p029:t000",
+      "adv:fpt2025:p029:t001"
+    ],
+    "context": "[adv:fpt2025:p029:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 29]\n[Trang 29 - Text | HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)]\nMua công ty RWE IT Slovakia –\nThương vụ M&A đầu tiên trong lĩnh\nvực CNTT của Việt Nam tại thị trường\nnước ngoài.\nCung cấp Hệ thống bán vé tàu điện tử\ncho Tổng công ty Đường sắt Việt Nam.\nĐây là một trong những hợp đồng lớn\nđầu tiên của lĩnh vực thuê ngoài dịch\nvụ CNTT tại Việt Nam.\nTop 300 Doanh nghiệp giá trị nhất\nchâu Á do Nikkei Asian Review đánh giá.\nQuy mô nhân lực của lĩnh vực\nDịch vụ CNTT cho thị trường\nnước ngoài cán mốc 10.000\nngười, tương đương Top 15\nCông ty phần mềm lớn nhất\nẤn Độ.\n2009\nTriển khai hệ thống ERP lớn nhất\ntrong ngành CNTT Việt Nam với\nPetrolimex trị giá 12,6 triệu USD.\nHÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)\n2014\n2015\n2016\n2017\nRa mắt nền tảng FPT.AI – Nền tảng\ntrí tuệ nhân tạo toàn diện.\nThắng gói thầu 11,3 triệu USD của\nBộ Kế hoạch và Tài chính Myanmar.\n2018\nMua 90% cổ phần của Intellinet –\nCông ty Tư vấn Công nghệ hàng đầu\ncủa Mỹ.\n\n[adv:fpt2025:p029:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 29]\n[Trang 29 - Text | HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)]\nn.\nThắng gói thầu 11,3 triệu USD của\nBộ Kế hoạch và Tài chính Myanmar.\n2018\nMua 90% cổ phần của Intellinet –\nCông ty Tư vấn Công nghệ hàng đầu\ncủa Mỹ.\nRa mắt nền tảng tự động hóa quy trình\ndoanh nghiệp – Akabot.\n2020\nRa mắt nền tảng điện toán đám mây\nFPT Cloud.\nThành lập Công ty FPT Smart Cloud\ntập trung nghiên cứu, phát triển\nsản phẩm, giải pháp, dịch vụ công nghệ\nAI, Cloud, Data.\nTập đoàn công nghệ đầu tiên ở Đông\nNam Á trở thành đối tác chiến lược\ncủa Viện nghiên cứu AI hàng đầu\nthế giới – Mila.\n2021\nĐóng vai trò chủ chốt trong xử lý\nsự cố hệ thống giao dịch tại HoSE,\nnâng công suất lên gấp 03 lần so với\nhệ thống cũ.\nThành lập Công ty về lĩnh vực Tư vấn\nchuyển đổi số – FPT Digital.\nM&A Base.vn – Nền tảng quản trị\ndoanh nghiệp phổ biến nhất Việt Nam,\ngóp phần thúc đẩy chuyển đổi số\ndoanh nghiệp vừa và nhỏ.\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\nThông tin chung\n\n[adv:fpt2025:p029:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 29]\n[Trang 29 - Text | HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)]\nphổ biến nhất Việt Nam,\ngóp phần thúc đẩy chuyển đổi số\ndoanh nghiệp vừa và nhỏ.\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\nThông tin chung\nSứ mệnh, giá trị cốt lõi\nNgành nghề kinh doanh\nVị thế và quy mô\nHành trình khẳng định năng lực\nvà vị thế\nCơ cấu quản trị và bộ máy quản lý\nBan Lãnh đạo\n06\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n28\n01\n02\n03\n04\n05\n06\n07\n08\n\n[adv:fpt2025:p029:v000 | FPT Báo cáo thường niên 2025 (232 trang) | page 29]\n[Trang 29 - Vision/Multimodal | HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)]\nMô tả trực quan:\nTrang trình bày dạng timeline với các mốc năm quan trọng từ 2009 đến 2021, mỗi năm có các điểm đánh dấu màu cam và các đoạn mô tả chi tiết về sự kiện, thành tựu của FPT. Nền là bản đồ chấm điểm khu vực châu Á. Bên trái là mục lục báo cáo thường niên với phần 'TỔNG QUAN VỀ FPT' được tô sáng màu xanh nhạt, đánh dấu trang 03. Các mốc năm được nối với nhau bằng đường kẻ ngang màu xám, tạo thành một hành trình liên tục.\n\n[adv:fpt2025:p035:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 35]\n[Trang 35 - Text | Tình hình thay đổi vốn điều lệ (Tiếp theo)]\nLần\nThời điểm\nphát hành\nVốn điều lệ\nsau khi phát hành\nLý do\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n04/2015\n06/2015\n04/2016\n06/2016\n04/2017\n06/2017\n04/2018\n06/2018\n04/2019\n06/2019\n04/2020\n06/2020\n04/2021\n06/2021\n05/2022\n07/2022\n3.456.959.170.000\n3.975.316.400.000\n3.995.184.690.000\n4.594.266.840.000\n4.617.230.540.000\n5.309.611.050.000\n5.336.156.610.000\n6.136.367.720.000\n6.167.039.720.000\n6.783.586.880.000\n6.817.504.780.000\n7.839.874.860.000\n7.891.972.540.000\n9.075.516.490.000\n9.141.959.140.000\n10.970.265.720.000\nTăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2014.\nTăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2014.\nTăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2015.",
+    "context_ids": [
+      "adv:fpt2025:p029:t000",
+      "adv:fpt2025:p029:t001",
+      "adv:fpt2025:p029:t002",
+      "adv:fpt2025:p029:v000",
+      "adv:fpt2025:p035:t000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Hành trình khẳng định năng lực và vị thế 2009-2021 M&A nước ngoài 2014 2018 công ty mua lại tỷ lệ cổ phần 2018 xử lý sự cố HoSE 2021 nâng công suất",
+        "results": [
+          {
+            "id": "adv:fpt2025:p029:t001",
+            "page": 29,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p029:t000",
+            "page": 29,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p035:v001",
+            "page": 35,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p035:t000",
+            "page": 35,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p035:v002",
+            "page": 35,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p029:t001",
+          "adv:fpt2025:p029:t000",
+          "adv:fpt2025:p035:v001",
+          "adv:fpt2025:p035:v002"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p029:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p029:t000",
+            "page": 29,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p029:t001",
+            "page": 29,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p029:t002",
+            "page": 29,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p029:v000",
+            "page": 29,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p029:t000",
+          "adv:fpt2025:p029:t001",
+          "adv:fpt2025:p029:t002",
+          "adv:fpt2025:p029:v000",
+          "adv:fpt2025:p035:t000"
+        ],
+        "visual_observation": "Dưới đây là thông tin kiểm chứng chính xác từ sơ đồ dòng thời gian \"Hành trình khẳng định năng lực và vị thế (giai đoạn 2009-2021)\" trên trang 29 Báo cáo thường niên FPT 2025:\n\n1. Hai thương vụ M&A nước ngoài:\n- Năm 2014: Mua công ty RWE IT Slovakia – Thương vụ M&A đầu tiên trong lĩnh vực CNTT của Việt Nam tại thị trường nước ngoài.\n- Năm 2018: Mua 90% cổ phần của Intellinet – Công ty Tư vấn Công nghệ hàng đầu của Mỹ.\n\n2. Tên công ty mua lại và tỷ lệ cổ phần năm 2018:\n- Công ty: Intellinet\n- Tỷ lệ cổ phần: 90%\n\n3. Sự kiện xử lý sự cố HoSE năm 2021:\n- Đóng vai trò chủ chốt trong xử lý sự cố hệ thống giao dịch tại HoSE, nâng công suất lên gấp 03 lần so với hệ thống cũ.\n\nTóm lại, tất cả các thông tin về hai thương vụ M&A năm 2014 và 2018, tên công ty mua lại và tỷ lệ cổ phần năm 2018, cùng sự kiện xử lý sự cố HoSE năm 2021 nâng công suất lên bao nhiêu lần đều có trên trang này và được trích dẫn chính xác như trên."
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 10076.62,
+    "llm_tokens": 15095,
+    "llm_cost_usd": 0.006881
+  },
+  {
+    "query_id": "adv_dev_id03",
+    "split": "dev",
+    "question": "Quan sát sơ đồ kiến trúc 'Nền tảng phục vụ phát triển AI có chủ quyền của FPT': ba lớp chính hiển thị ở cột bên phải từ dưới lên trên có tên tiếng Anh là gì, và ở lớp giữa có hai khối tính năng lớn màu cam tên là gì?",
+    "status": "answered",
+    "answer": "Ba lớp chính ở cột bên phải từ dưới lên trên trong sơ đồ kiến trúc \"Nền tảng phục vụ phát triển AI có chủ quyền của FPT\" tên tiếng Anh lần lượt là: AI Infrastructure, AI Platform, AI Agent x Human Economy. Ở lớp giữa (AI Platform) có hai khối tính năng lớn màu cam là: AI STUDIO và AI INFERENCING [adv:fpt2025:p051:t000][adv:fpt2025:p051:t001][adv:fpt2025:p051:t002][adv:fpt2025:p051:t003].",
+    "citations": [
+      "adv:fpt2025:p051:t000",
+      "adv:fpt2025:p051:t001",
+      "adv:fpt2025:p051:t002",
+      "adv:fpt2025:p051:t003"
+    ],
+    "context": "[adv:fpt2025:p051:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 51]\n[Trang 51 - Text | Làm chủ công nghệ chiến lược góp phần xây dựng chủ quyền số]\nLàm chủ công nghệ chiến lược góp phần xây dựng\nchủ quyền số\nTrong bối cảnh căng thẳng địa chính trị leo thang, chủ quyền số trở thành ưu tiên\nan ninh quốc gia. Nghiên cứu từ St. Louis Fed cho thấy các biện pháp hạn chế công\nnghệ đã tạo ra sự phân mảnh đáng kể trong chuỗi cung ứng toàn cầu, buộc các\nquốc gia phải phát triển năng lực công nghệ nội địa. Nghị quyết 57-NQ/TW định\nhướng Việt Nam phát triển nhanh và bền vững trên nền tảng khoa học công nghệ,\nđổi mới sáng tạo và chuyển đổi số; từng bước nâng cao năng lực tự chủ công nghệ,\nđặc biệt trong các công nghệ chiến lược. Nhà nước ưu tiên nguồn lực quốc gia cho\nphát triển công nghệ lõi, hạ tầng số trọng yếu và hệ sinh thái doanh nghiệp công nghệ\nsố trong nước. Nghị quyết đồng thời nhấn mạnh yêu cầu bảo đảm chủ quyền\nquốc gia trên không gian mạng, tăng cường an ninh mạng, an ninh dữ liệu và an toàn\n\n[adv:fpt2025:p051:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 51]\n[Trang 51 - Text | Làm chủ công nghệ chiến lược góp phần xây dựng chủ quyền số]\nrong nước. Nghị quyết đồng thời nhấn mạnh yêu cầu bảo đảm chủ quyền\nquốc gia trên không gian mạng, tăng cường an ninh mạng, an ninh dữ liệu và an toàn\nthông tin, tạo dư địa phát triển dài hạn cho các doanh nghiệp công nghệ có năng lực\ncung cấp giải pháp nền tảng và dịch vụ bảo mật.\nBCG nhấn mạnh, các công ty AI-First không chỉ áp dụng AI mà còn tái cấu trúc\ntoàn bộ tổ chức xung quanh AI, từ năng lực công nghệ cốt lõi, chiến lược sản phẩm\nđến văn hóa và tài năng. Điều này đòi hỏi FPT đầu tư vào nền tảng công nghệ\ncốt lõi, phát triển tài năng nội bộ, thu hút nhân tài, tăng cường đào tạo và xây dựng\nhệ sinh thái đối tác chiến lược.\nGiai đoạn tiếp theo, FPT tiếp tục đầu tư mạnh mẽ vào:\n• Phát triển, hoàn thiện hệ sinh thái AI với AI Studio, AI Inferencing, AI Agents và\ncác nền tảng dữ liệu giúp tăng tốc quá trình phát triển ứng dụng AI; tiếp tục\n\n[adv:fpt2025:p051:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 51]\n[Trang 51 - Text | Làm chủ công nghệ chiến lược góp phần xây dựng chủ quyền số]\n, hoàn thiện hệ sinh thái AI với AI Studio, AI Inferencing, AI Agents và\ncác nền tảng dữ liệu giúp tăng tốc quá trình phát triển ứng dụng AI; tiếp tục\nđầu tư phát triển hạ tầng trung tâm dữ liệu và năng lực tính toán AI;\n• Áp dụng triệt để nền tảng AI linh hoạt - FleziPT với phương pháp, quy trình và\ngiải pháp đã được kiểm chứng hiệu quả trong thực tiễn. Nền tảng này liên tục\nđược cập nhật và hoàn thiện thông qua quá trình triển khai các dự án AI, đảm bảo\nkhả năng thích ứng và tiến hóa theo nhu cầu thực tế của khách hàng và thị trường.\nFleziPT là kết quả của quá trình tích lũy và chuẩn hóa các kinh nghiệm triển khai\nAI tại FPT, nhằm tạo ra giá trị vượt trội cho khách hàng. FleziPT được xây dựng\ntheo mô hình nhiều lớp, trong đó, lớp năng lực cốt lõi gồm: Flezi Workforce và\nFlezi Foundation tập hợp các thực tiễn, công cụ, phương pháp luận và nguồn lực\n\n[adv:fpt2025:p051:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 51]\n[Trang 51 - Text | Làm chủ công nghệ chiến lược góp phần xây dựng chủ quyền số]\nhình nhiều lớp, trong đó, lớp năng lực cốt lõi gồm: Flezi Workforce và\nFlezi Foundation tập hợp các thực tiễn, công cụ, phương pháp luận và nguồn lực\n(bao gồm cả nhân sự và nhân sự số) đã được kiểm chứng qua các dự án thực tế;\n• Phát triển ứng dụng AI, LLM tùy chỉnh, sản phẩm và dịch vụ trong các lĩnh vực\nchuyên sâu như: Y tế, Dược, Tài chính – Bảo hiểm, Quản trị nhân sự, Giáo dục\nđào tạo…;\n• Triển khai mô hình đồng hành cùng đầu tư phát triển các giải pháp đột phá, ứng dụng\nAI nâng cao hiệu quả trong hoạt động kinh doanh, vận hành của khách hàng;\n• Ứng dụng AI tăng trưởng năng suất vận hành nội bộ, tập trung vào phát triển\nphần mềm, quản trị hệ thống nhằm tăng tốc quá trình phát triển sản phẩm, nâng cao\nhiệu suất lao động, phát hiện sớm các sai sót, lỗi dịch vụ…;\n• Tiếp nối các hợp tác về hạ tầng tính toán hiệu năng cao, FPT định hướng mở rộng\n\n[adv:fpt2025:p063:t004 | FPT Báo cáo thường niên 2025 (232 trang) | page 63]\n[Trang 63 - Text | Dịch chuyển danh mục dịch vụ lên phân khúc giá trị cao và dẫn dắt chuyển đổi AI]\ntoàn cầu, có khả năng cạnh tranh với các tập đoàn\nlớn trong cùng ngành.\nNền tảng AI linh hoạt FleziPT với phương pháp, quy trình và giải pháp đã được\nkiểm chứng hiệu quả",
+    "context_ids": [
+      "adv:fpt2025:p051:t000",
+      "adv:fpt2025:p051:t001",
+      "adv:fpt2025:p051:t002",
+      "adv:fpt2025:p051:t003",
+      "adv:fpt2025:p063:t004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Nền tảng phục vụ phát triển AI có chủ quyền của FPT sơ đồ kiến trúc ba lớp cột bên phải",
+        "results": [
+          {
+            "id": "adv:fpt2025:p051:v000",
+            "page": 51,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p051:t005",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t002",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t003",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p063:t004",
+            "page": 63,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p051:v000",
+          "adv:fpt2025:p051:t005",
+          "adv:fpt2025:p051:t002",
+          "adv:fpt2025:p051:t003",
+          "adv:fpt2025:p063:t004"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p051:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p051:t000",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t001",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t002",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t003",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t004",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:t005",
+            "page": 51,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p051:v000",
+            "page": 51,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p051:t000",
+          "adv:fpt2025:p051:t001",
+          "adv:fpt2025:p051:t002",
+          "adv:fpt2025:p051:t003",
+          "adv:fpt2025:p063:t004"
+        ],
+        "visual_observation": "Dưới đây là thông tin chính xác đọc được từ sơ đồ kiến trúc \"Nền tảng phục vụ phát triển AI có chủ quyền của FPT\" ở cột bên phải của trang 51 Báo cáo thường niên FPT 2025:\n\nBa lớp chính ở cột bên phải từ dưới lên trên (tên tiếng Anh):\n1. AI Infrastructure\n2. AI Platform\n3. AI Agent x Human Economy\n\nHai khối tính năng lớn màu cam ở lớp giữa (lớp AI Platform):\n- AI STUDIO\n- AI INFERENCING\n\nNgoài ra, trên sơ đồ còn có các nhãn tiếng Anh khác như:\n- Data In (ở dưới cùng bên trái)\n- Intelligence Out (ở trên cùng bên trái)\n- Các thành phần nhỏ hơn trong lớp AI Infrastructure gồm: \n  + GPC Cluster\n  + NVIDIA Base Map\n  + NVIDIA\n  + Vector Hosting\n  + Google\n  + MEDIA HCI (K8S & MLOPS)\n  + High-Performance Storage\n- Các thành phần nhỏ hơn trong lớp AI Platform gồm:\n  + Data Hub\n  + AI Notebook\n  + Model Training\n  + Model Hub\n  + Dataset Management\n- Các thành phần nhỏ hơn trong lớp AI Agent x Human Economy gồm:\n  + Training Agent\n  + Creative Agent\n  + Customer Agent\n  + Employee Agent\n\nKhông có đơn vị, trục, chú giải hay con số cụ thể nào xuất hiện trên sơ đồ này.\n\nTóm lại, sơ đồ kiến trúc nền tảng AI có chủ quyền của FPT trên trang 51 có đầy đủ ba lớp chính tiếng Anh từ dưới lên trên là: AI Infrastructure, AI Platform, AI Agent x Human Economy; và hai khối tính năng lớn màu cam ở lớp giữa là AI STUDIO và AI INFERENCING."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 11968.48,
+    "llm_tokens": 19770,
+    "llm_cost_usd": 0.008975
+  },
+  {
+    "query_id": "adv_dev_mh01",
+    "split": "dev",
+    "question": "So sánh giữa 'Kế hoạch năm 2026' (biểu đồ Doanh thu khối Công nghệ) với 'Cơ cấu doanh thu năm 2025' theo biểu đồ hình vành khăn trong Báo cáo BĐH: doanh thu Khối Công nghệ năm 2025 là bao nhiêu tỷ VNĐ, kế hoạch năm 2026 là bao nhiêu tỷ VNĐ, và mức tăng tuyệt đối tính bằng tỷ VNĐ (cùng tỷ lệ % tăng) là bao nhiêu?",
+    "status": "answered",
+    "answer": "Doanh thu Khối Công nghệ năm 2025 theo biểu đồ hình vành khăn là 44.475 tỷ VNĐ, chiếm 63,4% tổng doanh thu 70.113 tỷ VNĐ, với mức tăng 13,7% so với năm trước. Kế hoạch doanh thu năm 2026 cho Khối Công nghệ là 52.650 tỷ VNĐ, tăng 18,4% so với năm 2025. Mức tăng tuyệt đối doanh thu từ năm 2025 lên kế hoạch năm 2026 là 52.650 - 44.475 = 8.175 tỷ VNĐ, tương ứng tỷ lệ tăng 18,4%.\n\nCác số liệu này được xác nhận trên biểu đồ cột và biểu đồ hình vành khăn trong Báo cáo thường niên FPT 2025 trang 55 và trang 60.\n\n[adv:fpt2025:p055:t000] [adv:fpt2025:p060:t000] [adv:fpt2025:p060:v000]",
+    "citations": [
+      "adv:fpt2025:p055:t000",
+      "adv:fpt2025:p060:t000",
+      "adv:fpt2025:p060:v000"
+    ],
+    "context": "[adv:fpt2025:p060:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 60]\n[Trang 60 - Text | Phân tích kết quả kinh doanh theo khối]\nCơ cấu lợi nhuận trước thuế theo khối\n13.044\n17,8%\n5.907 45,3%\n12,9%\n2.773 21,2%\n23,1%\n4.364 33,5%\n21,6%\nPhân tích kết quả kinh doanh theo khối\nĐể phản ánh đúng mô hình hoạt động của Tập đoàn, kết quả kinh doanh được phân tích theo từng khối và phân tách theo từng lĩnh vực cụ thể. Cách tiếp cận này giúp đánh giá\nchính xác, hiệu quả vận hành và đóng góp của từng lĩnh vực hoạt động vào tăng trưởng chung của Tập đoàn. Cụ thể, hoạt động kinh doanh của Tập đoàn được chia thành\nba khối chính, bao gồm: khối Công nghệ với hai lĩnh vực là Dịch vụ CNTT cho thị trường nước ngoài và Dịch vụ CNTT cho thị trường trong nước; khối Viễn thông với\nhai lĩnh vực Dịch vụ Viễn thông và Dịch vụ Nội dung số; khối Giáo dục, Đầu tư và Khác.\nCơ cấu doanh thu theo khối\nKhối Công nghệ\nKhối Viễn thông\nKhối Giáo dục, Đầu tư và Khác\n70.113\n11,6%\n44.475 63,4%\n19.507 27,8%\n10,8%\n6.132 8,8%\n0,05%\n13,7%\nĐơn vị: Tỷ VNĐ\n\n[adv:fpt2025:p060:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 60]\n[Trang 60 - Text | Phân tích kết quả kinh doanh theo khối]\no khối\nKhối Công nghệ\nKhối Viễn thông\nKhối Giáo dục, Đầu tư và Khác\n70.113\n11,6%\n44.475 63,4%\n19.507 27,8%\n10,8%\n6.132 8,8%\n0,05%\n13,7%\nĐơn vị: Tỷ VNĐ\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nBáo cáo của Ban Điều hành về\nkết quả kinh doanh 2025 và\nnhận định 2026\nĐánh giá của HĐQT về hoạt động\ncủa Tập đoàn\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n59\n\n[adv:fpt2025:p060:v000 | FPT Báo cáo thường niên 2025 (232 trang) | page 60]\n[Trang 60 - Vision/Multimodal | Phân tích kết quả kinh doanh theo khối]\nMô tả trực quan:\nTrang trình bày có logo FPT và tiêu đề 'Làm chủ công nghệ chiến lược - Báo cáo thường niên 2025'. Bên trái là mục lục với phần 'Phân tích hoạt động kinh doanh' được đánh dấu. Phần chính trang gồm đoạn văn giải thích cách phân tích kết quả kinh doanh theo ba khối chính của Tập đoàn. Phía dưới là hai biểu đồ hình tròn (doughnut charts) thể hiện cơ cấu doanh thu và cơ cấu lợi nhuận trước thuế theo khối. Mỗi biểu đồ chia thành ba phần màu cam (Khối Công nghệ), xanh dương (Khối Viễn thông), xanh lá (Khối Giáo dục, Đầu tư và Khác). Các số liệu chính được đặt ở giữa biểu đồ với các mũi tên tăng màu xanh lá thể hiện tỷ lệ tăng trưởng phần trăm. Có chú thích màu sắc tương ứng với từng khối ở dưới cùng bên phải. Đơn vị tính là tỷ VNĐ.\n\nSố liệu biểu đồ & bảng biểu:\nCơ cấu doanh thu theo khối (đơn vị: tỷ VNĐ):\n- Tổng doanh thu: 70.113 (tăng 11,6%)\n- Khối Công nghệ: 44.475 (63,4%, tăng 13,7%)\n- Khối Viễn thông: 19.507 (27,8%, tăng 10,8%)\n- Khối Giáo dục, Đầu tư và Khác: 6.132 (8,8%, tăng 0,05%)\n\nCơ cấu lợi nhuận trước thuế theo khối (đơn vị: tỷ VNĐ):\n- Tổng lợi nhuận trước thuế: 13.044 (tăng 17,8%)\n- Khối Công nghệ: 5.907 (45,3%, tăng 12,9%)\n- Khối Viễn thông: 4.364 (33,5%, tăng 21,6%)\n- Khối Giáo dục, Đầu tư và Khác: 2.773 (21,2%, tăng 23,1%)\n\n[adv:fpt2025:p055:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 55]\n[Trang 55 - Text | KẾ HOẠCH NĂM 2026]\nĐơn vị: Tỷ VNĐ\nKẾ HOẠCH NĂM 2026\nCác mục tiêu chủ yếu\nKhối\nNgân sách\nđầu tư\nChú thích\nKhối Công nghệ\nTổng cộng\n7.200\nKhối Giáo dục,\nĐầu tư và Khác\nĐầu tư mở rộng các khu tổ hợp văn phòng tại các thành phố lớn như: Hà Nội, Tp.Hồ Chí Minh, Bình Định.\nĐầu tư mở rộng các khuôn viên Đại học tại Hà Nội, Tp.Hồ Chí Minh và Đà Nẵng, đồng thời mở rộng thêm cơ sở đào tạo mới tại\ncác tỉnh, thành trên toàn quốc.\n(Đối với số liệu năm 2026, Tập đoàn hợp nhất Công ty Cổ phần Viễn thông FPT (FPT Telecom) theo phương pháp vốn chủ sở hữu, số liệu năm 2025 đã được điều chỉnh theo\ncùng phương pháp nhằm đảm bảo tính nhất quán và khả năng so sánh.)\nKế hoạch đầu tư dự kiến\n4.200\n3.000\nso với\ncùng kỳ\n15,8%\nDoanh thu\nTỷ VNĐ\n58.580\nKhối Công nghệ\n44.475\n52.650\n6.132\n5.930\nKhối Giáo dục,\nĐầu tư và Khác\nĐơn vị: Tỷ VNĐ\nNăm 2026\nNăm 2025\n60.000\n50.000\n40.000\n30.000\n20.000\n10.000\n0\n18,4%\n3,3%\nso với\ncùng kỳ\n15,0%",
+    "context_ids": [
+      "adv:fpt2025:p060:t000",
+      "adv:fpt2025:p060:t001",
+      "adv:fpt2025:p060:v000",
+      "adv:fpt2025:p055:t000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Doanh thu khối Công nghệ năm 2025 kế hoạch năm 2026 biểu đồ",
+        "results": [
+          {
+            "id": "adv:fpt2025:p055:v001",
+            "page": 55,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p055:v000",
+            "page": 55,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p055:t000",
+            "page": 55,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p055:t001",
+            "page": 55,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p008:t002",
+            "page": 8,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p055:v001",
+          "adv:fpt2025:p055:v000",
+          "adv:fpt2025:p055:t000",
+          "adv:fpt2025:p055:t001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p055:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p055:t000",
+            "page": 55,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p055:t001",
+            "page": 55,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p055:v000",
+            "page": 55,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p055:v001",
+            "page": 55,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p055:t000",
+          "adv:fpt2025:p055:t001",
+          "adv:fpt2025:p055:v000",
+          "adv:fpt2025:p055:v001"
+        ],
+        "visual_observation": "Trên trang 55 của Báo cáo thường niên FPT 2025, tại biểu đồ cột mục \"Doanh thu\" có số liệu về doanh thu Khối Công nghệ năm 2025 và kế hoạch năm 2026 như sau:\n\n- Năm 2025: 44.475 tỷ VNĐ\n- Năm 2026 (kế hoạch): 52.650 tỷ VNĐ\n\nĐơn vị thể hiện là Tỷ VNĐ.\n\nNhư vậy, số liệu doanh thu Khối Công nghệ năm 2025 là 44.475 tỷ VNĐ và kế hoạch năm 2026 là 52.650 tỷ VNĐ, được thể hiện rõ trên biểu đồ cột ở trang này."
+      },
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Cơ cấu doanh thu năm 2025 Khối Công nghệ biểu đồ hình vành khăn",
+        "results": [
+          {
+            "id": "adv:fpt2025:p055:v001",
+            "page": 55,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p060:v000",
+            "page": 60,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p060:t000",
+            "page": 60,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p055:v000",
+            "page": 55,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p058:v000",
+            "page": 58,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p055:t000",
+          "adv:fpt2025:p055:t001",
+          "adv:fpt2025:p055:v000",
+          "adv:fpt2025:p055:v001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p060:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p060:t000",
+            "page": 60,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p060:t001",
+            "page": 60,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p060:v000",
+            "page": 60,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p060:t000",
+          "adv:fpt2025:p060:t001",
+          "adv:fpt2025:p060:v000",
+          "adv:fpt2025:p055:t000"
+        ],
+        "visual_observation": "Trên trang 60 của Báo cáo thường niên FPT 2025, biểu đồ hình vành khăn thể hiện \"Cơ cấu doanh thu theo khối\" với các số liệu cụ thể như sau:\n\n- Tổng doanh thu: 70.113 tỷ VNĐ, tăng 11,6%\n- Cơ cấu doanh thu theo khối:\n  + Khối Công nghệ: 44.475 tỷ VNĐ, chiếm 63,4%, tăng 13,7%\n  + Khối Viễn thông: 19.507 tỷ VNĐ, chiếm 27,8%, tăng 10,8%\n  + Khối Giáo dục, Đầu tư và Khác: 6.132 tỷ VNĐ, chiếm 8,8%, tăng 0,05%\n\nĐơn vị: Tỷ VNĐ\n\nNhư vậy, số liệu cơ cấu doanh thu năm 2025 Khối Công nghệ theo biểu đồ hình vành khăn là 44.475 tỷ VNĐ, chiếm 63,4% tổng doanh thu, tăng 13,7%."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 17214.34,
+    "llm_tokens": 47527,
+    "llm_cost_usd": 0.020338
+  },
+  {
+    "query_id": "adv_dev_mh02",
+    "split": "dev",
+    "question": "Tổng hợp hai chỉ số ESG về đào tạo nội bộ và văn phòng xanh năm 2025: tổng số giờ đào tạo nội bộ toàn Tập đoàn năm 2025 đạt bao nhiêu giờ (riêng chương trình Mentor-Mentee đóng góp bao nhiêu giờ), và trong năm 2025 tỷ lệ số hóa tài liệu điện tử cùng tỷ lệ cuộc họp trực tuyến của FPT đạt chính xác bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Tổng số giờ đào tạo nội bộ toàn Tập đoàn năm 2025 là 7.121.722 giờ, trong đó chương trình Mentor-Mentee đóng góp 209.138 giờ. Về tỷ lệ số hóa tài liệu điện tử năm 2025, FPT đạt 95,42%. Tỷ lệ cuộc họp trực tuyến năm 2025 đạt 94,0%.\n\nThông tin về giờ đào tạo nội bộ và chương trình Mentor-Mentee được xác nhận trên trang 138 của Báo cáo thường niên FPT 2025 [adv:fpt2025:p138:t000] [adv:fpt2025:p138:t001] [adv:fpt2025:p138:t002].\nThông tin về tỷ lệ số hóa tài liệu điện tử và tỷ lệ cuộc họp trực tuyến năm 2025 được xác nhận trên trang 152 của Báo cáo thường niên FPT 2025 nhưng không có chunk text hợp lệ để trích dẫn trực tiếp trong danh sách cho phép hiện tại.",
+    "citations": [
+      "adv:fpt2025:p138:t000",
+      "adv:fpt2025:p138:t001",
+      "adv:fpt2025:p138:t002"
+    ],
+    "context": "[adv:fpt2025:p138:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 138]\n[Trang 138 - Text | Cơ hội học hỏi và thăng tiến]\nTại FPT, phát triển nguồn nhân lực được xác định là trụ cột chiến lược nhằm duy trì\nnăng lực cạnh tranh và vị thế công ty công nghệ đẳng cấp toàn cầu. Năm 2025,\nTập đoàn triển khai sâu rộng các chương trình đào tạo theo nhiều hình thức, nổi bật\nlà hệ thống MOOCs với hơn 3 triệu giờ học, tỷ lệ hoàn thành đạt 99,7%; 100%\nCBNV từ cấp 02 trở lên tham gia đào tạo thường niên và được cấp tài khoản học tập\ntrực tuyến. Tập đoàn cũng cung cấp hơn 63.000 tài khoản học tập trên các nền tảng\nuy tín như: Udemy, LinkedIn, Harvard, DataCamp, Coursera tạo điều kiện cho\nCBNV chủ động nâng cao năng lực chuyên môn và kỹ năng.\nBên cạnh đó, mô hình Mentor – Mentee tiếp tục được mở rộng, thu hút 1.581\nMentor và 10.606 Mentee tham gia với 209.138 giờ sinh hoạt, cao hơn 2,1 lần so với\nnăm 2024, góp phần lan tỏa tri thức và kinh nghiệm quản lý trong nội bộ. Công tác\n\n[adv:fpt2025:p138:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 138]\n[Trang 138 - Text | Cơ hội học hỏi và thăng tiến]\n06 Mentee tham gia với 209.138 giờ sinh hoạt, cao hơn 2,1 lần so với\nnăm 2024, góp phần lan tỏa tri thức và kinh nghiệm quản lý trong nội bộ. Công tác\nphát triển đội ngũ quản lý được đẩy mạnh thông qua các chương trình MiniMBA và\nđào tạo cán bộ quản lý cấp trung với hơn 47.000 giờ học trong năm 2025 tập trung\nnâng cao năng lực quản trị, điều hành và xây dựng đội ngũ lãnh đạo kế cận.\nSong song, FPT triển khai đào tạo diện rộng cho khối công nghệ và khối quản trị\n– vận hành, đặc biệt chú trọng đào tạo về xu hướng công nghệ, AI và ESG. Nổi bật là\nchuỗi chương trình đào tạo Bình dân AI vụ giúp 98% CBNV trang bị kiến thức AI\nnền tảng, tương ứng hơn 1,1 triệu giờ học. Chuỗi chương trình quản trị trải nghiệm học\ntập - Contest gồm 09 cuộc thi với 2.731 CBNV tham dự, góp phần nâng cao năng lực\nchuyên môn, kỹ năng mềm, khuyến khích đổi mới sáng tạo và phát huy giá trị cốt lõi.\n\n[adv:fpt2025:p138:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 138]\n[Trang 138 - Text | Cơ hội học hỏi và thăng tiến]\ngồm 09 cuộc thi với 2.731 CBNV tham dự, góp phần nâng cao năng lực\nchuyên môn, kỹ năng mềm, khuyến khích đổi mới sáng tạo và phát huy giá trị cốt lõi.\nTổng số giờ đào tạo nội bộ giai đoạn 2021-2025\n2021\n2022\n2023\n2024\n2025\n8.000.000\n6.000.000\n4.000.000\n2.000.000\n0\n3.414.168\n3.803.220\n5.588.966\n6.365.814\n7.121.722\nĐơn vị: Giờ\n• Đào tạo phát triển\nCơ hội học hỏi và thăng tiến\nFPT cam kết phát triển nguồn nhân lực chất lượng cao không chỉ cho nội bộ Tập đoàn\nmà còn đóng góp cho nền kinh tế Việt Nam. Trong năm qua, FPT đã và đang đào tạo\nhàng trăm nghìn người học từ cấp phổ thông cho đến đại học và sau đại học, đồng thời\nmở rộng hợp tác với các tổ chức đào tạo uy tín trên thế giới cũng như các trường\nđại học hàng đầu trong nước.\nTrên bình diện quốc tế, FPT hợp tác với các đối tác hàng đầu để triển khai các\nchương trình đào tạo về công nghệ mới, trọng tâm là AI và chip bán dẫn. Tại Việt Nam,\n\n[adv:fpt2025:p138:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 138]\n[Trang 138 - Text | Cơ hội học hỏi và thăng tiến]\nquốc tế, FPT hợp tác với các đối tác hàng đầu để triển khai các\nchương trình đào tạo về công nghệ mới, trọng tâm là AI và chip bán dẫn. Tại Việt Nam,\nTập đoàn phối hợp chặt chẽ với các trường đại học thông qua các hoạt động thực tập,\nnghiên cứu, hỗ trợ học bổng, xây dựng học liệu và phòng thí nghiệm, cũng như tạo\ncơ hội việc làm cho sinh viên. Trong lĩnh vực nghiên cứu và phát triển, các bên cùng\nphát triển sản phẩm công nghệ mang thương hiệu chung và tổ chức các hội thảo\nkhoa học, góp phần lan tỏa tri thức và thúc đẩy hệ sinh thái đổi mới sáng tạo.\nMột số chương trình đào tạo tiêu biểu dành cho sinh viên và người mới tốt nghiệp\n(Fresher):\n• Chương trình thực tập từ 02-03 tháng tại FPT và công ty thành viên nhằm giúp củng\ncố kiến thức và kinh nghiệm làm việc thực tế thông qua sự hướng dẫn của các chuyên\ngia và lãnh đạo quản lý đã đón hơn 3.000 sinh viên thực tập trong năm 2025;",
+    "context_ids": [
+      "adv:fpt2025:p138:t000",
+      "adv:fpt2025:p138:t001",
+      "adv:fpt2025:p138:t002",
+      "adv:fpt2025:p138:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "giờ đào tạo nội bộ năm 2025 Mentor-Mentee",
+        "results": [
+          {
+            "id": "adv:fpt2025:p138:t001",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t000",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t002",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t003",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:v000",
+            "page": 138,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p138:t001",
+          "adv:fpt2025:p138:t000",
+          "adv:fpt2025:p138:t002",
+          "adv:fpt2025:p138:t003"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "tỷ lệ số hóa tài liệu điện tử năm 2025 tỷ lệ cuộc họp trực tuyến",
+        "results": [
+          {
+            "id": "adv:fpt2025:p152:t002",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t000",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t003",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t001",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:v000",
+            "page": 152,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p138:t001",
+          "adv:fpt2025:p152:t002",
+          "adv:fpt2025:p138:t000",
+          "adv:fpt2025:p152:t000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "văn phòng xanh ESG 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p153:t002",
+            "page": 153,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p153:t003",
+            "page": 153,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p153:v000",
+            "page": 153,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p109:t000",
+            "page": 109,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t003",
+            "page": 152,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p138:t001",
+          "adv:fpt2025:p152:t002",
+          "adv:fpt2025:p153:t002",
+          "adv:fpt2025:p138:t000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p138:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p138:t000",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t001",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t002",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t003",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t004",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:t005",
+            "page": 138,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p138:v000",
+            "page": 138,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p138:t000",
+          "adv:fpt2025:p138:t001",
+          "adv:fpt2025:p138:t002",
+          "adv:fpt2025:p138:t003"
+        ],
+        "visual_observation": "Tổng số giờ đào tạo nội bộ toàn Tập đoàn năm 2025 và giờ đào tạo chương trình Mentor-Mentee trên trang 138 của Báo cáo thường niên FPT 2025 được thể hiện như sau:\n\n1. Tổng số giờ đào tạo nội bộ toàn Tập đoàn năm 2025:\n- Con số là 7.121.722 giờ.\n- Đơn vị: Giờ.\n- Thông tin này được thể hiện trong biểu đồ cột với tiêu đề \"Tổng số giờ đào tạo nội bộ giai đoạn 2021-2025\".\n\n2. Giờ đào tạo chương trình Mentor-Mentee năm 2025:\n- Mô hình Mentor – Mentee thu hút 1.581 Mentor và 10.606 Mentee tham gia với 209.138 giờ sinh hoạt.\n- Thông tin này được nêu trong đoạn văn mô tả về mô hình Mentor – Mentee.\n\nTóm lại:\n- Tổng số giờ đào tạo nội bộ toàn Tập đoàn năm 2025 là 7.121.722 giờ.\n- Giờ đào tạo chương trình Mentor-Mentee năm 2025 là 209.138 giờ.\n\nThông tin này được đọc chính xác từ nhãn, tiêu đề, đơn vị, chú giải và con số trên trang 138."
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p152:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p152:t000",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t001",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t002",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:t003",
+            "page": 152,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p152:v000",
+            "page": 152,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p138:t000",
+          "adv:fpt2025:p138:t001",
+          "adv:fpt2025:p138:t002",
+          "adv:fpt2025:p138:t003"
+        ],
+        "visual_observation": "Trên trang 152 của Báo cáo thường niên FPT 2025, thông tin về:\n\n1. **Tỷ lệ số hóa tài liệu điện tử năm 2025**:\n- Tỷ lệ sử dụng paperless tại FPT đạt 95,42%.\n- Tỷ lệ văn bản phát hành điện tử năm 2025 là 95,42%.\n- Tỷ lệ văn bản cứng năm 2025 là 4,58%.\n\n2. **Tỷ lệ cuộc họp trực tuyến năm 2025**:\n- Tỷ lệ họp trực tuyến năm 2025 là 94,0%.\n- Tỷ lệ họp trực tiếp năm 2025 là 6,0%.\n\nNhư vậy, cả hai chỉ tiêu \"Tỷ lệ số hóa tài liệu điện tử\" và \"Tỷ lệ cuộc họp trực tuyến năm 2025\" đều có trên trang này với các con số cụ thể như trên."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 19129.32,
+    "llm_tokens": 41168,
+    "llm_cost_usd": 0.017933
+  },
+  {
+    "query_id": "adv_dev_mh03",
+    "split": "dev",
+    "question": "Kết hợp tổng hợp 'Trách nhiệm của HĐQT' và bảng 'Nội dung các phiên họp và Nghị quyết' năm 2025: trong cả năm 2025 HĐQT đã tổ chức bao nhiêu cuộc họp (chia theo trực tiếp và xin ý kiến văn bản) và ban hành tổng cộng bao nhiêu Nghị quyết; riêng trong Phiên 01 và Phiên 02 đầu năm đã ban hành bao nhiêu Nghị quyết và thông qua việc tái bổ nhiệm Tổng Giám đốc nào cho nhiệm kỳ ngày mấy đến ngày mấy?",
+    "status": "answered",
+    "answer": "Trong năm 2025, Hội đồng Quản trị (HĐQT) FPT đã tổ chức tổng cộng 07 cuộc họp, trong đó có 04 cuộc họp trực tiếp và 03 cuộc họp xin ý kiến bằng văn bản, và đã ban hành tổng cộng 08 Nghị quyết (thông tin chi tiết trên trang 82).\n\nRiêng trong năm 2025, Phiên họp 01 diễn ra ngày 05/02/2025 với 01 Nghị quyết ban hành (Nghị quyết số 01.01-2025/NQ-HĐQTFPT ngày 06/02/2025). Nội dung chính gồm: Thông qua Kết quả kinh doanh năm 2024; Kế hoạch kinh doanh năm 2025 và trình ĐHĐCĐ phê duyệt; Định hướng chiến lược 2025-2027 và các chương trình chiến lược trọng điểm; Thông qua ngày chốt danh sách và ngày họp ĐHĐCĐ.\n\nPhiên họp 02 diễn ra ngày 20/03/2025 với 02 Nghị quyết ban hành (Nghị quyết số 01.03-2025/NQ-HĐQTFPT và 02.03-2025/NQ-HĐQTFPT cùng ngày 20/03/2025). Nội dung chính gồm: Thông qua Chương trình ĐHĐCĐ thường niên 2025; Quy chế tổ chức ĐHĐCĐ thường niên 2025; Báo cáo của HĐQT năm 2024, định hướng và kế hoạch kinh doanh năm 2025; Ngân sách thu nhập và thù lao của HĐQT năm 2025; Báo cáo tài chính 2024 đã kiểm toán; Phương án phân phối lợi nhuận năm 2024, phát hành cổ phiếu tăng vốn; Chính sách chi trả cổ tức tiền mặt năm 2025; Ủy quyền cho HĐQT lựa chọn công ty kiểm toán; Phương án phát hành cổ phần cho cán bộ quản lý cấp cao giai đoạn 2026-2030; và việc tái bổ nhiệm Tổng giám đốc Nguyễn Văn Khoa nhiệm kỳ từ 29/03/2025 đến 28/03/2028 [adv:fpt2025:p083:t000][adv:fpt2025:p083:t001][adv:fpt2025:p083:t002].",
+    "citations": [
+      "adv:fpt2025:p083:t000",
+      "adv:fpt2025:p083:t001",
+      "adv:fpt2025:p083:t002"
+    ],
+    "context": "[adv:fpt2025:p083:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 83]\n[Trang 83 - Text | Nội dung các phiên họp và Nghị quyết]\nNội dung các phiên họp và Nghị quyết\nPhiên họp\nThành phần tham dự\nNội dung họp và Nghị quyết\nGhi chú\nPhiên 01\nNgày 05/02/2025\nHĐQT: 06/07 thành viên.\nQuan sát viên:\n• BKS: 03/03 thành viên;\n• Ban Điều hành: 03/03 thành viên.\nBan hành Nghị quyết số\n01.01-2025/NQ-HĐQTFPT ngày\n06/02/2025.\n• Thông qua Kết quả kinh doanh năm 2024;\n• Thông qua Kế hoạch kinh doanh năm 2025 và trình ĐHĐCĐ phê duyệt;\n• Thông qua Định hướng chiến lược 2025-2027, các chương trình\nchiến lược, kinh doanh trọng điểm và trình ĐHĐCĐ phê duyệt;\n• Thông qua ngày chốt danh sách và ngày họp ĐHĐCĐ.\nĐã công bố thông tin tại\nvăn bản số 24/FPT-FCC\nngày 06/02/2025.\nPhiên 02\nNgày 20/03/2025\nHĐQT: 07/07 thành viên.\nQuan sát viên:\n• BKS: 03/03 thành viên;\n• Ban Điều hành: 03/03 thành viên.\nBan hành 02 Nghị quyết:\n• Nghị quyết số\n01.03-2025/NQ-HĐQTFPT ngày\n20/03/2025;\n• Nghị quyết số\n02.03-2025/NQ-HĐQTFPT ngày\n20/03/2025.\n\n[adv:fpt2025:p083:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 83]\n[Trang 83 - Text | Nội dung các phiên họp và Nghị quyết]\n3/03 thành viên.\nBan hành 02 Nghị quyết:\n• Nghị quyết số\n01.03-2025/NQ-HĐQTFPT ngày\n20/03/2025;\n• Nghị quyết số\n02.03-2025/NQ-HĐQTFPT ngày\n20/03/2025.\n• Thông qua Chương trình ĐHĐCĐ thường niên 2025 và trình ĐHĐCĐ\nphê duyệt;\n• Thông qua Quy chế tổ chức ĐHĐCĐ thường niên 2025;\n• Thông qua Báo cáo của HĐQT năm 2024, định hướng, kế hoạch\nkinh doanh năm 2025 và trình ĐHĐCĐ phê duyệt;\n• Thông qua Ngân sách thu nhập và thù lao của HĐQT năm 2025 và\ntrình ĐHĐCĐ phê duyệt;\n• Thông qua Báo cáo tài chính 2024 đã kiểm toán và trình ĐHĐCĐ\nphê duyệt;\n• Thông qua Phương án phân phối lợi nhuận năm 2024, Phương án\nphát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu\ncho cổ đông, Chính sách chi trả cổ tức tiền mặt năm 2025 và trình\nĐHĐCĐ phê duyệt;\n• Thông qua đề xuất ủy quyền cho HĐQT lựa chọn một trong bốn\ncông ty kiểm toán (Big4) thực hiện kiểm toán Báo cáo tài chính năm\n\n[adv:fpt2025:p083:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 83]\n[Trang 83 - Text | Nội dung các phiên họp và Nghị quyết]\ntrình\nĐHĐCĐ phê duyệt;\n• Thông qua đề xuất ủy quyền cho HĐQT lựa chọn một trong bốn\ncông ty kiểm toán (Big4) thực hiện kiểm toán Báo cáo tài chính năm\n2025 và trình ĐHĐCĐ phê duyệt;\n• Thông qua đề xuất trình ĐHĐCĐ phê duyệt Phương án phát hành\ncổ phần cho cán bộ Quản lý cấp cao giai đoạn 2026-2030;\n• Thông qua việc tái bổ nhiệm Tổng giám đốc Nguyễn Văn Khoa\nnhiệm kỳ ba năm tiếp theo từ 29/03/2025 đến hết ngày\n28/03/2028;\nĐã công bố thông tin tại\nvăn bản số 60/FPT-FMC\nvà 62/FPT-FMC ngày\n21/03/2025.\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\nMô hình quản trị và vai trò của\ncác bên liên quan\nQuản trị công ty năm 2025\nBáo cáo của HĐQT\nBáo cáo của Ban Kiểm soát\n06\n01\n02\n03\n04\n05\n06\n07\n08\n82\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n\n[adv:fpt2025:p083:v000 | FPT Báo cáo thường niên 2025 (232 trang) | page 83]\n[Trang 83 - Vision/Multimodal | Nội dung các phiên họp và Nghị quyết]\nMô tả trực quan:\nTrang trình bày nội dung các phiên họp và nghị quyết của Hội đồng Quản trị (HĐQT) FPT năm 2025. Bố cục gồm bảng 4 cột: Phiên họp, Thành phần tham dự, Nội dung họp và Nghị quyết, Ghi chú. Bên trái trang có thanh mục lục màu xanh nhạt với logo FPT và các mục chính của báo cáo thường niên. Không có hình ảnh hay biểu đồ nào khác.\nSố liệu biểu đồ & bảng biểu:\n| Phiên họp | Thành phần tham dự | Nội dung họp và Nghị quyết | Ghi chú |\n|-----------|---------------------|-----------------------------|---------|\n| Phiên 01 Ngày 05/02/2025 | HĐQT: 06/07 thành viên. Quan sát viên: - BKS: 03/03 thành viên; - Ban Điều hành: 03/03 thành viên. Ban hành Nghị quyết số 01.01-2025/NQ-HĐQTFPT ngày 06/02/2025. | - Thông qua Kết quả kinh doanh năm 2024;\n- Thông qua Kế hoạch kinh doanh năm 2025 và trình ĐHĐCĐ phê duyệt;\n- Thông qua Định hướng chiến lược 2025-2027, các chương trình chiến lược, kinh doanh trọng điểm và trình ĐHĐCĐ phê duyệt;\n- Thông qua ngày chốt danh sách và ngày họp ĐHĐCĐ. | Đã công bố thông tin tại văn bản số 24/FPT-FCC ngày 06/02/2025. |\n| Phiên 02 Ngày 20/03/2025 | HĐQT: 07/07 thành viên. Quan sát viên: - BKS: 03/03 thành viên; - Ban Điều hành: 03/03 thành viên. Ban hành 02 Nghị quyết: - Nghị quyết số 01.03-2025/NQ-HĐQTFPT ngày 20/03/2025;",
+    "context_ids": [
+      "adv:fpt2025:p083:t000",
+      "adv:fpt2025:p083:t001",
+      "adv:fpt2025:p083:t002",
+      "adv:fpt2025:p083:v000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Trách nhiệm của HĐQT năm 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p082:t002",
+            "page": 82,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p082:t000",
+            "page": 82,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p082:t001",
+            "page": 82,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p089:t004",
+            "page": 89,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p085:t001",
+            "page": 85,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p082:t002",
+          "adv:fpt2025:p082:t000",
+          "adv:fpt2025:p082:t001",
+          "adv:fpt2025:p089:t004"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "Nội dung các phiên họp và Nghị quyết năm 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p083:t000",
+            "page": 83,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p083:v000",
+            "page": 83,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p083:t001",
+            "page": 83,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p084:t001",
+            "page": 84,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p084:t002",
+            "page": 84,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p083:t000",
+          "adv:fpt2025:p082:t002",
+          "adv:fpt2025:p083:v000",
+          "adv:fpt2025:p082:t000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p082:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p082:t000",
+            "page": 82,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p082:t001",
+            "page": 82,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p082:t002",
+            "page": 82,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p082:v000",
+            "page": 82,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p082:t000",
+          "adv:fpt2025:p082:t001",
+          "adv:fpt2025:p082:t002",
+          "adv:fpt2025:p082:v000"
+        ],
+        "visual_observation": "Trên trang 82 của Báo cáo thường niên FPT 2025, thông tin về số cuộc họp trực tiếp và xin ý kiến văn bản của HĐQT năm 2025, tổng số Nghị quyết ban hành được thể hiện rõ như sau:\n\n- Số cuộc họp trực tiếp: 04 cuộc họp\n- Số cuộc họp xin ý kiến bằng văn bản: 03 cuộc họp\n- Tổng số Nghị quyết ban hành: 08 Nghị quyết\n\nThông tin này được trình bày trong khung màu xanh ở phía trên bên phải trang, với các con số lớn và chú thích cụ thể."
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p083:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p083:t000",
+            "page": 83,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p083:t001",
+            "page": 83,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p083:t002",
+            "page": 83,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p083:v000",
+            "page": 83,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p083:v001",
+            "page": 83,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p083:t000",
+          "adv:fpt2025:p083:t001",
+          "adv:fpt2025:p083:t002",
+          "adv:fpt2025:p083:v000"
+        ],
+        "visual_observation": "Dưới đây là thông tin kiểm chứng chính xác từ trang 83 của Báo cáo thường niên FPT 2025:\n\n1. Số lượng Nghị quyết ban hành trong Phiên 01 và Phiên 02 năm 2025:\n- Phiên 01 ban hành 01 Nghị quyết:\n  + Nghị quyết số 01.01-2025/NQ-HĐQTFPT ngày 06/02/2025.\n- Phiên 02 ban hành 02 Nghị quyết:\n  + Nghị quyết số 01.03-2025/NQ-HĐQTFPT ngày 20/03/2025;\n  + Nghị quyết số 02.03-2025/NQ-HĐQTFPT ngày 20/03/2025.\n\n2. Ngày họp:\n- Phiên 01: Ngày 05/02/2025.\n- Phiên 02: Ngày 20/03/2025.\n\n3. Nội dung chính:\n- Phiên 01:\n  + Thông qua Kết quả kinh doanh năm 2024;\n  + Thông qua Kế hoạch kinh doanh năm 2025 và trình ĐHĐCĐ phê duyệt;\n  + Thông qua Định hướng chiến lược 2025-2027, các chương trình chiến lược, kinh doanh trọng điểm và trình ĐHĐCĐ phê duyệt;\n  + Thông qua ngày chốt danh sách và ngày họp ĐHĐCĐ.\n\n- Phiên 02:\n  + Thông qua Chương trình ĐHĐCĐ thường niên 2025 và trình ĐHĐCĐ phê duyệt;\n  + Thông qua Quy chế tổ chức ĐHĐCĐ thường niên 2025;\n  + Thông qua Báo cáo của HĐQT năm 2024, định hướng, kế hoạch kinh doanh năm 2025 và trình ĐHĐCĐ phê duyệt;\n  + Thông qua Ngân sách thu nhập và thù lao của HĐQT năm 2025 và trình ĐHĐCĐ phê duyệt;\n  + Thông qua Báo cáo tài chính 2024 đã kiểm toán và trình ĐHĐCĐ phê duyệt;\n  + Thông qua Phương án phân phối lợi nhuận năm 2024, Phương án phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu cho cổ đông, Chính sách chi trả cổ tức tiền mặt năm 2025 và trình ĐHĐCĐ phê duyệt;\n  + Thông qua đề xuất ủy quyền cho HĐQT lựa chọn một trong bốn công ty kiểm toán (Big4) thực hiện kiểm toán Báo cáo tài chính năm 2025 và trình ĐHĐCĐ phê duyệt;\n  + Thông qua đề xuất trình ĐHĐCĐ phê duyệt Phương án phát hành cổ phần cho cán bộ Quản lý cấp cao giai đoạn 2026-2030;\n  + Thông qua việc tái bổ nhiệm Tổng giám đốc Nguyễn Văn Khoa nhiệm kỳ ba năm tiếp theo từ 29/03/2025 đến hết ngày 28/03/2028.\n\n4. Việc tái bổ nhiệm Tổng Giám đốc:\n- Được thông qua tại Phiên 02.\n- Tái bổ nhiệm Tổng giám đốc Nguyễn Văn Khoa nhiệm kỳ ba năm tiếp theo từ 29/03/2025 đến hết ngày 28/03/2028.\n\nTóm lại, trang này có đầy đủ thông tin về số lượng nghị quyết, ngày họp, nội dung chính của Phiên 01 và Phiên 02 năm 2025, cũng như việc tái bổ nhiệm Tổng Giám đốc."
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 26800.31,
+    "llm_tokens": 50993,
+    "llm_cost_usd": 0.023122
+  },
+  {
+    "query_id": "adv_dev_u01",
+    "split": "dev",
+    "question": "Công suất lắp đặt tính bằng kWp (hoặc MWp) của hai hệ thống điện mặt trời mái nhà tại tòa nhà F-Complex (Đà Nẵng) và Data Center (TP.HCM) trong năm 2025 là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong Báo cáo thường niên FPT 2025 để trả lời câu hỏi này.",
+    "citations": [],
+    "context": "[adv:fpt2025:p147:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 147]\n[Trang 147 - Text | Biện pháp giảm phát thải khí nhà kính]\nFPT xây dựng kế hoạch giảm thiểu lượng phát thải khí nhà kính từ hai nguồn phát\nsinh lớn thuộc Phạm vi 1 và Phạm vi 2, cũng như từ tất cả các nguồn phát sinh khác,\ncụ thể như sau:\n• Đối với Phạm vi 1 và Phạm vi 2, FPT triển khai các chương trình tiết kiệm điện và\nnăng lượng, hướng tới việc sử dụng năng lượng xanh và năng lượng tái tạo;\n• Các tòa nhà là nguồn tiêu thụ năng lượng chủ yếu, do đó, Tập đoàn chủ động\ntriển khai các sáng kiến tiết kiệm năng lượng trên nền tảng hạ tầng hiện hữu.\nThông qua việc ứng dụng các công nghệ tiên tiến và tăng cường hợp tác với các\nchuyên gia, FPT từng bước nâng cao hiệu quả sử dụng năng lượng, hướng tới hệ thống\nhạ tầng thân thiện hơn với môi trường;\n• Các lĩnh vực trọng tâm trong triển khai các biện pháp tiết kiệm năng lượng bao gồm:\ntối ưu hệ thống chiếu sáng, hệ thống điều hòa không khí (HVAC), tự động hóa tòa\n\n[adv:fpt2025:p147:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 147]\n[Trang 147 - Text | Biện pháp giảm phát thải khí nhà kính]\ntrọng tâm trong triển khai các biện pháp tiết kiệm năng lượng bao gồm:\ntối ưu hệ thống chiếu sáng, hệ thống điều hòa không khí (HVAC), tự động hóa tòa\nnhà, hệ thống UPS, mặt dựng công trình, trung tâm dữ liệu và phòng máy chủ.\nThông qua các sáng kiến này, FPT hướng tới giảm thiểu tác động môi trường\nsong song với việc nâng cao hiệu quả vận hành.\nViệc giảm 8,58% tổng mức tiêu thụ điện so với năm 2024 phản ánh những nỗ lực\nnhất quán và có hệ thống của Tập đoàn trong triển khai các giải pháp tiết kiệm\nnăng lượng. Kết quả này đạt được nhờ việc ứng dụng các giải pháp quản lý và tối ưu\ntiêu thụ điện thông minh, kết hợp với các chương trình truyền thông và đào tạo\nnội bộ nhằm nâng cao nhận thức, thay đổi hành vi sử dụng năng lượng của CBNV\ntrong hoạt động hàng ngày.\nĐặc biệt, việc đầu tư và từng bước xây dựng các hệ thống năng lượng sạch đã đóng\n\n[adv:fpt2025:p147:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 147]\n[Trang 147 - Text | Biện pháp giảm phát thải khí nhà kính]\nay đổi hành vi sử dụng năng lượng của CBNV\ntrong hoạt động hàng ngày.\nĐặc biệt, việc đầu tư và từng bước xây dựng các hệ thống năng lượng sạch đã đóng\nvai trò quan trọng, không chỉ giúp giảm nhu cầu sử dụng điện từ nguồn truyền\nthống mà còn tạo nền tảng cho quá trình chuyển dịch năng lượng bền vững trong\ndài hạn. Các nỗ lực này cho thấy cách tiếp cận toàn diện của Tập đoàn, kết hợp\nđồng thời giữa giải pháp công nghệ, yếu tố con người và định hướng đầu tư hạ tầng,\ngóp phần hiện thực hóa các mục tiêu sử dụng năng lượng hiệu quả và giảm phát\nthải trong lộ trình Net Zero.\nTrong năm 2025, FPT hoàn thành và đưa vào hoạt động hai hệ thống điện mặt trời\nmái nhà tại tòa nhà F-Complex (Đà Nẵng) và Data Center (Tp.Hồ Chí Minh) tạo ra\n842.749 kWh điện.\nBảng tổng hợp so sánh kết quả tiêu thụ điện\n• Biện pháp giảm phát thải khí nhà kính\nĐơn vị: kWh\nĐiện mặt trời mái nhà\nChênh lệch\n-8,58%\n-\n-\nNăm 2025\n\n[adv:fpt2025:p147:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 147]\n[Trang 147 - Text | Biện pháp giảm phát thải khí nhà kính]\n.\nBảng tổng hợp so sánh kết quả tiêu thụ điện\n• Biện pháp giảm phát thải khí nhà kính\nĐơn vị: kWh\nĐiện mặt trời mái nhà\nChênh lệch\n-8,58%\n-\n-\nNăm 2025\n187.453.013\n842.749\n0,45%\nNăm 2024\n205.053.314\n0\n0%\nDanh mục\nTiêu thụ điện\nĐiện từ năng lượng tái tạo\nTỷ lệ điện từ năng lượng tái\ntạo so với điện tiêu thụ\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nThông điệp và định hướng ESG\nQuản trị hướng đến phát triển bền vững\nMôi trường làm việc đẳng cấp,\nhạnh phúc\nHoạt động vì môi trường xanh\nSong hành vì sự phát triển cộng đồng\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n146\nHệ thống điện mặt trời mái nhà tại tòa nhà F-Complex (Đà Nẵng).",
+    "context_ids": [
+      "adv:fpt2025:p147:t000",
+      "adv:fpt2025:p147:t001",
+      "adv:fpt2025:p147:t002",
+      "adv:fpt2025:p147:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "công suất lắp đặt kWp MWp hệ thống điện mặt trời mái nhà F-Complex Đà Nẵng Data Center TP.HCM 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p147:t002",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p114:t002",
+            "page": 114,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p114:t001",
+            "page": 114,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t001",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t003",
+            "page": 147,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p147:t002",
+          "adv:fpt2025:p114:t002",
+          "adv:fpt2025:p114:t001",
+          "adv:fpt2025:p147:t001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p147:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p147:t000",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t001",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t002",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t003",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:v000",
+            "page": 147,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p147:t000",
+          "adv:fpt2025:p147:t001",
+          "adv:fpt2025:p147:t002",
+          "adv:fpt2025:p147:t003"
+        ],
+        "visual_observation": "Trên trang 147 của Báo cáo thường niên FPT 2025 (vùng full) không có thông tin về công suất lắp đặt kWp hoặc MWp của hệ thống điện mặt trời mái nhà tại tòa nhà F-Complex (Đà Nẵng) và Data Center (TP.HCM) năm 2025.\n\nTrang này chỉ có thông tin về:\n\n- Việc hoàn thành và đưa vào hoạt động hai hệ thống điện mặt trời mái nhà tại tòa nhà F-Complex (Đà Nẵng) và Data Center (TP.HCM) trong năm 2025 tạo ra 842.749 kWh điện.\n- Bảng tổng hợp so sánh kết quả tiêu thụ điện năm 2024 và 2025 (đơn vị kWh), trong đó có chỉ tiêu \"Điện từ năng lượng tái tạo\" năm 2025 là 842.749 kWh.\n- Tỷ lệ điện từ năng lượng tái tạo so với điện tiêu thụ năm 2025 là 0,45%.\n\nKhông có số liệu cụ thể về công suất lắp đặt (kWp hoặc MWp) của hệ thống điện mặt trời mái nhà tại hai địa điểm này trên trang này."
+      },
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "công suất lắp đặt kWp MWp hệ thống điện mặt trời mái nhà F-Complex Đà Nẵng Data Center TP.HCM",
+        "results": [
+          {
+            "id": "adv:fpt2025:p147:v000",
+            "page": 147,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p147:t003",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t001",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p111:t000",
+            "page": 111,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t002",
+            "page": 147,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p147:t000",
+          "adv:fpt2025:p147:t001",
+          "adv:fpt2025:p147:t002",
+          "adv:fpt2025:p147:t003"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "công suất lắp đặt kWp MWp hệ thống điện mặt trời mái nhà F-Complex Đà Nẵng Data Center TP.HCM 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p147:t002",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p114:t002",
+            "page": 114,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p114:t001",
+            "page": 114,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t001",
+            "page": 147,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p147:t003",
+            "page": 147,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p147:t000",
+          "adv:fpt2025:p147:t001",
+          "adv:fpt2025:p147:t002",
+          "adv:fpt2025:p147:t003"
+        ]
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "elapsed_ms": 13319.47,
+    "llm_tokens": 31212,
+    "llm_cost_usd": 0.013213
+  },
+  {
+    "query_id": "adv_dev_u02",
+    "split": "dev",
+    "question": "Lượng phát thải khí nhà kính Phạm vi 3 (Scope 3) cụ thể tính bằng tấn CO2 tương đương của Tập đoàn FPT trong năm 2025 là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong Báo cáo thường niên FPT 2025 để trả lời câu hỏi này.",
+    "citations": [],
+    "context": "[adv:fpt2025:p146:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 146]\n[Trang 146 - Text | Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính]\nFPT thực hiện kiểm kê và quản lý dấu chân carbon theo các chuẩn mực quốc tế\nđược công nhận, bao gồm Nghị định thư Khí nhà kính (GHG Protocol) của\nViện Tài nguyên thế giới (WRI) và tiêu chuẩn ISO 14040/14044.\nViệc nâng cao độ chính xác của dữ liệu phát thải được Tập đoàn xác định là một\nquá trình cải tiến liên tục. Trên cơ sở mở rộng nguồn dữ liệu, hoàn thiện phương\npháp tính toán và nâng cao năng lực phân tích, FPT định kỳ rà soát, cập nhật mô hình\nvà điều chỉnh lộ trình giảm phát thải phù hợp với từng giai đoạn phát triển và mức độ\nsẵn sàng của dữ liệu.\nFPT chủ động thực hiện kiểm kê phát thải khí nhà kính tại trụ sở chính, các toà nhà,\nđịa điểm kinh doanh tại Việt Nam của 08 công ty thành viên. Phạm vi xác định dấu\nchân carbon của FPT được xây dựng phù hợp với khuôn khổ GHG Protocol và các\nnguồn phát thải trọng yếu, có liên quan trực tiếp đến hoạt động của Tập đoàn,\n\n[adv:fpt2025:p146:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 146]\n[Trang 146 - Text | Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính]\nn carbon của FPT được xây dựng phù hợp với khuôn khổ GHG Protocol và các\nnguồn phát thải trọng yếu, có liên quan trực tiếp đến hoạt động của Tập đoàn,\ntrên cơ sở mức độ sẵn có và độ tin cậy của dữ liệu.\nCác nguồn phát thải khí nhà kính được FPT thực hiện kiểm kê trên 03 phạm vi bao gồm:\n• Phạm vi 1: Phát thải khí nhà kính trực tiếp phát sinh từ các nguồn do FPT sở hữu hoặc\nkiểm soát, bao gồm: tiêu thụ xăng dầu cho phương tiện đi lại thuộc sở hữu của\nTập đoàn, máy phát điện, thất thoát môi chất lạnh của hệ thống…;\n• Phạm vi 2: Phát thải khí nhà kính gián tiếp phát sinh từ việc sử dụng điện, nước được\nmua từ nhà cung cấp bên ngoài;\n• Phạm vi 3 (đang nghiên cứu): Phát thải khí nhà kính gián tiếp khác do các hoạt động\ncủa Tập đoàn nhưng từ các nguồn mà Tập đoàn không sở hữu.\nQuản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính\n• Phạm vi và phương pháp thu thập dữ liệu\n\n[adv:fpt2025:p146:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 146]\n[Trang 146 - Text | Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính]\nàn nhưng từ các nguồn mà Tập đoàn không sở hữu.\nQuản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính\n• Phạm vi và phương pháp thu thập dữ liệu\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nThông điệp và định hướng ESG\nQuản trị hướng đến phát triển bền vững\nMôi trường làm việc đẳng cấp,\nhạnh phúc\nHoạt động vì môi trường xanh\nSong hành vì sự phát triển cộng đồng\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n145\nNăm 2025, lượng phát thải khí nhà kính của FPT là 127.952 tấn CO2. Hai nguồn\nphát thải khí nhà kính phát sinh chủ yếu là xăng dầu dùng cho xe, máy phát điện\n(Phạm vi 1) và điện năng phục vụ cho sản xuất, vận hành máy móc thiết bị (Phạm vi\n2) thuộc sở hữu của FPT.\n\n[adv:fpt2025:p146:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 146]\n[Trang 146 - Text | Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính]\nyếu là xăng dầu dùng cho xe, máy phát điện\n(Phạm vi 1) và điện năng phục vụ cho sản xuất, vận hành máy móc thiết bị (Phạm vi\n2) thuộc sở hữu của FPT.\nNăm 2025, lượng phát thải khí nhà kính của FPT giảm so với năm 2024, trong khi\nhoạt động kinh doanh tiếp tục duy trì tăng trưởng cho thấy các nỗ lực tối ưu vận hành,\nứng dụng công nghệ và quản lý năng lượng đã phát huy hiệu quả, ngay cả khi quy mô\nhoạt động không ngừng mở rộng.\nNguồn phát thải khí nhà kính chủ yếu của Tập đoàn phát sinh từ Phạm vi 2, chiếm\nkhoảng 96% tổng lượng phát thải của toàn Tập đoàn. Trong đó, tiêu thụ điện năng\ntại các trung tâm Dữ liệu và tòa nhà văn phòng/ký túc xá là nguồn phát thải chính,\nphản ánh đặc thù hoạt động của FPT trong lĩnh vực công nghệ và dịch vụ.\nTrên hành trình hướng tới mục tiêu Net Zero vào năm 2040, Tập đoàn kiên định\ntập trung đầu tư vào các giải pháp dài hạn, nâng cao hiệu quả vận hành hạ tầng",
+    "context_ids": [
+      "adv:fpt2025:p146:t000",
+      "adv:fpt2025:p146:t001",
+      "adv:fpt2025:p146:t002",
+      "adv:fpt2025:p146:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "phát thải khí nhà kính Phạm vi 3 Scope 3 tấn CO2 tương đương năm 2025",
+        "results": [
+          {
+            "id": "adv:fpt2025:p146:v001",
+            "page": 146,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p146:t004",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p146:t003",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p119:v001",
+            "page": 119,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p146:t001",
+            "page": 146,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p146:v001",
+          "adv:fpt2025:p146:t004",
+          "adv:fpt2025:p146:t003",
+          "adv:fpt2025:p119:v001"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p146:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p146:t000",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p146:t001",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p146:t002",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p146:t003",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p146:t004",
+            "page": 146,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p146:v000",
+            "page": 146,
+            "modality": "multimodal"
+          },
+          {
+            "id": "adv:fpt2025:p146:v001",
+            "page": 146,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p146:t000",
+          "adv:fpt2025:p146:t001",
+          "adv:fpt2025:p146:t002",
+          "adv:fpt2025:p146:t003"
+        ],
+        "visual_observation": "Thông tin về \"Lượng phát thải khí nhà kính Phạm vi 3 (Scope 3) tính bằng tấn CO2 tương đương của Tập đoàn FPT năm 2025\" có trên trang 146 như sau:\n\n- Tiêu đề bảng: \"Tổng hợp lượng phát thải khí nhà kính của FPT năm 2025\"\n- Đơn vị: tấn CO2 tương đương\n- Dữ liệu phát thải khí nhà kính theo Phạm vi và năm:\n\n| Phạm vi   | Năm 2023       | Năm 2024                  | Năm 2025                  |\n|-----------|----------------|---------------------------|---------------------------|\n| Phạm vi 1 | 13.217         | 4.826                     | 4.383                     |\n| Phạm vi 2 | 109.696        | 138.748                   | 123.569                   |\n| Phạm vi 3 | Chưa triển khai| Triển khai thí điểm tại FPT Software | Triển khai tại FPT Software |\n\n- Tổng lượng phát thải khí nhà kính của FPT (tất cả các phạm vi cộng lại):\n  - Năm 2023: 122.913 tấn CO2 tương đương\n  - Năm 2024: 143.574 tấn CO2 tương đương\n  - Năm 2025: 127.952 tấn CO2 tương đương\n\nGiải thích thêm về Phạm vi 3 (đang nghiên cứu): \"Phát thải khí nhà kính gián tiếp khác do các hoạt động của Tập đoàn nhưng từ các nguồn mà Tập đoàn không sở hữu.\"\n\nKết luận:  \nLượng phát thải khí nhà kính Phạm vi 3 của Tập đoàn FPT năm 2025 chưa có con số cụ thể tính bằng tấn CO2 tương đương mà chỉ ghi nhận là \"Triển khai tại FPT Software\" (đang trong giai đoạn triển khai, chưa có số liệu định lượng)."
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "elapsed_ms": 10220.05,
+    "llm_tokens": 14807,
+    "llm_cost_usd": 0.006813
+  },
+  {
+    "query_id": "adv_dev_u03",
+    "split": "dev",
+    "question": "Đơn giá bán trung bình mỗi chip bán dẫn hoặc giá trị hợp đồng bàn giao lô chip nguồn đầu tiên cho đối tác Restar tại Nhật Bản năm 2025 là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong Báo cáo thường niên FPT 2025 để trả lời câu hỏi này.",
+    "citations": [],
+    "context": "[adv:fpt2025:p068:t000 | FPT Báo cáo thường niên 2025 (232 trang) | page 68]\n[Trang 68 - Text | Khẳng định vị thế dẫn đầu về AI – Bán dẫn, tạo động lực tăng trưởng dài hạn]\nBÁO CÁO THƯỜNG NIÊN 2025\nLÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\n01\n02\n03\n04\n05\n06\n07\n08\nBáo cáo của Ban Điều hành về\nkết quả kinh doanh 2025 và\nnhận định 2026\nĐánh giá của HĐQT về hoạt động\ncủa Tập đoàn\nTHÔNG ĐIỆP BAN LÃNH ĐẠO\nDẤU ẤN 2025\nTỔNG QUAN VỀ FPT\nCHIẾN LƯỢC PHÁT TRIỂN\nPHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nQUẢN TRỊ CÔNG TY\nBÁO CÁO ESG\nBÁO CÀO TÀI CHÍNH HỢP NHẤT\n67\nKhẳng định vị thế dẫn đầu về AI – Bán dẫn, tạo động lực tăng trưởng dài hạn\nNhờ định hướng đúng đắn và những nỗ lực không ngừng của đội ngũ nghiên cứu và\nphát triển, FPT ghi nhận tăng trưởng vượt bậc trong các mảng công nghệ chiến lược,\nđặc biệt là AI và Cloud, qua đó đóng góp tích cực vào kết quả kinh doanh chung của\nTập đoàn. Doanh thu ký mới từ các giải pháp AI và Cloud đạt hơn 1.540 tỷ đồng,\ndoanh thu thực nhận đạt 913 tỷ đồng, tăng trưởng 48,4% so với năm 2024, phản ánh\n\n[adv:fpt2025:p068:t001 | FPT Báo cáo thường niên 2025 (232 trang) | page 68]\n[Trang 68 - Text | Khẳng định vị thế dẫn đầu về AI – Bán dẫn, tạo động lực tăng trưởng dài hạn]\nDoanh thu ký mới từ các giải pháp AI và Cloud đạt hơn 1.540 tỷ đồng,\ndoanh thu thực nhận đạt 913 tỷ đồng, tăng trưởng 48,4% so với năm 2024, phản ánh\nrõ nét nhu cầu ngày càng gia tăng của doanh nghiệp đối với các nền tảng công nghệ\ntiên tiến cũng như năng lực triển khai và thương mại hóa hiệu quả của FPT.\nTăng trưởng doanh thu đi kèm với biên lợi nhuận cải thiện, góp phần nâng cao chất\nlượng tăng trưởng và củng cố vai trò của AI, Cloud như các động lực dài hạn cho lợi\nnhuận của FPT trong giai đoạn tới.\nĐến nay, FPT đã sở hữu hơn 10 mô hình ngôn ngữ lớn và trên 70 mô hình AI\nđược tinh chỉnh theo đặc thù khách hàng, trong đó việc phát triển thành công\nLLM tiếng Nhật đã mở rộng năng lực phục vụ đa ngôn ngữ, tạo nền tảng cho\nviệc mở rộng thị trường quốc tế. Trên cơ sở đó, FPT tiếp tục đưa ra thị trường\nnhiều sản phẩm AI chiến lược như: FPT AI Voice Agents, AI Adjust và AI Camera Agent\n\n[adv:fpt2025:p068:t002 | FPT Báo cáo thường niên 2025 (232 trang) | page 68]\n[Trang 68 - Text | Khẳng định vị thế dẫn đầu về AI – Bán dẫn, tạo động lực tăng trưởng dài hạn]\nthị trường quốc tế. Trên cơ sở đó, FPT tiếp tục đưa ra thị trường\nnhiều sản phẩm AI chiến lược như: FPT AI Voice Agents, AI Adjust và AI Camera Agent\n(Video Compliance). Các giải pháp AI của FPT đã hỗ trợ hơn 15 triệu phút gọi\nqua tổng đài, đảm nhiệm khối lượng công việc tương đương 3.500 nhân sự, trong\nkhi các AI Agents tiếp tục mở rộng khả năng tự động hóa nhiều nghiệp vụ chuyên\nsâu, từ chăm sóc khách hàng, tư vấn đến đào tạo. Hiện nay, các AI Agents của\nFPT đang phục vụ hơn 200 khách hàng doanh nghiệp và đảm nhiệm khối lượng\ncông việc tương đương 8.000 nhân sự, giúp khách hàng tối ưu chi phí vận hành\nvà nâng cao hiệu quả hoạt động.\nSong song với phát triển sản phẩm, FPT đưa vào vận hành hai Nhà máy AI tại\nNhật Bản và Việt Nam, lần lượt xếp hạng 36 và 38 trong Top 500 siêu máy tính\nhiệu năng cao toàn cầu. Chỉ sau 6 tháng vận hành, AI Factory đã tạo ra hơn 111\n\n[adv:fpt2025:p068:t003 | FPT Báo cáo thường niên 2025 (232 trang) | page 68]\n[Trang 68 - Text | Khẳng định vị thế dẫn đầu về AI – Bán dẫn, tạo động lực tăng trưởng dài hạn]\nBản và Việt Nam, lần lượt xếp hạng 36 và 38 trong Top 500 siêu máy tính\nhiệu năng cao toàn cầu. Chỉ sau 6 tháng vận hành, AI Factory đã tạo ra hơn 111\ntỷ tokens, tích hợp trên 25 mô hình LLM và được tin tưởng sử dụng bởi hơn\n25.000 chuyên gia AI trên toàn cầu, qua đó khẳng định năng lực làm chủ hạ tầng\nAI quy mô lớn và từng bước nâng tầm công nghệ Việt trên bản đồ AI thế giới.\nTrong lĩnh vực bán dẫn, năm 2025 đánh dấu bước ngoặt quan trọng khi FPT bàn giao\nlô chip nguồn đầu tiên cho Restar, trở thành doanh nghiệp Việt Nam đầu tiên đưa\nchip thương mại vào thị trường Nhật Bản. Song song với hoạt động thương mại hóa,\nFPT tiếp tục đẩy mạnh hợp tác quốc tế, đầu tư trung tâm R&D và ươm tạo bán dẫn,\ntừng bước hình thành hệ sinh thái “FPT chip inside”, hướng tới mục tiêu xuất khẩu\n10 triệu chip sang thị trường châu Á-Thái Bình Dương trong ba năm tới, tạo động lực",
+    "context_ids": [
+      "adv:fpt2025:p068:t000",
+      "adv:fpt2025:p068:t001",
+      "adv:fpt2025:p068:t002",
+      "adv:fpt2025:p068:t003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_multimodal_hybrid",
+        "query": "đơn giá bán trung bình chip bán dẫn năm 2025 Restar Nhật Bản",
+        "results": [
+          {
+            "id": "adv:fpt2025:p068:t003",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t004",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p017:t001",
+            "page": 17,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p052:t000",
+            "page": 52,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p047:t001",
+            "page": 47,
+            "modality": "text"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p068:t003",
+          "adv:fpt2025:p068:t004",
+          "adv:fpt2025:p017:t001",
+          "adv:fpt2025:p052:t000"
+        ]
+      },
+      {
+        "event": "search",
+        "tool": "inspect_page_image",
+        "query": "inspect_p068:full",
+        "results": [
+          {
+            "id": "adv:fpt2025:p068:t000",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t001",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t002",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t003",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t004",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t005",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t006",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t007",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:t008",
+            "page": 68,
+            "modality": "text"
+          },
+          {
+            "id": "adv:fpt2025:p068:v000",
+            "page": 68,
+            "modality": "multimodal"
+          }
+        ],
+        "context_ids": [
+          "adv:fpt2025:p068:t000",
+          "adv:fpt2025:p068:t001",
+          "adv:fpt2025:p068:t002",
+          "adv:fpt2025:p068:t003"
+        ],
+        "visual_observation": "Trên trang 68 của Báo cáo thường niên FPT 2025, nội dung liên quan đến chip bán dẫn có đoạn sau:\n\n- \"Trong lĩnh vực bán dẫn, năm 2025 đánh dấu bước ngoặt quan trọng khi FPT bàn giao lô chip nguồn đầu tiên cho Restar, trở thành doanh nghiệp Việt Nam đầu tiên đưa chip thương mại vào thị trường Nhật Bản.\"\n- \"FPT tiếp tục đẩy mạnh hợp tác quốc tế, đầu tư trung tâm R&D và ươm tạo bán dẫn, từng bước hình thành hệ sinh thái 'FPT chip inside', hướng tới mục tiêu xuất khẩu 10 triệu chip sang thị trường châu Á - Thái Bình Dương trong ba năm tới, tạo động lực tăng trưởng mới trong trung và dài hạn.\"\n\nTuy nhiên, trên trang này KHÔNG có thông tin cụ thể về:\n\n- Đơn giá bán trung bình mỗi chip bán dẫn.\n- Giá trị hợp đồng bàn giao lô chip nguồn đầu tiên cho đối tác Restar tại Nhật Bản năm 2025.\n\nKết luận: Thông tin về đơn giá bán trung bình mỗi chip bán dẫn hoặc giá trị hợp đồng bàn giao lô chip nguồn đầu tiên cho Restar năm 2025 KHÔNG xuất hiện trên trang này."
+      },
+      {
+        "event": "abstain"
+      }
+    ],
+    "elapsed_ms": 8706.07,
+    "llm_tokens": 14310,
+    "llm_cost_usd": 0.006248
+  }
+]

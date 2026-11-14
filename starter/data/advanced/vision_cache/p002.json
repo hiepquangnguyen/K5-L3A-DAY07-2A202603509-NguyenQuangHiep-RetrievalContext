@@ -1,0 +1,14 @@
+{
+  "page": 2,
+  "page_title": "LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có tiêu đề lớn màu xanh ở giữa trang: 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC'. Phía dưới tiêu đề là đoạn văn bản mô tả sứ mệnh và năng lực của FPT trong lĩnh vực công nghệ chiến lược. Góc phải trang có đường viền màu cam tạo hình cong, nền trang có họa tiết số nhị phân (0 và 1) màu cam nhạt trải dần từ dưới lên trên. Trang thiết kế tối giản, không có bảng biểu hay biểu đồ.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4291,
+  "completion_tokens": 171,
+  "cost_usd": 0.00199,
+  "error": null
+}

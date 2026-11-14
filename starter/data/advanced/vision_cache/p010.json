@@ -1,0 +1,14 @@
+{
+  "page": 10,
+  "page_title": "DẤU ẤN 2025 - CON SỐ NỔI BẬT",
+  "content_types": [
+    "text",
+    "chart"
+  ],
+  "visual_summary": "Trang trình bày các chỉ số tài chính nổi bật của FPT giai đoạn 2021-2025 với 4 biểu đồ cột thể hiện xu hướng tăng trưởng. Các biểu đồ có màu xanh dương nhạt đến đậm theo năm, kèm số liệu cụ thể từng năm và tỷ lệ tăng trưởng so với cùng kỳ năm trước được thể hiện bằng mũi tên xanh hướng lên và phần trăm tăng trưởng màu xanh lá. Bên trái là logo FPT và mục lục báo cáo thường niên với phần 'DẤU ẤN 2025' được đánh dấu nổi bật.",
+  "charts_and_tables": "1. Tổng doanh thu (Tỷ VNĐ): 2021: 35.657, 2022: 44.010, 2023: 52.618, 2024: 62.849, 2025: 70.113; Tăng 11,6% so với cùng kỳ năm trước.\n2. Lợi nhuận sau thuế (Tỷ VNĐ): 2021: 5.349, 2022: 6.491, 2023: 7.788, 2024: 9.427, 2025: 11.232; Tăng 19,1% so với cùng kỳ năm trước.\n3. Lợi nhuận sau thuế thuộc về cổ đông công ty mẹ (Tỷ VNĐ): 2021: 4.337, 2022: 5.310, 2023: 6.465, 2024: 7.857, 2025: 9.376; Tăng 19,3% so với cùng kỳ năm trước.\n4. Thu nhập trên cổ phiếu (EPS) (VNĐ): 2021: 2.367, 2022: 2.910, 2023: 3.518, 2024: 4.292, 2025: 5.216; Tăng 21,5% so với cùng kỳ năm trước. Có chú thích về điều chỉnh EPS giai đoạn 2021-2024 theo tỷ lệ chi trả cổ tức bằng cổ phiếu 15% trong năm 2025 và quy định tính EPS theo thông tư 200/2014/TT-BTC.",
+  "prompt_tokens": 4433,
+  "completion_tokens": 535,
+  "cost_usd": 0.002629,
+  "error": null
+}

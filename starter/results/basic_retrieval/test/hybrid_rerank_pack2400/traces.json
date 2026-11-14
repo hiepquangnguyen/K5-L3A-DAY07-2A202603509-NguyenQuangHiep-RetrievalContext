@@ -1,0 +1,295 @@
+[
+  {
+    "query_id": "q21",
+    "split": "test",
+    "question": "Theo Quy chế đào tạo trình độ đại học, liên kết đào tạo chỉ được thực hiện đối với hình thức học nào và bị cấm đối với nhóm ngành nào?",
+    "filter": {
+      "cap_dao_tao": "dai_hoc"
+    },
+    "multi_evidence": false,
+    "config": "hybrid_rerank_pack2400",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "results": [
+      {
+        "id": "para:tt08-2021:p04:c001",
+        "source_id": "tt08-2021",
+        "page": 4,
+        "score": 1.0,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p01:c003",
+        "source_id": "tt08-2021",
+        "page": 1,
+        "score": 0.5,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p17:c005",
+        "source_id": "tt08-2021",
+        "page": 17,
+        "score": 0.333333,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p04:c001",
+      "para:tt08-2021:p01:c003",
+      "para:tt08-2021:p17:c005",
+      "para:tt08-2021:p04:c002"
+    ],
+    "context_chars": 2291,
+    "elapsed_ms": 947.06,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q22",
+    "split": "test",
+    "question": "Khi cơ sở đào tạo đại học cho phép sinh viên thi lại hoặc đánh giá lại một điểm thành phần để cải thiện điểm học phần từ không đạt thành đạt, điểm học phần sau khi thi lại bị giới hạn tối đa ở mức điểm chữ nào?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "hybrid_rerank_pack2400",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "results": [
+      {
+        "id": "para:tt08-2021:p09:c002",
+        "source_id": "tt08-2021",
+        "page": 9,
+        "score": 1.0,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p08:c002",
+        "source_id": "tt08-2021",
+        "page": 8,
+        "score": 0.5,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p09:c000",
+        "source_id": "tt08-2021",
+        "page": 9,
+        "score": 0.333333,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p09:c002",
+      "para:tt08-2021:p08:c002",
+      "para:tt08-2021:p09:c000",
+      "para:tt08-2021:p09:c003"
+    ],
+    "context_chars": 2091,
+    "elapsed_ms": 819.62,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q23",
+    "split": "test",
+    "question": "Trong trao đổi sinh viên đại học, số lượng tín chỉ tối đa mà sinh viên được phép tích lũy tại cơ sở đào tạo khác chiếm không quá bao nhiêu phần trăm tổng khối lượng chương trình đào tạo?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "hybrid_rerank_pack2400",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "results": [
+      {
+        "id": "para:tt08-2021:p16:c002",
+        "source_id": "tt08-2021",
+        "page": 16,
+        "score": 1.0,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt08-2021:p13:c002",
+        "source_id": "tt08-2021",
+        "page": 13,
+        "score": 0.5,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt08-2021:p13:c000",
+        "source_id": "tt08-2021",
+        "page": 13,
+        "score": 0.333333,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt08-2021:p16:c002",
+      "para:tt08-2021:p13:c002",
+      "para:tt08-2021:p13:c000",
+      "para:tt08-2021:p16:c003",
+      "para:tt08-2021:p16:c001"
+    ],
+    "context_chars": 2171,
+    "elapsed_ms": 780.49,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q24",
+    "split": "test",
+    "question": "Tại cùng một thời điểm, giảng viên có chức danh Giáo sư, Phó Giáo sư và Tiến sĩ được hướng dẫn độc lập tối đa bao nhiêu nghiên cứu sinh, và việc đồng hướng dẫn được quy đổi như thế nào?",
+    "filter": {
+      "cap_dao_tao": "tien_si"
+    },
+    "multi_evidence": false,
+    "config": "hybrid_rerank_pack2400",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "results": [
+      {
+        "id": "para:tt18-2021:p05:c001",
+        "source_id": "tt18-2021",
+        "page": 5,
+        "score": 1.0,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p05:c002",
+        "source_id": "tt18-2021",
+        "page": 5,
+        "score": 0.5,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p05:c000",
+        "source_id": "tt18-2021",
+        "page": 5,
+        "score": 0.333333,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p05:c001",
+      "para:tt18-2021:p05:c002",
+      "para:tt18-2021:p05:c000",
+      "para:tt18-2021:p05:c003"
+    ],
+    "context_chars": 1663,
+    "elapsed_ms": 1107.97,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q25",
+    "split": "test",
+    "question": "Người dự tuyển trình độ tiến sĩ là công dân nước ngoài nếu đăng ký học bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc mấy?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "hybrid_rerank_pack2400",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "results": [
+      {
+        "id": "para:tt18-2021:p06:c003",
+        "source_id": "tt18-2021",
+        "page": 6,
+        "score": 1.0,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p22:c002",
+        "source_id": "tt18-2021",
+        "page": 22,
+        "score": 0.5,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p06:c002",
+        "source_id": "tt18-2021",
+        "page": 6,
+        "score": 0.333333,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p06:c003",
+      "para:tt18-2021:p22:c002",
+      "para:tt18-2021:p06:c002",
+      "para:tt18-2021:p06:c004",
+      "para:tt18-2021:p22:c001"
+    ],
+    "context_chars": 2310,
+    "elapsed_ms": 967.71,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q26",
+    "split": "test",
+    "question": "Khi chất lượng luận án tiến sĩ không đạt yêu cầu thẩm định, Hội đồng thẩm định luận án do Bộ Giáo dục và Đào tạo thành lập gồm bao nhiêu thành viên và có tối thiểu bao nhiêu thành viên không là phản biện độc lập hoặc thành viên Hội đồng đánh giá luận án?",
+    "filter": null,
+    "multi_evidence": false,
+    "config": "hybrid_rerank_pack2400",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "results": [
+      {
+        "id": "para:tt18-2021:p17:c001",
+        "source_id": "tt18-2021",
+        "page": 17,
+        "score": 1.0,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "para:tt18-2021:p17:c002",
+        "source_id": "tt18-2021",
+        "page": 17,
+        "score": 0.5,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "para:tt18-2021:p17:c003",
+        "source_id": "tt18-2021",
+        "page": 17,
+        "score": 0.333333,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "para:tt18-2021:p17:c001",
+      "para:tt18-2021:p17:c002",
+      "para:tt18-2021:p17:c003"
+    ],
+    "context_chars": 1754,
+    "elapsed_ms": 781.98,
+    "hit1": true,
+    "hit3": true,
+    "hit3_strict": true,
+    "context_hit": true
+  }
+]

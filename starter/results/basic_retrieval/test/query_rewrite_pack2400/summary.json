@@ -1,0 +1,18 @@
+{
+  "config": "query_rewrite_pack2400",
+  "split": "test",
+  "n": 6,
+  "hit1": 5,
+  "hit1_rate": 0.8333,
+  "hit3": 5,
+  "hit3_rate": 0.8333,
+  "hit3_strict": 5,
+  "context_hit": 5,
+  "context_hit_rate": 0.8333,
+  "avg_context_chars": 2245.7,
+  "median_ms": 1519.05,
+  "total_seconds": 9.613,
+  "embed_tokens": 438,
+  "llm_tokens": 956,
+  "estimated_cost_usd": 0.000739
+}

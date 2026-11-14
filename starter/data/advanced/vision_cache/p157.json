@@ -1,0 +1,14 @@
+{
+  "page": 157,
+  "page_title": "Kết nối cộng đồng hạnh phúc",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có 4 ảnh: 1 ảnh lớn bên phải trên cùng là hình ảnh hai bàn tay người lớn và trẻ em cùng nâng một cây non xanh mơn mởn trên nền xanh mờ của cây cối. 3 ảnh nhỏ bên dưới: ảnh trái là một nhân viên FPT mặc áo cam đang trao quà cho một học sinh nữ mặc đồng phục trắng đỏ tại sân trường; ảnh giữa là nhóm 8 người đứng trong phòng họp, một người cầm bảng trao tặng dự án máy khử rung tim tự động; ảnh phải là nhóm 8 người đứng ngoài trời, có cờ và bảng chương trình Nâng bước em đến trường.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4323,
+  "completion_tokens": 179,
+  "cost_usd": 0.002016,
+  "error": null
+}

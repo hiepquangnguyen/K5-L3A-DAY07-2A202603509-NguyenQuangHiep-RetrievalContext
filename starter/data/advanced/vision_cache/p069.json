@@ -1,0 +1,14 @@
+{
+  "page": 69,
+  "page_title": "Khối Viễn thông - Lĩnh vực dịch vụ viễn thông",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục chia làm hai phần chính: bên trái là phần nội dung chính với các số liệu và biểu tượng minh họa, bên phải là ảnh chân dung ông Hoàng Việt Anh - Chủ tịch FPT Telecom cùng phần trích dẫn lời phát biểu. Bên trái có biểu tượng sóng wifi, bản đồ Việt Nam màu xanh dương, các số liệu lớn được làm nổi bật với font chữ to màu xanh và đen. Có các khối thông tin riêng biệt với nền màu xanh nhạt chứa số liệu và mô tả. Bên phải có đường nét đồ họa màu cam nối từ chân dung xuống phần trích dẫn.",
+  "charts_and_tables": "Top 3 Nhà cung cấp dịch vụ Internet băng thông rộng; trung tâm dữ liệu và dịch vụ tên miền; dịch vụ trực tuyến và cho thuê; dịch vụ truyền hình trả tiền\n34 Tỉnh, thành trên toàn quốc có hạ tầng viễn thông và mạng lưới cung cấp dịch vụ\n04 Trung tâm dữ liệu đạt chuẩn Uptime Tier III quốc tế\n6.800 Gbps Dung lượng hạ tầng kết nối quốc tế",
+  "prompt_tokens": 4407,
+  "completion_tokens": 277,
+  "cost_usd": 0.002206,
+  "error": null
+}

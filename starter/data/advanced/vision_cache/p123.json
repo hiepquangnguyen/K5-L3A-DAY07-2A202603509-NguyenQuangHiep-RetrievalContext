@@ -1,0 +1,14 @@
+{
+  "page": 123,
+  "page_title": "Chính phủ, Bộ ban ngành",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày nội dung dạng bảng với hai cột chính: 'Chương trình hành động nổi bật' và 'Kết quả năm 2025'. Bên trái có thanh menu dọc đánh số các mục từ 01 đến 08, mục 07 'BÁO CÁO ESG' được tô màu xanh dương nhạt và đánh dấu màu cam. Logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' nằm góc trên bên trái. Không có hình ảnh hay biểu đồ nào khác trên trang.",
+  "charts_and_tables": "| Chương trình hành động nổi bật | Kết quả năm 2025 |\n|---------------------------------|--------------------|\n| Nghiên cứu, phát triển, triển khai các giải pháp công nghệ, tham gia các liên minh góp phần hiện thực hóa mục tiêu của các chương trình, đề án lớn của quốc gia | - Đồng sáng lập Liên minh Nhân lực chiến lược thực thi Nghị quyết 57-NQ/TW;\n- Khởi xướng Liên minh AI Âu Lạc, tập hợp trí tuệ và khát vọng Việt, hướng tới xây dựng nền tảng AI mang bản sắc riêng, đồng thời định hình chuẩn mực và chính sách công nghệ quốc gia;\n- Tham gia Liên minh bán dẫn để giải quyết khoảng trống về nhân lực và kết nối nghiên cứu – ứng dụng, mở đường cho Việt Nam bước vào chuỗi giá trị toàn cầu của ngành công nghiệp chiến lược này;\n- Thúc đẩy thành lập Liên minh Kinh tế tầm thấp hỗ trợ doanh nghiệp vừa và nhỏ, giúp chuyển đổi số trong các ngành truyền thống, nâng cao năng lực quản trị và hội nhập vào chuỗi giá trị toàn cầu. |\n| Thực hiện nghiêm túc trách nhiệm của doanh nghiệp như nghĩa vụ nộp thuế, đóng bảo hiểm xã hội.... | - Nộp ngân sách Nhà nước 11.078 tỷ đồng. |\n| Nâng cao hình ảnh thương hiệu của ngành CNTT | - Tham gia quảng bá và phối hợp tổ chức nhiều sự kiện lớn nhằm thúc đẩy phát triển kinh tế số tại Việt Nam và nâng cao hình ảnh của ngành CNTT Việt Nam trên trường quốc tế như: Triển lãm 80 năm hành trình Độc lập – Tự do – Hạnh phúc, Vietnam – ASIA DX Summit, Diễn đàn Make in Viet Nam...;\n- Đứng trong Top 40 Công ty Dịch vụ CNTT châu Á (Gartner);\n- Ký hợp đồng dịch vụ CNTT kỷ lục 256 triệu USD tại nước ngoài và mở rộng quy mô hiện diện tại: Nhật Bản, Đức, Hàn Quốc.",
+  "prompt_tokens": 4305,
+  "completion_tokens": 632,
+  "cost_usd": 0.002733,
+  "error": null
+}

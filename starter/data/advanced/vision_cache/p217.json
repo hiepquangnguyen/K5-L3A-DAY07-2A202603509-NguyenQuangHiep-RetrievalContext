@@ -1,0 +1,14 @@
+{
+  "page": 217,
+  "page_title": "THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày phần thuyết minh báo cáo tài chính hợp nhất với các mục chính: 37. Các khoản mục ngoài bảng cân đối kế toán hợp nhất, 38. Nợ tiềm tàng, 39. Các sự kiện phát sinh sau ngày báo cáo tài chính hợp nhất. Bên trái trang là logo FPT và mục lục phần báo cáo tài chính hợp nhất được đánh dấu màu xanh. Phía dưới bên phải có chữ ký của ba người: Hoàng Ngọc Bích (Người lập), Hoàng Hữu Chiến (Kế toán trưởng), Nguyễn Thế Phương (Phó Tổng Giám đốc, Chữ ký được ủy quyền) cùng con dấu đỏ của Công ty Cổ phần FPT.",
+  "charts_and_tables": "### Bảng: Nợ khó đòi đã xử lý (Đơn vị: VNĐ)\n| Khoản mục       | 31/12/2025       | 31/12/2024       |\n|-----------------|------------------|------------------|\n| Nợ khó đòi (*)  | 729,438,551,433  | 638,434,100,449  |\n\n(*) Số nợ khó đòi đã xử lý chủ yếu là khoản nợ phải thu khách hàng cá nhân sử dụng dịch vụ internet bị quá hạn trên 2 năm và được đánh giá không còn khả năng thu hồi.",
+  "prompt_tokens": 4322,
+  "completion_tokens": 383,
+  "cost_usd": 0.002342,
+  "error": null
+}

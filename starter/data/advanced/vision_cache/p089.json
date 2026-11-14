@@ -1,0 +1,14 @@
+{
+  "page": 89,
+  "page_title": "Nguyên tắc 03 và 04 về vai trò lãnh đạo và các ủy ban thuộc HĐQT",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' ở góc trên bên trái. Thanh mục lục bên trái đánh dấu mục 06 QUẢN TRỊ CÔNG TY đang được xem. Trang trình bày hai phần chính: Nguyên tắc 03 về vai trò lãnh đạo hiệu quả và tính độc lập của HĐQT, và Nguyên tắc 04 về thành lập các ủy ban thuộc HĐQT. Phần Nguyên tắc 03 có đoạn văn chi tiết giới thiệu về các thành viên HĐQT độc lập gồm ông Jean-Charles Belliol, ông Hampapur Rangadore Binod, ông Hiroshi Yokotsuka, cùng mô tả vai trò và đóng góp của từng người. Phần Nguyên tắc 04 có bảng danh sách các ủy ban thuộc HĐQT gồm 3 ủy ban với tên, họ tên người đứng đầu và chức danh. Bên dưới bảng có mô tả chức năng của từng ủy ban. Không có biểu đồ hay hình ảnh minh họa nào khác trên trang.",
+  "charts_and_tables": "| STT | Ủy ban                         | Họ và tên           | Chức danh       |\n|-----|-------------------------------|---------------------|-----------------|\n| 1   | Ủy ban Nhân sự và Lương thưởng | Ông Đỗ Cao Bảo      | Chủ tịch        |\n| 2   | Ủy ban Chính sách phát triển   | Ông Trương Gia Bình | Chủ tịch        |\n| 3   | Văn phòng Chủ tịch HĐQT        | Bà Phạm Ngọc Anh    | Chánh Văn phòng |",
+  "prompt_tokens": 4304,
+  "completion_tokens": 439,
+  "cost_usd": 0.002424,
+  "error": null
+}

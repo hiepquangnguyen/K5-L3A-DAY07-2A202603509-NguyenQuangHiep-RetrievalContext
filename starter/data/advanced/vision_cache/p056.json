@@ -1,0 +1,14 @@
+{
+  "page": 56,
+  "page_title": "PHÂN TÍCH HOẠT ĐỘNG KINH DOANH",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có nền xanh đậm với hình ảnh minh họa một con chip vi xử lý phát sáng với chữ 'AI' ở giữa. Bên trái trang là thanh menu dọc với logo FPT và các mục chính của báo cáo thường niên 2025, mục số 05 'PHÂN TÍCH HOẠT ĐỘNG KINH DOANH' được đánh dấu nổi bật màu xanh dương. Phần chính giữa trang có tiêu đề lớn 'PHÂN TÍCH HOẠT ĐỘNG KINH DOANH' và hai mục nhỏ: 01 - Báo cáo của Ban Điều hành về kết quả kinh doanh 2025 và nhận định 2026; 02 - Đánh giá của HĐQT về hoạt động của Tập đoàn.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4353,
+  "completion_tokens": 217,
+  "cost_usd": 0.002088,
+  "error": null
+}

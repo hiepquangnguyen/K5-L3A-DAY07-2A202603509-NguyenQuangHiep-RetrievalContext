@@ -1,0 +1,14 @@
+{
+  "page": 140,
+  "page_title": "Duy trì và phát triển văn hóa sáng tạo",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có hai ảnh minh họa. Ảnh trên bên phải là hình chụp một góc văn phòng hoặc khu vực trưng bày sản phẩm với màn hình TV treo tường hiển thị giao diện phần mềm, có logo FPT và biểu tượng robot màu đỏ. Ảnh dưới bên phải là hình chụp một sự kiện hoặc hội thảo với màn hình lớn phía sau trình chiếu nội dung về nền tảng Kyta Platform, có người thuyết trình và khán giả ngồi xem. Cả hai ảnh đều có chú thích màu cam ở dưới, mô tả về các nền tảng công nghệ Akabot và Kyta Platform.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4302,
+  "completion_tokens": 184,
+  "cost_usd": 0.002015,
+  "error": null
+}

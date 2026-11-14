@@ -1,0 +1,18 @@
+{
+  "config": "dense_qdrant_800",
+  "split": "test",
+  "n": 6,
+  "hit1": 5,
+  "hit1_rate": 0.8333,
+  "hit3": 6,
+  "hit3_rate": 1.0,
+  "hit3_strict": 6,
+  "context_hit": 5,
+  "context_hit_rate": 0.8333,
+  "avg_context_chars": 627.3,
+  "median_ms": 359.38,
+  "total_seconds": 2.223,
+  "embed_tokens": 524,
+  "llm_tokens": 0,
+  "estimated_cost_usd": 1e-05
+}

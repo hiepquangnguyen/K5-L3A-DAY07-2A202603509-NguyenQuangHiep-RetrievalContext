@@ -1,0 +1,14 @@
+{
+  "page": 47,
+  "page_title": "Làm chủ công nghệ chiến lược - Chiến lược phát triển",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày có bố cục 2 cột chính. Cột trái là phần nội dung chính về xu hướng sử dụng AI mã nguồn mở và dự báo chi tiêu AI giai đoạn 2025-2027, có bảng số liệu chi tiêu AI theo lĩnh vực. Cột phải là phần phân tích về chuyển dịch ngành dịch vụ CNTT với các rủi ro và cơ hội mới từ AI, gồm các đoạn văn bản và các gạch đầu dòng liệt kê các rủi ro và thách thức. Bên trái trang có thanh menu dọc đánh số các mục chính của báo cáo thường niên, mục 04 được tô màu xanh nhạt làm nổi bật. Logo FPT và tiêu đề báo cáo thường niên 2025 nằm trên cùng bên trái.",
+  "charts_and_tables": "Bảng: Chi tiêu cho AI giai đoạn 2025-2027 (Đơn vị: Tỷ USD)\n\n| Lĩnh vực                          | 2025 | 2026 | 2027 |\n|----------------------------------|-------|-------|-------|\n| Dịch vụ AI                      | 439   | 588   | 761   |\n| An ninh mạng AI                 | 26    | 51    | 86    |\n| Phần mềm AI                    | 283   | 452   | 636   |\n| Mô hình AI                     | 14    | 26    | 43    |\n| Nền tảng AI cho khoa học dữ liệu và học máy | 22    | 31    | 44    |\n| Nền tảng phát triển ứng dụng AI | 7     | 8     | 11    |\n| Dữ liệu AI                     | 0.8   | 3     | 6     |\n| Hạ tầng AI                    | 965   | 1366  | 1748  |\n| **Tổng chi tiêu AI**           | 1757  | 2525  | 3335  |",
+  "prompt_tokens": 4295,
+  "completion_tokens": 472,
+  "cost_usd": 0.002473,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 104,
+  "page_title": "BÁO CÁO CỦA BAN KIỂM SOÁT",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang báo cáo có logo FPT và tiêu đề 'LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC - BÁO CÁO THƯỜNG NIÊN 2025' ở góc trên bên trái. Thanh menu bên trái liệt kê các mục chính của báo cáo từ 01 đến 08, trong đó mục 06 'QUẢN TRỊ CÔNG TY' được tô màu xanh dương nhạt với các mục con liệt kê bên dưới. Phần nội dung chính bên phải gồm tiêu đề lớn 'BÁO CÁO CỦA BAN KIỂM SOÁT', đoạn văn bản mô tả nhiệm vụ của Ban Kiểm Soát (BKS) với các biểu tượng minh họa cho từng nhiệm vụ (biểu tượng vòng tròn mũi tên, mắt, khiên, nhóm người, biểu tượng kiểm tra). Phần bên phải có tiêu đề phụ màu xanh dương 'Thành phần và cơ cấu Ban Kiểm soát' và bảng liệt kê danh sách thành viên BKS với các cột: STT, Thành viên, Chức vụ, Trình độ chuyên môn, Tỷ lệ sở hữu, Ngày bắt đầu là thành viên BKS, Số cuộc họp, Tỷ lệ. Bảng có 3 dòng dữ liệu với thông tin chi tiết từng thành viên.",
+  "charts_and_tables": "| STT | Thành viên             | Chức vụ          | Trình độ chuyên môn | Tỷ lệ sở hữu | Ngày bắt đầu là thành viên BKS | Số cuộc họp | Tỷ lệ |\n|-----|-----------------------|------------------|---------------------|-------------|-------------------------------|-------------|-------|\n| 1   | Ông Nguyễn Việt Thắng  | Trưởng BKS       | Tiến sĩ Kinh tế     | 0,01%       | 07/04/2022 Tái bầu cử          | 05/05       | 100%  |\n| 2   | Ông Nguyễn Khải Hoàn  | Thành viên BKS   | Tiến sĩ Kinh tế     | 0,08%       | 07/04/2022 Tái bầu cử          | 05/05       | 100%  |\n| 3   | Bà Dương Thùy Dương   | Thành viên BKS   | Cử nhân kinh tế     | 0,00%       | 07/04/2022 Tái bầu cử          | 05/05       | 100%  |",
+  "prompt_tokens": 4306,
+  "completion_tokens": 592,
+  "cost_usd": 0.00267,
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "page": 149,
+  "page_title": "Quản lý nước thải và các nguồn phát thải khác",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang có phần text chiếm phần lớn bên trái và giữa trang, trình bày nội dung về quản lý nước thải và các nguồn phát thải khác của FPT. Bên phải trang có ảnh chụp một tòa nhà hiện đại với biển hiệu 'FPT SCHOOL' phía trước. Phía dưới ảnh có khung màu cam với dòng chữ: 'FPT luôn đảm bảo thực hiện các quy định thống nhất trong các tòa nhà.' Bên dưới phần text có bảng tổng hợp so sánh kết quả tiêu thụ nước các năm 2023, 2024, 2025. Trang có logo FPT và mục lục bên trái.",
+  "charts_and_tables": "Bảng tổng hợp so sánh kết quả tiêu thụ nước (Đơn vị tính: m³):\n\n| Danh mục      | Năm 2023 | Năm 2024 | Năm 2025 | Chênh lệch Mức tiêu thụ | Tỷ lệ  |\n|--------------|----------|----------|----------|-------------------------|--------|\n| Tiêu thụ nước| 774.152  | 827.940  | 831.885  | 3.945                   | 0,48%  |",
+  "prompt_tokens": 4301,
+  "completion_tokens": 307,
+  "cost_usd": 0.002212,
+  "error": null
+}

@@ -1,0 +1,119 @@
+{
+  "inspection": {
+    "file": "FPT_BCTN_2025.pdf",
+    "total_pages": 232,
+    "text_pages_ge_100chars": 231,
+    "pages_with_embedded_images": 101,
+    "total_embedded_images": 162,
+    "pages_with_vector_drawings_ge_15": 209,
+    "total_extracted_chars": 565033,
+    "avg_chars_per_page": 2435.5,
+    "sample_rich_pages": [
+      {
+        "page": 2,
+        "chars": 624,
+        "images": 0,
+        "drawings": 2733,
+        "preview": "Là tập đoàn công nghệ hàng đầu Việt Nam, FPT kiên định với sứ mệnh tiên phong tạo đột phá, làm chủ công nghệ chiến lược theo định hướng của "
+      },
+      {
+        "page": 3,
+        "chars": 1711,
+        "images": 1,
+        "drawings": 2748,
+        "preview": "Lợi thế cạnh tranh trong kỷ nguyên AI không còn đến từ quy mô hay kinh nghiệm, mà đến từ khả năng thích ứng và tái tạo chính mình bằng công "
+      },
+      {
+        "page": 5,
+        "chars": 3411,
+        "images": 1,
+        "drawings": 15,
+        "preview": "Thông qua việc xây dựng hệ sinh thái công nghệ và nguồn nhân lực chất lượng cao, FPT khẳng định vị thế của một doanh nghiệp công nghệ có năn"
+      },
+      {
+        "page": 6,
+        "chars": 1346,
+        "images": 1,
+        "drawings": 3809,
+        "preview": "Tốc độ tăng trưởng lợi nhuận cao hơn doanh thu phản ánh hiệu quả vận hành được cải thiện và chi phí được kiểm soát tốt hơn trong điều kiện t"
+      },
+      {
+        "page": 8,
+        "chars": 3592,
+        "images": 1,
+        "drawings": 15,
+        "preview": "Lĩnh vực Giáo dục tiếp tục mở rộng hệ thống rộng khắp, mang đến trải nghiệm vượt trội và hạnh phúc cho người học, đồng thời tăng cường hơn n"
+      },
+      {
+        "page": 9,
+        "chars": 314,
+        "images": 1,
+        "drawings": 19,
+        "preview": "BÁO CÁO THƯỜNG NIÊN 2025 LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC 01 02 03 04 05 06 07 08 Con số nổi bật Giải thưởng tiêu biểu Hoạt động nổi bật Dự án A"
+      },
+      {
+        "page": 11,
+        "chars": 904,
+        "images": 0,
+        "drawings": 48,
+        "preview": "2021 2022 2023 2024 2025 30 20 10 0 Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) 28,1% Tỷ suất sinh lời trên tổng tài sản (ROA) 14,1% ROA (%) "
+      },
+      {
+        "page": 12,
+        "chars": 1812,
+        "images": 0,
+        "drawings": 34,
+        "preview": "Số liệu tài chính trong Báo cáo này được trích xuất từ Báo cáo tài chính hợp nhất đã kiểm toán bao gồm Báo cáo tài chính Công ty mẹ, Báo cáo"
+      },
+      {
+        "page": 13,
+        "chars": 870,
+        "images": 3,
+        "drawings": 19,
+        "preview": "Trường Hy Vọng được trao giải thưởng Hành động vì cộng đồng ở hạng mục Dự án kịp thời GIẢI THƯỞNG TIÊU BIỂU TOP 40 Công ty Dịch vụ Công nghệ"
+      },
+      {
+        "page": 14,
+        "chars": 1437,
+        "images": 2,
+        "drawings": 19,
+        "preview": "HOẠT ĐỘNG NỔI BẬT Thành lập Ban Chỉ đạo Công nghệ chiến lược thúc đẩy triển khai Nghị quyết 57-NQ/TW Trong bối cảnh khoa học công nghệ, chuy"
+      },
+      {
+        "page": 15,
+        "chars": 1732,
+        "images": 2,
+        "drawings": 19,
+        "preview": "BÁO CÁO THƯỜNG NIÊN 2025 LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC 01 02 03 04 05 06 07 08 Con số nổi bật Giải thưởng tiêu biểu Hoạt động nổi bật Dự án A"
+      },
+      {
+        "page": 16,
+        "chars": 1636,
+        "images": 2,
+        "drawings": 19,
+        "preview": "BÁO CÁO THƯỜNG NIÊN 2025 LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC 01 02 03 04 05 06 07 08 Con số nổi bật Giải thưởng tiêu biểu Hoạt động nổi bật Dự án A"
+      },
+      {
+        "page": 17,
+        "chars": 1940,
+        "images": 4,
+        "drawings": 19,
+        "preview": "BÁO CÁO THƯỜNG NIÊN 2025 LÀM CHỦ CÔNG NGHỆ CHIẾN LƯỢC 01 02 03 04 05 06 07 08 Con số nổi bật Giải thưởng tiêu biểu Hoạt động nổi bật Dự án A"
+      },
+      {
+        "page": 18,
+        "chars": 1542,
+        "images": 2,
+        "drawings": 19,
+        "preview": "Ký hợp đồng chuyển đổi số toàn diện ứng dụng AI quy mô 256 triệu USD Hợp đồng này đánh dấu bước tiến mới của FPT trong lĩnh vực chuyển đổi s"
+      },
+      {
+        "page": 19,
+        "chars": 1987,
+        "images": 3,
+        "drawings": 19,
+        "preview": "Tổ hợp giáo dục FPT tại Huế có quy mô 20.000 người học đón những học sinh đầu tiên. Tổ hợp định hướng đào tạo gắn với các công nghệ mũi nhọn"
+      }
+    ]
+  }
+}

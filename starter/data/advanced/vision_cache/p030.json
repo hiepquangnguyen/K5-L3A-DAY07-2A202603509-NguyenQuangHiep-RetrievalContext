@@ -1,0 +1,13 @@
+{
+  "page": 30,
+  "page_title": "HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)",
+  "content_types": [
+    "text"
+  ],
+  "visual_summary": "Trang trình bày dạng timeline theo năm 2022, 2023, 2024, 2025 với các điểm đánh dấu màu cam trên một đường thẳng ngang. Bố cục chia làm 4 cột tương ứng với từng năm, mỗi cột liệt kê các thành tựu và hoạt động nổi bật của FPT trong năm đó. Nền trang có hình bản đồ thế giới dạng chấm điểm màu xám nhạt phía dưới nội dung. Bên trái là thanh menu điều hướng của báo cáo thường niên với các mục chính và phụ, mục 'TỔNG QUAN VỀ FPT' được đánh dấu nổi bật màu xanh dương. Logo FPT và tiêu đề báo cáo thường niên 2025 nằm trên cùng bên trái.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4324,
+  "completion_tokens": 220,
+  "cost_usd": 0.002082,
+  "error": null
+}

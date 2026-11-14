@@ -1,0 +1,14 @@
+{
+  "page": 12,
+  "page_title": "Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề lớn màu xanh dương ở giữa trang. Bên trái là mục lục với các phần chính của báo cáo thường niên 2025, phần đang mở là 'DẤU ẤN 2025'. Phần chính bên phải là bảng số liệu tài chính với tiêu đề và chú thích phía trên. Bảng gồm 10 chỉ tiêu tài chính theo từng năm từ 2021 đến 2025, kèm theo tỷ lệ tăng giảm (%) so với năm trước. Chú thích nhỏ phía dưới giải thích về cổ tức tiền mặt.",
+  "charts_and_tables": "| STT | Chỉ tiêu                                   | 2021   | +/-   | 2022   | +/-   | 2023   | +/-   | 2024   | +/-   | 2025   | +/-   |\n|-----|-------------------------------------------|--------|-------|--------|-------|--------|-------|--------|-------|--------|-------|\n| 1   | Vốn chủ sở hữu                            | 21.418 | 15,1% | 25.356 | 18,4% | 29.933 | 18,1% | 35.728 | 19,4% | 43.748 | 22,4% |\n| 2   | Tổng tài sản                              | 53.698 | 28,7% | 51.650 | -3,8% | 60.283 | 16,7% | 72.000 | 19,4% | 88.142 | 22,4% |\n| 3   | Tổng doanh thu                           | 35.657 | 19,5% | 44.010 | 23,4% | 52.618 | 19,6% | 62.849 | 19,4% | 70.113 | 11,6% |\n| 4   | Lợi nhuận thuần từ hoạt động kinh doanh | 6.228  | 20,0% | 7.589  | 21,8% | 9.112  | 20,1% | 11.025 | 21,0% | 12.952 | 17,5% |\n| 5   | Lợi nhuận trước thuế, lãi vay và khấu hao| 7.981 | 18,2% | 9.495  | 19,0% | 11.490 | 21,0% | 13.605 | 18,4% | 15.958 | 17,3% |\n| 6   | Lợi nhuận trước thuế và lãi vay          | 6.337  | 20,4% | 7.662  | 20,9% | 9.203  | 20,1% | 11.070 | 20,3% | 13.044 | 17,8% |\n| 7   | Lợi nhuận trước thuế                     | 6.337  | 20,4% | 7.662  | 20,9% | 9.203  | 20,1% | 11.070 | 20,3% | 13.044 | 17,8% |\n| 8   | Lợi nhuận sau thuế                       | 5.349  | 20,9% | 6.491  | 21,3% | 7.788  | 20,0% | 9.427  | 21,0% | 11.232 | 19,1% |\n| 9   | Lợi nhuận sau thuế thuộc về cổ đông công ty mẹ | 4.337 | 22,6% | 5.310  | 22,4% | 6.465  | 21,8% | 7.857  | 21,5% | 9.376  | 19,3% |\n| 10  | Chi trả cổ tức bằng tiền mặt (*)         | 1.697  | 15,8% | 2.011  | 18,5% | 2.374  | 18,1% | 2.741  | 15,4% | 3.185  | 16,2% |",
+  "prompt_tokens": 4306,
+  "completion_tokens": 1035,
+  "cost_usd": 0.003378,
+  "error": null
+}

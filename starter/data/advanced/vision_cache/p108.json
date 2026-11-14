@@ -1,0 +1,15 @@
+{
+  "page": 108,
+  "page_title": "Tổng kết thù lao và chi phí hoạt động của BKS",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chính. Cột trái gồm mục lục báo cáo thường niên FPT 2025 với các phần chính từ 01 đến 08, phần 06 'Quản trị công ty' được đánh dấu nổi bật màu xanh dương. Phần nội dung chính gồm tiêu đề lớn màu xanh dương 'Tổng kết thù lao và chi phí hoạt động của BKS', đoạn văn bản giải thích về thù lao BKS, bảng chi tiết thù lao BKS năm 2025 với 3 dòng mục: Thuê tư vấn bên ngoài, Thù lao hoạt động của thành viên BKS, Đi lại, công tác phí, cùng tổng cộng. Bên dưới là các phần tiêu đề phụ màu xanh dương: 'Kiểm soát giao dịch giữa Công ty và các bên liên quan' và 'Kế hoạch và hoạt động của BKS năm 2026' với các đoạn văn bản chi tiết. Cột phải là ảnh minh họa một người mặc vest đang thao tác trên laptop với hình ảnh thành phố hiện đại mờ nền phía sau. Bố cục rõ ràng, sử dụng màu xanh dương làm chủ đạo cho tiêu đề và điểm nhấn.",
+  "charts_and_tables": "Loại bảng: Bảng chi tiết thù lao BKS năm 2025\nĐơn vị: VNĐ\n\n| STT | Nội dung                          | Ngân sách 2025   | Đã chi trả       |\n|-----|---------------------------------|------------------|------------------|\n| 1   | Thuê tư vấn bên ngoài            | 100.000.000      | 0                |\n| 2   | Thù lao hoạt động của thành viên BKS | 1.456.000.000    | 1.456.000.000    |\n| 3   | Đi lại, công tác phí             | 75.000.000       | 0                |\n|     | **Tổng**                        | **1.631.000.000**| **1.456.000.000**|",
+  "prompt_tokens": 4350,
+  "completion_tokens": 486,
+  "cost_usd": 0.002518,
+  "error": null
+}

@@ -1,0 +1,18 @@
+{
+  "config": "hybrid_rerank_pack2400",
+  "split": "dev",
+  "n": 20,
+  "hit1": 20,
+  "hit1_rate": 1.0,
+  "hit3": 20,
+  "hit3_rate": 1.0,
+  "hit3_strict": 20,
+  "context_hit": 20,
+  "context_hit_rate": 1.0,
+  "avg_context_chars": 2133.4,
+  "median_ms": 1043.02,
+  "total_seconds": 23.926,
+  "embed_tokens": 0,
+  "llm_tokens": 35526,
+  "estimated_cost_usd": 0.015002
+}

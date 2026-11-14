@@ -1,0 +1,220 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p12:c000, para:tt18-2021:p12:c001, para:tt18-2021:p11:c004), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p12:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p12:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p08:c000, para:tt18-2021:p08:c001, para:tt18-2021:p10:c003), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p08:c000, para:tt18-2021:p08:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p08:c000, para:tt18-2021:p08:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p08:c000, para:tt08-2021:p09:c002, para:tt08-2021:p07:c004), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p08:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p08:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p14:c000, para:tt08-2021:p02:c004, para:tt08-2021:p02:c003), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p14:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p14:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p22:c001, para:tt18-2021:p06:c002, para:tt18-2021:p22:c002), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p22:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p22:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p03:c001, para:tt18-2021:p02:c005, para:tt18-2021:p08:c002), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p03:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p03:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p12:c000, para:tt08-2021:p11:c002, para:tt08-2021:p12:c001), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p12:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p12:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p02:c000, para:tt08-2021:p02:c001, para:tt08-2021:p01:c006), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p02:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p02:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p15:c000, para:tt08-2021:p14:c003, para:tt08-2021:p03:c000), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p15:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p15:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p11:c000, para:tt08-2021:p10:c004, para:tt08-2021:p10:c003), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p11:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p11:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p14:c001, para:tt18-2021:p14:c002, para:tt18-2021:p15:c001), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p14:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p14:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p03:c003, para:tt18-2021:p04:c000, para:tt18-2021:p03:c004), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p04:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p04:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p13:c001, para:tt08-2021:p13:c000, para:tt08-2021:p13:c002), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p13:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p13:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p15:c000, para:tt18-2021:p19:c004, para:tt18-2021:p15:c001), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p15:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p15:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p09:c001, para:tt18-2021:p08:c004, para:tt18-2021:p09:c002), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p09:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p09:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p07:c001, para:tt18-2021:p06:c005, para:tt18-2021:p13:c001), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p07:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p07:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p17:c001, para:tt08-2021:p16:c005, para:tt08-2021:p17:c000), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p17:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p17:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p07:c001, para:tt08-2021:p05:c005, para:tt08-2021:p03:c003), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p07:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p07:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt18-2021:p13:c001, para:tt18-2021:p13:c000, para:tt18-2021:p11:c001), bao phủ trọn vẹn bằng chứng gold tại para:tt18-2021:p13:c001, para:tt18-2021:p13:c000.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt18-2021:p13:c001, para:tt18-2021:p13:c000 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "context_reason": "Ngữ cảnh hybrid + rerank + neighbor packing gồm 3 chunks (para:tt08-2021:p06:c001, para:tt08-2021:p05:c005, para:tt08-2021:p06:c002), bao phủ trọn vẹn bằng chứng gold tại para:tt08-2021:p06:c001.",
+    "note": "Trả lời chính xác (grade 2/2) với trích dẫn trực tiếp para:tt08-2021:p06:c001 nằm trong ngữ cảnh."
+  },
+  {
+    "query_id": "u01",
+    "abstention_correct": true,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Đã rà soát đa đoạn liên quan (para:tt08-2021:p06:c002, para:tt18-2021:p21:c001, para:tt08-2021:p09:c002, para:tt18-2021:p07:c002, para:tt08-2021:p09:c004), xác nhận đầy đủ là tài liệu không có thông tin được hỏi.",
+    "note": "Từ chối trả lời (abstain) chính xác sau khi kiểm chứng không đủ bằng chứng."
+  },
+  {
+    "query_id": "u02",
+    "abstention_correct": true,
+    "citation_support": [],
+    "context_grade": 2,
+    "context_reason": "Đã rà soát đa đoạn liên quan (para:tt08-2021:p10:c003, para:tt08-2021:p11:c000, para:tt08-2021:p08:c002, para:tt08-2021:p09:c004), xác nhận đầy đủ là tài liệu không có thông tin được hỏi.",
+    "note": "Từ chối trả lời (abstain) chính xác sau khi kiểm chứng không đủ bằng chứng."
+  }
+]

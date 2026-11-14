@@ -1,0 +1,14 @@
+{
+  "page": 172,
+  "page_title": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (Theo phương pháp gián tiếp) - Tiếp theo",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang trình bày báo cáo tài chính với bảng số liệu lưu chuyển tiền tệ hợp nhất theo phương pháp gián tiếp, đơn vị VNĐ. Bảng gồm các mục lưu chuyển tiền từ hoạt động đầu tư và hoạt động tài chính, có các cột mã số, thuyết minh, số liệu năm 2025 và 2024. Phía dưới bảng có chữ ký của 3 người: Hoàng Ngọc Bích (Người lập), Hoàng Hữu Chiến (Kế toán trưởng), Nguyễn Thế Phương (Phó Tổng Giám đốc) cùng con dấu đỏ của Công ty Cổ phần FPT. Bên trái trang là mục lục báo cáo thường niên FPT 2025 với các phần chính đánh số từ 01 đến 08, phần 08 được tô màu xanh dương nhạt.",
+  "charts_and_tables": "|\tMã số\t|\tThuyết minh\t|\t2025\t|\t2024\t|\n|---|---|---:|---:|\n| 25 | Tiền chi đầu tư góp vốn vào đơn vị khác | (710.700.052.777) | (1.106.193.484.800) |\n| 26 | Tiền thu hồi đầu tư góp vốn vào đơn vị khác | 23.532.256.656 | 48.102.486.048 |\n| 27 | Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia | 2.000.759.192.153 | 1.530.174.506.877 |\n| 30 | Lưu chuyển tiền thuần từ hoạt động đầu tư | (11.624.743.591.629) | (8.461.812.173.101) |\n| 31 | Tiền thu từ phát hành cổ phiếu | 1.196.235.184.778 | 163.342.989.874 |\n| 33 | Tiền thu từ đi vay | 43.070.812.885.074 | 30.946.282.706.201 |\n| 34 | Tiền chi trả nợ gốc vay | (36.890.984.827.601) | (30.013.226.682.923) |\n| 35 | Tiền chi trả nợ gốc thuê tài chính | (986.795.056) | (2.305.346.865) |\n| 36 | Tiền cổ tức, lợi nhuận đã trả cho chủ sở hữu | (4.573.753.577.663) | (3.291.859.792.121) |\n| 40 | Lưu chuyển tiền thuần từ hoạt động tài chính | 2.801.322.869.532 | (2.197.766.125.834) |\n| 50 | Lưu chuyển tiền thuần trong năm | 1.312.623.193.814 | 1.044.198.889.933 |\n| 60 | Tiền và tương đương tiền đầu năm | 9.315.440.438.884 | 8.279.156.683.221 |\n| 61 | Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ | (105.957.902.706) | (7.915.134.270) |\n| 70 | Tiền và tương đương tiền cuối năm | 10.522.105.729.992 | 9.315.440.438.884 |",
+  "prompt_tokens": 4367,
+  "completion_tokens": 825,
+  "cost_usd": 0.003067,
+  "error": null
+}

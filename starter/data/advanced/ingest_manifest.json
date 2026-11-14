@@ -1,0 +1,23 @@
+{
+  "pdf": "starter/data/advanced/raw/FPT_BCTN_2025.pdf",
+  "pages_processed": 232,
+  "failed_vision_pages": [],
+  "text_chunks": 835,
+  "multimodal_chunks": 408,
+  "total_chunks": 1243,
+  "vision_model": "gpt-4.1-mini",
+  "vision_tokens_total": 1125391,
+  "vision_cost_usd_total": 0.594525,
+  "vision_cost_usd_this_run": 0.004017,
+  "vision_seconds": 79.41,
+  "embed_model": "text-embedding-3-large",
+  "dimensions": 3072,
+  "vectors_indexed": 1243,
+  "embed_tokens": 553976,
+  "embed_cost_usd": 0.072017,
+  "embed_seconds": 18.9,
+  "total_cost_usd": 0.666542,
+  "total_elapsed_seconds": 109.92,
+  "collection": "fpt_bctn_2025",
+  "qdrant_dir": "starter/data/advanced/qdrant_db"
+}

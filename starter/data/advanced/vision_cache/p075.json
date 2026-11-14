@@ -1,0 +1,15 @@
+{
+  "page": 75,
+  "page_title": "Tình hình thực hiện các dự án đầu tư và Hoạt động ESG",
+  "content_types": [
+    "text",
+    "table",
+    "image"
+  ],
+  "visual_summary": "Trang gồm 2 phần chính: bên trái là bảng số liệu về tình hình thực hiện các dự án đầu tư năm 2025 theo từng khối ngành (Công nghệ, Viễn thông, Giáo dục) với các cột: Kế hoạch 2025, Giải ngân 2025, So với kế hoạch (%). Phía dưới bảng là ảnh chụp trên cao của Tổ hợp giáo dục FPT tại Huế, thể hiện các tòa nhà và khuôn viên rộng lớn, có sân thể thao và khu vực cây xanh. Phía phải là đoạn văn bản chi tiết về hoạt động ESG của FPT trong năm 2025, trình bày các chiến lược, sáng kiến giảm phát thải khí nhà kính, trách nhiệm xã hội, quản trị minh bạch và các kết quả đạt được. Bố cục trang rõ ràng, có tiêu đề lớn cho từng phần, màu sắc chủ đạo là xanh dương và cam nhạt.",
+  "charts_and_tables": "Loại bảng: Bảng số liệu\nTiêu đề: Tình hình thực hiện các dự án đầu tư\nĐơn vị: Tỷ VNĐ\n\n| Khối       | Kế hoạch 2025 | Giải ngân 2025 | So với kế hoạch |\n|------------|---------------|----------------|-----------------|\n| Công nghệ  | 6.000         | 2.823          | 47,1%           |\n| Viễn thông | 2.500         | 1.751          | 70,0%           |\n| Giáo dục   | 2.500         | 749            | 30,0%           |",
+  "prompt_tokens": 4392,
+  "completion_tokens": 398,
+  "cost_usd": 0.002394,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "page": 111,
+  "page_title": "Dấu ấn nổi bật",
+  "content_types": [
+    "text",
+    "diagram"
+  ],
+  "visual_summary": "Trang trình bày 4 nhóm dấu ấn nổi bật của FPT gồm: Môi trường làm việc đẳng cấp, Hoạt động vì môi trường xanh, Trách nhiệm xã hội, Quản trị bền vững. Mỗi nhóm có biểu tượng minh họa riêng và các số liệu, tiêu đề chi tiết. Bố cục chia thành 4 cột thẳng hàng, mỗi cột có tiêu đề màu cam, số liệu lớn màu xanh dương, chú thích nhỏ bên dưới. Thanh menu bên trái đánh dấu mục 07 Báo cáo ESG. Các tiêu chuẩn ISO được liệt kê chi tiết ở cột Quản trị bền vững.",
+  "charts_and_tables": "[]",
+  "prompt_tokens": 4347,
+  "completion_tokens": 608,
+  "cost_usd": 0.002712,
+  "error": null
+}

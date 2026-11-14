@@ -1,0 +1,14 @@
+{
+  "page": 19,
+  "page_title": "Dấu ấn 2025",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có 3 ảnh chính: 1) Ảnh nhóm 6 người đàn ông trong trang phục công sở đang bắt tay và cầm tài liệu, phía sau có màn hình trình chiếu; 2) Ảnh sân khấu ngoài trời với nhiều người mặc đồng phục màu cam đứng trên sân khấu lớn có màn hình LED nền; 3) Ảnh 2 người đàn ông trao tặng một khung hình, phía sau có phông nền sự kiện với chữ 'Lễ công bố Tập đoàn FPT tài trợ dự án máy khử rung tim tự động (AED) hỗ trợ cộng đồng'.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4314,
+  "completion_tokens": 172,
+  "cost_usd": 0.002001,
+  "error": null
+}

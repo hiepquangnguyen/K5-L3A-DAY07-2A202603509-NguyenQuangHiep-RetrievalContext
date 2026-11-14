@@ -1,0 +1,14 @@
+{
+  "page": 146,
+  "page_title": "Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính",
+  "content_types": [
+    "text",
+    "table"
+  ],
+  "visual_summary": "Trang có logo FPT và tiêu đề lớn màu xanh dương ở đầu trang. Bên trái là mục lục phần Báo cáo ESG với các mục nhỏ. Nội dung chính gồm hai phần: Phạm vi và phương pháp thu thập dữ liệu (mô tả chi tiết các phạm vi phát thải khí nhà kính theo chuẩn quốc tế và cách thức kiểm kê) và Kết quả thực hiện kiểm kê khí nhà kính (báo cáo số liệu phát thải khí nhà kính năm 2023-2025). Có bảng tổng hợp lượng phát thải khí nhà kính của FPT theo 3 phạm vi và 3 năm, đơn vị tấn CO2 tương đương. Bảng có tiêu đề màu xanh dương, các dòng và cột rõ ràng, có chú thích đơn vị phía dưới. Văn bản giải thích chi tiết về nguồn phát thải chính, xu hướng giảm phát thải năm 2025 so với 2024 và chiến lược hướng tới Net Zero năm 2040.",
+  "charts_and_tables": "Loại bảng: Bảng số liệu phát thải khí nhà kính\nTiêu đề bảng: Tổng hợp lượng phát thải khí nhà kính của FPT năm 2025\nĐơn vị: tấn CO2 tương đương\n\n| Phạm vi  | Năm 2023 | Năm 2024 | Năm 2025 |\n|----------|----------|----------|----------|\n| Phạm vi 1| 13.217   | 4.826    | 4.383    |\n| Phạm vi 2| 109.696  | 138.748  | 123.569  |\n| Phạm vi 3| Chưa triển khai | Triển khai thí điểm tại FPT Software | Triển khai tại FPT Software |\n| **Tổng** | **122.913** | **143.574** | **127.952** |\n\nChú thích: Phạm vi 1 là phát thải trực tiếp từ các nguồn do FPT sở hữu hoặc kiểm soát (xăng dầu cho phương tiện, máy phát điện, chất lạnh hệ thống...). Phạm vi 2 là phát thải gián tiếp từ việc sử dụng điện, nước mua từ nhà cung cấp bên ngoài. Phạm vi 3 đang nghiên cứu, phát thải gián tiếp khác từ các hoạt động của Tập đoàn nhưng không sở hữu nguồn phát thải.",
+  "prompt_tokens": 4296,
+  "completion_tokens": 560,
+  "cost_usd": 0.002614,
+  "error": null
+}

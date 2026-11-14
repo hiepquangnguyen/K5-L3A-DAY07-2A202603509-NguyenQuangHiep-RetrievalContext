@@ -1,0 +1,14 @@
+{
+  "page": 51,
+  "page_title": "Làm chủ công nghệ chiến lược góp phần xây dựng chủ quyền số",
+  "content_types": [
+    "text",
+    "image"
+  ],
+  "visual_summary": "Trang có bố cục 2 cột chính. Cột trái là phần nội dung chính với tiêu đề lớn màu xanh dương 'Làm chủ công nghệ chiến lược góp phần xây dựng chủ quyền số' và đoạn văn bản chi tiết về bối cảnh địa chính trị, chủ quyền số, và chiến lược phát triển công nghệ của FPT. Cột phải gồm phần đầu trang là danh mục mục lục của báo cáo thường niên với các mục từ 01 đến 08, trong đó mục 04 'CHIẾN LƯỢC PHÁT TRIỂN' được tô màu xanh nhạt và đánh dấu màu cam. Phía trên bên phải có hình ảnh minh họa nền tảng AI của FPT với các tầng lớp AI Platform, AI Infrastructure, AI Studio, AI Inferencing, AI Agents, cùng các nhãn như 'AI Agent x Human Economy', 'Intelligence Out', 'Data In' và các thành phần phần cứng như GPU Cluster, NVIDIA, Google, Media HCI, High-Performance Storage. Hình ảnh thể hiện sơ đồ tầng lớp công nghệ AI phục vụ phát triển AI có chủ quyền của FPT.",
+  "charts_and_tables": "",
+  "prompt_tokens": 4296,
+  "completion_tokens": 289,
+  "cost_usd": 0.002181,
+  "error": null
+}
